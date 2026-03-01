@@ -411,21 +411,35 @@ body[data-md-color-scheme="slate"] .md-typeset .admonition.cover .cover-footer a
 
 
 /* ──────────────────────────────────────────────────────────────────────────
-   HEADING PERMALINKS: Kein Umbruch/„Leerzeile" unter langen H2
+   HEADING PERMALINKS: Kein Umbruch/„Leerzeile" unter langen H2/H3
    Desktop: Icon links als Marginalie (hover), Mobile: rechts überlagert
+   H1: Permalink ausgeblendet (unnötig)
    ────────────────────────────────────────────────────────────────────────── */
 
-.md-typeset h2 {
+/* H1: Permalink verstecken */
+.md-typeset h1 .headerlink,
+.md-typeset h1 a.headerlink {
+  display: none;
+}
+
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
   position: relative;
 }
 
 /* Desktop/Tablet (>= 768px): Icon links in den Rand */
 @media (min-width: 768px) {
   .md-typeset h2 .headerlink,
-  .md-typeset h2 a.headerlink {
+  .md-typeset h2 a.headerlink,
+  .md-typeset h3 .headerlink,
+  .md-typeset h3 a.headerlink,
+  .md-typeset h4 .headerlink,
+  .md-typeset h4 a.headerlink {
     position: absolute;
-    left: -1.2em;
-    top: 0.15em;
+    font-size: 0.75rem;
+    left: -1.45rem;
+    top: 0.45rem;
     line-height: 1;
     white-space: nowrap;
     opacity: 0;
@@ -433,22 +447,32 @@ body[data-md-color-scheme="slate"] .md-typeset .admonition.cover .cover-footer a
   }
 
   .md-typeset h2:hover .headerlink,
-  .md-typeset h2:hover a.headerlink {
+  .md-typeset h2:hover a.headerlink,
+  .md-typeset h3:hover .headerlink,
+  .md-typeset h3:hover a.headerlink,
+  .md-typeset h4:hover .headerlink,
+  .md-typeset h4:hover a.headerlink {
     opacity: 0.55;
   }
 }
 
 /* Mobile (< 768px): Icon rechts, tappbar, kein Umbruch */
 @media (max-width: 767px) {
-  .md-typeset h2 {
+  .md-typeset h2,
+  .md-typeset h3,
+  .md-typeset h4 {
     padding-right: 1.6em;
   }
 
   .md-typeset h2 .headerlink,
-  .md-typeset h2 a.headerlink {
+  .md-typeset h2 a.headerlink,
+  .md-typeset h3 .headerlink,
+  .md-typeset h3 a.headerlink,
+  .md-typeset h4 .headerlink,
+  .md-typeset h4 a.headerlink {
     position: absolute;
     right: 0;
-    top: 0.15em;
+    top: 0.4em;
     line-height: 1;
     white-space: nowrap;
     opacity: 0.45;
