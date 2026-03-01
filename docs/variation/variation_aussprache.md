@@ -447,7 +447,7 @@ Diese Vielfalt sollte im Unterricht hörbar werden – oben im Kapitel finden si
 
 ---
 
-!!! tip "Wir fassen noch einmal zusammen"
+!!! summary "Zusammenfassung"
     Plurizentrik ist die Basis – eine einzige „richtige“ Aussprache gibt es nicht. Spanisch wird in mehr als 20 Ländern gesprochen; regionale, soziale und situationsabhängige Varianten gehören zum Normalfall. Deshalb sollte Unterricht immer auch Haltung vermitteln: Variation anerkennen statt stigmatisieren.  
 
     Die wichtigsten Unterschiede:  

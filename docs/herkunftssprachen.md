@@ -273,7 +273,7 @@ Das Fehlen eines grammatischen Merkmals, wie z.B. der Artikel, bedeutet keinen M
 
 ---
 
-!!! tip "Wir fassen noch einmal zusammen"
+!!! summary "Zusammenfassung"
     Die häufigsten Herkunftssprachen in Deutschland sind vor allem Türkisch, Russisch, Arabisch und Polnisch; daneben spielen auch Italienisch, Kurdisch, BKS und Englisch eine Rolle. Herkunftssprachen wirken sich auf Aussprache, Grammatik, Wortschatz und Lernstrategien aus, wobei sie sowohl positive Transfers ermöglichen als auch Interferenzen hervorrufen können.
 
     Für die Aussprache ist der spanische Vibrant /r/ den meisten Herkunftssprachen vertraut, bereitet aber deutschsprachigen Lernenden Schwierigkeiten. In der Morphologie fehlen in manchen Sprachen Genus und Artikel (z.B. im Türkischen), was im Spanischen neu erworben werden muss. In der Syntax erleichtert das Nullsubjekt-Prinzip vielen Lernenden den Einstieg, während SOV-Sprachen anfangs Wortstellungsfehler begünstigen und Kasussprachen Präpositionen neu einüben müssen. In der Orthographie ist die Umstellung auf das lateinische Alphabet vor allem für arabische und kyrillische Schriftbenutzer eine Herausforderung.

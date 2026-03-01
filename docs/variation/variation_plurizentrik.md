@@ -168,7 +168,7 @@ Bewertung orientiert sich somit an Kohärenz und Kontextangemessenheit, nicht an
 
 ---
 
-!!! tip "Wir fassen noch einmal zusammen"
+!!! summary "Zusammenfassung"
     Spanisch ist eine plurizentrische Sprache mit mehreren gleichwertigen Standardvarietäten. Diese Vielfalt ist kein Problem, sondern die Grundlage für sprachliche Realität und Unterrichtspraxis. Standardsprachen dienen dabei als Orientierung, nicht als Hierarchie. Entscheidend ist, bewusst mit einer Arbeitsnorm zu arbeiten, sie offenzulegen und andere Varianten mitzudenken.
     Ziel ist eine *rezeptive Varietätenkompetenz*: Lernende sollen Unterschiede verstehen und einordnen können, ohne jede Variante aktiv zu beherrschen. Bewertungen sollten sich an Kohärenz und Kontext orientieren, nicht an einer einzigen „richtigen“ Form.
 

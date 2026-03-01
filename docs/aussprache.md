@@ -194,9 +194,7 @@ Im Spanischen gibt es dieselben Varianten, allerdings hängen sie dort nicht vom
 
 Ein reiner Anfängerfehler ist es bekanntlich, das im Spanischen geschriebene, aber immer ‚stumme' `<h>` auszusprechen. Wir greifen es im Kapitel zur [Orthographie](./orthographie.md) wieder auf.
 
----
-
-!!! tip "Wir fassen noch einmal zusammen"
+!!! summary "Zusammenfassung"
     Die spanischen Vokale sind eher unkompliziert: Nur bei den Diphthongen ist auf die Aussprache ohne Lauttrennung zu achten. Die zentralen Herausforderungen für Deutschsprachige betreffen die Konsonanten:  
       
     Einfaches <span class="meta">/ɾ/</span> (z.B. *pero*) und gerolltes <span class="meta">/r/</span> (z.B. *perro*) weisen nur im Wort eine Opposition auf; am Wortanfang und -ende sind es nur Varianten. Unter den ‚neuen‘ Lauten stellt nur der Interdentallaut <span class="meta">/θ/</span> (wie in *cinco* und vergleichbar mit engl. *th*) eine Herausforderung dar, palatale <span class="meta">/ɲ/</span> (`<ñ>` wie in *año*) sowie <span class="meta">/ʝ/</span> (graphisch durch  `<ll>` oder `<y>` abgebildet) eher weniger. Für fortgeschrittene Lernende ist die kontextabhängige Aussprache der Konsonanten <span class="meta">/b d g/</span> im Zusammenhang mit Vokalen als Approximanten <span class="meta">[β ð ɣ]</span> (nicht als Verschlusslaute wie im Deutschen) relevant. Dass `<h>` stumm bleibt, ist dagegen nur Anfängern zu erklären.  
@@ -209,9 +207,6 @@ Ein reiner Anfängerfehler ist es bekanntlich, das im Spanischen geschriebene, a
     Eine Vertiefung der Vermittlung der Aussprache des Spanischen als Fremdsprache mit konkreteren Tipps für die Umsetzung im Unterricht bieten Gil Fernández (2007), die Beiträge in Gil Fernández (Hg.) (2012) und nicht zuletzt Reimann (2016). Benet/Pesková (2017) zeigen deutlich, wie man eine zielsprachliche Aussprache vermitteln kann.
 
     Anschauungsmaterial für die Aussprache des Spanischen als Fremdsprache und den Kontrast zur zielsprachlichen Aussprache bietet das [MAR.ELE-Korpus](https://marele.online.uni-marburg.de) (Tacke 2023ff.). Dort wird die Möglichkeit geboten, die Aussprache einzelner Wörter, Sätze und eines ganzen Textes durch verschiedene Lernenden (L2/L3) anzuhören und mit der Zielaussprache von Modellsprecher:innen zu vergleichen. (Aus Datenschutzgründen wird ein Zugang benötigt, den man erhält, wenn man dort auf "solicitud" klickt.)
-
-
----
 
 ## Literatur
 
@@ -232,8 +227,6 @@ Ein reiner Anfängerfehler ist es bekanntlich, das im Spanischen geschriebene, a
 - Tacke, Felix (2023ff.): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg. Online: [https://marele.online.uni-marburg.de](https://marele.online.uni-marburg.de){:target="_blank" rel="noopener noreferrer"}
 
 </div>
-
----
 
 !!! cite "Dieses Kapitel zitieren"
     Merte, Marlon / Tacke, Felix (2025): „Aussprache". In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg.  

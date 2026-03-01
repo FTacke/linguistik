@@ -1075,3 +1075,49 @@ body[data-md-color-scheme="slate"] .md-typeset details.cite {
   mask-image: var(--md-typeset-check-icon);
   opacity: 1;
 }
+
+
+/* ──────────────────────────────────────────────────────────────────────────
+   SUMMARY: Zusammenfassungsabschnitt (section-like, kein Kasten-Look)
+   Variante: !!! summary "Zusammenfassung"
+   Kein Icon, transparenter Hintergrund, nur feiner Rahmen
+   ────────────────────────────────────────────────────────────────────────── */
+
+.md-typeset .admonition.summary,
+.md-typeset details.summary {
+  background: transparent;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  border-radius: 0.4rem;
+  padding: 1.1rem 1.2rem 1rem;
+  margin: 2.4rem 0 2.4rem;
+  box-shadow: none;
+}
+
+.md-typeset .admonition.summary > .admonition-title + *,
+.md-typeset details.summary > summary + * {
+  margin-top: 0;
+}
+
+body[data-md-color-scheme="slate"] .md-typeset .admonition.summary,
+body[data-md-color-scheme="slate"] .md-typeset details.summary {
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+.md-typeset .admonition.summary > .admonition-title,
+.md-typeset details.summary > summary {
+  background: transparent;
+  padding: 0;
+  margin: 0 0 0.5rem 0;
+  font-weight: 600;
+  border: 0;
+}
+
+/* Kein Icon */
+.md-typeset .summary > .admonition-title:before,
+.md-typeset .summary > summary:before {
+  display: none;
+}
+
+.md-typeset .admonition.summary > :not(.admonition-title) {
+  margin-left: 0;
+}

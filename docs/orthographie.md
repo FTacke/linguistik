@@ -187,7 +187,7 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten.
 
 ---
 
-!!! tip "Wir fassen noch einmal zusammen"
+!!! summary "Zusammenfassung"
     Die spanische Orthographie gilt als regelmäßig, doch einige Punkte verdienen besondere Aufmerksamkeit:  
 
     - Die Graphem-Phonem-Korrespondenzen sind weitgehend eindeutig. Nur wenige Ausnahmen wie `<b>` vs. `<v>` (beide <span class="meta">/b/</span>), stummes `<h>` oder die alternativen Grapheme für <span class="meta">/x/</span> (`<j>` und `<g>` vor *e, i*) müssen gelernt werden.  

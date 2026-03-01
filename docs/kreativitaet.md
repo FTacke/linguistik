@@ -291,7 +291,7 @@ Dabei gilt außerdem: Das DLE dokumentiert den Kern des allgemeinen Wortschatzes
 
 ---
 
-!!! tip "Wir fassen noch einmal zusammen"
+!!! summary "Zusammenfassung"
     Das Kapitel hat gezeigt, wie vielfältig Wortbildung im Spanischen funktioniert:
     
     * **Derivation** bildet neue Wörter durch Präfixe und Suffixe.  
