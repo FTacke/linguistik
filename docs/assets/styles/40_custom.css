@@ -518,31 +518,6 @@ audio::-webkit-media-controls-timeline {
 
 
 /* ──────────────────────────────────────────────────────────────────────────
-   META: Inline-Kennzeichnung von Sprache/Kategorie
-   Klasse: .meta (via <span class="meta">)
-   ────────────────────────────────────────────────────────────────────────── */
-
-:root {
-  --md-meta-bg-color: var(--md-code-bg-color);
-  --md-meta-fg-color: var(--md-code-fg-color);
-}
-
-.md-typeset .meta {
-  font: 500 0.95em var(--md-code-font-family, SFMono-Regular, Consolas, monospace);
-  color: var(--md-meta-fg-color);
-  padding: 0 .05em;
-  border-radius: .1rem;
-  white-space: nowrap;
-  vertical-align: baseline;
-}
-
-body[data-md-color-scheme="slate"] .md-typeset .meta {
-  background-color: rgb(39, 42, 53);
-  color: rgba(213, 216, 226, 0.82);
-}
-
-
-/* ──────────────────────────────────────────────────────────────────────────
    LITERATUR: Literaturabschnitte etwas kleiner
    ────────────────────────────────────────────────────────────────────────── */
 

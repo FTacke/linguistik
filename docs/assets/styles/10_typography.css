@@ -45,11 +45,34 @@
 }
 
 
+/* ─────────────────────────────────────────────────────
+   Linguistische Inline-Marker (Phonem, Graphem etc.)
+   ───────────────────────────────────────────────────── */
+
 .md-typeset code {
-  border-radius: .2rem;
-  background-color: color-mix(in srgb, var(--book-bg) 92%, var(--book-accent));
-  box-decoration-break: clone;
-  font-size: .85em;
-  padding: 0 .2941176471em;
-  word-break: break-word;
+  font-family: var(--book-font-ui);
+  font-size: 0.9em;
+  font-weight: 500;
+  line-height: 1;
+
+  padding: 0.08em 0.38em;
+  border-radius: 0.35em;
+
+  background: color-mix(in srgb, var(--book-bg) 94%, var(--book-accent));
+  color: var(--book-fg);
+
+  white-space: nowrap;
+}
+
+body[data-md-color-scheme="slate"] .md-typeset code {
+  background: color-mix(in srgb, var(--book-surface-1) 94%, var(--book-accent));
+}
+
+.md-typeset pre code {
+  font-family: var(--book-font-code);
+  font-size: 0.85em;
+  font-weight: normal;
+  background: none;
+  padding: 0;
+  white-space: pre;
 }
