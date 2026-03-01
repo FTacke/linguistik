@@ -411,6 +411,83 @@ body[data-md-color-scheme="slate"] .md-typeset .admonition.cover .cover-footer a
 
 
 /* ──────────────────────────────────────────────────────────────────────────
+   HEADING PERMALINKS: Kein Umbruch/„Leerzeile" unter langen H2
+   Desktop: Icon links als Marginalie (hover), Mobile: rechts überlagert
+   ────────────────────────────────────────────────────────────────────────── */
+
+.md-typeset h2 {
+  position: relative;
+}
+
+/* Desktop/Tablet (>= 768px): Icon links in den Rand */
+@media (min-width: 768px) {
+  .md-typeset h2 .headerlink,
+  .md-typeset h2 a.headerlink {
+    position: absolute;
+    left: -1.2em;
+    top: 0.15em;
+    line-height: 1;
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 120ms ease;
+  }
+
+  .md-typeset h2:hover .headerlink,
+  .md-typeset h2:hover a.headerlink {
+    opacity: 0.55;
+  }
+}
+
+/* Mobile (< 768px): Icon rechts, tappbar, kein Umbruch */
+@media (max-width: 767px) {
+  .md-typeset h2 {
+    padding-right: 1.6em;
+  }
+
+  .md-typeset h2 .headerlink,
+  .md-typeset h2 a.headerlink {
+    position: absolute;
+    right: 0;
+    top: 0.15em;
+    line-height: 1;
+    white-space: nowrap;
+    opacity: 0.45;
+  }
+}
+
+
+/* ──────────────────────────────────────────────────────────────────────────
+   BLOCKQUOTES – buchtypografisch, reduziert
+   Gilt nur für .md-typeset blockquote (normale Markdown->-Blöcke)
+   ────────────────────────────────────────────────────────────────────────── */
+
+/* [dir] hebt Spezifität auf (0,2,1) – gleich wie das Theme-Override
+   [dir="ltr"] .md-typeset blockquote, damit unsere Datei (später geladen) gewinnt */
+[dir] .md-typeset blockquote {
+  margin: 1.2em 0;
+  padding-left: 1.1em;
+
+  border-left: 3px solid color-mix(in srgb, var(--book-accent) 30%, transparent);
+  background: none;
+
+  font-size: 0.95em;
+  line-height: 1.7;
+
+  color: color-mix(in srgb, var(--book-fg) 85%, transparent);
+}
+
+[dir] .md-typeset blockquote p {
+  margin: 0 0 0.6em 0;
+}
+
+[dir] .md-typeset blockquote p:last-child {
+  margin-bottom: 0;
+  font-size: 0.9em;
+  opacity: 0.7;
+}
+
+
+/* ──────────────────────────────────────────────────────────────────────────
    EXPAND: Ausklappbare Vertiefungsbox (Kompass-Icon)
    Variante: ??? expand "…Titel…"
    Klassen: .admonition.expand, details.expand
@@ -450,65 +527,82 @@ body[data-md-color-scheme="slate"] .md-typeset details.expand {
 }
 
 
-/* ──────────────────────────────────────────────────────────────────────────
-   AUDIO: Klassen: .audio-comparison, .audio-block, .audio-source, .example
-   ────────────────────────────────────────────────────────────────────────── */
+/* ─────────────────────────────────────────────────────────────
+   HOERMAL – Audio comparison layout (stable, book-ish)
+   Scope: only inside .admonition.hoermal / details.hoermal
+   ───────────────────────────────────────────────────────────── */
 
-/* Phonetisches Beispiel im Fließtext */
-.example {
-  display: block;
-  text-align: center;
-  margin-bottom: 0.4rem;
-  padding: 0.5em;
-  background: #f7f7f7;
-  border-radius: 0.3em;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+.md-typeset .admonition.hoermal .audio-comparison,
+.md-typeset details.hoermal .audio-comparison {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.1rem 1.4rem;
+  margin-top: 0.9rem;
 }
 
-body[data-md-color-scheme="slate"] .example {
-  background: #4a4a4a;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
-}
-
-/* Audio-Vergleich: zwei Audio-Blöcke nebeneinander */
-.audio-comparison {
-  display: flex;
-  gap: 0.8rem;
-  flex-wrap: wrap;
-  font-size: .64rem;
-}
-
-.audio-block {
-  flex: 1 1 10px;
-  min-width: 280px;
-  margin-bottom: 1.2rem;
-  text-align: center;
-}
-
-.audio-block audio {
-  display: inline-block;
-  margin-top: 0.5em;
-}
-
-@media (max-width: 600px) {
-  .audio-comparison {
-    flex-direction: column;
+/* Tablet+: 2 columns */
+@media (min-width: 720px) {
+  .md-typeset .admonition.hoermal .audio-comparison,
+  .md-typeset details.hoermal .audio-comparison {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
-/* Quellenangabe unter einem Audio-Block */
-.audio-source {
-  font-size: 0.9em;
-  font-weight: 400;
-  text-align: right;
-  color: var(--md-meta-fg-color, var(--book-muted, #5a5855));
-  margin-top: 0.8em;
-  margin-right: 0.6em;
-  font-style: normal;
+.md-typeset .admonition.hoermal .audio-block,
+.md-typeset details.hoermal .audio-block {
+  text-align: left;
+  min-width: 0; /* critical in CSS grid */
 }
 
-body[data-md-color-scheme="slate"] .audio-source {
-  color: rgba(213, 216, 226, 0.82);
+/* hoermal-specific h4 (does NOT touch global h4) */
+.md-typeset .admonition.hoermal .audio-block h4,
+.md-typeset details.hoermal .audio-block h4 {
+  font-family: var(--book-font-ui);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin: 0 0 0.35rem 0;
+  font-size: 0.95em;
+}
+
+/* Example line: calm + readable */
+.md-typeset .admonition.hoermal .example,
+.md-typeset details.hoermal .example {
+  display: block;
+  font-family: var(--book-font-body);
+  font-size: 0.92em;
+  line-height: 1.5;
+  opacity: 0.9;
+  margin: 0 0 0.55rem 0;
+
+  background: color-mix(in srgb, var(--book-bg) 92%, var(--book-border));
+  border: 1px solid color-mix(in srgb, var(--book-border) 70%, transparent);
+  border-radius: 0.35rem;
+  padding: 0.45rem 0.6rem;
+}
+
+/* Dark mode: keep the same subtlety */
+body[data-md-color-scheme="slate"] .md-typeset .admonition.hoermal .example,
+body[data-md-color-scheme="slate"] .md-typeset details.hoermal .example {
+  background: color-mix(in srgb, var(--book-surface-1) 88%, var(--book-border));
+  border-color: color-mix(in srgb, rgba(255,255,255,0.14) 70%, transparent);
+}
+
+/* Audio controls aligned */
+.md-typeset .admonition.hoermal .audio-block audio,
+.md-typeset details.hoermal .audio-block audio {
+  display: block;
+  width: 100%;
+  margin: 0;
+}
+
+/* Source line bottom-right */
+.md-typeset .admonition.hoermal .audio-source,
+.md-typeset details.hoermal .audio-source {
+  margin-top: 0.9rem;
+  font-size: 0.85em;
+  opacity: 0.7;
+  text-align: right;
+  font-style: normal;
 }
 
 /* Audio-Player-Timeline-Fix (WebKit) */

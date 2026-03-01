@@ -18,28 +18,66 @@ body {
 }
 
 /* --------------------------------------------------------------------------
-   Content max-width – digital publication look (~800px readable line length)
-   Article-Block zentriert innerhalb Content-Spalte; Grid/Header untouched.
+   Content layout
+   - Mobile: Material-Defaults respektieren (kein Quetschen)
+   - Tablet/Desktop: kontrollierter Abstand zur Navigation
    -------------------------------------------------------------------------- */
 
-/* Ensure content column takes full grid width */
+/* .md-content NICHT manipulieren – Grid in Ruhe lassen */
 .md-content {
-  width: 100%;
-  margin: 0 .8rem 1.2rem;
+  margin: 0;
 }
 
-/* Constrain and center the article */
-article.md-content__inner.md-typeset {
-  max-width:      800px;
-  margin-inline:  auto;
-  display:        block;
+/* ─────────────────────────────────────────────────────────
+   Mobile (Default)
+   → Material-Theme-Padding beibehalten
+   ───────────────────────────────────────────────────────── */
+
+@media (max-width: 767px) {
+  .md-content__inner {
+    padding-left: revert;
+    padding-right: revert;
+  }
 }
 
-/* Desktop+ */
+/* ─────────────────────────────────────────────────────────
+   Tablet
+   ───────────────────────────────────────────────────────── */
+
 @media (min-width: 768px) {
-  .md-content article.md-typeset {
-    max-width: 68ch;      /* 68–75ch ist meist gut */
-    margin-inline: auto;  /* zentrieren innerhalb md-content */
+  .md-content__inner {
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
+  }
+}
+
+/* ─────────────────────────────────────────────────────────
+   Large Desktop – „buchiger“ Abstand
+   ───────────────────────────────────────────────────────── */
+
+@media (min-width: 1200px) {
+  .md-content__inner {
+    padding-left: 2.2rem;
+    padding-right: 2.0rem;
+  }
+}
+
+/* Satzspiegel robust (deckt beide DOM-Varianten ab) */
+:where(
+  article.md-content__inner.md-typeset,          /* Variante A */
+  .md-content__inner > article.md-typeset        /* Variante B */
+) {
+  max-width: 80ch;
+  margin-inline: auto;
+}
+
+/* Mobile: volle Breite innerhalb der Padding-Logik */
+@media (max-width: 767px) {
+  :where(
+    article.md-content__inner.md-typeset,
+    .md-content__inner > article.md-typeset
+  ) {
+    max-width: 100%;
   }
 }
 

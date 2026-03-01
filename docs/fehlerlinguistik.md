@@ -32,7 +32,9 @@ Im Fremdsprachenunterricht steht – anders als in vielen anderen Schulfächern 
 
 Die hier skizzierte Fehlerlinguistik lädt dazu ein, die Perspektive auf sprachliche Fehler grundlegend zu verändern: Weg von der Vorstellung, sie seien bloße Abweichungen von einer als absolut gesetzten Norm – hin zu einem Verständnis, das Fehler als wertvolle Hinweise auf Lernprozesse und sprachliche Kompetenz begreift. Rolf Kreyer hat diesen Perspektivwechsel in seinem *Toolkit* überzeugend herausgearbeitet – und wir teilen diese Sichtweise ausdrücklich. Für den Erwerb des Spanischen gilt also genauso wie für den Englischunterricht, dass
 
-> „errors can be very helpful in telling you what your students do not yet know, and, and this may come as a bit of a surprise, often they can tell you what your students do already know“ (Kreyer 2023, 18)
+> „errors can be very helpful in telling you what your students do not yet know, and, and this may come as a bit of a surprise, often they can tell you what your students do already know”
+>
+> (Kreyer 2023, 18)
 
 Was im Unterricht allzu schnell als immer noch falsch abgestempelt wird, kann aus linguistischer Sicht ein produktives Zwischenergebnis sein – ein wichtiges Indiz dafür, was die Lernenden schon beherrschen, d.h. wie die **Lernendensprache** gerade aussieht. Auch in unserem Kapitel verstehen wir Fehler nicht als Störungen, sondern als analytisch aufschlussreiche Phänomene, die tiefere Einblicke in den individuellen Stand sprachlicher Kompetenz ermöglichen.
 

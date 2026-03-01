@@ -73,7 +73,7 @@
   font-weight: 500;
   line-height: 1.35;
   color: var(--book-fg-muted);
-  opacity: 0.7;
+  opacity: 0.55;
 }
 
 /* Desktop: 2 Spalten – Peer links (wrap), Datum rechts (nowrap) */
@@ -162,55 +162,6 @@ body[data-md-color-scheme="slate"] .md-typeset details.hoermal {
   color: var(--book-fg);
   font-weight: 500;
   margin-bottom: 0.5rem;
-}
-
-.md-typeset .admonition.hoermal .audio-comparison,
-.md-typeset details.hoermal .audio-comparison {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1rem;
-  margin-top: 0.75rem;
-}
-
-@media (min-width: 720px) {
-  .md-typeset .admonition.hoermal .audio-comparison,
-  .md-typeset details.hoermal .audio-comparison {
-    grid-template-columns: 1fr 1fr;
-    gap: 1.25rem;
-  }
-}
-
-.md-typeset .admonition.hoermal .audio-block,
-.md-typeset details.hoermal .audio-block {
-  text-align: left;
-}
-
-.md-typeset .admonition.hoermal .audio-block h4,
-.md-typeset details.hoermal .audio-block h4 {
-  margin: 0 0 0.35rem 0;
-  font-size: 0.95em;
-}
-
-.md-typeset .admonition.hoermal .example,
-.md-typeset details.hoermal .example {
-  display: inline-block;
-  font-family: var(--book-font-ui);
-  opacity: 0.85;
-  margin-left: 0.35rem;
-  white-space: nowrap;
-  background: none;
-  box-shadow: none;
-  padding: 0;
-  text-align: left;
-}
-
-.md-typeset .admonition.hoermal .audio-source,
-.md-typeset details.hoermal .audio-source {
-  margin-top: 0.75rem;
-  font-size: 0.85em;
-  opacity: 0.7;
-  text-align: right;
-  font-style: normal;
 }
 
 /* hoermal-spezifisches Icon und Styling */

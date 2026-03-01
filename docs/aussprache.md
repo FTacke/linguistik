@@ -48,7 +48,7 @@ Die Vokale `/a e i o u/`, ebenfalls fünf an der Zahl, sind in beiden Sprachen f
     </div>
     </div>
 
-    <div class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></div>
+    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></p>
 
 
 Sobald man (fortgeschrittene) Lernende also für diese Details sensibilisiert hat, ist zielsprachliche Kompetenz leicht erreicht. Etwas größere Herausforderungen liegen dagegen im Bereich der Konsonanten. Auf die wichtigsten Aussprachehürden auf dem Weg zu einer nahezu zielsprachlichen Kompetenz gehen wir kurz ein.
@@ -79,7 +79,7 @@ Es ist wohl allgemein bekannt, dass sowohl das Deutsche als auch das Spanische �
     </audio>
     </div>
     </div>
-    <div class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></div>
+    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></p>
 
 
 Im Spanischen werden die R-Laute dagegen immer vorne am Zahndamm durch Zungenschlag bzw. -vibration gebildet. Je nachdem, woher die Schüler:innen aus dem deutschsprachigen Raum kommen oder mit welcher Herkunftssprache sie aufgewachsen sind, fällt es den Lernenden also leichter oder schwerer die spanischen R-Laute zu artikulieren (vgl. [Herkunftssprachen](./herkunftssprachen.md)). Wenn man das ‚gerollte' R also als Herausforderung bezeichnet, dann gilt das in erster Linie im Vergleich zur standarddeutschen Aussprache. Unabhängig davon ist zu beachten, dass das Spanische zwei ‚gerollte' R-Laute besitzt – ein einfaches `/ɾ/` und ein mehrfach vibrierendes `/r/` – die in bestimmten lautlichen Kontexten bedeutungsunterscheidend sind und somit den Status eigenständiger Phoneme haben. Der Kontrast wird besonders deutlich in (Minimal-)Paaren wie *pero* `[ˈpeɾo]` und *perro* `[ˈpero]` oder *caro* `[ˈkaɾo]` und *carro* `[ˈkaro]`. Dieser Unterschied ist allerdings nur innerhalb von Wörtern relevant, in allen anderen Positionen gibt es nur Präferenzen für bestimmte Varianten: Zielsprachlich normal – und mit fortgeschrittenen Schüler:innen einzuüben – ist das mehrfache Vibrieren am Wortanfang, während am Wortende einfaches Anschlagen der Zungenspitze üblich ist (Erstsprachler:innen vibrieren nur in besonders emphatischer Rede mehrfach). Die Orthographie spiegelt also nur den relevanten Unterschied im Wort wider und unterschlägt die übrigen Feinheiten (vgl. [Orthographie](./orthographie.md)).
@@ -167,7 +167,7 @@ Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen m
     </div>
     </div>
 
-    <div class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></div>
+    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></p>
 
   
 Die ‚Kontextregeln‘ hinter dieser zielsprachlichen Aussprache der stimmhaften Plosive `/b/`, `/d/` und `/g/` ist, dass diese nur am Wortanfang und nach einem Nasallaut (also `/m/` oder `/n/`) wie im Deutschen realisiert werden. In allen anderen Positionen werden sie stattdessen als stimmhafte Approximanten `[β ð ɣ]` artikuliert. Der Unterschied zu `[b d g]` liegt nur darin, dass hier kein vollständiger Verschluss beim Artikulieren gebildet wird, sondern man nur *annähert* (daher die Bezeichnung *Approximanten*), sodass fast Reibelaute (*Frikative*) entstehen. Die Artikulation wirkt daher etwas ‚weicher‘ und nicht so ‚explosiv‘ wie bei den Verschlusslauten (oder *Plosiven*).  

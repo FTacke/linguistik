@@ -73,12 +73,11 @@ Und auch hier liegen Chancen, denn diese Kombinatorik erklärt wiederum die Alte
 Das vielleicht größte ‚Problem‘ der spanischen Orthographie liegt darin, dass dem Laut `/b/` zwei Buchstaben, nämlich `<b>` und `<v>`, entsprechen. Umgekehrt gilt im Spanischen, dass beide Buchstaben exakt denselben Lautwert aufweisen und in der Aussprache keinerlei Unterschied gemacht werden sollte. Das ist gewöhnungsbedürftig, denn der Buchstabe `<v>` weist nicht nur im Deutschen, sondern auch in sämtlichen anderen bekannten Fremdsprachen einen eigenen Lautwert auf (meist `/v/`, manchmal auch `/f/` wie in ***V**ater*).  
 
 ??? hoermal "Hör mal (Aussprache von &lt;v&gt;)"
-    Anhand der folgenden Audios hörst Du, dass ein spanischer Modellsprecher die Wörter <i><b>b</b>arón</i> und <i><b>v</b>arón</i> genau gleich ausspricht, weil sie im Spanischen trotz der unterschiedlichen Schreibung <i><b>homophon</b></i> sind. Lernende neigen hingegen dazu, das <code>&lt;v&gt;</code> wie im Deutschen und anderen Sprachen auszusprechen, was im Spanischen als Aussprachefehler gilt (das Sternchen kennzeichnet den eindeutigen Fehler).
+    Anhand der folgenden Audios hörst Du, dass ein spanischer Modellsprecher die Wörter <i><strong>b</strong>arón</i> und <i><strong>v</strong>arón</i> genau gleich ausspricht, weil sie im Spanischen trotz der unterschiedlichen Schreibung <i><strong>homophon</strong></i> sind. Lernende neigen hingegen dazu, das <code>&lt;v&gt;</code> wie im Deutschen und anderen Sprachen auszusprechen, was im Spanischen als Aussprachefehler gilt (das Sternchen kennzeichnet den eindeutigen Fehler).
 
     <div class="audio-comparison">
-
     <div class="audio-block">
-    <h4>Zielaussprache:</h4> <span class="example"><i><b>b</b>arón</i> [baˈɾon] – <i><b>v</b>arón</i> [baˈɾon]</span>
+    <h4>Zielaussprache:</h4> <span class="example"><i><strong>b</strong>arón</i> [baˈɾon] – <i><strong>v</strong>arón</i> [baˈɾon]</span>
     <audio controls preload="metadata">
     <source src="/assets/audiofiles/marele/baron_varon_l1.mp3" type="audio/mpeg">
     <source src="/assets/audiofiles/marele/baron_varon_l1.m4a" type="audio/mp4">
@@ -86,7 +85,7 @@ Das vielleicht größte ‚Problem‘ der spanischen Orthographie liegt darin, d
     </audio>
     </div>
     <div class="audio-block">
-    <h4>Lernendenaussprache:</h4> <span class="example"><i><b>b</b>arón</i> [baˈʁon] – <i><b>v</b>arón</i> *[vaˈʁon]</span>
+    <h4>Lernendenaussprache:</h4> <span class="example"><i><strong>b</strong>arón</i> [baˈʁon] – <i><strong>v</strong>arón</i> *[vaˈʁon]</span>
     <audio controls preload="metadata">
     <source src="/assets/audiofiles/marele/baron_varon_ele.mp3" type="audio/mpeg">
     <source src="/assets/audiofiles/marele/baron_varon_ele.m4a" type="audio/mp4">
@@ -95,7 +94,7 @@ Das vielleicht größte ‚Problem‘ der spanischen Orthographie liegt darin, d
     </div>
     </div>
 
-    <div class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></div>
+    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></p>
 
 
 Die Schwierigkeit liegt darin, dass sich Lernende von der Idee lösen müssen, dass eine Unterscheidung in der Schrift immer auch eine Unterscheidung in der Aussprache widerspiegelt. 
