@@ -986,3 +986,92 @@ body[data-md-color-scheme="slate"] .md-content a.map-button {
   transform: scale(0.7);
   transform-origin: bottom right;
 }
+
+
+/* ──────────────────────────────────────────────────────────────────────────
+   CITE: Zitationskasten (Kapitel / Buch)
+   Variante: !!! cite "Dieses Kapitel zitieren" / !!! cite "Dieses Buch zitieren"
+   Klassen: .admonition.cite  (details.cite für künftige ??? cite-Variante)
+   Design: buchig, papierfarben, kein Akzentstreifen links
+   ────────────────────────────────────────────────────────────────────────── */
+
+/* Basis-Container: kein border-left-Akzent, einheitlicher Rahmen */
+.md-typeset .admonition.cite,
+.md-typeset details.cite {
+  background: color-mix(in srgb, white 94%, var(--book-adm-cite));
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  border-radius: 0.4rem;
+  box-shadow: none;
+}
+
+body[data-md-color-scheme="slate"] .md-typeset .admonition.cite,
+body[data-md-color-scheme="slate"] .md-typeset details.cite {
+  background: color-mix(in srgb, var(--book-surface-1) 86%, var(--book-adm-cite));
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+/* Icon: Anführungszeichen via mask-image */
+.md-typeset .admonition.cite {
+  --md-admonition-icon: var(--md-typeset-cite-icon);
+}
+
+.md-typeset .admonition.cite > .admonition-title,
+.md-typeset details.cite > summary {
+  color: var(--book-fg);
+  font-weight: 500;
+  position: relative;
+  padding-right: 2.4rem;
+}
+
+.md-typeset .cite > .admonition-title:before,
+.md-typeset .cite > summary:before {
+  -webkit-mask-image: var(--md-typeset-cite-icon);
+  mask-image: var(--md-typeset-cite-icon);
+  background-color: color-mix(in srgb, var(--book-fg) 60%, var(--book-adm-cite));
+}
+
+/* Copy-Button: oben rechts im Title */
+.cite-copy-btn {
+  position: absolute;
+  right: 0.4rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 1.5rem;
+  height: 1.5rem;
+  padding: 0;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  opacity: 0.65;
+  transition: opacity 0.15s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cite-copy-btn:hover {
+  opacity: 1;
+}
+
+.cite-copy-btn::before {
+  content: '';
+  display: block;
+  width: 1rem;
+  height: 1rem;
+  background-color: var(--book-fg);
+  -webkit-mask-image: var(--md-typeset-copy-icon);
+  mask-image: var(--md-typeset-copy-icon);
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+}
+
+/* Visuelles Feedback: Icon-Wechsel auf Check beim Kopieren */
+.cite-copy-btn.is-copied::before {
+  -webkit-mask-image: var(--md-typeset-check-icon);
+  mask-image: var(--md-typeset-check-icon);
+  opacity: 1;
+}

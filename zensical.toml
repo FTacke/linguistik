@@ -92,6 +92,7 @@ extra_javascript = [
   "assets/javascripts/map.js",
   "assets/javascripts/map_countries.js",
   "assets/javascripts/map_variation_tempora.js",
+  "assets/javascripts/cite-copy.js",
 ]
 
 # ----------------------------------------------------------------------------

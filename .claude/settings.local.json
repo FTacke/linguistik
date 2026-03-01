@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \":*)",
+      "Bash(python -c \"print\\(''ok''\\)\")",
+      "Bash(py -c \"print\\(''ok''\\)\")",
+      "Bash(python -c \":*)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Felix Tacke\\.claude\\projects\\c--dev-school"
+    ]
+  }
+}

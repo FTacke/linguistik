@@ -63,6 +63,7 @@ body[data-md-color-scheme="default"] {
   --book-adm-details:   #4e95d9;
   --book-adm-hoermal:   #4f6b88;
   --book-adm-expand:    #d9d4c8;
+  --book-adm-cite:      #e6eaeb;
 
   /* Material/Zensical accent mapping – keep UI consistent with book palette */
   --md-accent-fg-color: var(--book-accent);
@@ -101,7 +102,8 @@ body[data-md-color-scheme="slate"] {
   --book-adm-danger:    #c45050;
   --book-adm-details:   #7ab0e8;
   --book-adm-hoermal:   #82a4c7;
-  --book-adm-expand:    #3a3832;;
+  --book-adm-expand:    #3a3832;
+  --book-adm-cite:      #706e6c;
 
   /* Material/Zensical accent mapping – keep UI consistent with book palette */
   --md-accent-fg-color: var(--book-accent);
