@@ -9,26 +9,21 @@
 .venv\Scripts\Activate.ps1
 ```
 
-Falls erforderlich, müssen zunächst die Dependencies installiert werden:
-```powershell
-pip install -r requirements.txt
-```
-
 ## Lokale Entwicklung starten
 
 ### Variante 1: Dev-Server (empfohlen)
 ```powershell
-zensical serve
+.venv\Scripts\zensical serve
 ```
 
-Dies started einen lokalen Webserver mit Hot-Reload. Die Site ist dann verfügbar unter:
+Dies startet einen lokalen Webserver mit Hot-Reload. Die Site ist dann verfügbar unter:
 ```
 http://localhost:8000
 ```
 
 ### Variante 2: Nur Bauen (ohne Server)
 ```powershell
-zensical build
+.venv\Scripts\zensical build
 ```
 
 Das gebaut Material landet im `site/` Verzeichnis.
@@ -48,10 +43,10 @@ Das gebaut Material landet im `site/` Verzeichnis.
 
 ```powershell
 # Help anzeigen
-zensical --help
+.venv\Scripts\zensical --help
 
 # Spezifische Ports oder Optionen
-zensical serve --port 8080
+.venv\Scripts\zensical serve --port 8080
 ```
 
 ## Hinweise
