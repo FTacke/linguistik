@@ -27,7 +27,6 @@
   --cover-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
 }
 
-/* Cover-Container: Basis-Styling (entfernt Admonition-Standard-Icon + -Title) */
 .md-typeset .admonition.cover {
   max-width: 520px;
   width: 100%;
@@ -36,23 +35,34 @@
   border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: clamp(12px, 2vw, 22px);
   box-shadow: 0 16px 50px rgba(0, 0, 0, 0.32);
-  padding: clamp(22px, 3vw, 16px) clamp(18px, 2.6vw, 42px);
-  
-  /* 3-Zonen-Layout: header, main, footer */
+
+  padding:
+    clamp(26px, 3vw, 36px)   /* top */
+    clamp(26px, 3vw, 48px)   /* right */
+    clamp(22px, 2.4vw, 30px) /* bottom */
+    clamp(26px, 3vw, 48px);  /* left */
+
   display: flex;
   flex-direction: column;
   gap: var(--cover-gap-md);
-  
+
   font-family: var(--cover-font-family);
   color: #EAF1F8;
 
-  margin-bottom: 4rem
+  margin-bottom: 4rem;
 }
 
-/* Hochkantiges Buchcover-Verhältnis ab Tablet/Desktop */
 @media (min-width: 768px) {
   .md-typeset .admonition.cover {
-    min-height: calc(min(580px, 100vw - 40px) * 1.15);
+    aspect-ratio: 3 / 4;
+    height: auto;
+    min-height: unset;
+  }
+}
+
+@media (max-width: 767px) {
+  .md-typeset .admonition.cover {
+    max-width: clamp(320px, 86vw, 440px);
   }
 }
 
@@ -529,9 +539,9 @@ body[data-md-color-scheme="slate"] .md-typeset details.hoermal .example {
   font-style: normal;
 }
 
-/* Audio-Player-Timeline-Fix (WebKit) */
+/* Audio-Player-Timeline-Fix (WebKit): flex:1 makes the timeline fill available space */
 audio::-webkit-media-controls-timeline {
-  display: 1;
+  flex: 1;
 }
 
 
@@ -1243,4 +1253,131 @@ body[data-md-color-scheme="slate"] .md-typeset details.regel {
 
 .md-typeset .literatur li:last-child {
   margin-bottom: 0;
+}
+/* ──────────────────────────────────────────────────────────────────────────
+   COVER Stage (index): Sticky läuft in begrenztem Abschnitt, ohne Content-Gap
+   Die Stage wird dynamisch per JS eingesetzt (kein Wrapper in index.md nötig)
+   ────────────────────────────────────────────────────────────────────────── */
+
+
+
+body.has-cover-scroll .md-typeset .cover-stage {
+  --cover-stage-scroll: 22vh;
+  /* wird per JS gesetzt; Fallback, falls JS noch nicht gelaufen ist */
+  --cover-stage-coverh: 620px;
+
+  position: relative;
+
+  /*
+    Trick:
+    - height gibt der Stage extra Platz, damit sticky “Zeit” hat.
+    - margin-bottom zieht den Extra-Platz wieder ab → kein Gap im Layout.
+    - ABER: nicht 100vh verwenden, sonst ist Vorwort immer weit weg.
+    - Daher: Cover-Höhe + Scroll-Strecke.
+  */
+  height: calc(var(--cover-stage-coverh) + var(--cover-stage-scroll));
+  margin-bottom: calc(-1 * var(--cover-stage-scroll));
+}
+
+body.has-cover-scroll .md-typeset .cover-stage .admonition.cover {
+  position: sticky;
+  top: 88px;
+  z-index: 0;
+
+  opacity: var(--cover-opacity, 1);
+  transform: none;
+  transition: none;
+  will-change: opacity;
+}
+
+/* Content nach der Stage liegt über dem Cover */
+body.has-cover-scroll .md-typeset .cover-stage ~ * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Overlap: erstes Element nach der Stage zieht hoch */
+body.has-cover-scroll .md-typeset .cover-stage + * {
+  margin-top: -240px;
+  padding-top: 240px;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  body.has-cover-scroll .md-typeset .cover-stage {
+    --cover-stage-scroll: 22vh;
+    --cover-stage-coverh: 520px;
+    height: calc(var(--cover-stage-coverh) + var(--cover-stage-scroll));
+    margin-bottom: calc(-1 * var(--cover-stage-scroll));
+  }
+
+  body.has-cover-scroll .md-typeset .cover-stage .admonition.cover {
+    top: 72px;
+  }
+
+  body.has-cover-scroll .md-typeset .cover-stage + * {
+    margin-top: -160px;
+    padding-top: 160px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body.has-cover-scroll .md-typeset .cover-stage .admonition.cover {
+    transform: none !important;
+    opacity: 1 !important;
+    transition: none !important;
+  }
+}
+
+
+/* ──────────────────────────────────────────────────────────────────────────
+   COVER Scroll-Fade (CSS-only, progressive enhancement)
+   Fallback: normales Cover (kein sticky, keine Animation)
+   Aktiv nur wenn Scroll-Timeline unterstützt wird
+   ────────────────────────────────────────────────────────────────────────── */
+
+@supports (animation-timeline: scroll()) {
+
+  /* Nur wenn Cover direkt vor dem ersten H1 steht (Startseite-Pattern) */
+  .md-typeset .admonition.cover + h1 {
+    position: relative;
+    z-index: 1;
+    margin-top: -100px;
+    padding-top: 100px;
+  }
+
+  .md-typeset .admonition.cover {
+    position: sticky;
+    top: -350px;
+    z-index: 0;
+    will-change: opacity, transform;
+
+    animation: coverFade 1s linear both;
+    animation-timeline: scroll();
+    /* Fade früh, damit Nutzer "da geht's weiter" merkt */
+    animation-range: 0% 30%;
+  }
+
+  @keyframes coverFade {
+    from { opacity: 1; transform: translateY(0); }
+    to   { opacity: 0; transform: translateY(-12px); }
+  }
+
+  @media (max-width: 767px) {
+    .md-typeset .admonition.cover { top: 72px; }
+    .md-typeset .admonition.cover + h1 { margin-top: -140px; padding-top: 140px; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .md-typeset .admonition.cover {
+      animation: none !important;
+      opacity: 1 !important;
+      transform: none !important;
+      position: static !important;
+    }
+    .md-typeset .admonition.cover + h1 {
+      margin-top: 0 !important;
+      padding-top: 0 !important;
+    }
+  }
 }

@@ -3,7 +3,7 @@
         <h1>Spanische Linguistik @ <span class="cover-title-accent">School</span></h1>
     </div>
     
-    <div class="cover-subtitle">Ein digitales Lehrbuch für Spanischlehrkräfte</div>
+    <div class="cover-subtitle">Ein digitales Lehrbuch für<br>Spanischlehrkräfte</div>
     
     <div class="cover-coordination">
         <div class="cover-label">Koordination</div>
