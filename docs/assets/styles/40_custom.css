@@ -437,7 +437,7 @@ body[data-md-color-scheme="slate"] .md-typeset .admonition.cover .cover-footer a
   .md-typeset h4 .headerlink,
   .md-typeset h4 a.headerlink {
     position: absolute;
-    font-size: 0.75rem;
+    font-size: 0.75em;
     left: -1.45rem;
     top: 0.45rem;
     line-height: 1;
