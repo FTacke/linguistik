@@ -10,7 +10,7 @@ created: "XX.XX.2025"
 last_modified: "25.07.2025"
 ---
 
-# 5.2 Aussprachevariation
+# 5.2 Aussprache&shy;variation
 
 ## Welche Aussprache(n) im Unterricht?
 

@@ -10,7 +10,7 @@ created: "XX.XX.2025"
 last_modified: "30.09.2025"
 ---
 
-# 7 Herkunftssprachen
+# 7 Herkunfts&shy;sprachen
 
 ## Vom Türkischen bis zum Polnischen: Wie Sprachenvielfalt den Spanischunterricht bereichert
 
