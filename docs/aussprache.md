@@ -33,16 +33,16 @@ Die Vokale `/a e i o u/`, ebenfalls fünf an der Zahl, sind in beiden Sprachen f
     <div class="audio-block">
     <h4>Zielaussprache:</h4> <span class="example">[o.ˈai]</span>
     <audio controls preload="metadata">
-    <source src="/assets/audiofiles/marele/glottis_l1.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/glottis_l1.m4a" type="audio/mp4">
+    <source src="../assets/audiofiles/marele/glottis_l1.mp3" type="audio/mpeg">
+    <source src="../assets/audiofiles/marele/glottis_l1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
     <div class="audio-block">
     <h4>Lernendenaussprache:</h4> <span class="example">[ʔo.ʔai]</span>
     <audio controls preload="metadata">
-    <source src="/assets/audiofiles/marele/glottis_ele.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/glottis_ele.m4a" type="audio/mp4">
+    <source src="../assets/audiofiles/marele/glottis_ele.mp3" type="audio/mpeg">
+    <source src="../assets/audiofiles/marele/glottis_ele.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -65,16 +65,16 @@ Es ist wohl allgemein bekannt, dass sowohl das Deutsche als auch das Spanische �
     <div class="audio-block">
     <h4>Zielaussprache:</h4> <span class="example">[re.ˈiɾ]</span>
     <audio controls preload="metadata">
-    <source src="/assets/audiofiles/marele/r_l1.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/r_l1.m4a" type="audio/mp4">
+    <source src="../assets/audiofiles/marele/r_l1.mp3" type="audio/mpeg">
+    <source src="../assets/audiofiles/marele/r_l1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
     <div class="audio-block">
     <h4>Lernendenaussprache:</h4> <span class="example">[ʁe.ˈɪɐ]</span>
     <audio controls preload="metadata">
-    <source src="/assets/audiofiles/marele/r_ele.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/r_ele.m4a" type="audio/mp4">
+    <source src="../assets/audiofiles/marele/r_ele.mp3" type="audio/mpeg">
+    <source src="../assets/audiofiles/marele/r_ele.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -130,16 +130,16 @@ Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen m
     <div class="audio-block">
     <h4>Zielaussprache:</h4> <span class="example">[el.βe.βe.ˈðoɾ]</span>
     <audio controls preload="metadata">
-    <source src="/assets/audiofiles/marele/bebedor_l1.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/bebedor_l1.m4a" type="audio/mp4">
+    <source src="../assets/audiofiles/marele/bebedor_l1.mp3" type="audio/mpeg">
+    <source src="../assets/audiofiles/marele/bebedor_l1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
     <div class="audio-block">
     <h4>Lernendenaussprache:</h4> <span class="example">[el.be.be.ˈdoɐ]</span>
     <audio controls preload="metadata">
-    <source src="/assets/audiofiles/marele/bebedor_ele.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/bebedor_ele.m4a" type="audio/mp4">
+    <source src="../assets/audiofiles/marele/bebedor_ele.mp3" type="audio/mpeg">
+    <source src="../assets/audiofiles/marele/bebedor_ele.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -152,16 +152,16 @@ Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen m
     <div class="audio-block">
     <h4>Zielaussprache:</h4> <span class="example">[ko.ˈna.ɣwa]</span>
     <audio controls controlsList="nodownload" preload="metadata">
-    <source src="/assets/audiofiles/marele/agua_l1.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/agua_l1.m4a" type="audio/mp4">
+    <source src="../assets/audiofiles/marele/agua_l1.mp3" type="audio/mpeg">
+    <source src="../assets/audiofiles/marele/agua_l1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
     <div class="audio-block">
     <h4>Lernendenaussprache:</h4> <span class="example">[kon.ˈa.gwa]</span>
     <audio controls controlsList="nodownload" preload="metadata">
-    <source src="/assets/audiofiles/marele/agua_ele.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/agua_ele.m4a" type="audio/mp4">
+    <source src="../assets/audiofiles/marele/agua_ele.mp3" type="audio/mpeg">
+    <source src="../assets/audiofiles/marele/agua_ele.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>

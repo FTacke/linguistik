@@ -74,16 +74,16 @@ Das Phonem `/b/` wird im Spanischen unabhängig davon, ob es mit `<b>` oder `<v>
     <div class="audio-block">
     <h4>Zielaussprache:</h4> <span class="example"><i><strong>b</strong>arón</i> [baˈɾon] – <i><strong>v</strong>arón</i> [baˈɾon]</span>
     <audio controls preload="metadata">
-    <source src="/assets/audiofiles/marele/baron_varon_l1.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/baron_varon_l1.m4a" type="audio/mp4">
+    <source src="../assets/audiofiles/marele/baron_varon_l1.mp3" type="audio/mpeg">
+    <source src="../assets/audiofiles/marele/baron_varon_l1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
     <div class="audio-block">
     <h4>Lernendenaussprache:</h4> <span class="example"><i><strong>b</strong>arón</i> [baˈʁon] – <i><strong>v</strong>arón</i> *[vaˈʁon]</span>
     <audio controls preload="metadata">
-    <source src="/assets/audiofiles/marele/baron_varon_ele.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/baron_varon_ele.m4a" type="audio/mp4">
+    <source src="../assets/audiofiles/marele/baron_varon_ele.mp3" type="audio/mpeg">
+    <source src="../assets/audiofiles/marele/baron_varon_ele.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -181,16 +181,16 @@ Die Unterscheidung zwischen einfachem `/ɾ/` und mehrfach vibrierendem `/r/` ist
     <div class="audio-block">
     <h4>Zielaussprache:</h4> <span class="example">[re.ˈiɾ]</span>
     <audio controls preload="metadata">
-    <source src="/assets/audiofiles/marele/r_l1.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/r_l1.m4a" type="audio/mp4">
+    <source src="../assets/audiofiles/marele/r_l1.mp3" type="audio/mpeg">
+    <source src="../assets/audiofiles/marele/r_l1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
     <div class="audio-block">
     <h4>Lernendenaussprache:</h4> <span class="example">[ʁe.ˈɪɐ]</span>
     <audio controls preload="metadata">
-    <source src="/assets/audiofiles/marele/r_ele.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/r_ele.m4a" type="audio/mp4">
+    <source src="../assets/audiofiles/marele/r_ele.mp3" type="audio/mpeg">
+    <source src="../assets/audiofiles/marele/r_ele.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>

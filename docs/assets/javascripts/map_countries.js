@@ -64,7 +64,7 @@ function initVariationMap() {
   }
 
   // Daten laden und Marker setzen
-  fetch('/assets/data/countries.json')
+  fetch('../../assets/data/countries.json')
     .then(r => r.json())
     .then(laender => {
       const bounds = L.latLngBounds([]);

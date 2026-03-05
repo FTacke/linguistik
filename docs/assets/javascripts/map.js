@@ -45,7 +45,7 @@ function initHerkunftMap() {
     }
 
     // Daten laden und Marker setzen
-    fetch('/assets/data/herkunftssprachen.json')
+    fetch('../assets/data/herkunftssprachen.json')
       .then(r => r.json())
       .then(sprachen => {
         const bounds = L.latLngBounds([]);

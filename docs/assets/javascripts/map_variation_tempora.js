@@ -57,7 +57,7 @@ function initTemporaMap() {
     }
 
     // Daten laden und Marker setzen
-    fetch('/assets/data/variation_tempora.json')
+    fetch('../../assets/data/variation_tempora.json')
       .then(r => r.json())
       .then(regionen => {
         const bounds = L.latLngBounds([]);

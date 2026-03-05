@@ -102,14 +102,14 @@ Ein besonders anschaulicher Fall betrifft die Aussprache des Graphems `<eu>`. De
     <div class="audio-block">
     <h4>Zielaussprache:</h4> <span class="example"><i>Europa</i> [ew.ˈɾo.pa]</span>
     <audio controls preload="metadata">
-    <source src="/assets/audiofiles/TODO_europa_l1.mp3" type="audio/mpeg">
+    <source src="../assets/audiofiles/TODO_europa_l1.mp3" type="audio/mpeg">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
     <div class="audio-block">
     <h4>Lernendenaussprache:</h4> <span class="example"><i>Europa</i> *[ɔɪ.ˈʁo.pa]</span>
     <audio controls preload="metadata">
-    <source src="/assets/audiofiles/TODO_europa_ele.mp3" type="audio/mpeg">
+    <source src="../assets/audiofiles/TODO_europa_ele.mp3" type="audio/mpeg">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
