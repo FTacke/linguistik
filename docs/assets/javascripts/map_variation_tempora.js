@@ -57,7 +57,8 @@ function initTemporaMap() {
     }
 
     // Daten laden und Marker setzen
-    fetch('../../assets/data/variation_tempora.json')
+    const base = window.ZENSICAL_BASE_PATH || "/";
+    fetch(base + 'assets/data/variation_tempora.json')
       .then(r => r.json())
       .then(regionen => {
         const bounds = L.latLngBounds([]);

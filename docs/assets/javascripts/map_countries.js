@@ -64,7 +64,8 @@ function initVariationMap() {
   }
 
   // Daten laden und Marker setzen
-  fetch('../../assets/data/countries.json')
+  const base = window.ZENSICAL_BASE_PATH || "/";
+  fetch(base + 'assets/data/countries.json')
     .then(r => r.json())
     .then(laender => {
       const bounds = L.latLngBounds([]);

@@ -45,7 +45,8 @@ function initHerkunftMap() {
     }
 
     // Daten laden und Marker setzen
-    fetch('../assets/data/herkunftssprachen.json')
+    const base = window.ZENSICAL_BASE_PATH || "/";
+    fetch(base + 'assets/data/herkunftssprachen.json')
       .then(r => r.json())
       .then(sprachen => {
         const bounds = L.latLngBounds([]);
