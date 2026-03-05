@@ -6,7 +6,7 @@
 <script>
 (function () {
   try {
-    if (window.location.hostname !== "{{ prod_domain }}") return;
+    if (!["{{ prod_domain }}", "www.{{ prod_domain }}"].includes(window.location.hostname)) return;
 
     var s = document.createElement("script");
     s.async = true;
