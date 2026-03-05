@@ -23,12 +23,12 @@ Traditionell orientierte sich der Spanischunterricht lange am sogenannten *penin
         <div class="map-image-row">
             <div class="map-image-item">
                 <a href="/variation/map_countries/" class="map-image-link">
-                    <img src="../../assets/images/map_countries.png" alt="Karte der Hispanophonie" class="admonition-map-image" />
+                    <img class="admonition-map-image zc-img-src" data-zc-src="assets/images/map_countries.png" alt="Karte der Hispanophonie" />
                 </a>
             </div>
             <div class="map-image-item">
                 <a href="/variation/map_countries/" class="map-image-link">
-                    <img src="../../assets/images/map_countries_detail.png" alt="Detailkarte Hispanophonie" class="admonition-map-image" />
+                    <img class="admonition-map-image zc-img-src" data-zc-src="assets/images/map_countries_detail.png" alt="Detailkarte Hispanophonie" />
                 </a>
             </div>
         </div>

@@ -79,16 +79,16 @@ Das vielleicht größte ‚Problem‘ der spanischen Orthographie liegt darin, d
     <div class="audio-block">
     <h4>Zielaussprache:</h4> <span class="example"><i><strong>b</strong>arón</i> [baˈɾon] – <i><strong>v</strong>arón</i> [baˈɾon]</span>
     <audio controls preload="metadata">
-    <source src="../assets/audiofiles/marele/baron_varon_l1.mp3" type="audio/mpeg">
-    <source src="../assets/audiofiles/marele/baron_varon_l1.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/baron_varon_l1.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/baron_varon_l1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
     <div class="audio-block">
     <h4>Lernendenaussprache:</h4> <span class="example"><i><strong>b</strong>arón</i> [baˈʁon] – <i><strong>v</strong>arón</i> *[vaˈʁon]</span>
     <audio controls preload="metadata">
-    <source src="../assets/audiofiles/marele/baron_varon_ele.mp3" type="audio/mpeg">
-    <source src="../assets/audiofiles/marele/baron_varon_ele.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/baron_varon_ele.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/baron_varon_ele.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>

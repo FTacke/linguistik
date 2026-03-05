@@ -60,8 +60,8 @@ In jedem Fall sollte ich, wenn ich – vor allem fortgeschrittenen Lernende – 
     <h4>Mexiko:</h4>
     <span class="example">„(...) esta mujer que se hi<strong>z</strong>o famosa en 2017 gra<strong>c</strong>ias a un video que se hi<strong>z</strong>o viral.“ (MEXc5bc0)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/MEXc5bc0.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/MEXc5bc0.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/MEXc5bc0.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/MEXc5bc0.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -69,8 +69,8 @@ In jedem Fall sollte ich, wenn ich – vor allem fortgeschrittenen Lernende – 
     <h4>Costa Rica:</h4>
     <span class="example">„Gana una	<strong>c</strong>ena para cuatro personas (...)“ (CRce1ef)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/CRce1ef.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/CRce1ef.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CRce1ef.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CRce1ef.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -78,8 +78,8 @@ In jedem Fall sollte ich, wenn ich – vor allem fortgeschrittenen Lernende – 
     <h4>Chile:</h4>
     <span class="example">„Se ve espectacular y está más <strong>c</strong>erca.“ (CHI052bc)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/CHI052bc.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/CHI052bc.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHI052bc.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHI052bc.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -87,8 +87,8 @@ In jedem Fall sollte ich, wenn ich – vor allem fortgeschrittenen Lernende – 
     <h4>Argentinien:</h4>
     <span class="example">„(...) <strong>c</strong>erca de Miami.“ (ARG-Cba2154c)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/ARG-Cba2154c.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/ARG-Cba2154c.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG-Cba2154c.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG-Cba2154c.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -96,8 +96,8 @@ In jedem Fall sollte ich, wenn ich – vor allem fortgeschrittenen Lernende – 
     <h4>Spanien, Bsp. 1:</h4>
     <span class="example">„(...) los que conectan la propia capital con Gali<strong>c</strong>ia, Bar<strong>c</strong>elona o <strong>Z</strong>arago<strong>z</strong>a y el resto del corredor del Levante.“ (ES-MADaa126)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/ES-MADaa126.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/ES-MADaa126.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ES-MADaa126.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ES-MADaa126.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -105,8 +105,8 @@ In jedem Fall sollte ich, wenn ich – vor allem fortgeschrittenen Lernende – 
     <h4>Spanien, Bsp. 2:</h4>
     <span class="example">„El pla<strong>z</strong>o	para ha<strong>c</strong>erlo acaba el tre<strong>c</strong>e de septiembre.“ (ES-MAD759f8)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/ES-MAD759f8.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/ES-MAD759f8.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ES-MAD759f8.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ES-MAD759f8.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -148,8 +148,8 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     <h4>Spanien:</h4>
     <span class="example">„Se <strong>ll</strong>amaba Raquel, tenía 54 años y su cuerpo ha aparecido en un domicilio de Vi<strong>ll</strong>albi<strong>ll</strong>a.“ (ES-MAD7d2fe)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/ES-MAD7d2fe.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/ES-MAD7d2fe.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ES-MAD7d2fe.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ES-MAD7d2fe.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -157,8 +157,8 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     <h4>Nicaragua:</h4>
     <span class="example">„(...) estamos experimentando este tipo de <strong>ll</strong>uvias	en distintas partes del país (...)“ (NICa941c)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/NICa941c.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/NICa941c.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/NICa941c.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/NICa941c.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -166,8 +166,8 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     <h4>Chile:</h4>
     <span class="example">„Todos los deta<strong>ll</strong>es los conocemos con Daniela Forero Ortiz.“ (CHIf24b4)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/CHIf24b4.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/CHIf24b4.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHIf24b4.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHIf24b4.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -175,8 +175,8 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     <h4>Peru:</h4>
     <span class="example">„En RPP nos sentimos orgu<strong>ll</strong>osos de nuestros líderes (...).“ (PER44938)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/PER44938.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/PER44938.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PER44938.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PER44938.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -184,8 +184,8 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     <h4>Argentinien, Bsp. 1:</h4>
     <span class="example">„El sábado 22 de abril, <strong>ll</strong>egó la policía.“ (ARG90e51)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/ARG90e51.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/ARG90e51.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG90e51.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG90e51.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -193,8 +193,8 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     <h4>Argentinien, Bsp. 2:</h4>
     <span class="example">„(...) gente que nos <strong>ll</strong>ena de orgu<strong>ll</strong>o (...)“ (ARGa2403)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/ARGa2403.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/ARGa2403.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARGa2403.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARGa2403.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -202,8 +202,8 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     <h4>Argentinien, Bsp. 3:</h4>
     <span class="example">„Friedrich Merz es el próximo	canci<strong>ll</strong>er alemán (...)“ (ARG4a55e)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/ARG4a55e.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/ARG4a55e.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG4a55e.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG4a55e.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -211,8 +211,8 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     <h4>Argentinien, Bsp. 4:</h4>
     <span class="example">„Bueno, mañana también está previsto que <strong>ll</strong>ueva todo el día, mañana miércoles (...)“ (ARG5e590)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/ARG5e590.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/ARG5e590.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG5e590.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG5e590.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -254,8 +254,8 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
     <h4>Chile, Bsp. 1:</h4>
     <span class="example">„(...) revisamo<strong>s</strong> alguna<strong>s</strong> de la<strong>s</strong> informacione<strong>s</strong> internacionale<strong>s</strong> que han marcado la<strong>s</strong> última<strong>s</strong> hora<strong>s</strong> (...)“ (CHI124b8)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/CHI124b8.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/CHI124b8.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHI124b8.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHI124b8.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -263,8 +263,8 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
     <h4>Chile, Bsp. 2:</h4>
     <span class="example">„Cinco delincuente<strong>s</strong>, todo<strong>s</strong> menore<strong>s</strong> de edad, serían lo<strong>s</strong> re<strong>s</strong>ponsable<strong>s</strong> de e<strong>s</strong>ta agresión.“ (CHI4b4dd)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/CHI4b4dd.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/CHI4b4dd.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHI4b4dd.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHI4b4dd.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -273,8 +273,8 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
     <h4>Argentinien, Bsp. 1:</h4>
     <span class="example">„(...) para las má<strong>s</strong> pre<strong>s</strong>tigiosa<strong>s</strong>	marca<strong>s</strong> y a iluminar la<strong>s</strong> portada<strong>s</strong> de revi<strong>s</strong>ta<strong>s</strong> de moda internacionale<strong>s</strong>.“ (ARG1a934)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/ARG1a934.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/ARG1a934.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG1a934.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG1a934.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -282,8 +282,8 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
     <h4>Argentinien, Bsp. 2:</h4>
     <span class="example">„Mucho<strong>s</strong> de lo<strong>s</strong> votante<strong>s</strong> de Javier Milei no e<strong>s</strong>tán de acuerdo con su negacioni<strong>s</strong>mo del cambio climático (...)“ (ARG7a5fc)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/ARG7a5fc.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/ARG7a5fc.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG7a5fc.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG7a5fc.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -292,8 +292,8 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
     <h4>Kanaren (Spanien), Bsp. 1:</h4>
     <span class="example">„(...) el reparto de lo<strong>s</strong> menore<strong>s</strong> no acompañado<strong>s</strong> entre toda<strong>s</strong> la<strong>s</strong> comunidade<strong>s</strong> autónoma<strong>s</strong> (...)“ (ES-CAN3a6b4)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/ES-CAN3a6b4.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/ES-CAN3a6b4.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ES-CAN3a6b4.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ES-CAN3a6b4.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -301,8 +301,8 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
     <h4>Kanaren (Spanien), Bsp. 2:</h4>
     <span class="example">„Ademá<strong>s</strong>, la<strong>s</strong> temperatura<strong>s</strong> media<strong>s</strong> que han llegado a ser de un grado y (...)“ (ES-CANe8498)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/ES-CANe8498.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/ES-CANe8498.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ES-CANe8498.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ES-CANe8498.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -323,8 +323,8 @@ Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito 
     <h4>Mexiko, Bsp. 1:</h4>
     <span class="example">„Ha<strong>s</strong>ta aquí lo<strong>s</strong> e<strong>s</strong>pectáculo<strong>s</strong>, regresamo<strong>s</strong> al e<strong>s</strong>tudio.“ (MEXa9322)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/MEXa9322.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/MEXa9322.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/MEXa9322.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/MEXa9322.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -332,8 +332,8 @@ Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito 
     <h4>Mexiko, Bsp. 2:</h4>
     <span class="example">„¿Quiere<strong>s</strong> anunciarte en e<strong>s</strong>te y en mucho<strong>s</strong> otro<strong>s</strong> podca<strong>s</strong>t<strong>s</strong>?“ (MEX23a52)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/MEX23a52.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/MEX23a52.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/MEX23a52.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/MEX23a52.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -342,8 +342,8 @@ Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito 
     <h4>Kolumbien, Bsp. 1:</h4>
     <span class="example">„Queremo<strong>s</strong> que e<strong>s</strong>té<strong>s</strong> informado en todo momento.“ (COL3a2b4)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/COL3a2b4.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/COL3a2b4.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/COL3a2b4.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/COL3a2b4.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -351,8 +351,8 @@ Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito 
     <h4>Kolumbien, Bsp. 2:</h4>
     <span class="example">„La ONU e<strong>s</strong>tá pidiendo la inve<strong>s</strong>tigación internacional sobre la<strong>s</strong> vulneracione<strong>s</strong> a lo<strong>s</strong> derecho<strong>s</strong> humano<strong>s</strong> en la guerra entre Hama<strong>s</strong> e I<strong>s</strong>rael.“ (COL807c6)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/COL807c6.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/COL807c6.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/COL807c6.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/COL807c6.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -361,8 +361,8 @@ Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito 
     <h4>Ecuador, Bsp. 1:</h4>
     <span class="example">„Li<strong>s</strong>to<strong>s</strong>, entonce<strong>s</strong>, para llevarle<strong>s</strong> a u<strong>s</strong>tede<strong>s</strong> toda<strong>s</strong> las noticia<strong>s</strong> del Ecuador y del mundo.“ (ECU73261)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/ECU73261.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/ECU73261.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ECU73261.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ECU73261.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -370,8 +370,8 @@ Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito 
     <h4>Ecuador, Bsp. 2:</h4>
     <span class="example">„Lo<strong>s</strong> di<strong>s</strong>paro<strong>s</strong> se e<strong>s</strong>cucharon mientra<strong>s</strong> Trump e<strong>s</strong>taba criticando la migración ilegal.“ (ECU46847)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/ECU46847.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/ECU46847.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ECU46847.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ECU46847.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -380,8 +380,8 @@ Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito 
     <h4>Bolivien, Bsp. 1:</h4>
     <span class="example">„Bienvenido<strong>s</strong> a la<strong>s</strong> noticia<strong>s</strong> de la hora.“ (BOLc1dbc)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/BOLc1dbc.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/BOLc1dbc.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/BOLc1dbc.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/BOLc1dbc.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -389,8 +389,8 @@ Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito 
     <h4>Bolivien, Bsp. 2:</h4>
     <span class="example">„(...) un bochorno que pasaría a la hi<strong>s</strong>toria del abuso	de la ju<strong>s</strong>ticia con<strong>s</strong>titucional.“ (BOLe17df)</span>
     <audio controls preload="metadata">
-    <source src="../../assets/audiofiles/corapan/BOLe17df.mp3" type="audio/mpeg">
-    <source src="../../assets/audiofiles/corapan/BOLe17df.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/BOLe17df.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/BOLe17df.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
