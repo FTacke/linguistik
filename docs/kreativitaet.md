@@ -329,6 +329,6 @@ Dabei gilt außerdem: Das DLE dokumentiert den Kern des allgemeinen Wortschatzes
 
 
 !!! cite "Dieses Kapitel zitieren"
-    Büşra Özen, Teodora Teodorescu, Felix Tacke (2025): „Lexikalische Kreativität“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg.  
-    Online: [school.hispanistica.com](https://school.hispanistica.com/)  
+    Büşra Özen, Teodora Teodorescu, Felix Tacke (2025): „Lexikalische Kreativität“. In: Tacke, Felix (Koord.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.  
+    Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)

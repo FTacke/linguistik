@@ -167,8 +167,13 @@
     white-space: nowrap;
   }
 
+  .md-header .site-title__line1 { color: var(--book-fg); }
   .md-header .site-title__main { color: var(--book-fg); }
-  .md-header .site-title__accent { color: var(--book-accent); }
+  .md-header .site-title__accent { color: var(--book-title-accent-dark); }
+}
+
+body[data-md-color-scheme="slate"] .md-header .site-title__accent {
+  color: var(--book-title-accent);
 }
 
 /* Drawer-Nav-Titel: Logo-Link (site-title Spans) ausblenden.

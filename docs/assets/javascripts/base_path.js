@@ -1,6 +1,6 @@
 // Base path helper for GH Project Pages + custom domain
 // - GitHub project pages: https://<user>.github.io/<repo>/  -> basePath="/<repo>/"
-// - Custom domain:        https://school.hispanistica.com/  -> basePath="/"
+// - Custom domain:        https://linguistik.hispanistica.com/  -> basePath="/"
 (function () {
   const host = window.location.hostname;
   const path = window.location.pathname;

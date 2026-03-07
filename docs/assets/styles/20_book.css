@@ -133,7 +133,7 @@ body {
    -------------------------------------------------------------------------- */
 .md-nav--primary .md-nav__item .md-nav__list {
   margin-left:  0.75rem;
-  padding-left: 0.75rem;
+  padding-left: 0.0rem;
   border-left:  1px solid var(--book-border);
 }
 

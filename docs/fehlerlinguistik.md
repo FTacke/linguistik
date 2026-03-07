@@ -96,26 +96,29 @@ Die häufigste Fehlerquelle ist der Transfer aus der Erstsprache (oder einer and
 
 Ein besonders anschaulicher Fall betrifft die Aussprache des Graphems `<eu>`. Deutsche Lernende neigen dazu, die Buchstabenfolge `<eu>` in *Europa* wie im Deutschen als `[ɔɪ]` zu realisieren: `[ɔɪ.ˈɾo.pa]`. Im Spanischen wird `<eu>` jedoch als Diphthong `[ew]` ausgesprochen: `[ew.ˈɾo.pa]`. Der Fehler entsteht, weil Lernende die Graphem-Laut-Zuordnung ihrer Erstsprache auf das Spanische übertragen (vgl. Kapitel [Orthographie](orthographie.md#vokale)).
 
-??? hoermal "Hör mal: *Europa* – deutscher Transfer vs. spanische Zielaussprache"
+??? hoermal "*Europa* – deutscher Transfer vs. spanische Zielaussprache"
     Das Wort *Europa* zeigt exemplarisch, wie die Aussprachegewohnheiten der Erstsprache in das Spanische hineinwirken. Vergleiche die deutsche Lernendenaussprache mit `[ɔɪ]` und die spanische Zielaussprache mit dem Diphthong `[ew]`:
-
     <div class="audio-comparison">
+    <div class="audio-pair">
     <div class="audio-block">
-    <h4>Zielaussprache:</h4> <span class="example">[ew.ˈɾo.pa]</span>
+    <p class="audio-label">Zielaussprache:</p>
+    <span class="example-ipa">[ew.ˈɾo.pa]</span>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/europa_l1.mp3" type="audio/mpeg">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
     <div class="audio-block">
-    <h4>Lernendenaussprache:</h4> <span class="example">*[ɔɪ.ˈɾo.pa]</span>
+    <p class="audio-label">Lernendenaussprache:</p>
+    <span class="example-ipa">&#42;[ɔɪ.ˈɾo.pa]</span>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/promat/europa_ele.mp3" type="audio/mpeg">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
     </div>
-    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></p>
+    </div>
+    <p class="audio-source">Audios aus <a href="https://pronunciation-matters.de" target="_blank" rel="noopener noreferrer">Pronunciation Matters</a> und <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></p>
 
 Transfer betrifft allerdings nicht nur die Aussprache, sondern auch die Grammatik. Ein aufschlussreiches Beispiel ist der Gebrauch von Artikeln und Genus. Im Spanischen wird jedem Substantiv ein grammatisches Geschlecht zugewiesen – maskulin oder feminin –, und der Artikel richtet sich danach. Für Lernende mit deutscher Erstsprache ist das Prinzip vertraut, auch wenn sich die Genuszuweisung im Einzelfall unterscheidet und bei Substantiven, die auf Konsonant enden, schlicht gelernt werden muss. Ganz anders sieht es für Lernende aus, deren Erstsprache gar kein Genussystem kennt – etwa Türkisch, Persisch oder Chinesisch. Für sie ist nicht nur die jeweilige Zuordnung neu, sondern die gesamte Kategorie: Dass *mesa* feminin und *libro* maskulin sein soll, lässt sich aus der Erstsprache nicht ableiten, weil das Konzept grammatischer Geschlechtszuweisung dort nicht existiert. Die Folge sind Genusfehler, die breiter gestreut und hartnäckiger sind als bei Lernenden, die das Prinzip bereits aus ihrer Erstsprache kennen (vgl. Kapitel [Herkunftssprachen](herkunftssprachen.md#genus-grammatisches-geschlecht-im-vergleich)).
 
@@ -227,6 +230,6 @@ Natürlich bleibt es eine Frage der Situation: Manchmal ist eine direkte Korrekt
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Gabriel, Gloria / Merte, Marlon / Tacke, Felix (2026): „Fehlerlinguistik“. In: Tacke, Felix (Hrsg.): *Spanische Linguistik @ School*. Marburg: Universität Marburg.  
-    Online: [school.hispanistica.com](https://school.hispanistica.com/)  
+    Gabriel, Gloria / Merte, Marlon / Tacke, Felix (2026): „Fehlerlinguistik“. In: Tacke, Felix (Hrsg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.  
+    Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)

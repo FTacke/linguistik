@@ -52,11 +52,11 @@ Als Lehrkraft trifft man zwangsläufig eine Entscheidung – aber sie sollte bew
 
 In jedem Fall sollte ich, wenn ich – vor allem fortgeschrittenen Lernende – für diese Unterschiede sensibilisiere, dabei klarstellen, dass der *seseo* – genauso korrekt ist wie die Unterscheidung von `/s/` und `/θ/`. Anschauliche Audiobeispiele wie die folgenden sind dafür hilfreich. Ein Hinweis ist auch wert, dass man mit der Aussprache von *zapato* als `[θa.ˈpa.to]` außerhalb Spaniens sogar auffallen kann, denn Spanier:innen werden nicht zuletzt durch den Interdentallaut sofort erkannt.  
 
-??? hoermal "Hör mal (<i>seseo</i> vs. <i>distinción</i>)"
+??? hoermal "<i>seseo</i> vs. <i>distinción</i>"
     Die folgenden Ausschnitte aus Radiosendungen veranschaulichen einerseits den <i>seseo</i> in Hispanoamerika und andererseits die Verwendung des Interdentallautes `/θ/` in Spanien. Beachte, dass hier Radiomoderator:innen sprechen, es handelt sich also um eine Aussprache, die der ‚guten Aussprache‘ des jeweiligen Landes (oder der Region) entspricht:
 
 
-    <div class="audio-comparison">
+    <div class="audio-grid">
     <div class="audio-block">
     <h4>Mexiko:</h4>
     <span class="example">„(...) esta mujer que se hi<strong>z</strong>o famosa en 2017 gra<strong>c</strong>ias a un video que se hi<strong>z</strong>o viral.“ (MEXc5bc0)</span>
@@ -140,11 +140,11 @@ Wer *pollo* und *poyo* gleich ausspricht, macht es heute wie die Mehrheit. Wie s
 
 Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien hört man meist `[ʝ]`, in der Karibik oder in Zentralamerika dagegen oft nur ein sanftes `[j]`. Im *Río de la Plata*-Raum, vor allem in Buenos Aires und Montevideo, ist die Aussprache besonders markant, da dort `[ʒ]` (bezeichnet als *žeísmo*) und mittlerweile noch häufiger stimmlos `[ʃ]` (bzeichnet als *šeísmo*) ausgesprochen wird (z.B. *llamar* als `[ʒaˈmar]` oder `[ʃaˈmar]`).  
 
-??? hoermal "Hör mal (<i>yeísmo</i>, <i>žeísmo</i> und <i>šeísmo</i>)"
+??? hoermal "<i>yeísmo</i>, <i>žeísmo</i> und <i>šeísmo</i>"
     Die folgenden Ausschnitte aus Radiosendungen veranschaulichen, dass der <i>yeísmo</i>, d.h. die Realisierung des Phonems `/ʝ/` als `[ʝ]` (und manchmal schwächer als `[j]`) für `&lt;ll&gt;` und `&lt;y&gt;`, heute überall normal ist. Die Beispiele aus Argentinien veranschaulichen darüber hinaus <i>žeísmo</i> und <i>šeísmo</i>. Beachte, dass hier Radiomoderator:innen sprechen, es handelt sich also um eine Aussprache, die der ‚guten Aussprache‘ des jeweiligen Landes (oder der Region) entspricht:
 
 
-    <div class="audio-comparison">
+    <div class="audio-grid">
     <div class="audio-block">
     <h4>Spanien:</h4>
     <span class="example">„Se <strong>ll</strong>amaba Raquel, tenía 54 años y su cuerpo ha aparecido en un domicilio de Vi<strong>ll</strong>albi<strong>ll</strong>a.“ (ES-MAD7d2fe)</span>
@@ -246,11 +246,11 @@ Die Abschwächung ist kein Zufall. Dass sie am Silben- und Wortende vorkommt, li
 
 Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreitet, sondern gilt selbst in formelleren Kontexten als gute Aussprache, d.h. die Abschwächung gehört dort zur regionalen oder manchmal sogar nationalen Norm (z.B. Kanaren, Chile, Argentinien).  
 
-??? hoermal "Hör mal (Abschwächung des /s/)"
+??? hoermal "Abschwächung des /s/"
     Die folgenden Ausschnitte aus Radiosendungen veranschaulichen das Phänomen. Wenn doch ein silben- oder wortfinales `/s/` als `[s]` artikuliert wird, dann weil es vor einer Pause oder vor Vokal vorkommt. Vor Konsonant hört man (auch im Wort) entweder nichts oder eine Aspiration `[h]`. Beachte, dass hier Radiomoderator:innen sprechen, es handelt sich also um eine Aussprache, die der ‚guten Aussprache‘ des jeweiligen Landes (oder der Region) entspricht:
 
 
-    <div class="audio-comparison">
+    <div class="audio-grid">
     <div class="audio-block">
     <h4>Chile, Bsp. 1:</h4>
     <span class="example">„(...) revisamo<strong>s</strong> alguna<strong>s</strong> de la<strong>s</strong> informacione<strong>s</strong> internacionale<strong>s</strong> que han marcado la<strong>s</strong> última<strong>s</strong> hora<strong>s</strong> (...)“ (CHI124b8)</span>
@@ -315,11 +315,11 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
 
 Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito oder La Paz – zeichnen sich durch eine klare Artikulation des `/s/` auch am Silbenende aus. Dies steht nicht nur in geographischem, sondern oft auch in historischem Zusammenhang: Diese Städte waren während der Kolonialzeit enger mit den spanischen Zentren verbunden, in denen das `/s/` ebenfalls deutlich gesprochen wird. Dort wird die Abschwächung des `/s/` daher eher als Abweichung von der Norm bewertet. Die Abschwächung wird hier mit informelleren Redesituationen  und manchmal sogar mit einem niedrigeren Bildungsgrad assoziiert, besitzt also eine situationelle und soziale Dimension. Die Bewertung desselben Phänomens kann also je nach Ort, Region und Land ganz anders ausfallen!  
 
-??? hoermal "Hör mal (Realisierung des /s/)"
+??? hoermal "Realisierung des /s/"
     Die folgenden Ausschnitte aus Radiosendungen veranschaulichen, dass das /s/ im hispanoamerikanischen Hochland typischerweise in jeglichem Kontext als `[s]` realisiert wird und eindeutig zur jeweilen Hauptstadtnorm gehört.
 
 
-    <div class="audio-comparison">
+    <div class="audio-grid">
     <div class="audio-block">
     <h4>Mexiko, Bsp. 1:</h4>
     <span class="example">„Ha<strong>s</strong>ta aquí lo<strong>s</strong> e<strong>s</strong>pectáculo<strong>s</strong>, regresamo<strong>s</strong> al e<strong>s</strong>tudio.“ (MEXa9322)</span>
@@ -482,6 +482,6 @@ Diese Vielfalt sollte im Unterricht hörbar werden – oben im Kapitel finden si
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Freyre Castro, Renata / Tacke, Felix (2025): „Aussprachevariation“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg.  
-    Online: [school.hispanistica.com](https://school.hispanistica.com/)  
+    Freyre Castro, Renata / Tacke, Felix (2025): „Aussprachevariation“. In: Tacke, Felix (Koord.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.  
+    Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)

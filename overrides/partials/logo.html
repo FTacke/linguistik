@@ -4,13 +4,13 @@
   Custom logo override for Zensical.
   
   Renders a two-color site title instead of an image:
-  - "Spanische Linguistik @" in normal color (--book-fg)
-  - "School" in accent color (--book-accent)
+  - "im Spanischunterricht" in normal color (--book-fg)
+  - "Linguistik" in accent color (--book-title-accent-dark / --book-title-accent in dark mode)
   
   Styling: assets/styles/30_components.css
 -#}
 
 <span class="site-title" aria-label="{{ config.site_name }}">
-  <span class="site-title__main">Spanische Linguistik @</span>
-  <span class="site-title__accent">School</span>
+  <span class="site-title__line1"><span class="site-title__accent">Linguistik</span> im</span>
+  <span class="site-title__main">Spanischunterricht</span>
 </span>

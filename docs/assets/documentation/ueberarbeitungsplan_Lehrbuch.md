@@ -1,4 +1,4 @@
-# Überarbeitungsplan – Spanische Linguistik @ School
+# Überarbeitungsplan – Linguistik im Spanischunterricht
 
 ## Gesamtbewertung
 

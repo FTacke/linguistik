@@ -46,19 +46,19 @@
 
 
 /* ─────────────────────────────────────────────────────
-   Linguistische Inline-Marker (Phonem, Graphem etc.)
+   Linguistische Inline-Marker (Phonem, Graphem etc.) var(--book-font-ui)
    ───────────────────────────────────────────────────── */
 
 .md-typeset code {
-  font-family: var(--book-font-ui);
+  font-family: "Noto Sans", system-ui, sans-serif;
   font-size: 0.85em;
-  font-weight: 500;
+  font-weight: 550;
   line-height: 1;
 
-  padding: 0.08em 0.38em;
+  padding: 0.04em 0.04em 0.38em;
   border-radius: 0.35em;
 
-  background: color-mix(in srgb, var(--book-bg) 94%, var(--book-accent));
+  background: color-mix(in srgb, var(--book-bg) 96%, var(--book-accent));
   color: var(--book-fg);
 
   white-space: nowrap;

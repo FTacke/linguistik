@@ -114,7 +114,7 @@ Neben Lauten, die im Deutschen anders artikuliert werden als im Spanischen, besi
 ??? expand "*Seseo* vs. *Distinción*"
     Wie beim *yeísmo* (s.u.) wird beim *seseo* zwar ebenfalls von der Neutralisierung der Lautopposition von `/θ/` und `/s/` gesprochen, allerdings sollte man wissen, dass der Interdentallaut in den Gebieten, in denen der *seseo* vorherrscht, nie existiert hat. In Zentral- und Nordspanien hat sich der Interdental `/θ/` historisch aus der Reduktion der Affrikaten `/ts/` und `/dz/` entwickelt, während diese Laute in südlichen Gebieten zu `/s/` wurden.
 
-    In vielen Lehrwerken – und manchmal selbst in der Fachliteratur – wird fälschlicherweise suggeriert, es handle sich um eine Lautopposition, die verloren gegangen sei. Falsch erklärt es einleitend sogar die aktuelle Ausgabe der *Ortografía* von 2010, obwohl direkt im Anschluss eine durchaus empfehlenswerte, historisch korrekte Erläuterung des Lautwandels folgt (vgl. [Ortografía de la lengua española](https://www.rae.es/ortograf%C3%ADa/subsistemas-conson%C3%A1nticos-del-espa%C3%B1ol-los-fen%C3%B3menos-del-seseo-el-ceceo-y-el-ye%C3%ADsmo), RAE/ASALE 2010).
+    In vielen Lehrwerken – und manchmal selbst in der Fachliteratur – wird fälschlicherweise suggeriert, es handle sich um eine Lautopposition, die verloren gegangen sei. Falsch erklärt es einleitend sogar die aktuelle Ausgabe der *Ortografía* von 2010, obwohl direkt im Anschluss eine durchaus empfehlenswerte, historisch korrekte Erläuterung des Lautwandels folgt (vgl. [*Ortografía de la lengua española*](https://www.rae.es/ortograf%C3%ADa/subsistemas-conson%C3%A1nticos-del-espa%C3%B1ol-los-fen%C3%B3menos-del-seseo-el-ceceo-y-el-ye%C3%ADsmo), RAE/ASALE 2010).
 
     Die für die gesamte spanischsprachige Welt geltende Orthographie spiegelt die Opposition natürlich wider. Dort wird sie durch die Graphien `<c>` (vor `<e>`, `<i>`) und `<z>` abgebildet und stellt für *seseantes* seit jeher eine größere Herausforderung dar als für Lernende in Zentral- und Nordspanien.
 
@@ -233,6 +233,6 @@ Nicht jedes Graphem hat im Spanischen einen Lautwert. Das `<h>` ist immer stumm 
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Merte, Marlon / Tacke, Felix (2026): „Aussprache“. In: Tacke, Felix (Hrsg.): *Spanische Linguistik @ School*. Marburg: Universität Marburg.  
-    Online: [school.hispanistica.com](https://school.hispanistica.com/)  
+    Merte, Marlon / Tacke, Felix (2026): „Aussprache“. In: Tacke, Felix (Hrsg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.  
+    Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)

@@ -236,6 +236,6 @@ Bewertung orientiert sich somit an Kohärenz und Kontextangemessenheit, nicht an
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Tacke, Felix / Falcone, Riccarda (2025): „Variation & Plurizentrik“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg.  
-    Online: [school.hispanistica.com](https://school.hispanistica.com/)  
+    Tacke, Felix / Falcone, Riccarda (2025): „Variation & Plurizentrik“. In: Tacke, Felix (Koord.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.  
+    Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)

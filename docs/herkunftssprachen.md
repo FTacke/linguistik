@@ -305,6 +305,6 @@ Das Fehlen eines grammatischen Merkmals, wie z.B. der Artikel, bedeutet keinen M
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Jamaa Khodja, Selina Scholz, Felix Tacke (2025): „Herkunftssprachen“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg.  
-    Online: [school.hispanistica.com](https://school.hispanistica.com/)  
+    Jamaa Khodja, Selina Scholz, Felix Tacke (2025): „Herkunftssprachen“. In: Tacke, Felix (Koord.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.  
+    Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)

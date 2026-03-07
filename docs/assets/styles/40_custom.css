@@ -62,17 +62,18 @@
   --cover-border: rgba(255, 255, 255, 0.08);
   --cover-shadow: 0 16px 50px rgba(0, 0, 0, 0.32);
 
-  /* Typography scale (em -> stable relative to cover base) */
-  --cover-h1-size: 2.70em;
+  /* Typography scale */
+
+  --cover-h1-size: 2.8em;
   --cover-h1-lh: 1.10;
 
-  --cover-subtitle-size: 1.35em;
-  --cover-subtitle-lh: 1.30;
+  --cover-subtitle-size: 1.30em;
+  --cover-subtitle-lh: 1.35;
 
   --cover-label-size: 0.75em;
   --cover-label-lh: 1.0;
 
-  --cover-name-size: 1.05em;
+  --cover-name-size: 1.0em;
   --cover-name-lh: 1.35;
 
   /* >>> HIER ergänzen <<< */
@@ -80,6 +81,12 @@
   --cover-footer-lh: 1.05;
 
   --cover-meta-gap: 0px;
+}
+
+@media (max-width: 560px) {
+  .md-typeset .admonition.cover {
+    --cover-h1-size: 2.6em;
+  }
 }
 
 /* 2) Desktop/default: eingefroren */
@@ -167,7 +174,7 @@
 
 /* Akzent im Titel */
 .md-typeset .admonition.cover .cover-title-block h1 .cover-title-accent {
-  color: #7ab0e8;
+  color: var(--book-title-accent);
   font-weight: 700;
 }
 
@@ -676,75 +683,149 @@ body[data-md-color-scheme="slate"] .md-typeset details.expand {
 }
 
 
-/* ─────────────────────────────────────────────────────────────
-   HOERMAL – Audio comparison layout (stable, book-ish)
-   Scope: only inside .admonition.hoermal / details.hoermal
-   ───────────────────────────────────────────────────────────── */
+/* --------------------------------------------------------------------------
+   hoermal – Audio layouts
+   Zwei Muster:
+   1) .audio-comparison + .audio-pair  → paarige Gegenüberstellungen
+   2) .audio-grid                      → gleichrangige Beispielsammlungen
+   -------------------------------------------------------------------------- */
+
+/* ==========================================================================
+   1) Pair wrapper: mehrere Vergleiche untereinander
+   ========================================================================== */
 
 .md-typeset .admonition.hoermal .audio-comparison,
 .md-typeset details.hoermal .audio-comparison {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 1.1rem 1.4rem;
+  gap: 1.1rem;
   margin-top: 0.9rem;
 }
 
-/* Tablet+: 2 columns */
+/* Each pair becomes its own responsive 2-col unit */
+.md-typeset .admonition.hoermal .audio-pair,
+.md-typeset details.hoermal .audio-pair {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.1rem 1.4rem;
+  align-items: stretch;
+}
+
 @media (min-width: 720px) {
-  .md-typeset .admonition.hoermal .audio-comparison,
-  .md-typeset details.hoermal .audio-comparison {
+  .md-typeset .admonition.hoermal .audio-pair,
+  .md-typeset details.hoermal .audio-pair {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
-.md-typeset .admonition.hoermal .audio-block,
-.md-typeset details.hoermal .audio-block {
-  text-align: left;
-  min-width: 0; /* critical in CSS grid */
+/* ==========================================================================
+   2) Flat grid: gleichrangige Einzelbeispiele (z. B. Länderbeispiele)
+   ========================================================================== */
+
+.md-typeset .admonition.hoermal .audio-grid,
+.md-typeset details.hoermal .audio-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.1rem 1.4rem;
+  margin-top: 0.9rem;
+  align-items: stretch;
 }
 
-/* hoermal-specific h4 (does NOT touch global h4) */
+@media (min-width: 720px) {
+  .md-typeset .admonition.hoermal .audio-grid,
+  .md-typeset details.hoermal .audio-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* ==========================================================================
+   Shared block styling
+   ========================================================================== */
+
+.md-typeset .admonition.hoermal .audio-block,
+.md-typeset details.hoermal .audio-block {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-width: 0;
+  text-align: left;
+}
+
+/* Preferred label element for audio blocks */
+.md-typeset .admonition.hoermal .audio-label,
+.md-typeset details.hoermal .audio-label {
+  font-family: var(--book-font-ui);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  font-size: 0.95em;
+  line-height: 1.35;
+  margin: 0 0 0.35rem 0;
+}
+
+/* Backward compatibility for legacy h4 markup */
 .md-typeset .admonition.hoermal .audio-block h4,
 .md-typeset details.hoermal .audio-block h4 {
   font-family: var(--book-font-ui);
   font-weight: 600;
   letter-spacing: -0.01em;
-  margin: 0 0 0.35rem 0;
   font-size: 0.95em;
+  line-height: 1.35;
+  margin: 0 0 0.35rem 0;
 }
 
-/* Example line: calm + readable */
+/* Example box base */
 .md-typeset .admonition.hoermal .example,
-.md-typeset details.hoermal .example {
+.md-typeset .admonition.hoermal .example-ipa,
+.md-typeset details.hoermal .example,
+.md-typeset details.hoermal .example-ipa {
   display: block;
-  font-family: var(--book-font-body);
   font-size: 0.92em;
+  font-weight: 500;
   line-height: 1.5;
   opacity: 0.9;
   margin: 0 0 0.55rem 0;
-
+  padding: 0.45rem 0.6rem;
+  flex: 1 1 auto;
   background: color-mix(in srgb, var(--book-bg) 92%, var(--book-border));
   border: 1px solid color-mix(in srgb, var(--book-border) 70%, transparent);
   border-radius: 0.35rem;
-  padding: 0.45rem 0.6rem;
 }
 
-/* Dark mode: keep the same subtlety */
+.md-typeset .admonition.hoermal .ipa,
+.md-typeset details.hoermal .ipa {
+  font-family: "Noto Sans", "Inter", var(--book-font-body), sans-serif;
+  margin-left: 0.08em;
+}
+
+/* Default examples: normal book type */
+.md-typeset .admonition.hoermal .example,
+.md-typeset details.hoermal .example {
+  font-family: var(--book-font-body);
+}
+
+/* IPA examples: dedicated fallback stack */
+.md-typeset .admonition.hoermal .example-ipa,
+.md-typeset details.hoermal .example-ipa {
+  font-family: "Noto Sans", "Inter", var(--book-font-body), sans-serif;
+}
+
 body[data-md-color-scheme="slate"] .md-typeset .admonition.hoermal .example,
-body[data-md-color-scheme="slate"] .md-typeset details.hoermal .example {
+body[data-md-color-scheme="slate"] .md-typeset .admonition.hoermal .example-ipa,
+body[data-md-color-scheme="slate"] .md-typeset details.hoermal .example,
+body[data-md-color-scheme="slate"] .md-typeset details.hoermal .example-ipa {
   background: color-mix(in srgb, var(--book-surface-1) 88%, var(--book-border));
   border-color: color-mix(in srgb, rgba(255,255,255,0.14) 70%, transparent);
 }
 
-/* Audio controls aligned */
+/* Audio controls stay aligned at the bottom */
 .md-typeset .admonition.hoermal .audio-block audio,
 .md-typeset details.hoermal .audio-block audio {
   display: block;
   width: 100%;
   margin: 0;
+  margin-top: auto;
 }
 
-/* Source line bottom-right */
+/* Source line */
 .md-typeset .admonition.hoermal .audio-source,
 .md-typeset details.hoermal .audio-source {
   margin-top: 0.9rem;
@@ -754,8 +835,9 @@ body[data-md-color-scheme="slate"] .md-typeset details.hoermal .example {
   font-style: normal;
 }
 
-/* Audio-Player-Timeline-Fix (WebKit): flex:1 makes the timeline fill available space */
-audio::-webkit-media-controls-timeline {
+/* WebKit timeline fill fix – scoped */
+.md-typeset .admonition.hoermal audio::-webkit-media-controls-timeline,
+.md-typeset details.hoermal audio::-webkit-media-controls-timeline {
   flex: 1;
 }
 
@@ -1232,6 +1314,12 @@ body[data-md-color-scheme="slate"] .md-typeset details.cite {
   font-weight: 500;
   position: relative;
   padding-right: 2.4rem;
+}
+
+.md-typeset .admonition-title code,
+.md-typeset summary code {
+  font-size: 1em;
+  font-weight: 600;
 }
 
 .md-typeset .cite > .admonition-title:before,
