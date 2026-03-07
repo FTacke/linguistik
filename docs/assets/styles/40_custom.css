@@ -28,7 +28,7 @@
   --cover-h: 750px;
 
   --cover-w-sm: 360px;
-  --cover-h-sm: 588px; /* 750 * (360/460) ≈ 588 */
+  --cover-h-sm: 590px; /* 750 * (360/460) ≈ 588 */
 
   /* Layout */
   --cover-radius: 18px;
@@ -38,15 +38,15 @@
   --cover-gap-md: 10px;
   --cover-gap-sm: 6px;
 
-  --cover-pad-top: 16px;
+  --cover-pad-top: 36px;
   --cover-pad-x: 48px;
-  --cover-pad-bottom: 26px;
+  --cover-pad-bottom: 48px;
 
   /* Spacing (Mobile, proportional s≈0.7826) */
   --cover-gap-md-sm: 8px;
   --cover-gap-sm-sm: 5px;
 
-  --cover-pad-top-sm: 13px;
+  --cover-pad-top-sm: 22px;
   --cover-pad-x-sm: 38px;
   --cover-pad-bottom-sm: 20px;
 
@@ -80,7 +80,7 @@
   --cover-footer-size: 0.85em;
   --cover-footer-lh: 1.05;
 
-  --cover-meta-gap: 0px;
+  --cover-meta-gap: 6px;
 }
 
 @media (max-width: 560px) {

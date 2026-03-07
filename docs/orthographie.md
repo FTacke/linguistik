@@ -224,7 +224,7 @@ In gelehrten oder aus dem Lateinischen übernommenen Wörtern hat die Schreibung
 
 #### Fremdwörterintegration
 
-Bei Fremdwörtern zeigt sich die größte Flexibilität. Manche Wörter wurden im Spanischen je nach Land unterschiedlich betont und entsprechend in die Schreibung integriert, sodass Varianten mit und ohne Akzent nebeneinander bestehen. Beispiele sind *fútbol* / *futbol*, *chófer* / *chofer* oder *vídeo* / *video*. Welche Form bevorzugt wird, hängt vom Land oder von der Tradition einzelner Regionen ab. Die spanische Orthographie lässt hier Raum für Variation spiegelt so – zumindest in diesem Bereich – die Diversität der spanischsprachigen Welt wider.
+Bei Fremdwörtern zeigt sich die größte Flexibilität. Manche Wörter wurden im Spanischen je nach Land unterschiedlich betont und entsprechend in die Schreibung integriert, sodass Varianten mit und ohne Akzent nebeneinander bestehen. Beispiele sind *fútbol* / *futbol*, *chófer* / *chofer* oder *vídeo* / *video*. Welche Form bevorzugt wird, hängt vom Land oder von der Tradition einzelner Regionen ab. Die spanische Orthographie lässt hier Raum für Variation und spiegelt so – zumindest in diesem Bereich – die Diversität der spanischsprachigen Welt wider.
 
 Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten (vgl. Kapitel [Fehlerlinguistik](fehlerlinguistik.md#nicht-jede-abweichung-ist-ein-fehler)). Lehrkräfte können Lernende darauf hinweisen, dass regionale Präferenzen bestehen und dass in Wörterbüchern wie dem *Diccionario de la lengua española* (DLE) die bevorzugte und alternative Form transparent verzeichnet ist. So kann Unsicherheit im Umgang mit verschiedenen Schreibweisen vermieden werden.
 
@@ -239,7 +239,6 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten 
     - Die Graphem-Phonem-Korrespondenzen sind weitgehend eindeutig. Nur wenige Ausnahmen wie `<b>` vs. `<v>` (beide `/b/`), stummes `<h>` oder die alternativen Grapheme für `/x/` (`<j>` und `<g>` vor `<e>`, `<i>`) müssen gelernt werden.  
     - Der Wortakzent ist zentral: Er wird aber immer nur dann durch die Tilde (`´`) markiert, wenn er nicht dem häufigsten Betonungsmuster folgt. Wer die Regeln kennt, macht kaum noch Fehler.
     - Die Orthographie ist im gesamten spanischsprachigen Raum einheitlich und orientiert sich weitgehend an der traditionellen Aussprache Kastiliens (Unterscheidung von interdentalem /θ/ und /s/ sowie von palatalem /ʎ/ und /ʝ/).
-    - Die Orthographie ist für die gesamte spanischsprachige Welt einheitlich, bildet aber die Aussprache Kastiliens ab. Für *seseantes* und in Bezug auf `<ll>` vs. `<y>` ist sie daher etwas ‚tiefer‘ als für Sprecher:innen, die diese Laute unterscheiden. Bei Fremdwörtern lässt sie zudem regionale Varianten zu.  
     - Variation gibt es bei v.a. bei Fremdwörtern (z.B. *video* vs. *vídeo*)  
     - Lernende können sich meist am Prinzip „Schreibe, wie du sprichst“ orientieren, sollten aber die systematischen Ausnahmen kennen. Zweifelsfälle lassen sich über die frei zugänglichen Wörterbuchressourcen ([DLE](https://dle.rae.es/), [DPD](https://www.rae.es/dpd/)) schnell klären
 
