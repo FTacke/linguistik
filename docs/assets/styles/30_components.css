@@ -150,9 +150,9 @@
    -------------------------------------------------------------------------- */
 
 /* --------------------------------------------------------------------------
-   Header Brand Title – Zweifarbig: nur Desktop ≥ 960px
-   Mobile/Drawer: .site-title unverändert (kein flex-Stack im Drawer)
-   ────────────────────────────────────────────────────────────────────────── */
+  Header Brand Title – Zweifarbig: Desktop ≥ 960px
+  Drawer-Branding wird darunter separat gespiegelt.
+  ────────────────────────────────────────────────────────────────────────── */
 
 @media (min-width: 960px) {
   .md-header .site-title {
@@ -176,12 +176,56 @@ body[data-md-color-scheme="slate"] .md-header .site-title__accent {
   color: var(--book-title-accent);
 }
 
-/* Drawer-Nav-Titel: Logo-Link (site-title Spans) ausblenden.
-   Das Label enthält eine .md-logo (unsere site-title Spans) + den rohen
-   site_name-Textknoten. Da unser "Logo" selbst Text ist, wäre beides
-   doppelt. Wie Zensical's eigene Seite: nur der Textknoten bleibt sichtbar. */
-.md-nav__title[for="__drawer"] .md-logo {
-  display: none;
+/* Drawer-Nav-Titel: denselben Brand-Block wie im Header rendern.
+   Das Label enthält zusätzlich einen rohen site_name-Textknoten; der bleibt
+   im DOM, wird visuell aber ausgeblendet, damit kein Duplikat erscheint. */
+@media (max-width: 76.234375em) {
+  .md-nav .md-nav__title[for="__drawer"] {
+    align-items: center;
+    font-size: 0;
+    gap: 0;
+  }
+
+  .md-nav .md-nav__title[for="__drawer"] > .md-logo {
+    display: inline-flex;
+    align-items: center;
+    flex: 0 0 auto;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    margin: 0;
+  }
+}
+
+.md-nav__title[for="__drawer"] > .md-logo {
+  display: inline-flex;
+  align-items: center;
+  margin: 0;
+}
+
+.md-nav__title[for="__drawer"] .site-title {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  gap: 0.15rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+  white-space: nowrap;
+}
+
+.md-nav__title[for="__drawer"] .site-title__line1,
+.md-nav__title[for="__drawer"] .site-title__main {
+  color: var(--book-fg);
+}
+
+.md-nav__title[for="__drawer"] .site-title__accent {
+  color: var(--book-title-accent-dark);
+}
+
+body[data-md-color-scheme="slate"] .md-nav__title[for="__drawer"] .site-title__accent {
+  color: var(--book-title-accent);
 }
 
 /* --------------------------------------------------------------------------

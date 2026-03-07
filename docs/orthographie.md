@@ -6,8 +6,8 @@ peer_review:
   - "Mariana Prukop"
   - "Gloria Gabriel"
   - "Lea-Marie Domin"
-created: "XX.XX.2025"
-last_modified: "02.09.2025"
+created: "26.08.2025"
+last_modified: "07.03.2026"
 ---
 
 # 3 Orthographie
