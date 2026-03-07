@@ -92,7 +92,7 @@ Ein weiterer Bereich, der im Unterricht besondere Aufmerksamkeit verdient, sind 
       </div>
     </div>
 
-    <p class="audio-source">Audios aus <a href="https://pronunciation-matters.de" target="_blank" rel="noopener noreferrer">Pronunciation Matters</a> und <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></p>
+    <p class="audio-source">Audios aus <a href="https://pronunciation-matters.de">Pronunciation Matters</a> und <a href="https://marele.online.uni-marburg.de">MAR.ELE</a></p>
 
 ### Konsonanten
 
@@ -105,9 +105,9 @@ Umgekehrt werden die Laute `/s/` (bzw. `/θ/`) und `/x/` üblicherweise durch `<
 Und auch hier liegen Chancen, denn diese Kombinatorik erklärt wiederum die Alternanzen in Verbformen wie *empe**za**r* – *empe**cé***, *lle**ga**r* – *lle**gué***, *co**ge**r* – *co**jo***.
 
 ??? expand "*México* und *zigzag*: Abweichungen von der Systematik"
-    Einige Wörter weichen von dieser Systematik ab und werden mit `<z>` vor `<e>` oder `<i>` geschrieben, obwohl dort eigentlich `<c>` zu erwarten wäre: *zeta*, *zen*, *nazi*, *kamikaze*, *zepelín* oder *enzima*. Dazu gehört auch *zigzag*: Hier verstärkt das Zickzack des Buchstabens das Bild der Bewegung selbst, die Schreibung steht also in einem ikonischen Verhältnis zum gemeinten Konzept. Auch viele Eigennamen und ihre Ableitungen weichen ab, etwa *Nueva Zelanda* – *neozelandés*, *Zimbabue* – *zimbabuense*. Wer mehr über solche Fälle erfahren möchte, findet [hier](https://www.rae.es/ortograf%C3%ADa/representaci%C3%B3n-gr%C3%A1fica-del-fonema-z){:target="_blank" rel="noopener noreferrer"} weitere Informationen zur Verwendung von `<z>`.
+    Einige Wörter weichen von dieser Systematik ab und werden mit `<z>` vor `<e>` oder `<i>` geschrieben, obwohl dort eigentlich `<c>` zu erwarten wäre: *zeta*, *zen*, *nazi*, *kamikaze*, *zepelín* oder *enzima*. Dazu gehört auch *zigzag*: Hier verstärkt das Zickzack des Buchstabens das Bild der Bewegung selbst, die Schreibung steht also in einem ikonischen Verhältnis zum gemeinten Konzept. Auch viele Eigennamen und ihre Ableitungen weichen ab, etwa *Nueva Zelanda* – *neozelandés*, *Zimbabue* – *zimbabuense*. Wer mehr über solche Fälle erfahren möchte, findet [hier](https://www.rae.es/ortograf%C3%ADa/representaci%C3%B3n-gr%C3%A1fica-del-fonema-z) weitere Informationen zur Verwendung von `<z>`.
 
-    Eine weitere Ausnahme bildet `<x>` mit dem Lautwert `/x/` in Eigennamen wie *México*, *Oaxaca* oder *Texas*. In älteren Sprachstufen des Spanischen stand der Buchstabe `<x>` für den Laut `[ʃ]`, der sich später durch Lautwandel aber zu `[x]` entwickelte. Infolgedessen empfahl die *Real Academia Española* im 20. Jahrhundert zeitweise die Schreibung *Mé**j**ico*, konnte sich damit aber nicht durchsetzen. Für das Land war die Beibehaltung von `<x>` wichtig, weil der Buchstabe als Teil der kulturellen Identität gilt. [Mehr](https://www.rae.es/ortograf%C3%ADa/representaci%C3%B3n-gr%C3%A1fica-del-fonema-j){:target="_blank" rel="noopener noreferrer"} zur Schreibung von *México*.
+    Eine weitere Ausnahme bildet `<x>` mit dem Lautwert `/x/` in Eigennamen wie *México*, *Oaxaca* oder *Texas*. In älteren Sprachstufen des Spanischen stand der Buchstabe `<x>` für den Laut `[ʃ]`, der sich später durch Lautwandel aber zu `[x]` entwickelte. Infolgedessen empfahl die *Real Academia Española* im 20. Jahrhundert zeitweise die Schreibung *Mé**j**ico*, konnte sich damit aber nicht durchsetzen. Für das Land war die Beibehaltung von `<x>` wichtig, weil der Buchstabe als Teil der kulturellen Identität gilt. [Mehr](https://www.rae.es/ortograf%C3%ADa/representaci%C3%B3n-gr%C3%A1fica-del-fonema-j) zur Schreibung von *México*.
 
 
 #### Unsystematische Alternanzen: `<b>` vs. `<v>`
@@ -144,7 +144,7 @@ Die Schwierigkeit für Lernende – und die Ursache vieler Aussprachefehler (vgl
       </div>
     </div>
 
-    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></p>
+    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de">MAR.ELE</a></p>
 
 
 Komplizierter wird es, wenn man bedenkt, dass das Phonem `/b/` – unabhängig davon, ob es mit `<b>` oder `<v>` geschrieben wird – je nach Kontext als `[b]` oder approximativ als `[β]` ausgesprochen wird. Besonders deutlich zeigt das die Gegenüberstellung von *beber* `[beˈβeɾ]` (< lat. *bibere*) und *vivir* `[biˈβiɾ]` (< lat. *vivere*). Am Wortanfang wird in beiden Wörtern `[b]` ausgesprochen, zwischen Vokalen jedoch `[β]` (vgl. Kapitel [Aussprache](aussprache.md#kontextabhangige-mal-so-mal-so-laute)). Die Orthographie blendet diese Allophonie aus und konserviert stattdessen die lateinische Herkunft der Wörter.
@@ -152,20 +152,20 @@ Komplizierter wird es, wenn man bedenkt, dass das Phonem `/b/` – unabhängig d
 Die vielen Zweifel, die hier aufkommen können, betreffen nicht nur den Unterricht des Spanischen als Fremdsprache, sondern sind auch in der spanischen Sprachgemeinschaft verbreitet, wo teils noch bis heute (von schlecht informierten Lehrenden) unterrichtet wird, dass der Buchstabe `<v>` eigentlich ein `/v/` repräsentiere, auch wenn die Aussprache nicht mehr üblich wäre. Selbst gebildete Erstsprachler:innen sprechen aufgrund dieses Irrtums gelegentlich `[v]` aus, wenn sie gebeten werden, einen Text vorzulesen. Wenig hilfreich war, dass dieser Irrtum sogar noch bis ins 20. Jahrhundert hinein in den Orthographie-Traktaten der *Real Academia Española* behauptet und von dort in Schulbücher übernommen wurde. So kommt es immer wieder zu einem Phänomen, das man als *spelling pronunciation* bezeichnet, d.h. eine Aussprache, die sich eng an der Schreibung orientiert und deshalb von der Norm abweicht bzw. zu Hyperkorrekturen führt.
 
 ??? expand "Gibt es den Laut `/v/` im Spanischen?"
-    Aus linguistischer und historischer Perspektive lässt sich feststellen, dass lediglich strittig ist, *seit wann* die Unterscheidung zwischen `/b/` und `/v/`, die es im Lateinischen gab, zugunsten von `/b/` aufgegeben wurde. Vermutlich bereits im Lateinischen, das zu Zeiten des römischen Reiches in der Hispania gesprochenen wurde, vielleicht aber auch erst im Altspanischen. Tatsache ist jedenfalls, dass es das Phonem `/v/` im Spanischen nicht gibt und entsprechende Aussprachen nur als Regionalismen vorkommen, etwa in Katalonien, wo es zu Interferenzen mit dem Katalanischen kommt und die regionale Aussprachenorm folglich von der nationalen Standardaussprache abweicht. Mehr dazu [hier](https://www.rae.es/ortograf%C3%ADa/representaci%C3%B3n-gr%C3%A1fica-del-fonema-b){:target="_blank" rel="noopener noreferrer"}.
+    Aus linguistischer und historischer Perspektive lässt sich feststellen, dass lediglich strittig ist, *seit wann* die Unterscheidung zwischen `/b/` und `/v/`, die es im Lateinischen gab, zugunsten von `/b/` aufgegeben wurde. Vermutlich bereits im Lateinischen, das zu Zeiten des römischen Reiches in der Hispania gesprochenen wurde, vielleicht aber auch erst im Altspanischen. Tatsache ist jedenfalls, dass es das Phonem `/v/` im Spanischen nicht gibt und entsprechende Aussprachen nur als Regionalismen vorkommen, etwa in Katalonien, wo es zu Interferenzen mit dem Katalanischen kommt und die regionale Aussprachenorm folglich von der nationalen Standardaussprache abweicht. Mehr dazu [hier](https://www.rae.es/ortograf%C3%ADa/representaci%C3%B3n-gr%C3%A1fica-del-fonema-b).
 
 
 Die Herausforderung liegt also darin, den Lernenden von Beginn an beizubringen, dass die Buchstaben `<b>` und `<v>` immer für `/b/` stehen.
 
 #### Stummer Buchstabe: `<h>`
 
-Ein Anfängerfehler ist es, das im Spanischen grundsätzlich ‚stumme‘ `<h>` auszusprechen (vgl. Kapitel [Aussprache](aussprache.md#keine-lautung) und [Fehlerlinguistik](fehlerlinguistik.md#einfluss-des-schriftbilds)). Der Buchstabe hat keinen Lautwert, weder am Wortanfang (z.B. *hay*, *hombre*) noch innerhalb des Wortes (z.B. *deshonra*, *prohibir*). Das `<h>` ist dabei manchmal etymologisch motiviert, wie in *haber* (< lat. *habēre*) oder *hombre* (< lat. *hominem*), manchmal wurde es zur Differenzierung von uneindeutigen Lautwerten vor Diphthongen eingeführt wie in *hueso* (< lat. *ossium*/*ossum*), oder es dient zur Kennzeichnung des Silbenbeginns wie in *cacahuete*. In jedem Fall bleibt es stumm. Wer mehr über das `<h>` im Spanischen wissen möchte, als die Lernenden wissen müssen, erfährt [hier](https://www.rae.es/ortograf%C3%ADa/la-h-muda){:target="_blank" rel="noopener noreferrer"} mehr.
+Ein Anfängerfehler ist es, das im Spanischen grundsätzlich ‚stumme‘ `<h>` auszusprechen (vgl. Kapitel [Aussprache](aussprache.md#keine-lautung) und [Fehlerlinguistik](fehlerlinguistik.md#einfluss-des-schriftbilds)). Der Buchstabe hat keinen Lautwert, weder am Wortanfang (z.B. *hay*, *hombre*) noch innerhalb des Wortes (z.B. *deshonra*, *prohibir*). Das `<h>` ist dabei manchmal etymologisch motiviert, wie in *haber* (< lat. *habēre*) oder *hombre* (< lat. *hominem*), manchmal wurde es zur Differenzierung von uneindeutigen Lautwerten vor Diphthongen eingeführt wie in *hueso* (< lat. *ossium*/*ossum*), oder es dient zur Kennzeichnung des Silbenbeginns wie in *cacahuete*. In jedem Fall bleibt es stumm. Wer mehr über das `<h>` im Spanischen wissen möchte, als die Lernenden wissen müssen, erfährt [hier](https://www.rae.es/ortograf%C3%ADa/la-h-muda) mehr.
 
 #### ‚Unspanische‘ Buchstaben: `<w>` und `<k>` in Lehnwörtern
 
 Die Buchstaben `<w>` und `<k>` gehören zwar zum Alphabet, sind aber keine genuinen Grapheme des Spanischen. Sie erscheinen fast ausschließlich in Fremdwörtern und Eigennamen, etwa in *whisky*, *windsurf*, *wifi*, *Wagner*, *kilo* oder *kayak*. `<k>` wird dabei immer als `/k/` ausgesprochen, `<w>` je nach Ursprung als `[b]` (*Wagner*), `[w]` (*wifi*, *windsurf*) oder `[gw]` (*whisky*). Am Beispiel *whisky* zeigt sich, dass Versuche einer konsequenten Anpassung der Graphie (*güisqui*) oft scheitern, weil viele Sprecher:innen an die internationale Schreibweise gewöhnt sind.
 
-Wer Genaueres über die Schreibung von `<w>` und `<k>` im Spanischen erfahren möchte, findet [hier](https://www.rae.es/buen-uso-español/el-fonema-b-y-las-letras-b-v-w-i){:target="_blank" rel="noopener noreferrer"} und [hier](https://www.rae.es/ortograf%C3%ADa/representaci%C3%B3n-gr%C3%A1fica-del-fonema-b?resaltar=wagner#I.6.2.2.1){:target="_blank" rel="noopener noreferrer"} weitere Informationen und Beispiele. Für den Unterricht genügt der Hinweis, dass es sich um Randphänomene handelt, die nur bei Nachfrage kurz erklärt werden müssen.  
+Wer Genaueres über die Schreibung von `<w>` und `<k>` im Spanischen erfahren möchte, findet [hier](https://www.rae.es/buen-uso-español/el-fonema-b-y-las-letras-b-v-w-i) und [hier](https://www.rae.es/ortograf%C3%ADa/representaci%C3%B3n-gr%C3%A1fica-del-fonema-b?resaltar=wagner#I.6.2.2.1) weitere Informationen und Beispiele. Für den Unterricht genügt der Hinweis, dass es sich um Randphänomene handelt, die nur bei Nachfrage kurz erklärt werden müssen.  
  
 ## Akzentuierung: gesprochen und geschrieben
 
@@ -230,7 +230,7 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten 
 
 !!! context "Wie erkennt man gültige Varianten im Wörterbuch?"
     Im *Diccionario de la lengua española* (DLE) wird die übliche Form als Lemma angegeben. Alternative Schreibweisen erscheinen im Eintrag mit dem Hinweis „también“. Auf diese Weise wird deutlich, dass beide Formen korrekt sind, auch wenn eine als die bevorzugte Normschreibung gilt.
-    Beispiel: Beim Lemma [*video*](https://dle.rae.es/video){:target="_blank" rel="noopener noreferrer"} findet sich die Angabe „también *vídeo*“. Die Alternativschreibweise wird als typisch für Spanien markiert, die Schreibweise ohne Tilde mit Betonung auf der vorletzten Silbe damit als mehrheitlich verwendete Form.
+    Beispiel: Beim Lemma [*video*](https://dle.rae.es/video) findet sich die Angabe „también *vídeo*“. Die Alternativschreibweise wird als typisch für Spanien markiert, die Schreibweise ohne Tilde mit Betonung auf der vorletzten Silbe damit als mehrheitlich verwendete Form.
   
 
 !!! summary "Zusammenfassung"
@@ -241,27 +241,27 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten 
     - Die Orthographie ist im gesamten spanischsprachigen Raum einheitlich und orientiert sich weitgehend an der traditionellen Aussprache Kastiliens (Unterscheidung von interdentalem /θ/ und /s/ sowie von palatalem /ʎ/ und /ʝ/).
     - Die Orthographie ist für die gesamte spanischsprachige Welt einheitlich, bildet aber die Aussprache Kastiliens ab. Für *seseantes* und in Bezug auf `<ll>` vs. `<y>` ist sie daher etwas ‚tiefer‘ als für Sprecher:innen, die diese Laute unterscheiden. Bei Fremdwörtern lässt sie zudem regionale Varianten zu.  
     - Variation gibt es bei v.a. bei Fremdwörtern (z.B. *video* vs. *vídeo*)  
-    - Lernende können sich meist am Prinzip „Schreibe, wie du sprichst“ orientieren, sollten aber die systematischen Ausnahmen kennen. Zweifelsfälle lassen sich über die frei zugänglichen Wörterbuchressourcen ([DLE](https://dle.rae.es/){:target="_blank" rel="noopener noreferrer"}, [DPD](https://www.rae.es/dpd/){:target="_blank" rel="noopener noreferrer"}) schnell klären
+    - Lernende können sich meist am Prinzip „Schreibe, wie du sprichst“ orientieren, sollten aber die systematischen Ausnahmen kennen. Zweifelsfälle lassen sich über die frei zugänglichen Wörterbuchressourcen ([DLE](https://dle.rae.es/), [DPD](https://www.rae.es/dpd/)) schnell klären
 
 
 ??? weiterlesen "Wer mehr wissen will"
-    Das grundlegende Referenzwerk ist die *[Ortografía de la lengua española](https://www.rae.es/ortograf%C3%ADa/){:target="_blank" rel="noopener noreferrer"}* (OLE, RAE/ASALE 2010) der Real Academia Española und der Asociación de Academias de la Lengua Española. Sie ist vollständig online verfügbar und bündelt alle Regeln, erläutert Sonderfälle und gibt Hinweise zu Fremdwörtern und Varianten. Ergänzend informiert das *[Diccionario panhispánico de dudas](https://www.rae.es/dpd/){:target="_blank" rel="noopener noreferrer"}* (RAE/ASALE 2025) über orthographische Zweifelsfälle, während das *[Diccionario de la lengua española](https://dle.rae.es){:target="_blank" rel="noopener noreferrer"}* (DLE) auch alternative Schreibungen angibt (s.o.).
+    Das grundlegende Referenzwerk ist die *[Ortografía de la lengua española](https://www.rae.es/ortograf%C3%ADa/)* (OLE, RAE/ASALE 2010) der Real Academia Española und der Asociación de Academias de la Lengua Española. Sie ist vollständig online verfügbar und bündelt alle Regeln, erläutert Sonderfälle und gibt Hinweise zu Fremdwörtern und Varianten. Ergänzend informiert das *[Diccionario panhispánico de dudas](https://www.rae.es/dpd/)* (RAE/ASALE 2025) über orthographische Zweifelsfälle, während das *[Diccionario de la lengua española](https://dle.rae.es)* (DLE) auch alternative Schreibungen angibt (s.o.).
 
-    Für einen historischen und systematischen Überblick sind Meisenburgs Studien zu den romanischen Schriftsystemen (1996) besonders empfehlenswert. Tacke (2020) gibt eine aktuelle Gesamtdarstellung zu Orthographie und Orthoepie (Standardaussprache) im Spanischen. Einen praxisorientierten Zugang bietet Martínez de Sousa (2014) mit seinem *Manual de estilo de la lengua española*. Nützlich sind außerdem die digitalen Beratungsangebote der RAE ([@RAEinforma](https://x.com/RAEinforma)) und der [Fundéu](https://fundeu.es){:target="_blank" rel="noopener noreferrer"}, die laufend neue orthographische Empfehlungen bereitstellen.
+    Für einen historischen und systematischen Überblick sind Meisenburgs Studien zu den romanischen Schriftsystemen (1996) besonders empfehlenswert. Tacke (2020) gibt eine aktuelle Gesamtdarstellung zu Orthographie und Orthoepie (Standardaussprache) im Spanischen. Einen praxisorientierten Zugang bietet Martínez de Sousa (2014) mit seinem *Manual de estilo de la lengua española*. Nützlich sind außerdem die digitalen Beratungsangebote der RAE ([@RAEinforma](https://x.com/RAEinforma)) und der [Fundéu](https://fundeu.es), die laufend neue orthographische Empfehlungen bereitstellen.
 
-    Für die Unterrichtspraxis besonders hilfreich ist das [MAR.ELE-Korpus](https://marele.online.uni-marburg.de){:target="_blank" rel="noopener noreferrer"} (Tacke 2023ff.). Es dokumentiert die Aussprache von Lernenden des Spanischen und erlaubt den direkten Vergleich mit Modellsprecher:innen. So lässt sich u.a. auch das Phänomen der *spelling pronunciation* anschaulich nachvollziehen (vgl. die Audiobeispiele zu `<b>` und `<v>` oben).
+    Für die Unterrichtspraxis besonders hilfreich ist das [MAR.ELE](https://marele.online.uni-marburg.de)-Korpus (Tacke 2023–2024). Es dokumentiert die Aussprache von Lernenden des Spanischen und erlaubt den direkten Vergleich mit Modellsprecher:innen. So lässt sich u.a. auch das Phänomen der *spelling pronunciation* anschaulich nachvollziehen (vgl. die Audiobeispiele zu `<b>` und `<v>` oben).
 
 ## Literatur
 
 <div class="literatur" markdown="1">
 
-- Martínez de Sousa, José (³2014): *Ortografía y ortotipografía del español actual*. Gijón: Trea. Online: [http://www.martinezdesousa.net/](http://www.martinezdesousa.net/){:target="_blank" rel="noopener noreferrer"}
+- Martínez de Sousa, José (³2014): *Ortografía y ortotipografía del español actual*. Gijón: Trea. Online: [http://www.martinezdesousa.net/](http://www.martinezdesousa.net/)
 - Meisenburg, Trudel (1996): *Romanische Schriftsysteme im Vergleich. Eine diachrone Studie*. Tübingen: Narr.
-- Real Academia Española / Asociación de Academias de la Lengua Española (2010): *Ortografía de la lengua española*. Madrid: Espasa. Online: [https://www.rae.es/ortografía](https://www.rae.es/ortograf%C3%ADa){:target="_blank" rel="noopener noreferrer"}
-- Real Academia Española / Asociación de Academias de la Lengua Española (2025): *Diccionario panhispánico de dudas*. 2.ª ed. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/){:target="_blank" rel="noopener noreferrer"}
-- Real Academia Española (online): *Diccionario de la lengua española (DLE)*. 23.ª ed. Online: [https://dle.rae.es](https://dle.rae.es){:target="_blank" rel="noopener noreferrer"}
+- Real Academia Española / Asociación de Academias de la Lengua Española (2010): *Ortografía de la lengua española*. Madrid: Espasa. Online: [https://www.rae.es/ortografía](https://www.rae.es/ortograf%C3%ADa)
+- Real Academia Española / Asociación de Academias de la Lengua Española (2025): *Diccionario panhispánico de dudas*. 2.ª ed. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/)
+- Real Academia Española (online): *Diccionario de la lengua española (DLE)*. 23.ª ed. Online: [https://dle.rae.es](https://dle.rae.es)
 - Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Lebsanft, Franz / Tacke, Felix (Hg.): *Manual of Standardization in the Romance Languages*. Berlin/Boston: De Gruyter, 559–579.
-- Tacke, Felix (2023ff.): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg. Online: [https://marele.online.uni-marburg.de](https://marele.online.uni-marburg.de){:target="_blank" rel="noopener noreferrer"}
+- Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg. Online: [https://marele.online.uni-marburg.de](https://marele.online.uni-marburg.de)
 
 </div>
 

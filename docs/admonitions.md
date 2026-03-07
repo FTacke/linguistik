@@ -88,7 +88,7 @@ Das Phonem `/b/` wird im Spanischen unabhängig davon, ob es mit `<b>` oder `<v>
     </audio>
     </div>
     </div>
-    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></p>
+    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de">MAR.ELE</a></p>
 
 ---
 
@@ -195,7 +195,7 @@ Die Unterscheidung zwischen einfachem `/ɾ/` und mehrfach vibrierendem `/r/` ist
     </audio>
     </div>
     </div>
-    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></p>
+    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de">MAR.ELE</a></p>
 
 ---
 

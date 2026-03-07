@@ -53,7 +53,7 @@ Ein Grund dafür, warum das Deutsche oft als ‚abgehackt‘ empfunden wird, lie
     </div>
     </div>
 
-    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></p>
+    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de">MAR.ELE</a></p>
 
 
 Sobald man Lernende für diese Details sensibilisiert hat, lässt sich bei den Vokalen rasch eine nahezu zielsprachliche Kompetenz erreichen. Etwas größere Herausforderungen liegen dagegen im Bereich der Konsonanten.
@@ -84,7 +84,7 @@ Sowohl das Deutsche als auch das Spanische verfügen über mehrere R-Laute. Im D
     </audio>
     </div>
     </div>
-    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></p>
+    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de">MAR.ELE</a></p>
 
 
 Im Spanischen werden die R-Laute dagegen immer vorne am Zahndamm durch Zungenschlag bzw. -vibration gebildet. Je nach Herkunftsregion (z.B. Süddeutschland) und Erstsprache (Deutsch oder eine [Herkunftssprache](herkunftssprachen.md)) fällt es Lernenden leichter oder schwerer, die spanischen R-Laute zu artikulieren. Wenn vom ‚gerollten R‘ als Herausforderung die Rede ist, gilt das in erster Linie im Vergleich zur standarddeutschen Aussprache. Unabhängig davon ist zu beachten, dass das Spanische zwei ‚gerollte‘ R-Laute besitzt – ein einfaches `/ɾ/` und ein mehrfach vibrierendes `/r/` – die in bestimmten lautlichen Kontexten bedeutungsunterscheidend sind und somit den Status eigenständiger Phoneme haben. Der Kontrast wird besonders deutlich in (Minimal-)Paaren wie *pero* `[ˈpeɾo]` und *perro* `[ˈpero]` oder *caro* `[ˈkaɾo]` und *carro* `[ˈkaro]`. Dieser Unterschied ist allerdings nur innerhalb von Wörtern relevant, in allen anderen Positionen gibt es nur Präferenzen für bestimmte Varianten: Zielsprachlich normal – und mit fortgeschrittenen Schüler:innen einzuüben – ist das mehrfache Vibrieren am Wortanfang, während am Wortende einfaches Anschlagen der Zungenspitze üblich ist (Erstsprachler:innen vibrieren nur in besonders emphatischer Rede mehrfach). Die Orthographie spiegelt also nur den relevanten Unterschied im Wort wider und bildet die übrigen Feinheiten nicht ab (vgl. [Orthographie](./orthographie.md)).
@@ -109,7 +109,7 @@ Im Spanischen werden die R-Laute dagegen immer vorne am Zahndamm durch Zungensch
 
 ### Neu zu erlernende Laute
 
-Neben Lauten, die im Deutschen anders artikuliert werden als im Spanischen, besitzt das Spanische auch einige wenige Laute, die im Deutschen gar nicht vorkommen. Hierzu gehört der umgangssprachlich als ‚Lispellaut‘ bezeichnete Interdentallaut `/θ/`, der mit der Zungenspitze zwischen den Schneidezähnen artikuliert wird. Lernende werden ihn bereits kennen, denn er entspricht dem stimmlosen *th* des Englischen, wie in *think*. Im Spanischen ist er allerdings nicht universell: Er gehört zwar zur Aussprachenorm Spaniens, wird jedoch fast ausschließlich in Zentral- und Nordspanien verwendet. Ansonsten kommt er in der spanischsprachigen Welt nirgendwo vor und stellt somit global betrachtet nur die Aussprache einer Minderheit der spanischsprechenden Menschen dar (vgl. [Karte und Zahlen](./variation/map_countries.md)). Mehr dazu und zu der Frage, wie man damit im Unterricht umgeht, liest Du im Kapitel [Aussprachevariation](./variation/variation_aussprache.md). Sprecher:innen, die zwischen `/s/` und `/θ/` unterscheiden (z.B. *casa* vs. *caza*), werden als *distinguidores* bezeichnet. Die Mehrheit, die keinen Unterschied macht und nur das Phonem `/s/` kennt (Teile Spaniens und ganz Hispanoamerika), werden dagegen als *seseantes* bezeichnet, das Phänomen als *seseo* (mehr dazu [hier](https://www.rae.es/dpd/seseo){:target="_blank" rel="noopener noreferrer"}). Für den Unterricht ist dabei zentral, dass der *seseo* in der gesamten spanischsprachigen Welt als genauso korrekt gilt wie die Unterscheidung.
+Neben Lauten, die im Deutschen anders artikuliert werden als im Spanischen, besitzt das Spanische auch einige wenige Laute, die im Deutschen gar nicht vorkommen. Hierzu gehört der umgangssprachlich als ‚Lispellaut‘ bezeichnete Interdentallaut `/θ/`, der mit der Zungenspitze zwischen den Schneidezähnen artikuliert wird. Lernende werden ihn bereits kennen, denn er entspricht dem stimmlosen *th* des Englischen, wie in *think*. Im Spanischen ist er allerdings nicht universell: Er gehört zwar zur Aussprachenorm Spaniens, wird jedoch fast ausschließlich in Zentral- und Nordspanien verwendet. Ansonsten kommt er in der spanischsprachigen Welt nirgendwo vor und stellt somit global betrachtet nur die Aussprache einer Minderheit der spanischsprechenden Menschen dar (vgl. [Karte und Zahlen](./variation/map_countries.md)). Mehr dazu und zu der Frage, wie man damit im Unterricht umgeht, liest Du im Kapitel [Aussprachevariation](./variation/variation_aussprache.md). Sprecher:innen, die zwischen `/s/` und `/θ/` unterscheiden (z.B. *casa* vs. *caza*), werden als *distinguidores* bezeichnet. Die Mehrheit, die keinen Unterschied macht und nur das Phonem `/s/` kennt (Teile Spaniens und ganz Hispanoamerika), werden dagegen als *seseantes* bezeichnet, das Phänomen als *seseo* (mehr dazu [hier](https://www.rae.es/dpd/seseo)). Für den Unterricht ist dabei zentral, dass der *seseo* in der gesamten spanischsprachigen Welt als genauso korrekt gilt wie die Unterscheidung.
 
 ??? expand "*Seseo* vs. *Distinción*"
     Wie beim *yeísmo* (s.u.) wird beim *seseo* zwar ebenfalls von der Neutralisierung der Lautopposition von `/θ/` und `/s/` gesprochen, allerdings sollte man wissen, dass der Interdentallaut in den Gebieten, in denen der *seseo* vorherrscht, nie existiert hat. In Zentral- und Nordspanien hat sich der Interdental `/θ/` historisch aus der Reduktion der Affrikaten `/ts/` und `/dz/` entwickelt, während diese Laute in südlichen Gebieten zu `/s/` wurden.
@@ -174,7 +174,7 @@ Wer Lernende zu einer besonders zielsprachlichen Kompetenz führen möchte, muss
     </div>
     </div>
 
-    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></p>
+    <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de">MAR.ELE</a></p>
 
 
 Die Kontextregel hinter dieser zielsprachlichen Aussprache der stimmhaften Plosive `/b/`, `/d/` und `/g/` ist, dass diese nur am Wortanfang und nach einem Nasallaut (`/m/` oder `/n/`) wie im Deutschen realisiert werden. In allen anderen Positionen werden sie stattdessen als stimmhafte Approximanten `[β ð ɣ]` artikuliert. Der Unterschied zu `[b d g]` liegt nur darin, dass hier kein vollständiger Verschluss beim Artikulieren gebildet wird, sondern man nur *annähert* (daher die Bezeichnung *Approximanten*), sodass fast Reibelaute (*Frikative*) entstehen. Die Artikulation wirkt daher etwas ‚weicher‘ und nicht so ‚explosiv‘ wie bei den Verschlusslauten (oder *Plosiven*).

@@ -40,7 +40,7 @@ Da die Vokale in der spanischsprachigen Welt vergleichsweise wenig Variation auf
 ### *Distinción* vs. *Seseo*, oder: „Muss man lispeln wie die Spanier:innen?“
 Wer Spanisch in der Schule gelernt hat, spricht *caza* und *casa* vermutlich unterschiedlich aus. In den meisten deutschen Schulbüchern wird die Unterscheidung zwischen `/s/` und `/θ/` als ‚Normalfall‘ unterrichtet und den Schüler:innen die Aussprache des Interdentallautes beigebracht. Wann welcher Laut auszusprechen ist, erkennt man orthografisch: `/s/` wird im Spanischen graphisch immer durch `<s>` wiedergegeben, `/θ/` wird hingegen entweder durch `<z>` repräsentiert (vor allem, wenn `<a o u>` folgen, wie in *zapato*, *zorro* oder *azul*) oder durch `<c>` in den Sequenzen `<ce>` und `<ci>` (wie in *cena* oder *cine*).  
 
-Was aber oft nicht deutlich (genug) wird: Die *distinción* (siehe [Aussprache](../aussprache.md)) und damit die Verwendung des Interdentallautes ist eigentlich nur eine regionale Besonderheit – typisch für weite Teile Spaniens, aber nicht für die große Mehrheit der spanischsprachigen Gemeinschaften. In fast ganz Hispanoamerika – und auch auf den Kanarischen Inseln oder in Teilen Andalusiens – beinhaltet das phonologische System nur den Laut /s/, was man als *seseo* bezeichnet (vgl. [DPD, s.v. *seseo*](https://www.rae.es/dpd/seseo){:target="_blank" rel="noopener noreferrer"}). Und da der Interdentallaut dort nicht vorkommt, kann die Aussprache von *caza* als `[ˈka.sa]` oder von *cena* als `[ˈse.na]` natürlich weder als ‚falsch' noch als ‚dialektal' bezeichnet werden. Der *seseo* ist also für den Großteil der spanischsprachigen Welt die ‚richtige' und ‚gute' Aussprache.
+Was aber oft nicht deutlich (genug) wird: Die *distinción* (siehe [Aussprache](../aussprache.md)) und damit die Verwendung des Interdentallautes ist eigentlich nur eine regionale Besonderheit – typisch für weite Teile Spaniens, aber nicht für die große Mehrheit der spanischsprachigen Gemeinschaften. In fast ganz Hispanoamerika – und auch auf den Kanarischen Inseln oder in Teilen Andalusiens – beinhaltet das phonologische System nur den Laut /s/, was man als *seseo* bezeichnet (vgl. [DPD, s.v. *seseo*](https://www.rae.es/dpd/seseo)). Und da der Interdentallaut dort nicht vorkommt, kann die Aussprache von *caza* als `[ˈka.sa]` oder von *cena* als `[ˈse.na]` natürlich weder als ‚falsch' noch als ‚dialektal' bezeichnet werden. Der *seseo* ist also für den Großteil der spanischsprachigen Welt die ‚richtige' und ‚gute' Aussprache.
 
 Was bedeutet das nun für den Unterricht? Soll man beides unterrichten? Kann man sich auch entscheiden, anders als im Schulbuch den *seseo* als Grundlage zu unterrichten?  
 
@@ -114,7 +114,7 @@ In jedem Fall sollte ich, wenn ich – vor allem fortgeschrittenen Lernende – 
 
     </div>
 
-    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">CO.RA.PAN</a></p>
+    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de">CO.RA.PAN</a></p>
 
 
 Es gibt verschiedene Pro und Contra für beide Möglichkeiten, die man bedenken sollte:  
@@ -219,7 +219,7 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     </div>
     </div>
 
-    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">CO.RA.PAN</a></p>
+    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de">CO.RA.PAN</a></p>
 
 
 Für den Unterricht bedeutet das: Man kann dem *yeísmo* ganz entspannt begegnen. Wenn Lehrwerke noch die traditionelle lautliche Unterscheidung zwischen `/ʎ/` und `/ʝ/` erwähnen, lohnt es sich, das einzuordnen und kurz zu erklären, dass diese Unterscheidung in der Realität kaum noch vorkommt. Unterrichtet wird schließlich eine lebendige Sprache, keine reine „Schulbuchsprache“.
@@ -310,7 +310,7 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
 
     </div>
 
-    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">CO.RA.PAN</a></p>
+    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de">CO.RA.PAN</a></p>
 
 
 Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito oder La Paz – zeichnen sich durch eine klare Artikulation des `/s/` auch am Silbenende aus. Dies steht nicht nur in geographischem, sondern oft auch in historischem Zusammenhang: Diese Städte waren während der Kolonialzeit enger mit den spanischen Zentren verbunden, in denen das `/s/` ebenfalls deutlich gesprochen wird. Dort wird die Abschwächung des `/s/` daher eher als Abweichung von der Norm bewertet. Die Abschwächung wird hier mit informelleren Redesituationen  und manchmal sogar mit einem niedrigeren Bildungsgrad assoziiert, besitzt also eine situationelle und soziale Dimension. Die Bewertung desselben Phänomens kann also je nach Ort, Region und Land ganz anders ausfallen!  
@@ -398,7 +398,7 @@ Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito 
 
     </div>
 
-    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">CO.RA.PAN</a></p>
+    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de">CO.RA.PAN</a></p>
 
 
 #### Und was bedeutet das für den Unterricht?
@@ -414,7 +414,7 @@ Auch hier kann die Thematisierung der Variation mit fortgeschrittenen Schüler:i
 Die oben behandelten Phänomene sind bereits die wichtigsten und auffälligsten, wenn es um Aussprachevariation und ihre Thematisierung im Unterricht geht. Es gibt natürlich noch weitere Merkmale, aber sie werden nur kurz angesprochen für den Fall, dass sie einmal in authentischem Material auftauchen. Sicherlich wird es nur in seltenen Fällen möglich sein, so tief in die Aussprachevariation einzutauchen.  
 
 Zu nennen ist hier die sogenannte Velarisierung des /n/, bei der das /n/ weiter hinten artikuliert wird, wie in engl. *si**ng*** `[sɪŋ]`. Das passiert vor allem am Wortende, z.B. in *pan* `[paŋ]` anstelle von `[pan]`. Teilweise wird der Laut sogar abgeschwächt, sodass nur eine Nasalisierung des Vokals bleibt (wie im Französischen übrigens!). Das Phänomen kommt in verschiedenen Teilen Spaniens vor und hat sich aus dem südspanischen Spanisch auch in Hispanoamerika verbreitet, wo es ein Kennzeichen besonders ‚progressiver‘ Varietäten ist, also wieder vor allem die Karibik und Küstenregionen betrifft.
-Typisch für karibische Varietäten sowie Teile Andalusiens ist auch die Vertauschung oder Angleichung von `/l/` und `/r/` am Silbenende. So kann etwa *amor* als *amo**l*** `[a.ˈmol]` oder *soldado* als *so**r**dado* `[soɾ.ˈda.ðo]` ausgesprochen werden. Ein bekanntes Beispiel ist auch die Aussprache von Nueva York als `[ˈnwe.βa.ˈʝol]` (vgl. den [Song von Bad Bunny](https://youtu.be/KU5V5WZVcVE?feature=shared&t=36){:target="_blank" rel="noopener noreferrer"}).
+Typisch für karibische Varietäten sowie Teile Andalusiens ist auch die Vertauschung oder Angleichung von `/l/` und `/r/` am Silbenende. So kann etwa *amor* als *amo**l*** `[a.ˈmol]` oder *soldado* als *so**r**dado* `[soɾ.ˈda.ðo]` ausgesprochen werden. Ein bekanntes Beispiel ist auch die Aussprache von Nueva York als `[ˈnwe.βa.ˈʝol]` (vgl. den [Song von Bad Bunny](https://youtu.be/KU5V5WZVcVE?feature=shared&t=36)).
 
 
 ## Aussprache im Unterricht: Praktisch und ‚anhörlich‘
