@@ -350,5 +350,5 @@ link = "https://creativecommons.org/licenses/by-sa/4.0/"
 prod_domain = "linguistik.hispanistica.com"
 
 [project.extra.analytics.goatcounter]
-endpoint = "https://hispanistica.goatcounter.com/count"
+endpoint = "https://linguistik.goatcounter.com/count"
 script_src = "//gc.zgo.at/count.js"

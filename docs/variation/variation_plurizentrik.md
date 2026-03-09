@@ -17,8 +17,7 @@ Spanisch ist eine Weltsprache mit über 500 Millionen Sprecher:innen in mehr als
 Diese Vielfalt zeigt sich auf allen Ebenen: in der Aussprache, im Wortschatz, in grammatischen Strukturen und in typischen Redewendungen. Manche Unterschiede sind sofort hörbar – etwa, dass ein *c* oder *z* in Mexiko anders ausgesprochen wird als in Spanien –, andere fallen erst bei genauerem Hinhören oder Lesen auf, zum Beispiel die Verwendung von *ustedes* statt *vosotros*. Für Lernende sind solche Unterschiede oft das erste sichtbare Zeichen sprachlicher Variation.
 
 Traditionell orientierte sich der Spanischunterricht lange am sogenannten *peninsularen* Standard, also an der in Spanien kodifizierten Norm, was sich bis heute an der Gestaltung von Schulbüchern und Unterrichtsmaterialien erkennen lässt. Heute gilt diese einseitige Orientierung als überholt. Aus linguistischer Perspektive spricht man vielmehr von mehreren gleichberechtigten Standardvarietäten des Spanischen, ähnlich wie im Englischen weder das *British English* dem *American English* überlegen ist noch umgekehrt.
-created       – Datumsstring DD.MM.YYYY (optional, rechte Spalte oben)
-    last_modified – Datumsstring DD.MM.YYYY (optional, rechte Spalte unten
+
 !!! tip "Hispanophonie: Karte und Zahlen"
     <div class="map-admonition">
     Entdecken Sie auf einer Karte der Hispanophonie, wie das Spanische weltweit verbreitet ist und welches Gewicht die einzelnen Länder in der spanischsprachigen Welt haben (quantitativ).
