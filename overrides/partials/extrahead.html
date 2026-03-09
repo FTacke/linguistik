@@ -6,7 +6,7 @@
 <script>
 (function () {
   try {
-    if (!["{{ prod_domain }}", "www.{{ prod_domain }}"].includes(window.location.hostname)) return;
+    if (!window.location.hostname.endsWith("hispanistica.com")) return;
 
     var s = document.createElement("script");
     s.async = true;
