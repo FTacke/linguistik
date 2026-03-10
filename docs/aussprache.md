@@ -210,7 +210,7 @@ Nicht jedes Graphem hat im Spanischen einen Lautwert. Das `<h>` ist immer stumm 
 
     Eine Vertiefung der Vermittlung der Aussprache des Spanischen als Fremdsprache mit konkreteren Tipps für die Umsetzung im Unterricht bieten Gil Fernández (2007), die Beiträge in Gil Fernández (Hg.) (2012) und nicht zuletzt Reimann (2016). Benet/Pesková (2017) zeigen deutlich, wie man eine zielsprachliche Aussprache vermitteln kann.
 
-    Anschauungsmaterial für die Aussprache des Spanischen als Fremdsprache und den Kontrast zur zielsprachlichen Aussprache bietet das [MAR.ELE-Korpus](https://marele.online.uni-marburg.de) (Tacke 2023ff.). Dort wird die Möglichkeit geboten, die Aussprache einzelner Wörter, Sätze und eines ganzen Textes durch verschiedene Lernenden (L2/L3) anzuhören und mit der Zielaussprache von Modellsprecher:innen zu vergleichen. (Aus Datenschutzgründen wird ein Zugang benötigt, den man erhält, wenn man dort auf „solicitud“ klickt.)
+    Anschauungsmaterial für die Aussprache des Spanischen als Fremdsprache und den Kontrast zur zielsprachlichen Aussprache bietet das [MAR.ELE-Korpus](https://marele.online.uni-marburg.de) (Tacke 2023–2024). Dort wird die Möglichkeit geboten, die Aussprache einzelner Wörter, Sätze und eines ganzen Textes durch verschiedene Lernenden (L2/L3) anzuhören und mit der Zielaussprache von Modellsprecher:innen zu vergleichen. (Aus Datenschutzgründen wird ein Zugang benötigt, den man erhält, wenn man dort auf „solicitud“ klickt.)
 
 ## Literatur
 
@@ -228,7 +228,7 @@ Nicht jedes Graphem hat im Spanischen einen Lautwert. Das `<h>` ist immer stumm 
 - Real Academia Española / Asociación de Academias de la Lengua Española (2010): *Ortografía de la lengua española*. Madrid: Espasa. Online: [https://www.rae.es/ortografía/](https://www.rae.es/ortograf%c3%ada/)
 - Real Academia Española / Asociación de Academias de la Lengua Española (2005): *Diccionario panhispánico de dudas*. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/)
 - Reimann, Daniel (2016): *Aussprache im Unterricht der romanischen Sprachen (Französisch, Spanisch, Italienisch, Portugiesisch)*. Münster: LIT Verlag.
-- Tacke, Felix (2023ff.): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg. Online: [https://marele.online.uni-marburg.de](https://marele.online.uni-marburg.de)
+- Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)
 
 </div>
 
