@@ -9,19 +9,19 @@ docs/
 │   │   ├── corapan/        ← CO.RA.PAN-Audio-Beispiele (arg/bol/chi/col/cr/ecu/es-can/es-mad/mex/nic/per)
 │   │   └── marele/         ← MAR.ELE-Audio-Beispiele (agua, baron_varon, bebedor, glottis, r)
 │   ├── data/
-│   │   ├── countries.json          ← Hispanophonie-Länder (für map_countries)
+│   │   ├── countries.json          ← Hispanophonie-Länder (für anhang)
 │   │   ├── herkunftssprachen.json  ← Herkunftssprachen-Daten (für map.js)
 │   │   └── variation_tempora.json  ← Tempusvariation-Daten (für map_variation_tempora)
 │   ├── images/
 │   │   ├── toolkit_logo.png         ← Logo (Kopfzeile)
 │   │   ├── toolkit_favicon.png      ← Favicon
 │   │   ├── hispanistica_badge.png   ← Hispanistica-Badge (Startseite)
-│   │   ├── map_countries.png        ← Map-Vorschaubild (Desktop)
-│   │   └── map_countries_detail.png ← Map-Vorschaubild (Detail)
+│   │   ├── anhang.png              ← Map-Vorschaubild (Desktop)
+│   │   └── anhang_detail.png       ← Map-Vorschaubild (Detail)
 │   ├── javascripts/
 │   │   ├── map_ui.js               ← Gemeinsame Leaflet-UX-Funktionen (MapUI)
 │   │   ├── map.js                  ← Herkunftssprachen-Karte (data-map="herkunft")
-│   │   ├── map_countries.js        ← Hispanophonie-Karte (data-map="variation")
+│   │   ├── anhang.js               ← Hispanophonie-Karte (data-map="variation")
 │   │   └── map_variation_tempora.js ← Tempusvariation-Karte (data-map="variation_tempora")
 │   └── styles/
 │       ├── 00_tokens.css    ← Nur CSS Custom Properties / Design Tokens
@@ -37,12 +37,12 @@ docs/
 ├── kreativitaet.md
 ├── wandel.md
 ├── herkunftssprachen.md
+├── anhang.md
 └── variation/
     ├── variation_plurizentrik.md
     ├── variation_aussprache.md
     ├── variation_grammatik.md
-    ├── variation_klassenraum.md
-    └── map_countries.md
+    └── variation_klassenraum.md
 ```
 
 `overrides/partials/content.html` – Template-Override für Kapitel-Meta (s.u.)
@@ -126,7 +126,7 @@ Audio-Dateien liegen in: `docs/assets/audiofiles/marele/` und `docs/assets/audio
 Klassen: `#map-container[data-map="..."]`, `.corapan-popup`, `.popup-*`  
 JS-Dateien: `assets/javascripts/map*.js` (4 Dateien)  
 Daten: `assets/data/countries.json`, `herkunftssprachen.json`, `variation_tempora.json`  
-Karten-Seiten: `variation/map_countries.md`, `herkunftssprachen.md`, `variation/variation_grammatik.md`
+Karten-Seiten: `anhang.md`, `herkunftssprachen.md`, `variation/variation_grammatik.md`
 
 ### Hilfklassen
 - `.meta`: Inline-Kennzeichnung von IPA/Kategorie-Werten (`<span class="meta">`)

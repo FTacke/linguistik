@@ -119,6 +119,15 @@
   line-height: var(--cover-base-lh);
 }
 
+.md-sidebar {
+  align-self: flex-start;
+  flex-shrink: 0;
+  padding: 1.1rem 0;
+  position: sticky;
+  top: 2.4rem;
+  width: 12.5rem;
+}
+
 /* 3) Admonition chrome aus (Zensical/Material safe) */
 .md-typeset .admonition.cover::before { display: none; }
 .md-typeset .admonition.cover > .admonition-title { display: none; }

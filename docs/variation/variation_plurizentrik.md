@@ -23,17 +23,17 @@ Traditionell orientierte sich der Spanischunterricht lange am sogenannten ‚pen
     Entdecke auf einer Karte der Hispanophonie, wie das Spanische weltweit verbreitet ist und welches Gewicht die einzelnen Länder in der spanischsprachigen Welt haben (quantitativ).
         <div class="map-image-row">
             <div class="map-image-item">
-                <a href="/variation/map_countries/" class="map-image-link">
+                <a href="/anhang/" class="map-image-link">
                     <img class="admonition-map-image zc-img-src" data-zc-src="assets/images/map_countries.png" alt="Karte der Hispanophonie" />
                 </a>
             </div>
             <div class="map-image-item">
-                <a href="/variation/map_countries/" class="map-image-link">
+                <a href="/anhang/" class="map-image-link">
                     <img class="admonition-map-image zc-img-src" data-zc-src="assets/images/map_countries_detail.png" alt="Detailkarte Hispanophonie" />
                 </a>
             </div>
         </div>
-        <a href="/variation/map_countries/" class="md-button map-cta">Entdecken</a>
+        <a href="/anhang/" class="md-button map-cta">Entdecken</a>
     </div>
 
 Für den Unterricht ist ein reflektierter Umgang mit dieser plurizentrischen Konstellation besonders wichtig. Lehrkräfte treffen nicht nur inhaltliche, sondern auch sprachliche Entscheidungen: Welche Varietät dient als Bezugspunkt? Wie geht man mit Unterschieden zwischen Schulbuchsprache, eigener bevorzugter Varietät und Lernendensprache um? Und wie lässt sich vermitteln, dass Variation ein normaler und wichtiger Bestandteil des Sprachgebrauchs ist?

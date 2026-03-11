@@ -1,4 +1,4 @@
-# Hispanophonie: Karte und Zahlen
+# Anhang
 
 ## Verbreitung des Spanischen als Muttersprache (Stand 2024)
 

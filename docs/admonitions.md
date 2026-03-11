@@ -140,7 +140,7 @@ Die graphische Akzentsetzung im Spanischen folgt einem sehr klaren, lernbaren Sy
 Zur Hispanophonie gehören heute über 20 Länder mit mehr als 500 Millionen Erstsprachler:innen. Um diesen geographischen und demographischen Raum greifbar zu machen, stellt das Projekt eine interaktive Karte bereit.
 
 ??? tip "Hispanophonie: Karte und Zahlen"
-    Entdecken Sie auf der interaktiven [Karte der Hispanophonie](/variation/map_countries/), wie das Spanische weltweit verbreitet ist und welches demographische Gewicht die einzelnen Länder in der spanischsprachigen Welt haben.
+    Entdecken Sie auf der interaktiven [Hispanophonie in Zahlen](/anhang/), wie das Spanische weltweit verbreitet ist und welches demographische Gewicht die einzelnen Länder in der spanischsprachigen Welt haben.
 
 ---
 
