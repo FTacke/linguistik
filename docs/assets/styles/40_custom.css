@@ -81,11 +81,13 @@
   --cover-footer-lh: 1.05;
 
   --cover-meta-gap: 6px;
+  --cover-meta-gap-sm: 2px;
 }
 
 @media (max-width: 560px) {
   .md-typeset .admonition.cover {
     --cover-h1-size: 2.6em;
+    --cover-meta-gap: var(--cover-meta-gap-sm);
   }
 }
 
@@ -215,7 +217,7 @@
 .md-typeset .admonition.cover .cover-authors {
   display: flex;
   flex-direction: column;
-  gap: var(--cover-gap-sm);
+  gap: 0;
 }
 
 /* Label */
@@ -233,6 +235,11 @@
   margin: 0;
 }
 
+.md-typeset .admonition.cover .cover-coordination .cover-label,
+.md-typeset .admonition.cover .cover-authors .cover-label {
+  margin: 0 0 var(--cover-meta-gap) 0;
+}
+
 /* Single name line (Koordination) */
 .md-typeset .admonition.cover .cover-name {
   font-family: var(--cover-font-family);
@@ -244,7 +251,7 @@
   color: var(--cover-fg);
   opacity: 0.9;
 
-  margin: var(--cover-meta-gap) 0 0 0;
+  margin: 0;
 }
 
 /* Authors list layout */
@@ -258,7 +265,7 @@
 
   align-items: flex-start;
 
-  margin: var(--cover-meta-gap) 0 0 0;
+  margin: 0;
   padding: 0;
 
   max-width: 32ch;
