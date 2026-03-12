@@ -244,7 +244,7 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten 
 
 
 ??? weiterlesen "Wer mehr wissen will"
-    Das grundlegende Referenzwerk ist die *[Ortografía de la lengua española](https://www.rae.es/ortograf%C3%ADa/)* (OLE, RAE/ASALE 2010) der Real Academia Española und der Asociación de Academias de la Lengua Española. Sie ist vollständig online verfügbar und bündelt alle Regeln, erläutert Sonderfälle und gibt Hinweise zu Fremdwörtern und Varianten. Ergänzend informiert das *[Diccionario panhispánico de dudas](https://www.rae.es/dpd/)* (RAE/ASALE 2025) über orthographische Zweifelsfälle, während das *[Diccionario de la lengua española](https://dle.rae.es)* (DLE) auch alternative Schreibungen angibt (s.o.).
+    Das grundlegende Referenzwerk ist die *[Ortografía de la lengua española](https://www.rae.es/ortograf%C3%ADa/)* (RAE/ASALE 2010) der Real Academia Española und der Asociación de Academias de la Lengua Española. Sie ist vollständig online verfügbar und bündelt alle Regeln, erläutert Sonderfälle und gibt Hinweise zu Fremdwörtern und Varianten. Ergänzend informiert das *[Diccionario panhispánico de dudas](https://www.rae.es/dpd/)* (RAE/ASALE 2025) über orthographische Zweifelsfälle, während das *[Diccionario de la lengua española](https://dle.rae.es)* (DLE) auch alternative Schreibungen angibt (s.o.).
 
     Für einen historischen und systematischen Überblick sind Meisenburgs Studien zu den romanischen Schriftsystemen (1996) besonders empfehlenswert. Tacke (2020) gibt eine aktuelle Gesamtdarstellung zu Orthographie und Orthoepie (Standardaussprache) im Spanischen. Einen praxisorientierten Zugang bietet Martínez de Sousa (2014) mit seinem *Manual de estilo de la lengua española*. Nützlich sind außerdem die digitalen Beratungsangebote der RAE ([@RAEinforma](https://x.com/RAEinforma)) und der [Fundéu](https://fundeu.es), die laufend neue orthographische Empfehlungen bereitstellen.
 
@@ -252,15 +252,25 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten 
 
 ## Literatur
 
+<div class="literatur-abkuerzungen" markdown="1">
+
+- DLE *Diccionario de la lengua española*  
+- DPD *Diccionario panhispánico de dudas*  
+- MAR.ELE *Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*  
+
+</div>
+
 <div class="literatur" markdown="1">
 
-- Martínez de Sousa, José (³2014): *Ortografía y ortotipografía del español actual*. Gijón: Trea. Online: [http://www.martinezdesousa.net/](http://www.martinezdesousa.net/)
+- Martínez de Sousa, José (2014): *Ortografía y ortotipografía del español actual*. Gijón: Trea. Online: [http://www.martinezdesousa.net/](http://www.martinezdesousa.net/)
 - Meisenburg, Trudel (1996): *Romanische Schriftsysteme im Vergleich. Eine diachrone Studie*. Tübingen: Narr.
-- Real Academia Española / Asociación de Academias de la Lengua Española (2010): *Ortografía de la lengua española*. Madrid: Espasa. Online: [https://www.rae.es/ortografía](https://www.rae.es/ortograf%C3%ADa)
-- Real Academia Española / Asociación de Academias de la Lengua Española (2025): *Diccionario panhispánico de dudas*. 2.ª ed. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/)
+- Real Academia Española / Asociación de Academias de la Lengua Española:  
+  — (2010): *Ortografía de la lengua española*. Madrid: Espasa. Online: [https://www.rae.es/ortografía/](https://www.rae.es/ortograf%C3%ADa/)  
+  — (2025): *Diccionario panhispánico de dudas*. 2.ª ed. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/)  
 - Real Academia Española (online): *Diccionario de la lengua española (DLE)*. 23.ª ed. Online: [https://dle.rae.es](https://dle.rae.es)
+
 - Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Lebsanft, Franz / Tacke, Felix (Hg.): *Manual of Standardization in the Romance Languages*. Berlin/Boston: De Gruyter, 559–579.
-- Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)
+- Tacke, Felix (2023): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)
 
 </div>
 

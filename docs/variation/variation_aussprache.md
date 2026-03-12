@@ -480,7 +480,7 @@ Niemand muss alle Varianten beherrschen oder vermitteln. Es genügt, wenn Lernen
     Lehrkräfte sollten bewusst eine Aussprachevariante als Orientierung verwenden, zugleich aber deutlich machen, dass andere Varianten ebenso korrekt sind und zur sprachlichen Realität der Hispanophonie gehören.
 
 ??? weiterlesen "Wer mehr wissen will"
-    Grobe Übersichten zu *seseo* und *yeísmo* bietet das *Diccionario panhispánico de dudas* ([DPD](https://www.rae.es/dpd/), RAE/ASALE 2025); die einschlägigen Kapitel in Band 3 der *Nueva gramática de la lengua española* (RAE/ASALE 2011, 2. Ausgabe 2025) gehen deutlich tiefer. Tacke (2020) gibt einen kompakten Überblick zur Aussprache­norm im Spanischen und zeigt, dass diese plurizentrisch selbstreguliert ist.
+    Grobe Übersichten zu *seseo* und *yeísmo* bietet das *Diccionario panhispánico de dudas* ([DPD](https://www.rae.es/dpd/), RAE/ASALE 2025); die einschlägigen Kapitel in Band 3 der *Nueva gramática de la lengua española* (RAE/ASALE 2009–2011, 2.ª ed. 2025) gehen deutlich tiefer. Tacke (2020) gibt einen kompakten Überblick zur Aussprache­norm im Spanischen und zeigt, dass diese plurizentrisch selbstreguliert ist.
 
     Zur Unterrichtsperspektive: Die ASELE-Akten *¿Qué español enseñar?* (Martín Zorraquino/Díez Pellegrín 2000) protokollieren erste Befragungen zur Wahl der Ziellautung; Leitzke-Ungerer/Polzin-Haumann (2017) zeigen für den deutschsprachigen Unterricht, dass Lehrwerke und Prüfungen regionale Lautmerkmale nur punktuell einbauen; Andión (2013) weist nach, dass Lehrkräfte ihre eigene Variante nutzen, sich bei der Vermittlung mehrerer Lautbilder aber oft unsicher fühlen. Moreno Fernández (2000) liefert Kriterien für ein bewusst gewähltes Varietäten-Modell; Hernández Muñoz et al. (2021) ergänzen kommentierte Unterrichtsbeispiele zu *seseo*, *yeísmo* und weiteren Phänomenen, und Poch Olivé (2024) legt eine komplette Sequenz zur Wahrnehmung und Produktion verschiedener Lautvarianten vor.
 
@@ -488,23 +488,35 @@ Niemand muss alle Varianten beherrschen oder vermitteln. Es genügt, wenn Lernen
 
 ## Literatur
 
+<div class="literatur-abkuerzungen" markdown="1">
+
+- DPD *Diccionario panhispánico de dudas*  
+- NGLE *Nueva gramática de la lengua española*  
+- CO.RA.PAN *Corpus Radiofónico Panhispánico*
+
+</div>
+
 <div class="literatur" markdown="1">
 
-- Andión, María Antonieta (2013): „Los profesores de español L2/LE y las variedades: Identidad dialectal, actitudes y prácticas docentes“. *Revista Signos. Estudios de Lingüística*, 46 (82), 155–189.
-- Gabriel, Christoph / Meisenburg, Trudel / Selig, Maria (2025): *Spanisch: Phonetik und Phonologie. Eine Einführung*. 2. überarbeitete Auflage. Tübingen: Narr Francke Attempto.
-- Hernández Muñoz, Natividad / Muñoz-Basols, Javier / Soler Montes, Carlos (Hg.) (2021): *La diversidad del español y su enseñanza*. London/New York: Routledge.
+- Andión, María Antonieta (2013): „Los profesores de español L2/LE y las variedades: Identidad dialectal, actitudes y prácticas docentes“. *Revista Signos. Estudios de Lingüística*, 46 (82), 155–189. DOI: [https://doi.org/10.4067/S0718-09342013000200001](https://doi.org/10.4067/S0718-09342013000200001)
+- Gabriel, Christoph / Meisenburg, Trudel / Selig, Maria (2025): *Spanisch: Phonetik und Phonologie. Eine Einführung*. 2., überarb. Aufl. Tübingen: Narr Francke Attempto. DOI: [https://doi.org/10.24053/9783381100125](https://doi.org/10.24053/9783381100125)
+- Hernández Muñoz, Natividad / Muñoz-Basols, Javier / Soler Montes, Carlos (Hg.) (2021): *La diversidad del español y su enseñanza*. London/New York: Routledge. DOI: [https://doi.org/10.4324/9781003128168](https://doi.org/10.4324/9781003128168)
 - Hualde, José Ignacio (2014): *Los sonidos del español*. Cambridge: Cambridge University Press.
 - Kubarth, Hugo (1987): *Das lateinamerikanische Spanisch. Ein Panorama*. München: Hueber.
 - Leitzke-Ungerer, Eva / Polzin-Haumann, Claudia (Hg.) (2017): *Varietäten des Spanischen im Fremdsprachenunterricht. Ihre Rolle in Schule, Hochschule, Lehrerbildung und Sprachenzertifikaten*. Stuttgart: ibidem.
 - Lipski, John M. (1994): *Latin American Spanish*. London/New York: Longman.
-- Lipski, John M. (2020): „Spanish Phonological Variation“. In: Sonia Colina / Fernando Martínez-Gil (Hg.): *The Routledge Handbook of Spanish Phonology*. London/New York: Routledge, 455–469.
+- Lipski, John M. (2020): „Spanish Phonological Variation“. In: Sonia Colina / Fernando Martínez-Gil (Hg.): *The Routledge Handbook of Spanish Phonology*. London/New York: Routledge, 455–469. DOI: [https://doi.org/10.4324/9781315228112-26](https://doi.org/10.4324/9781315228112-26)
 - Martín Zorraquino, M. Antonia / Díez Pellegrín, Cristina (Hg.) (2000): *¿Qué español enseñar? Norma y variación lingüísticas en la enseñanza del español a extranjeros. Actas del XI Congreso Internacional de ASELE (Zaragoza, 13.–16. 9. 2000)*. Zaragoza: Universidad de Zaragoza.
 - Moreno Fernández, Francisco (2000): *¿Qué español enseñar?* Madrid: Arco Libros.
-- Poch Olivé, Dolors (2024): „Variación fonética y enseñanza del español“. *Variación. Revista de variación y cambio lingüístico*, 1 (2), 18–30.
-- Pustka, Elissa / Schwegler, Armin (2021): „Fontética y fonología: vocalismo y consonantismo“. In: Eva Martha Eckkrammer (Hg.): *Manual del español en América*. Berlin/Boston: De Gruyter, 451–464.
-- Real Academia Española / Asociación de Academias de la Lengua Española (2011): *Nueva gramática de la lengua española*. Bd. 3 (2025: Bd. 4): *Fonética y fonología*. Madrid: Espasa Calpe.
-- Real Academia Española / Asociación de Academias de la Lengua Española (2025): *Diccionario panhispánico de dudas*. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/)
-- Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Franz Lebsanft / Felix Tacke (Hg.): *Manual of Standardization in the Romance Languages*. Berlin/Boston: De Gruyter, 559–579.
+- Poch Olivé, Dolors (2024): „Variación fonética y enseñanza del español“. *Variación. Revista de variación y cambio lingüístico*, 1 (2), 18–30. DOI: [https://doi.org/10.30827/3020.9854rvcl.1.2.2024.31844](https://doi.org/10.30827/3020.9854rvcl.1.2.2024.31844)
+- Pustka, Elissa / Schwegler, Armin (2021): „Phonética y fonología: vocalismo y consonantismo". In: Eva Martha Eckkrammer (Hg.): *Manual del español en América*. Berlin/Boston: De Gruyter, 451–464. DOI: [https://doi.org/10.1515/9783110334845-027](https://doi.org/10.1515/9783110334845-027)
+
+- Real Academia Española / Asociación de Academias de la Lengua Española:  
+  — (2009–2011): *Nueva gramática de la lengua española*. 3 Bde. Madrid: Espasa. Online: [https://www.rae.es/gramática/](https://www.rae.es/gram%C3%A1tica/)  
+  — (2025): *Diccionario panhispánico de dudas*. 2.ª ed. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/)  
+  — (2025): *Nueva gramática de la lengua española*. Nueva edición actualizada, 4 Bde. Madrid: Espasa.
+
+- Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Franz Lebsanft / Felix Tacke (Hg.): *Manual of Standardization in the Romance Languages*. Berlin/Boston: De Gruyter, 559–579. DOI: [https://doi.org/10.1515/9783110458084-025](https://doi.org/10.1515/9783110458084-025)
 - Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
 
 </div>

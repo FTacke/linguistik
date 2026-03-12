@@ -206,7 +206,7 @@ Nicht jedes Graphem hat im Spanischen einen Lautwert. Das `<h>` ist immer stumm 
     Ein linguistisch fundierter, kontrastiver Blick zum Deutschen hilft, diese essenziellen Unterschiede gezielt zu trainieren und führt schnell zu (nahezu) zielsprachlicher Aussprachekompetenz. Schüler:innen mit anderen Herkunftssprachen bringen hier oft andere Voraussetzungen mit – ihre spezifischen Vorteile und Herausforderungen werden im Kapitel [Herkunftssprachen](./herkunftssprachen.md) behandelt.
 
 ??? weiterlesen "Wer mehr wissen will ..."
-    Als *das* Standardwerk zur Phonetik und Phonologie des Spanischen – neben älteren Referenzen wie Quilis (1993) – gilt heute Band 3 der *Nueva gramática de la lengua española* (RAE/ASALE 2011). Es spiegelt in seiner umfassenden und äußerst detaillierten Darstellung nicht nur den aktuellen Forschungsstand wider, sondern berücksichtigt auch die Aussprachevariation in der spanischsprachigen Welt. Übersichtlicher und zugänglicher sind die deutschsprachigen Einführungen in das Gebiet von Kubarth (2009), Pustka (2021) und Gabriel/Meisenburg/Selig (2025). Letztere enthält in der zweiten Auflage auch ein Kapitel zum Spanischen „als Fremdsprache im deutschsprachigen Kontext“.
+    Als *das* Standardwerk zur Phonetik und Phonologie des Spanischen – neben älteren Referenzen wie Quilis (1993) – gilt heute Band 3 der *Nueva gramática de la lengua española* (RAE/ASALE 2009–2011) bzw. Band 4 der 2. Auflage von 2025 (RAE/ASALE 2025). Es spiegelt in seiner umfassenden und äußerst detaillierten Darstellung nicht nur den aktuellen Forschungsstand wider, sondern berücksichtigt auch die Aussprachevariation in der spanischsprachigen Welt. Übersichtlicher und zugänglicher sind die deutschsprachigen Einführungen in das Gebiet von Kubarth (2009), Pustka (2021) und Gabriel/Meisenburg/Selig (2025). Letztere enthält in der zweiten Auflage auch ein Kapitel zum Spanischen „als Fremdsprache im deutschsprachigen Kontext“.
 
     Eine Vertiefung der Vermittlung der Aussprache des Spanischen als Fremdsprache mit konkreteren Tipps für die Umsetzung im Unterricht bieten Gil Fernández (2007), die Beiträge in Gil Fernández (Hg.) (2012) und nicht zuletzt Reimann (2016). Benet/Pesková (2017) zeigen deutlich, wie man eine zielsprachliche Aussprache vermitteln kann.
 
@@ -214,19 +214,31 @@ Nicht jedes Graphem hat im Spanischen einen Lautwert. Das `<h>` ist immer stumm 
 
 ## Literatur
 
+<div class="literatur-abkuerzungen" markdown="1">
+
+- DPD *Diccionario panhispánico de dudas*  
+- NGLE *Nueva gramática de la lengua española*  
+- MAR.ELE *Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*  
+
+</div>
+
 <div class="literatur" markdown="1">
 
 - Benet, Ariadna / Pesková, Andrea (2017): „Cómo reducir el ‚acento extranjero‘ en el ELE“. *Der fremdsprachliche Unterricht Spanisch* 15 (3), 16–20.
 - Bürgel, Christoph / Reimann, Daniel (Hg.) (2017): Sprachliche Mittel im Unterricht der romanischen Sprachen – Aussprache, Wortschatz und Morphosyntax in Zeiten der Kompetenzorientierung. Tübingen: Narr.
-- Gabriel, Christoph / Meisenburg, Trudel / Selig, Maria (2025): *Spanisch: Phonetik und Phonologie. Eine Einführung*. 2. überarbeitete Auflage. Tübingen: Narr Francke Attempto.
+- Gabriel, Christoph / Meisenburg, Trudel / Selig, Maria (2025): *Spanisch: Phonetik und Phonologie. Eine Einführung*. 2., überarb. Aufl. Tübingen: Narr Francke Attempto. DOI: [https://doi.org/10.24053/9783381100125](https://doi.org/10.24053/9783381100125)
 - Gil Fernández, Juana (2007): *Fonética para profesores de español: de la teoría a la práctica*. Madrid: Arco Libros.
 - Kanngiesser-Krebs, Gisela (2017): „¿Cómo se dice qué? y ¿qué se dice dónde?“. *Der fremdsprachliche Unterricht Spanisch* 15 (3), 2–10.
 - Kubarth, Hugo (2009): *Spanische Phonetik und Phonologie: Segmente – Silben – Satzmelodien*. Frankfurt am Main: Peter Lang.
 - Pustka, Elissa (2021): *Phonetik und Phonologie des Spanischen. Eine korpuslinguistische Einführung*. Berlin: Erich Schmidt Verlag.
 - Quilis, Antonio (1993): *Tratado de fonología y fonética españolas*. Madrid: Gredos.
-- Real Academia Española / Asociación de Academias de la Lengua Española (2011): *Nueva gramática de la lengua española*. Band 3: *Fonética y fonología*. Madrid: Espasa Calpe.
-- Real Academia Española / Asociación de Academias de la Lengua Española (2010): *Ortografía de la lengua española*. Madrid: Espasa. Online: [https://www.rae.es/ortografía/](https://www.rae.es/ortograf%c3%ada/)
-- Real Academia Española / Asociación de Academias de la Lengua Española (2005): *Diccionario panhispánico de dudas*. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/)
+
+- Real Academia Española / Asociación de Academias de la Lengua Española:  
+  — (2009–2011): *Nueva gramática de la lengua española*. 3 Bde. Madrid: Espasa. Online: [https://www.rae.es/gramática/](https://www.rae.es/gram%C3%A1tica/)  
+  — (2010): *Ortografía de la lengua española*. Madrid: Espasa. Online: [https://www.rae.es/ortografía/](https://www.rae.es/ortograf%c3%ada/)  
+  — (2025): *Diccionario panhispánico de dudas*. 2.ª ed. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/)  
+  — (2025): *Nueva gramática de la lengua española*. Nueva edición actualizada, 4 Bde. Madrid: Espasa.
+
 - Reimann, Daniel (2016): *Aussprache im Unterricht der romanischen Sprachen (Französisch, Spanisch, Italienisch, Portugiesisch)*. Münster: LIT Verlag.
 - Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)
 

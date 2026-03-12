@@ -12,16 +12,18 @@
     
     <div class="cover-authors">
         <div class="cover-label">Autor:innen</div>
-        <div class="cover-authors-list">
-            <span class="pair"><span class="name">Lea-Marie Domin</span><span class="separator">·</span><span class="name">Riccarda Falcone</span></span>
-            <span class="pair"><span class="name">Renata Freyre Castro</span><span class="separator">·</span><span class="name">Gloria Gabriel</span></span>
-            <span class="pair"><span class="name">Laura Hesral Sánchez</span><span class="separator">·</span><span class="name">Jamaa Khodja</span></span>
-            <span class="pair"><span class="name">Daniel Mehrlein Merenciano</span><span class="separator">·</span><span class="name">Marlon Merte</span></span>
-            <span class="pair"><span class="name">Büşra Özen</span><span class="separator">·</span><span class="name">Lucas Pimenta Lange</span></span>
-            <span class="pair"><span class="name">Selina Scholz</span><span class="separator">·</span><span class="name">Selin Sevgi</span></span>
-            <span class="pair"><span class="name">Karina Stephan Quezada</span><span class="separator">·</span><span class="name">Felix Tacke</span></span>
-            <span class="pair"><span class="name">Teodora Teodorescu</span></span>
-        </div>
+            <div class="cover-authors-list">
+                <span class="pair"><span class="name">Paul Becker</span><span class="separator">·</span><span class="name">Lisa Bender</span></span>
+                <span class="pair"><span class="name">Ramón Delgado Moreno</span><span class="separator">·</span><span class="name">Lea-Marie Domin</span></span>
+                <span class="pair"><span class="name">Riccarda Falcone</span><span class="separator">·</span><span class="name">Renata Freyre Castro</span></span>
+                <span class="pair"><span class="name">Gloria Gabriel</span><span class="separator">·</span><span class="name">Laura Hesral Sánchez</span></span>
+                <span class="pair"><span class="name">Jamaa Khodja</span><span class="separator">·</span><span class="name">Daniel Mehrlein Merenciano</span></span>
+                <span class="pair"><span class="name">Marlon Merte</span><span class="separator">·</span><span class="name">Stanislav Minchev</span></span>
+                <span class="pair"><span class="name">Büşra Özen</span><span class="separator">·</span><span class="name">Lucas Pimenta Lange</span></span>
+                <span class="pair"><span class="name">Enrique Ritz Pequeño</span><span class="separator">·</span><span class="name">Selina Scholz</span></span>
+                <span class="pair"><span class="name">Selin Sevgi</span><span class="separator">·</span><span class="name">Karina Stephan Quezada</span></span>
+                <span class="pair"><span class="name">Felix Tacke</span><span class="separator">·</span><span class="name">Teodora Teodorescu</span></span>
+            </div>
     </div>
     
     <div class="cover-footer">

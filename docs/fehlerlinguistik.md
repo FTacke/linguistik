@@ -210,21 +210,28 @@ Natürlich bleibt es eine Frage der Situation: Manchmal ist eine direkte Korrekt
 
 ## Literatur
 
+<div class="literatur-abkuerzungen" markdown="1">
+
+- MAR.ELE *Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*  
+
+</div>
+
 <div class="literatur" markdown="1">
 
-- Bechtel, Mark (2016): „Mündliche Fehlerkorrektur als Bestandteil eines fachdidaktischen Moduls in der Französisch-, Spanisch- und Italienischlehrerausbildung“. In: Brunetti, Simona / Klingebeil-Schieke, Josephine / Pedron, Chiara Maria / Piotrowski, Marie-Christin / Ruggieri, Antonella / Schreiber, Rebecca (Hg.): *Versprachlichung von Welt. Festschrift zum 60. Geburtstag von Maria Lieber.* Tübingen: Stauffenburg, S. 589–607.
+- Bechtel, Mark (2016): „Mündliche Fehlerkorrektur als Bestandteil eines fachdidaktischen Moduls in der Französisch-, Spanisch- und Italienischlehrerausbildung“. In: Brunetti, Simona / Klingebeil-Schieke, Josephine / Pedron, Chiara Maria / Piotrowski, Marie-Christin / Ruggieri, Antonella / Schreiber, Rebecca (Hg.): *Versprachlichung von Welt. Festschrift zum 60. Geburtstag von Maria Lieber.* Tübingen: Stauffenburg, 589–607.
 - Bitchener, John / Ferris, Dana R. (2012): *Written Corrective Feedback in Second Language Acquisition and Writing.* London / New York: Routledge.
 - Cherubim, Dieter (Hg.) (1980): *Fehlerlinguistik. Beiträge zum Problem der sprachlichen Abweichung.* Tübingen: Niemeyer.
 - Corder, S. P. (1967): „The Significance of Learners’ Errors“. *International Review of Applied Linguistics* 5 (4), 161–170.
-- Coseriu, Eugenio (2007): *Sprachkompetenz. Grundzüge der Theorie des Sprechens.* 2. Auflage. Tübingen: Narr.
+- Coseriu, Eugenio (2007): *Sprachkompetenz. Grundzüge der Theorie des Sprechens.* 2. Aufl. Tübingen: Narr.
 - Felder, Ekkehard / Schwinn, Horst / Busse, Beatrix / Eichinger, Ludwig M. / Große, Sybille / Gvozdanović, Jadranka / Jacob, Katharina / Radtke, Edgar (Hg.) (2017): *Handbuch europäische Sprachkritik online (HESO). Band 1: Sprachnormierung und Sprachkritik.* Heidelberg: Heidelberg University Publishing.
-- Grünewald, Andreas / Küster, Lutz (Hg.) (2017): *Fachdidaktik Spanisch. Handbuch für Theorie und Praxis.* 2., überarbeitete Auflage. Stuttgart: Klett.
-- Hinger, Barbara (2017): „Umgang mit Fehlern im Spanischunterricht“. In: Grünewald, Andreas & Küster, Lutz (Hg.): *Fachdidaktik Spanisch.* Stuttgart: Klett, S. 243–262.
-- Li, Shaofeng (2010): „The Effectiveness of Corrective Feedback in SLA: A Meta-Analysis“. *Language Learning* 60 (2), 309–365.
+- Grünewald, Andreas / Küster, Lutz (Hg.) (2017): *Fachdidaktik Spanisch. Handbuch für Theorie und Praxis.* 2., überarb. Aufl. Stuttgart: Klett.
+- Hinger, Barbara (2017): „Umgang mit Fehlern im Spanischunterricht". In: Grünewald, Andreas / Küster, Lutz (Hg.): *Fachdidaktik Spanisch.* Stuttgart: Klett, 243–262.
+- Li, Shaofeng (2010): „The Effectiveness of Corrective Feedback in SLA: A Meta-Analysis“. *Language Learning* 60 (2), 309–365. DOI: [https://doi.org/10.1111/j.1467-9922.2010.00561.x](https://doi.org/10.1111/j.1467-9922.2010.00561.x)
 - Kreyer, Rolf (2023): *The Linguistic Toolkit for Teachers of English: Discovering the Value of Linguistics for Foreign Language Teaching.* Tübingen: Narr Francke Attempto.
-- Lyster, Roy & Ranta, Leila (1997): „Corrective Feedback and Learner Uptake: Negotiation of Form in Communicative Classrooms“. *Studies in Second Language Acquisition* 19 (1), 37–66.
+- Lyster, Roy / Ranta, Leila (1997): „Corrective Feedback and Learner Uptake: Negotiation of Form in Communicative Classrooms“. *Studies in Second Language Acquisition* 19 (1), 37–66.
 - Schlaak, Claudia (2020): „Fehlertoleranz bei und von Fremdsprachenlernern im ersten Lernjahr“. In: Ossenkop, Christiane & Veldre-Gerner, Gabriele (Hg.): *Fehler – Abweichung – Variation*. Frankfurt a. M.: Lang, S. 209–223.
 - Selinker, Larry (1972): „Interlanguage“. *International Review of Applied Linguistics* 10 (3), 209–231.
+- Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)  
 - von Polenz, Peter (1991): „Sprachkritik – Untersuchungen zu ihrer Geschichte und Funktion“. *Muttersprache* 101, 81–94.
 
 </div>

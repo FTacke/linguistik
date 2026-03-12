@@ -125,12 +125,20 @@ Sprache bleibt also immer in Bewegung und kann nie vollständig in einem einzige
     Wortbildung im Spanischen folgt erkennbaren Mustern, die sich im Unterricht gezielt nutzen lassen. Die Derivation – die Bildung neuer Wörter durch Präfixe und Suffixe – ist das produktivste Verfahren und bietet Lernenden einen systematischen Zugang zur Erschließung unbekannten Wortschatzes. Die Komposition kombiniert bestehende Wörter zu neuen Einheiten und lässt sich gut im Sprachvergleich mit dem Deutschen einsetzen. Daneben gibt es Verkürzungen, Konversion und Kontamination als weitere, weniger produktive Verfahren. Entlehnungen und Lehnübersetzungen schließlich zeigen, wie Sprachen in Kontakt stehen und sich gegenseitig bereichern – und werfen die Frage auf, ab wann ein neues Wort eigentlich zur Sprache gehört. Für den Unterricht bedeutet das: Wortbildung ist nicht nur Grammatik, sondern ein Zugang zu sprachlicher Kreativität, kultureller Vielfalt und der Dynamik des Spanischen.
 
 ??? weiterlesen "Wer mehr wissen will"
-    Einführende Darstellungen zur Wortbildung bieten Kabatek/Pusch (2011), die zentrale Begriffe der spanischen Morphologie vorstellen und in den Gesamtaufbau des Lexikons einordnen. Speziellere und vertiefende Analysen finden sich bei Rainer (1993) sowie Varela (2005), die Formen, Funktionen und Produktivität einzelner Wortbildungsmuster systematisch beschreiben. Sehr ausführlich behandelt das Thema auch die *Nueva gramática de la lengua española* (RAE/ASALE 2009, 2.ª ed. 2025), deren Ausgabe von 2009 [online durchsuchbar](https://www.rae.es/gram%C3%A1tica/) ist.
+    Einführende Darstellungen zur Wortbildung bieten Kabatek/Pusch (2011), die zentrale Begriffe der spanischen Morphologie vorstellen und in den Gesamtaufbau des Lexikons einordnen. Speziellere und vertiefende Analysen finden sich bei Rainer (1993) sowie Varela (2005), die Formen, Funktionen und Produktivität einzelner Wortbildungsmuster systematisch beschreiben. Sehr ausführlich behandelt das Thema auch die *Nueva gramática de la lengua española* (RAE/ASALE 2009–2011, 2.ª ed. 2025), deren Ausgabe von 2009 [online durchsuchbar](https://www.rae.es/gram%C3%A1tica/) ist.
 
     Für didaktisch orientierte Zugänge sind vor allem Serrano-Dolader (2019) und Entre/Gumiel-Molina (2024) relevant. Beide Werke verbinden linguistische Grundlagen mit methodischen Vorschlägen für den Unterricht. Ergänzend bietet das [Online-Dossier](https://cvc.cervantes.es/ensenanza/biblioteca_ele/antologia_didactica/morfologia/default.htm) des Instituto Cervantes praxisnahe Materialien und Aufgabenformate.
 
 
 ## Literatur
+
+<div class="literatur-abkuerzungen" markdown="1">
+
+- DLE *Diccionario de la lengua española*  
+- DPD *Diccionario panhispánico de dudas*  
+- NGLE *Nueva gramática de la lengua española*  
+
+</div>
 
 <div class="literatur" markdown="1">
 
@@ -138,11 +146,17 @@ Sprache bleibt also immer in Bewegung und kann nie vollständig in einem einzige
 - Colegio de México (online): *Diccionario del español de México (DEM)*. Online: [https://dem.colmex.mx/](https://dem.colmex.mx/)
 - CVC – Instituto Cervantes (Hrsg.): *La formación de palabras en la clase de ELE*. In: *Antología didáctica de morfología*. Online: [https://cvc.cervantes.es/](https://cvc.cervantes.es/ensenanza/biblioteca_ele/antologia_didactica/morfologia/default.htm)
 - Entre, María Ángeles / Gumiel-Molina, Susana (Hg.) (2024): *Didáctica de la morfología*. Alcalá de Henares: Universidad de Alcalá.
-- Kabatek, Johannes / Pusch, Claus D. (2011): *Spanische Sprachwissenschaft*. 2. Auflage. Tübingen: Narr Francke Attempto.
-- Rainer, Franz (1993): *Spanische Wortbildungslehre*. Tübingen: Niemeyer.
-- Real Academia Española (online): *Diccionario de la lengua española (DLE)*. Online: [https://dle.rae.es/](https://dle.rae.es/)
-- Real Academia Española / Asociación de Academias de la Lengua Española (2005): *Diccionario panhispánico de dudas*. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/)
-- Real Academia Española / Asociación de Academias de la Lengua Española (2009/2025): *Nueva gramática de la lengua española*. Madrid: Espasa. Online: [https://www.rae.es/gramática/](https://www.rae.es/gram%C3%A1tica/)
+- Kabatek, Johannes / Pusch, Claus D. (2011): *Spanische Sprachwissenschaft*. 2., überarb. Aufl. Tübingen: Narr Francke Attempto.
+- Rainer, Franz (1993): *Spanische Wortbildungslehre*. Tübingen: Niemeyer. DOI: [https://doi.org/10.1515/9783110956054](https://doi.org/10.1515/9783110956054)  
+
+- Real Academia Española / Asociación de Academias de la Lengua Española:  
+  — (2009–2011): *Nueva gramática de la lengua española*. 3 Bde. Madrid: Espasa. Online: [https://www.rae.es/gramática/](https://www.rae.es/gram%C3%A1tica/)  
+  — (2010): *Ortografía de la lengua española*. Madrid: Espasa. Online: [https://www.rae.es/ortografía/](https://www.rae.es/ortograf%C3%ADa/)  
+  — (2010): *Diccionario de americanismos*. Madrid: Espasa.  
+  — (2025): *Diccionario panhispánico de dudas*. 2.ª ed. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/)  
+  — (2025): *Nueva gramática de la lengua española*. Nueva edición actualizada, 4 Bde. Madrid: Espasa.
+- Real Academia Española (online): *Diccionario de la lengua española (DLE)*. 23.ª ed. Online: [https://dle.rae.es](https://dle.rae.es)
+
 - Serrano-Dolader, Daniel (2019): *Formación de palabras y enseñanza del español LE/L2*. London / New York: Routledge.
 - Varela Ortega, Soledad (2005): *Morfología léxica: la formación de palabras*. Madrid: Gredos.
 

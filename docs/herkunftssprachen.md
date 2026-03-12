@@ -294,13 +294,13 @@ Kenntnisse über Herkunftssprachen und ein sensibler Umgang damit ermöglichen e
 
 <div class="literatur" markdown="1">
 
-- Bernd Brehmer & Grit Mehlhorn (2018): *Herkunftssprachen*. Tübingen: Narr Francke Attempto.
-- Christiane Fäcke & Franz-Joseph Meißner (Hrsg.) (2019): *Handbuch Mehrsprachigkeits- und Mehrkulturalitätsdidaktik*. Wiesbaden: Springer VS.
-- Ingrid Gogolin (2008): *Der monolinguale Habitus der multilingualen Schule*. 2., erw. Aufl. Münster: Waxmann.
-- Ingrid Gogolin, Anita Hansen, Sarah McMonagle & Dorothea Rauch (Hrsg.) (2020): *Handbuch Mehrsprachigkeit und Bildung*. Wiesbaden: Springer VS.
-- Hans-Jürgen Krumm (2016): „Anerkennung von Familiensprachen – zur Situation in Österreich“. In: Susanne Fürstenau & Mechtild Gomolla (Hrsg.): *Migration und schulischer Wandel. Mehrsprachigkeit*. Wiesbaden: Springer VS, 79–94.
-- Grit Mehlhorn (2017): „Herkunftssprachen im deutschen Schulsystem“. In: *Fremdsprachen Lehren und Lernen* 46 (2), 8–23.
-- Ursula Neumann & Ingrid Gogolin (Hrsg.) (2009): *Streitfall Zweisprachigkeit. The Bilingualism Controversy*. Wiesbaden: VS Verlag für Sozialwissenschaften.
+- Brehmer, Bernd / Mehlhorn, Grit (2018): *Herkunftssprachen*. Tübingen: Narr Francke Attempto.
+- Fäcke, Christiane / Meißner, Franz-Joseph (Hg.) (2019): *Handbuch Mehrsprachigkeits- und Mehrkulturalitätsdidaktik*. Wiesbaden: Springer VS.
+- Gogolin, Ingrid (2008): *Der monolinguale Habitus der multilingualen Schule*. 2., erw. Aufl. Münster: Waxmann.
+- Gogolin, Ingrid / Hansen, Anita / McMonagle, Sarah / Rauch, Dorothea (Hg.) (2020): *Handbuch Mehrsprachigkeit und Bildung*. Wiesbaden: Springer VS.
+- Krumm, Hans-Jürgen (2016): „Anerkennung von Familiensprachen – zur Situation in Österreich“. In: Fürstenau, Susanne / Gomolla, Mechtild (Hg.): *Migration und schulischer Wandel. Mehrsprachigkeit*. Wiesbaden: Springer VS, 79–94.
+- Mehlhorn, Grit (2017): „Herkunftssprachen im deutschen Schulsystem“. In: *Fremdsprachen Lehren und Lernen* 46 (2), 8–23.
+- Neumann, Ursula / Gogolin, Ingrid (Hg.) (2009): *Streitfall Zweisprachigkeit. The Bilingualism Controversy*. Wiesbaden: VS Verlag für Sozialwissenschaften.
 
 </div>
 

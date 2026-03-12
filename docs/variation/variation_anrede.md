@@ -196,18 +196,29 @@ Die Betrachtung der Anredeformen zeigt, dass das Spanische über keine einheitli
 
 ## Literatur
 
+<div class="literatur-abkuerzungen" markdown="1">
+
+- NGLE *Nueva gramática de la lengua española*  
+- CO.RA.PAN *Corpus Radiofónico Panhispánico*
+
+</div>
+
 <div class="literatur" markdown="1">
 
-* Fontanella de Weinberg, María Beatriz (1994): „Fórmulas de tratamiento en el español americano (siglos XVI y XVII)“. In: Fontanella de Weinberg, María Beatriz (Hg.): *El español en el Nuevo Mundo*. Washington: Organización de Estados Americanos, 7-31.
-* Fontanella de Weinberg, María Beatriz (1999): „Sistemas pronominales de tratamiento usados en el mundo hispánico“. In: Bosque, Ignacio / Demonte, Violeta (Hg.): *Gramática descriptiva de la lengua española.* Bd. 1. Madrid: Espasa, 1399–1425.
-* Hummel, Martin / Kluge, Bettina / Vázquez Laslop, María Eugenia (Hg.) (2010): *Formas y fórmulas de tratamiento en el mundo hispánico.* México / Graz: El Colegio de México / Karl-Franzens-Universität Graz.
-* Hummel, Martin / Lopes, Célia Regina dos Santos (Hg.) (2020): *Address in Portuguese and Spanish. Studies in Diachrony and Diachronic Reconstruction.* Berlin / Boston: De Gruyter.
+- Fontanella de Weinberg, María Beatriz (1994): „Fórmulas de tratamiento en el español americano (siglos XVI y XVII)“. In: Fontanella de Weinberg, María Beatriz (Hg.): *El español en el Nuevo Mundo*. Washington: Organización de Estados Americanos, 7–31.
+- Fontanella de Weinberg, María Beatriz (1999): „Sistemas pronominales de tratamiento usados en el mundo hispánico“. In: Bosque, Ignacio / Demonte, Violeta (Hg.): *Gramática descriptiva de la lengua española.* Bd. 1. Madrid: Espasa, 1399–1425.
+- Hummel, Martin / Kluge, Bettina / Vázquez Laslop, María Eugenia (Hg.) (2010): *Formas y fórmulas de tratamiento en el mundo hispánico.* México / Graz: El Colegio de México / Karl-Franzens-Universität Graz.
+- Hummel, Martin / Lopes, Célia Regina dos Santos (Hg.) (2020): *Address in Portuguese and Spanish. Studies in Diachrony and Diachronic Reconstruction.* Berlin / Boston: De Gruyter.
   DOI: [https://doi.org/10.1515/9783110701234](https://doi.org/10.1515/9783110701234)
-* Leitzke-Ungerer, Eva / Polzin-Haumann, Claudia (Hg.) (2017): *Varietäten des Spanischen im Fremdsprachenunterricht. Ihre Rolle in Schule, Hochschule, Lehrerbildung und Sprachenzertifikaten.* Stuttgart: ibidem.
-* Navarro Gala, Rosario (2000): „Una propuesta teórico-práctica para la enseñanza de las formas de tratamiento de segunda persona en las clases de ELE“. In: Martín Zorraquino, María Antonia / Díez Pellegrín, Cristina (Hg.): *¿Qué español enseñar? Norma y variación lingüísticas en la enseñanza del español a extranjeros.* Zaragoza: Universidad de Zaragoza, 551–558.
-* Potvin, Cynthia (2022): „Tuteo, voseo y ustedeo en los manuales de ELE: estado de la cuestión“. *MarcoELE. Revista de Didáctica ELE* 34, 1–22.
-* Real Academia Española / Asociación de Academias de la Lengua Española (2009–2011): *Nueva gramática de la lengua española.* 3 Bde. Madrid: Espasa.
-  — (2025): *Nueva gramática de la lengua española.* Nueva edición actualizada. Madrid: Espasa.
+- Leitzke-Ungerer, Eva / Polzin-Haumann, Claudia (Hg.) (2017): *Varietäten des Spanischen im Fremdsprachenunterricht. Ihre Rolle in Schule, Hochschule, Lehrerbildung und Sprachenzertifikaten.* Stuttgart: ibidem.
+- Navarro Gala, Rosario (2000): „Una propuesta teórico-práctica para la enseñanza de las formas de tratamiento de segunda persona en las clases de ELE“. In: Martín Zorraquino, María Antonia / Díez Pellegrín, Cristina (Hg.): *¿Qué español enseñar? Norma y variación lingüísticas en la enseñanza del español a extranjeros.* Zaragoza: Universidad de Zaragoza, 551–558.
+- Potvin, Cynthia (2022): „Tuteo, voseo y ustedeo en los manuales de ELE: estado de la cuestión“. *MarcoELE. Revista de Didáctica ELE* 34, 1–22.
+
+- Real Academia Española / Asociación de Academias de la Lengua Española:  
+  — (2009–2011): *Nueva gramática de la lengua española*. 3 Bde. Madrid: Espasa. Online: [https://www.rae.es/gramática/]  
+  — (2025): *Nueva gramática de la lengua española*. Nueva edición actualizada, 4 Bde. Madrid: Espasa.
+
+- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
 
 </div>
 
