@@ -28,7 +28,9 @@ Im Zentrum dieses Kapitels stehen die Anredepronomen *tú*, *vos*, *usted*, *vos
 
 ### Sagen wirklich alle ‚du‘? – *tú* und *usted* in Spanien und Amerika
 
-Wer heute Spanisch lernt, gewinnt leicht den Eindruck, dass sich die Anrede im Spanischen zunehmend zugunsten von *tu* vereinheitlicht und dass die höflichere Anredeform *usted* kaum noch eine Rolle spielt. Dieser Eindruck speist sich vor allem aus dem heutigen Sprachgebrauch in Spanien. Dort gilt *tú* heute in vielen Situationen als neutrale Form und wird weit über den familiären oder privaten Bereich hinaus verwendet: im Berufsalltag, in Dienstleistungs- und institutionellen Situationen, zwischen Studierenden und Professor:innen, ja sogar zwischen Ärztin und Patient. Wie das Englische gar keine Alternative zum neutralen *you* kennt, scheint das Spanische *usted* abzuschaffen. Tatsache ist jedoch, dass diese Entwicklung regional begrenzt ist und nicht als allgemeine Norm des Spanischen verstanden werden kann. Vielmehr ist sie Teil einer allgemeinen gesellschaftlichen ‚Entformalisierung‘, die Spanien (und einige andere Länder) seit den 1980er Jahren kennzeichnet. Wendet man den Blick aber auf Hispanoamerika, zeigt sich schnell, dass die Situation ‚des Spanischen‘ viel komplexer ist, denn dort haben sich für die Singularanrede ganz unterschiedliche Systeme und Präferenzen herausgebildet.
+Wer heute Spanisch lernt, gewinnt leicht den Eindruck, dass sich die Anrede im Spanischen zunehmend zugunsten von *tu* vereinheitlicht und dass die höflichere Anredeform *usted* kaum noch eine Rolle spielt. Dieser Eindruck speist sich vor allem aus dem heutigen Sprachgebrauch in Spanien. Dort gilt *tú* heute in vielen Situationen als neutrale Form und wird weit über den familiären oder privaten Bereich hinaus verwendet: im Berufsalltag, in Dienstleistungs- und institutionellen Situationen, zwischen Studierenden und Professor:innen, ja sogar zwischen Ärztin und Patient. Wie das Englische gar keine Alternative zum neutralen *you* kennt, scheint das Spanische *usted* abzuschaffen. Tatsache ist jedoch, dass diese Entwicklung regional begrenzt ist und nicht als allgemeine Norm des Spanischen verstanden werden kann. Vielmehr ist sie Teil einer allgemeinen gesellschaftlichen ‚Entformalisierung‘, die Spanien (und einige andere Länder) seit den 1980er Jahren kennzeichnet.
+
+Wendet man den Blick aber auf Hispanoamerika, zeigt sich schnell, dass die Situation ‚des Spanischen‘ viel komplexer ist, denn dort haben sich für die Singularanrede ganz unterschiedliche Systeme und Präferenzen herausgebildet.
 
 Ähnlich wie in Spanien hat sich der Gebrauch von *tú* in den letzten Jahrzehnten nur in einem Teil des hispanophonen Amerikas im Rahmen des gesellschaftlichen Wandels ausgebreitet. Dies gilt etwa für Teile Mexikos, Perus oder Puerto Ricos, wo *tú* heute in zahlreichen informellen Kontexten verbreitet ist, wenngleich *usted* dort weniger stark verdrängt wurde im Gebrauch als in Spanien.
 
@@ -39,7 +41,7 @@ Schließlich gibt es Regionen, in denen *tú* im Nähebereich nur eine untergeor
 !!! praxis "Anredevariation in der Werbung: Ein Beispiel"
     Internationale Werbekampagnen werden oft parallel für verschiedene Sprachräume produziert. Dabei werden nicht nur Texte übersetzt, sondern auch sprachliche Varianten an den jeweiligen Markt angepasst.  
       
-    Ein besonders gutes Beispiel liefert die internationele Kampagne eines bekannten Keks-Herstellers, für die gleich drei spanischsprachige Versionen mit unterschiedlichen Verbformen produziert wurden: Man hört *tuteo*-Formen in den Versionen für [Mexiko](https://youtu.be/WbxbP_YFAvE) und [Spanien](https://youtu.be/n-e9qT4zSlY) und *voseo*-Formen im Clip, der für [Argentinien](https://youtu.be/wFH4v3beYCk) produziert wurde.
+    Ein besonders gutes Beispiel liefert die internationale Kampagne eines bekannten Keks-Herstellers, für die gleich drei spanischsprachige Versionen mit unterschiedlichen Verbformen produziert wurden: Man hört *tuteo*-Formen in den Versionen für [Mexiko](https://youtu.be/WbxbP_YFAvE) und [Spanien](https://youtu.be/n-e9qT4zSlY) und *voseo*-Formen im Clip, der für [Argentinien](https://youtu.be/wFH4v3beYCk) produziert wurde.
       
     Hörbar wird der Unterschied in den Verbformen: In den mexikanischen und spanischen Versionen erscheinen Formen des *tuteo*, die auf der vorletzten Silbe betont sind (hier **fett**) wie ***gi**ras*, ***lan**zas*, ***muer**des* oder ***prue**bas*. In der argentinischen Version stehen dagegen typische *voseo*-Formen wie *gi**rás***, *lan**zás***, *mor**dés*** und *pro**bás***. Die Betonung liegt dabei typischerweise auf der letzten Silbe.
 
@@ -73,7 +75,7 @@ Insgesamt zeigt sich damit, dass der *voseo* zwar in weiten Teilen Hispanoamerik
 
     <div class="audio-grid">
     <div class="audio-block">
-    <p class="audio-label">El Salvador:</p>
+    <h4>El Salvador:</h4>
     <div class="example">
     „Entonces <strong>vos</strong> cómo <strong>imaginás</strong> que eso puede ser posible.“
     <span class="token-id">(SLVd96cd5aec)</span>

@@ -14,18 +14,17 @@ created: "11.11.2026"
 last_modified: "11.03.2026"
 ---
 
-# 5.3 Variation in der Grammatik
+# 5.4 Variation in der Grammatik
 
-## Einleitung
+## Das Gleiche, aber anders ausgedrückt
 
-Spätestens wenn Du mit authentischen Materialien arbeitest, stellt sich nicht nur die Frage nach der Aussprache, sondern auch nach der Grammatik: *Welche Formen sind „richtig“ – und für wen?* Lernende begegnen heute über Serien, Filme, soziale Medien oder Netflix ganz selbstverständlich unterschiedlichen Varietäten des Spanischen. Dabei fallen nicht nur lautliche Unterschiede auf, sondern auch grammatikalische: Tempora werden anders verwendet, Pronomen wechseln, vertraute Regeln scheinen plötzlich nicht mehr eindeutig.
+Spätestens wenn Du mit authentischen Materialien arbeitest, stellt sich eine Frage, die im Lehrwerk selten explizit beantwortet wird: *Welche Formen sind eigentlich „richtig" – und für wen?* Lernende begegnen heute über Serien, Filme und soziale Medien ganz selbstverständlich unterschiedlichen Varietäten des Spanischen. Dabei fallen nicht nur Ausspracheunterschiede auf, sondern auch grammatikalische: Vergangenheitstempora werden anders verwendet als gelernt, ein *casita* oder *ahorita* hat mehr Funktionen als erwartet, und Sätze wie *habían muchos problemas* klingen nach Fehler – sind es aber in vielen Varietäten nicht.
 
-Grammatikalische Variation ist dabei kein Randphänomen und kein Zeichen von Nachlässigkeit, sondern Ausdruck regionaler und nationaler Normen innerhalb einer plurizentrischen Sprache. Wie bei der Aussprache gibt es auch in der Grammatik mehrere gleichberechtigte Varianten, also etablierte Möglichkeiten, dasselbe mit anderen Formen auszudrücken. Für den Unterricht ist das besonders relevant, weil grammatikalische Unterschiede unmittelbar Fragen der Regelvermittlung, der Korrektur und der Bewertung berühren.
+Grammatikalische Variation ist kein Randphänomen und kein Zeichen von Nachlässigkeit, sondern Ausdruck regionaler und nationaler Normen innerhalb einer plurizentrischen Sprache. Wie bei der Aussprache gibt es auch in der Grammatik gleichberechtigte Varianten – also etablierte Möglichkeiten, dasselbe mit anderen Formen auszudrücken. Für den Unterricht ist das besonders relevant, weil grammatikalische Unterschiede unmittelbar Fragen der Regelvermittlung, der Korrektur und der Bewertung berühren.
 
-Dieses Kapitel greift die in [Variation & Plurizentrik](./variation_plurizentrik.md) angekündigten zentralen Bereiche der grammatischen Variation auf. Zunächst werden Unterschiede im Tempusgebrauch behandelt, insbesondere das Verhältnis von *perfecto compuesto* und *perfecto simple* (besser bekannt als *indefinido*) sowie die Konkurrenz zwischen *futuro simple* und *futuro perifrástico*. Darauf folgt ein Blick auf pragmatisch-semantische Variation, exemplarisch am Gebrauch von Diminutivformen wie *casita* oder *ahorita*, deren Funktionen und Häufigkeit je nach Region deutlich variieren können. Abschließend werden mehrere Fälle morphosyntaktischer Variation behandelt, die im Unterricht häufig im Spannungsfeld zwischen Norm und Sprachgebrauch stehen. Dazu gehören die Variation in der Objektpronomenverwendung (*leísmo*), die Alternanzen zwischen *que* und *de que* im sogenannten *(de)queísmo* sowie Konstruktionen wie *habían muchos problemas*, die in vielen Varietäten verbreitet sind, aber normativ oft als problematisch gelten.
+Dieses Kapitel gliedert sich in drei Bereiche. Zunächst wird der Tempusgebrauch behandelt, insbesondere das Verhältnis von *perfecto compuesto* und *perfecto simple* sowie die Konkurrenz zwischen *futuro simple* und *futuro perifrástico*. Daran schließt sich ein Abschnitt zur pragmatisch-semantischen Variation an, exemplarisch am Gebrauch von Diminutivformen wie *casita* oder *ahorita*, deren Funktionen und Verwendungshäufigkeit je nach Region erheblich variieren. Abschließend werden drei Fälle morphosyntaktischer Variation behandelt, die im Unterricht häufig im Spannungsfeld zwischen Norm und Sprachgebrauch stehen: die Variation in der Verwendung der Objektpronomina (*leísmo*), die Alternanzen zwischen *que* und *de que* im sogenannten *(de)queísmo* sowie Konstruktionen wie *habían muchos problemas*, die in vielen Varietäten verbreitet, normativ aber umstritten sind.
 
-
-Ziel dieses Kapitels ist es natürlich nicht, dafür zu werben, möglichst viele Varianten zu lehren, sondern Dir eine *fundierte Orientierung* zu geben: Du sollst als Lehrkraft einschätzen können, welche grammatikalischen Unterschiede systematisch sind, wie Du sie einordnest und wie Du Lernende dafür sensibilisierst, ohne sie zu überfordern. Die Variation in der Grammatik wird dabei als Normalfall verstanden – und als Ressource für einen reflektierten, realitätsnahen Spanischunterricht.
+Ziel ist dabei keine Werbung für möglichst viele Varianten im Unterricht, sondern eine fundierte Orientierung: Du sollst als Lehrkraft einschätzen können, welche grammatikalischen Unterschiede systematisch sind, wie Du sie einordnest und wie Du Lernende dafür sensibilisierst, ohne sie zu überfordern. Auch hier wird Variation dabei als Normalfall verstanden – und als Ressource für einen reflektierten, realitätsnahen Spanischunterricht.
 
 ## Tempusvariation
 
@@ -112,7 +111,208 @@ Für den Unterricht heißt das: Beide Formen sollten vermittelt werden, aber die
     Wenn das Lehrwerk *cantaré* als die ‚Hauptform' des Futurs einführt, lohnt es sich, früh klarzustellen: Im gesprochenen Spanisch – besonders in Hispanoamerika – ist *ir a + infinitivo* die häufigere Form. Das synthetische Futur ist nicht ‚besser', sondern funktional anders. Diese Einordnung hilft Schüler:innen, authentisches Sprachmaterial richtig einzuordnen und *voy a cantar* nicht als ‚minderwertiges' Futur wahrzunehmen.
 
 
-## Pragmatisch-semantische Variation: Die Diminutive (Paul Becker)
+## Mehr als Verkleinerung und Verniedlichung: Variation im Gebrauch der Diminutive (Paul Becker)
+
+Wer *casita*, *amiguito* oder *ahorita* hört, denkt meist zuerst an Verniedlichung – und verbindet das vielleicht mit dem amerikanischen Spanisch, wo Diminutive besonders häufig begegnen. Beides stimmt, greift aber zu kurz: Diminutive können weit mehr kommunikativ leisten als Verkleinerung, und ihre Formen, Funktionen und Verwendungshäufigkeit variieren in der spanischsprachigen Welt erheblich. Wer das weiß, versteht nicht nur mehr, wenn er einer argentinischen Serie oder einem mexikanischen Lied begegnet – er kann auch einordnen, warum *doctorcito* in Kolumbien eine Höflichkeitsform ist und in Spanien seltsam klingt.
+
+Diminutive bilden zusammen mit Vergrößerungsformen (wie *amigote*, *casona*) und abwertenden Formen (wie *casucha* ‘Bruchbude’, *politiquillo* ‘Möchtegernpolitiker’) eine eigene Klasse von Wortableitungen, die keine neue Wortart erzeugen, sondern eine subjektive Bewertung oder affektive Färbung zum Ausdruck bringen. Für Diminutive existieren im Spanischen mehrere Suffixe, das weitaus verbreitetste Diminutivsuffix ist jedoch *-ito/-ita*.
+
+### Was Diminutive kommunikativ leisten
+
+Die naheliegendste Funktion ist die der Größenangabe: *una casita* ist kleiner als *una casa*. Aber schon hier gilt: Die Größeninterpretation ist an konkrete, zählbare Gegenstände gebunden. Bei abstrakten Substantiven oder Maßangaben entfällt sie ganz – ein *kilito* ist immer noch ein Kilo.
+
+Sehr häufig weisen Diminutive eine *affektive Funktion* auf: Diminutive signalisieren Nähe, Zuneigung oder Vertrautheit, ohne den Sachverhalt zu verändern. *Mi amigo* und *mi amiguito* bezeichnen dieselbe Person; der Diminutiv markiert die emotionale Haltung der Sprechenden. Eng damit verbunden ist die *abschwächende Funktion*: *¿No te queda un pedacito?* klingt weniger fordernd als *¿No te queda un pedazo?*; *tengo un problemita* stellt das Problem kleiner dar und mildert den Sachverhalt ab. Diese Funktion ist kommunikativ besonders relevant, weil sie in Alltagssituationen auftritt, die Lernende früh erleben: beim Bitten, beim Entschuldigen, beim Abschwächen einer Kritik.
+
+Weniger intuitiv ist die *verstärkende Funktion*: In bestimmten Kontexten bedeutet der Diminutiv nicht weniger, sondern mehr. *El coche estaba nuevecito* heißt nicht ‘ein bisschen neu’, sondern ‘brandneu, makellos’; *llegó solito* bedeutet ‘ganz allein, ohne jede Hilfe’. Schließlich gibt es die *ironische oder abwertende Verwendung*: *Un escritorcito* hat im Deutschen sein Pendant im *Schreiberling* (ein *Möchtegern-Schriftsteller*) – der Diminutiv drückt hier Geringschätzung aus. Dass dasselbe Suffix Zuneigung oder Geringschätzung ausdrücken kann, entscheidet allein der situative Rahmen.
+
+!!! context "Der Diminutiv als Respektform"
+    In weiten Teilen Hispanoamerikas und auf den Kanaren ist es üblich, mit Diminutiven Respekt gegenüber Autoritätspersonen auszudrücken: *doctorcito*, *maestrita* oder *ingenierita* sind dort höfliche, wertschätzende Anreden. In Spanien würde dieselbe Form eher als herablassend oder deplatziert empfunden. Diese Asymmetrie ist im Unterricht dann relevant, wenn Lernende Kontakt mit hispanoamerikanischen Gesprächspartner:innen haben – oder wenn entsprechende Situationen in authentischen Materialien auftauchen.
+
+??? hoermal "*Yo perdí toda mi platita* Funktionen im Gespräch"
+    Die folgenden Beispiele zeigen Diminutive in spontanen Gesprächssituationen. Hier dienen sie häufig dazu, Aussagen abzuschwächen, zu intensivieren, Nähe auszudrücken oder freundlicher zu wirken.
+
+    <div class="audio-grid">
+    <div class="audio-block">
+    <h4>Uruguay (abschwächend):</h4>
+    <div class="example">
+    „<strong>Ojito</strong> (‘Achtung’, wörtlich ‘Äuglein’) con el puerto.“
+    <span class="token-id">(URY5bbf88c76)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY5bbf88c76.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY5bbf88c76.m4a" type="audio/mp4">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    <div class="audio-block">
+    <h4>Uruguay (abschwächend):</h4>
+    <div class="example">
+    „Todo el trastorno psicológico de eeh tener unos <strong>kilitos</strong> (‘ein paar Kilo’) de más a la la la crítica y las cirugías (...).“
+    <span class="token-id">(URY2cff70d0d)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY2cff70d0d.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY2cff70d0d.m4a" type="audio/mp4">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    <div class="audio-block">
+    <h4>Paraguay (verstärkend):</h4>
+    <div class="example">
+    „Ernestina me dijo que su mamá le levanta <strong>tempranito</strong> (‘ganz früh’) a la mañana, prende la tele para vestirle, para ir a la es- para irse a la escuela.“
+    <span class="token-id">(PRYb10ea56ba)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PRYb10ea56ba.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PRYb10ea56ba.m4a" type="audio/mp4">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    <div class="audio-block">
+    <h4>Peru (affektiv):</h4>
+    <div class="example">
+    „Yo perdí toda mi <strong>platita</strong> (‘mein weniges Geld’) en un incendio.“
+    <span class="token-id">(PER1101faa0f)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PER1101faa0f.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PER1101faa0f.m4a" type="audio/mp4">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    </div>
+
+    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de">CO.RA.PAN</a></p>
+
+### Variation in den Formen und Ausdehnung auf weitere Wortarten
+
+Neben dem panhispanischen *-ito/-ita* gibt es regionale Präferenzen, die man als Lehrkraft kennen sollte: *-ico/-ica* ist charakteristisch für den Nordosten Spaniens sowie für Teile der Karibik (*cafecico*, *momentico*); in karibischen, mittelamerikanischen und andinen Varietäten findet sich zudem eine Kombination beider Suffixe (*ahoritica*, *chiquitico*). Welche Form ein Wort erhält, variiert auch innerhalb derselben Funktion regional erheblich: *bar* wird in Spanien und Mexiko zu *barecito*, in Chile und im Río de la Plata-Raum zu *barcito*. Solche Unterschiede verlaufen nicht einfach entlang der Grenze Spanien–Amerika, sondern quer durch die Hispanophonie.
+
+!!! tip "Wie viele Diminutive hat ein *café*?"
+    Eine Einladung auf ein Käffchen zeigt, wie stark die Suffixe regional variieren können:
+    So kann es u.a. heißen *¿Tomamos un...?* — *cafe**cito*** (überall), *cafe**tito*** oder *cafe**lito*** (Spanien), *cafe**íto*** (Karibik). Alle vier Formen meinen dasselbe – keine ist ‚richtiger‘ als die andere, sondern sie entsprechen nur den jeweiligen regionalen Gewohnheiten.
+
+Eine der auffälligsten Besonderheiten des amerikanischen Spanisch ist außerdem die Ausdehnung der Diminutivbildung auf Wortarten, die im europäischen Spanisch kaum diminuiert werden. Bei den Adverbien ist *ahorita* das bekannteste Beispiel: Es bezeichnet je nach Kontext ‘sofort’, ‘gerade eben’ oder ‘in Kürze’ und präzisiert damit die zeitliche Nähe über *ahora* hinaus. Ähnlich funktionieren *cerquita* (‘ganz nah’) oder *despacito* (‘ganz langsam’). Das Wort *todo* (‘alles’) kann zu *todito* oder *toditito* werden und signalisiert dann ‘absolut alles’ oder ‘ohne Ausnahme’. In Andenvarietäten sind sogar Zahlwörter diminuierbar: *Los cuatrito iremos* ist im peruanischen Spanisch ein völlig normaler Satz.
+
+Wer Spanisch in seiner ganzen Bandbreite hören will – in Serien, Filmen oder Musik aus verschiedenen Ländern –, wird Diminutiven in den unterschiedlichsten Formen und Funktionen begegnen. Nicht zuletzt trägt der intensive Medienkonsum im spanischsprachigen Europa dazu bei, dass lateinamerikanische Formen zunehmend auch dort bekannt und gebräuchlich werden. Sie einordnen zu können, ohne sie auf Verniedlichung zu reduzieren, ist ein Zeichen echter sprachlicher Kompetenz.
+
+??? hoermal "*Algún rayito de sol* in einem *momentico*: Hörbeispiele"
+    Die folgenden Ausschnitte aus Radiosendungen zeigen Diminutive im gesprochenen Spanisch aus verschiedenen Regionen der Hispanophonie. Sie illustrieren sowohl unterschiedliche Suffixvarianten (*-ito*, *-ico*, *-itico*) als auch die Ausdehnung der Diminutivbildung auf andere Wortarten, etwa Adverbien (*cerquita*, *despacito*, *ahorita*). 
+
+    <div class="audio-grid">
+    <div class="audio-block">
+    <h4>Argentinien:</h4>
+    <div class="example">
+    „Se esperan para hoy 20 de máxima con algún <strong>rayito</strong> (‘kleiner Sonnenstrahl’) de sol.“
+    <span class="token-id">(ARG5955354d7)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG5955354d7.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG5955354d7.m4a" type="audio/mp4">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    <div class="audio-block">
+    <h4>Uruguay:</h4>
+    <div class="example">
+    „Ya estamos <strong>cerquita</strong> (‘ganz nah’) del fin de semana.“
+    <span class="token-id">(URY3e6d4dfb2)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY3e6d4dfb2.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY3e6d4dfb2.m4a" type="audio/mp4">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    <div class="audio-block">
+    <h4>Kanaren (Spanien):</h4>
+    <div class="example">
+    „Bueno nosotros en dos <strong>minutitos</strong> (‘in wenigen Minuten’) volvemos y volvemos con mucho humor.“
+    <span class="token-id">(ESPCAN17a593f28)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ESPCAN17a593f28.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ESPCAN17a593f28.m4a" type="audio/mp4">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    <div class="audio-block">
+    <h4>Costa Rica:</h4>
+    <div class="example">
+    „Pase <strong>despacito</strong> (‘ganz langsam’) porque todavía están los trabajos eeh ahí en ese (...).“
+    <span class="token-id">(CRI3733abe16)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CRI3733abe16.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CRI3733abe16.m4a" type="audio/mp4">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    <div class="audio-block">
+    <h4>Peru:</h4>
+    <div class="example">
+    „Bueno el precio de la papa <strong>ahorita</strong> (‘gerade jetzt’) está cómodo.“
+    <span class="token-id">(PER49335038b)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PER49335038b.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PER49335038b.m4a" type="audio/mp4">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    <div class="audio-block">
+    <h4>El Salvador:</h4>
+    <div class="example">
+    „Estamos muy contentos con el apoyo que tenemos <strong>ahorita</strong> (‘im Moment’) de la gente de Ahuachapán.“
+    <span class="token-id">(SLVaf013aad1)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/SLVaf013aad1.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/SLVaf013aad1.m4a" type="audio/mp4">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    <div class="audio-block">
+    <h4>Kolumbien:</h4>
+    <div class="example">
+    „Déjeme ir un <strong>momentico</strong> (‘einen kleinen Moment’) a Bucaramanga.“
+    <span class="token-id">(COLf1ebb8bde)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/COLf1ebb8bde.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/COLf1ebb8bde.m4a" type="audio/mp4">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    <div class="audio-block">
+    <h4>Kuba:</h4>
+    <div class="example">
+    „Mis saludos y mi abrazo también para que siente un <strong>poquitico</strong> (‘ein ganz kleines bisschen’) de calorcito, Luisito.“
+    <span class="token-id">(CUB5d77cc7b3)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CUB5d77cc7b3.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CUB5d77cc7b3.m4a" type="audio/mp4">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    </div>
+
+    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de">CO.RA.PAN</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Morphosyntaktische Variation und Norm
 
