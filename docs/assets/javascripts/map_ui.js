@@ -156,6 +156,13 @@ function setFullscreenButtonState(button, isFullscreen) {
   );
 }
 
+function setFullscreenButtonAvailability(button, isAvailable) {
+  button.hidden = !isAvailable;
+  button.disabled = !isAvailable;
+  button.tabIndex = isAvailable ? 0 : -1;
+  button.setAttribute('aria-hidden', String(!isAvailable));
+}
+
 function bindGlobalFullscreenEvents() {
   if (window.__mapUIFullscreenHandlersBound) {
     return;
@@ -176,6 +183,14 @@ function bindGlobalFullscreenEvents() {
   const resizeHandler = () => {
     syncMapHeaderOffset();
     fullscreenRegistry.forEach((entry) => {
+      const fullscreenAvailable = !isMobileViewport();
+
+      setFullscreenButtonAvailability(entry.button, fullscreenAvailable);
+
+      if (!fullscreenAvailable && entry.container.classList.contains('is-fullscreen')) {
+        entry.setState(false);
+      }
+
       if (entry.container.classList.contains('is-fullscreen')) {
         invalidateMap(entry.map);
       }
@@ -209,6 +224,10 @@ function enableFullscreenUI(container, map, button) {
   };
 
   const setState = (isFullscreen) => {
+    if (isFullscreen && isMobileViewport()) {
+      return;
+    }
+
     if (isFullscreen) {
       fullscreenRegistry.forEach((entry) => {
         if (entry.container !== container && entry.container.classList.contains('is-fullscreen')) {
@@ -236,6 +255,7 @@ function enableFullscreenUI(container, map, button) {
   fullscreenRegistry.set(container, entry);
 
   setFullscreenButtonState(button, false);
+  setFullscreenButtonAvailability(button, !isMobileViewport());
   syncMapHeaderOffset();
 }
 
