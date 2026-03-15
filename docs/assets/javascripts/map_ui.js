@@ -120,9 +120,29 @@ function isMapInitialized(container) {
   return container?.dataset.mapInitialized === 'true';
 }
 
-function markMapInitialized(container) {
+function getInitializedMapType(container) {
+  return container?.dataset.mapInitializedType || null;
+}
+
+function isMapInitializedForType(container, mapType) {
+  if (!container) {
+    return false;
+  }
+
+  if (!mapType) {
+    return isMapInitialized(container);
+  }
+
+  return getInitializedMapType(container) === mapType;
+}
+
+function markMapInitialized(container, mapType) {
   if (container) {
     container.dataset.mapInitialized = 'true';
+
+    if (mapType) {
+      container.dataset.mapInitializedType = mapType;
+    }
   }
 }
 
@@ -267,6 +287,8 @@ if (typeof module !== 'undefined' && module.exports) {
     enablePopupCloseUX,
     enableResponsiveInvalidation,
     isMapInitialized,
+    getInitializedMapType,
+    isMapInitializedForType,
     markMapInitialized,
     syncMapHeaderOffset,
     enableFullscreenUI
@@ -280,6 +302,8 @@ window.MapUI = {
   enablePopupCloseUX,
   enableResponsiveInvalidation,
   isMapInitialized,
+  getInitializedMapType,
+  isMapInitializedForType,
   markMapInitialized,
   syncMapHeaderOffset,
   enableFullscreenUI

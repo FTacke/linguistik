@@ -77,7 +77,7 @@ extra_css = [
   "assets/styles/20_book.css",
   "assets/styles/25_cover.css",
   "assets/styles/30_components.css",
-  "https://unpkg.com/leaflet/dist/leaflet.css",
+  "assets/vendor/leaflet/leaflet.css",
   "assets/styles/40_custom.css",
   "assets/styles/50_map.css",
 ]
@@ -92,7 +92,7 @@ extra_css = [
 extra_javascript = [
   "assets/javascripts/base_path.js",
   "assets/javascripts/audio_src_fixup.js",
-  "https://unpkg.com/leaflet/dist/leaflet.js",
+  "assets/vendor/leaflet/leaflet.js",
   "assets/javascripts/map_ui.js",
   "assets/javascripts/map.js",
   "assets/javascripts/map_countries.js",

@@ -1,40 +1,350 @@
 [
-  {"Land": "Spanien", "Hauptstadt": "Madrid", "Koordinaten": [40.416775, -3.70379], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Spanien (Zentrum)", "Hauptstadt": "Madrid", "Koordinaten": [40.416775, -3.70379], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Spanien (Süden)", "Hauptstadt": "Sevilla", "Koordinaten": [37.392529, -5.994072], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Spanien (Nordwesten)", "Hauptstadt": "Santiago de Compostela", "Koordinaten": [42.878212, -8.544844], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Spanien (Galicien)", "Hauptstadt": "Santiago de Compostela", "Koordinaten": [42.878212, -8.544844], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Spanien (Kanarische Inseln)", "Hauptstadt": "Santa Cruz de Tenerife", "Koordinaten": [28.4682, -16.2546], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-
-  {"Land": "Mexiko", "Hauptstadt": "Mexiko-Stadt", "Koordinaten": [19.4326, -99.1332], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-
-  {"Land": "Mittelamerika (Region)", "Hauptstadt": "Managua", "Koordinaten": [12.114993, -86.236174], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Karibik (Region)", "Hauptstadt": "Santo Domingo", "Koordinaten": [18.483402, -69.929611], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-
-  {"Land": "Peru", "Hauptstadt": "Lima", "Koordinaten": [-12.046374, -77.042793], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Peru (Küste)", "Hauptstadt": "Lima", "Koordinaten": [-12.046374, -77.042793], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Peru (Andenraum)", "Hauptstadt": "Cusco", "Koordinaten": [-13.529427, -71.984978], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-
-  {"Land": "Bolivien", "Hauptstadt": "Cochabamba", "Koordinaten": [-17.413977, -66.165321], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Bolivien (Andenraum)", "Hauptstadt": "La Paz", "Koordinaten": [-16.489689, -68.119294], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-
-  {"Land": "Argentinien", "Hauptstadt": "Córdoba", "Koordinaten": [-31.416668, -64.183334], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Argentinien (Nordwesten)", "Hauptstadt": "Salta", "Koordinaten": [-24.782932, -65.412155], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Argentinien (Zentrum)", "Hauptstadt": "Córdoba", "Koordinaten": [-31.416668, -64.183334], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Argentinien (Süden)", "Hauptstadt": "Comodoro Rivadavia", "Koordinaten": [-45.86413, -67.49656], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-
-  {"Land": "Chile", "Hauptstadt": "Santiago", "Koordinaten": [-33.447487, -70.673676], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-
-  {"Land": "Uruguay", "Hauptstadt": "Montevideo", "Koordinaten": [-34.901113, -56.164531], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-
-  {"Land": "Paraguay", "Hauptstadt": "Asunción", "Koordinaten": [-25.26374, -57.575926], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-
-  {"Land": "Kolumbien (Andenraum)", "Hauptstadt": "Bogotá", "Koordinaten": [4.7110, -74.0721], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Venezuela", "Hauptstadt": "Caracas", "Koordinaten": [10.4806, -66.9036], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Ecuador", "Hauptstadt": "Quito", "Koordinaten": [-0.1807, -78.4678], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Äquatorialguinea", "Hauptstadt": "Malabo", "Koordinaten": [3.7504, 8.7371], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Kuba", "Hauptstadt": "Havanna", "Koordinaten": [23.1136, -82.3666], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-  {"Land": "Puerto Rico", "Hauptstadt": "San Juan", "Koordinaten": [18.4655, -66.1057], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"},
-
-  {"Land": "Andenraum (länderübergreifend)", "Hauptstadt": "Titicacasee-Region", "Koordinaten": [-15.76557, -69.526123], "Perfecto compuesto": "Daten folgen", "Perfecto simple": "Daten folgen", "Verwendung der Tempora": "Daten folgen"}
+  {
+    "Code": "ES-MAD",
+    "Ort": "Madrid",
+    "Land": "Spanien",
+    "Koordinaten": [40.4168, -3.7038],
+    "Perfecto compuesto": "54.74 %",
+    "Perfecto simple": "45.26 %",
+    "Regionales System": "Prototypischer Gebrauch des perfecto compuesto",
+    "Systemschluessel": "prototypical",
+    "Verwendung der Tempora": "Prototypischer Gebrauch: Das compuesto ist didaktisch die Leitform fuer gegenwartsnahe oder gegenwartsrelevante Sachverhalte."
+  },
+  {
+    "Code": "ES-SEV",
+    "Ort": "Sevilla",
+    "Land": "Spanien",
+    "Koordinaten": [37.3886, -5.9823],
+    "Perfecto compuesto": "50.39 %",
+    "Perfecto simple": "49.61 %",
+    "Regionales System": "Prototypischer Gebrauch des perfecto compuesto",
+    "Systemschluessel": "prototypical",
+    "Verwendung der Tempora": "Suedspanische Variante des prototypischen Gebrauchs; im Messpunkt liegen compuesto und simple lokal fast gleichauf."
+  },
+  {
+    "Code": "ES-NW",
+    "Ort": "Santiago de Compostela",
+    "Land": "Nordwestspanien",
+    "Koordinaten": [42.878212, -8.544844],
+    "Perfecto compuesto": "keine direkten Daten",
+    "Perfecto simple": "keine direkten Daten",
+    "Regionales System": "Dominanz des perfecto simple",
+    "Systemschluessel": "simple_dominant",
+    "Verwendung der Tempora": "didaktische Regionalzuordnung ohne lokalen Prozentwert",
+    "Hinweis": "Didaktische Regionalzuordnung ohne direkten lokalen Messwert."
+  },
+  {
+    "Code": "ES-CAN",
+    "Ort": "La Laguna",
+    "Land": "Kanarische Inseln",
+    "Koordinaten": [28.4874, -16.3141],
+    "Perfecto compuesto": "59.27 %",
+    "Perfecto simple": "40.73 %",
+    "Regionales System": "Dominanz des perfecto simple",
+    "Systemschluessel": "simple_dominant",
+    "Verwendung der Tempora": "Didaktisch der simple-dominierten Zone zugeordnet; der lokale Messpunkt ersetzt diese grobe Regionalzuordnung nicht."
+  },
+  {
+    "Code": "MEX",
+    "Ort": "Mexiko-Stadt",
+    "Land": "Mexiko",
+    "Koordinaten": [19.4326, -99.1332],
+    "Perfecto compuesto": "12.35 %",
+    "Perfecto simple": "87.65 %",
+    "Regionales System": "Aspektuelles System",
+    "Systemschluessel": "aspectual",
+    "Verwendung der Tempora": "Aspektuelle Opposition: Das compuesto ist vor allem fuer fortdauernde oder bis in die Gegenwart reichende Sachverhalte relevant."
+  },
+  {
+    "Code": "GTM",
+    "Ort": "Ciudad de Guatemala",
+    "Land": "Guatemala",
+    "Koordinaten": [14.6349, -90.5069],
+    "Perfecto compuesto": "24.52 %",
+    "Perfecto simple": "75.48 %",
+    "Regionales System": "Aspektuelles System",
+    "Systemschluessel": "aspectual",
+    "Verwendung der Tempora": "Aspektuelle Opposition mit funktionaler Trennung zwischen simple und compuesto; lokale Prozentwerte bleiben Messpunktdaten."
+  },
+  {
+    "Code": "HND",
+    "Ort": "Tegucigalpa",
+    "Land": "Honduras",
+    "Koordinaten": [14.0723, -87.1921],
+    "Perfecto compuesto": "36.23 %",
+    "Perfecto simple": "63.77 %",
+    "Regionales System": "Aspektuelles System",
+    "Systemschluessel": "aspectual",
+    "Verwendung der Tempora": "Aspektuelle Opposition mit weiterhin funktional markiertem compuesto fuer gegenwartsnahe oder fortdauernde Kontexte."
+  },
+  {
+    "Code": "CRI",
+    "Ort": "San Jose",
+    "Land": "Costa Rica",
+    "Koordinaten": [9.9281, -84.0907],
+    "Perfecto compuesto": "23.46 %",
+    "Perfecto simple": "76.54 %",
+    "Regionales System": "Aspektuelles System",
+    "Systemschluessel": "aspectual",
+    "Verwendung der Tempora": "Aspektuelle Opposition: Das compuesto bleibt funktional erhalten, ohne mit den Regionalflaechen gleichgesetzt zu werden."
+  },
+  {
+    "Code": "NIC",
+    "Ort": "Managua",
+    "Land": "Nicaragua",
+    "Koordinaten": [12.1364, -86.2514],
+    "Perfecto compuesto": "16.29 %",
+    "Perfecto simple": "83.71 %",
+    "Regionales System": "Aspektuelles System",
+    "Systemschluessel": "aspectual",
+    "Verwendung der Tempora": "Aspektuelle Opposition mit klarer funktionaler Rolle des compuesto trotz lokaler Dominanz des simple im Messmaterial."
+  },
+  {
+    "Code": "SLV",
+    "Ort": "San Salvador",
+    "Land": "El Salvador",
+    "Koordinaten": [13.6929, -89.2182],
+    "Perfecto compuesto": "31.42 %",
+    "Perfecto simple": "68.58 %",
+    "Regionales System": "Aspektuelles System",
+    "Systemschluessel": "aspectual",
+    "Verwendung der Tempora": "Aspektuelle Opposition mit regional stabiler funktionaler Differenzierung der beiden Vergangenheitsformen."
+  },
+  {
+    "Code": "PAN",
+    "Ort": "Ciudad de Panama",
+    "Land": "Panama",
+    "Koordinaten": [8.9824, -79.5199],
+    "Perfecto compuesto": "19.92 %",
+    "Perfecto simple": "80.08 %",
+    "Regionales System": "Aspektuelles System",
+    "Systemschluessel": "aspectual",
+    "Verwendung der Tempora": "Aspektuelle Opposition: Das compuesto bleibt eine funktionale Option fuer gegenwartsrelevante oder fortdauernde Lesarten."
+  },
+  {
+    "Code": "CAM",
+    "Ort": "Mittelamerika",
+    "Land": "Didaktische Region",
+    "Koordinaten": [12.114993, -86.236174],
+    "Perfecto compuesto": "keine direkten Daten",
+    "Perfecto simple": "keine direkten Daten",
+    "Regionales System": "Aspektuelles System",
+    "Systemschluessel": "aspectual",
+    "Verwendung der Tempora": "didaktische Regionalzuordnung ohne lokalen Prozentwert",
+    "Hinweis": "Didaktische Regionalzuordnung ohne direkten lokalen Messwert."
+  },
+  {
+    "Code": "CUB",
+    "Ort": "La Habana",
+    "Land": "Kuba",
+    "Koordinaten": [23.133, -82.383],
+    "Perfecto compuesto": "20.67 %",
+    "Perfecto simple": "79.33 %",
+    "Regionales System": "Aspektuelles System",
+    "Systemschluessel": "aspectual",
+    "Verwendung der Tempora": "Karibische Auspraegung des aspektuellen Systems; lokale Prozentwerte sind Messpunktdaten und keine Flaechengrenzen."
+  },
+  {
+    "Code": "DOM",
+    "Ort": "Santo Domingo",
+    "Land": "Dominikanische Republik",
+    "Koordinaten": [18.4663, -69.9526],
+    "Perfecto compuesto": "23.73 %",
+    "Perfecto simple": "76.27 %",
+    "Regionales System": "Aspektuelles System",
+    "Systemschluessel": "aspectual",
+    "Verwendung der Tempora": "Karibische Auspraegung des aspektuellen Systems mit funktionaler Opposition zwischen compuesto und simple."
+  },
+  {
+    "Code": "PRI",
+    "Ort": "San Juan",
+    "Land": "Puerto Rico",
+    "Koordinaten": [18.4655, -66.1057],
+    "Perfecto compuesto": "keine direkten Daten",
+    "Perfecto simple": "keine direkten Daten",
+    "Regionales System": "Aspektuelles System",
+    "Systemschluessel": "aspectual",
+    "Verwendung der Tempora": "didaktische Regionalzuordnung ohne lokalen Prozentwert",
+    "Hinweis": "Didaktische Regionalzuordnung ohne direkten lokalen Messwert."
+  },
+  {
+    "Code": "CAR",
+    "Ort": "Karibik",
+    "Land": "Didaktische Region",
+    "Koordinaten": [18.483402, -69.929611],
+    "Perfecto compuesto": "keine direkten Daten",
+    "Perfecto simple": "keine direkten Daten",
+    "Regionales System": "Aspektuelles System",
+    "Systemschluessel": "aspectual",
+    "Verwendung der Tempora": "didaktische Regionalzuordnung ohne lokalen Prozentwert",
+    "Hinweis": "Didaktische Regionalzuordnung ohne direkten lokalen Messwert."
+  },
+  {
+    "Code": "COL",
+    "Ort": "Bogota",
+    "Land": "Kolumbien",
+    "Koordinaten": [4.6097, -74.0817],
+    "Perfecto compuesto": "24.39 %",
+    "Perfecto simple": "75.61 %",
+    "Regionales System": "Aspektuelles System",
+    "Systemschluessel": "aspectual",
+    "Verwendung der Tempora": "Nordandine bzw. nordkontinentale Auspraegung mit funktional erhaltener Opposition zwischen simple und compuesto."
+  },
+  {
+    "Code": "VEN",
+    "Ort": "Caracas",
+    "Land": "Venezuela",
+    "Koordinaten": [10.5, -66.9333],
+    "Perfecto compuesto": "13.50 %",
+    "Perfecto simple": "86.50 %",
+    "Regionales System": "Aspektuelles System",
+    "Systemschluessel": "aspectual",
+    "Verwendung der Tempora": "Nordkontinentale Auspraegung mit funktional markiertem compuesto; die lokale Verteilung bleibt ein Einzelmesspunkt."
+  },
+  {
+    "Code": "PER",
+    "Ort": "Lima",
+    "Land": "Peru",
+    "Koordinaten": [-12.0464, -77.0428],
+    "Perfecto compuesto": "36.96 %",
+    "Perfecto simple": "63.04 %",
+    "Regionales System": "Expansion des perfecto compuesto",
+    "Systemschluessel": "compound_expansion",
+    "Verwendung der Tempora": "Expansion des compuesto: Die Form kann auch Kontexte uebernehmen, in denen anderswo haeufig das simple steht."
+  },
+  {
+    "Code": "PER-AND",
+    "Ort": "Cusco",
+    "Land": "Peru (Andenraum)",
+    "Koordinaten": [-13.529427, -71.984978],
+    "Perfecto compuesto": "keine direkten Daten",
+    "Perfecto simple": "keine direkten Daten",
+    "Regionales System": "Expansion des perfecto compuesto",
+    "Systemschluessel": "compound_expansion",
+    "Verwendung der Tempora": "didaktische Regionalzuordnung ohne lokalen Prozentwert",
+    "Hinweis": "Didaktische Regionalzuordnung ohne direkten lokalen Messwert."
+  },
+  {
+    "Code": "BOL",
+    "Ort": "La Paz",
+    "Land": "Bolivien",
+    "Koordinaten": [-16.5, -68.15],
+    "Perfecto compuesto": "45.74 %",
+    "Perfecto simple": "54.26 %",
+    "Regionales System": "Expansion des perfecto compuesto",
+    "Systemschluessel": "compound_expansion",
+    "Verwendung der Tempora": "Expansion des compuesto mit starkem Ausbau der Form auch ausserhalb des prototypischen Gegenwartsbezugs."
+  },
+  {
+    "Code": "ECU",
+    "Ort": "Quito",
+    "Land": "Ecuador",
+    "Koordinaten": [-0.23, -78.52],
+    "Perfecto compuesto": "18.80 %",
+    "Perfecto simple": "81.20 %",
+    "Regionales System": "Expansion des perfecto compuesto",
+    "Systemschluessel": "compound_expansion",
+    "Verwendung der Tempora": "Didaktisch dem Expansionsbereich des compuesto zugeordnet; die lokalen Prozentwerte bleiben ein eigener Messpunkt."
+  },
+  {
+    "Code": "AND",
+    "Ort": "Titicacasee-Region",
+    "Land": "Andenraum (laenderuebergreifend)",
+    "Koordinaten": [-15.76557, -69.526123],
+    "Perfecto compuesto": "keine direkten Daten",
+    "Perfecto simple": "keine direkten Daten",
+    "Regionales System": "Expansion des perfecto compuesto",
+    "Systemschluessel": "compound_expansion",
+    "Verwendung der Tempora": "didaktische Regionalzuordnung ohne lokalen Prozentwert",
+    "Hinweis": "Didaktische Regionalzuordnung ohne direkten lokalen Messwert."
+  },
+  {
+    "Code": "PRY",
+    "Ort": "Asuncion",
+    "Land": "Paraguay",
+    "Koordinaten": [-25.2637, -57.5759],
+    "Perfecto compuesto": "3.79 %",
+    "Perfecto simple": "96.21 %",
+    "Regionales System": "Expansion des perfecto compuesto",
+    "Systemschluessel": "compound_expansion",
+    "Verwendung der Tempora": "Didaktisch an den Expansionsbereich des compuesto angeschlossen; der lokale Messpunkt aus freier Rede ist davon getrennt zu lesen."
+  },
+  {
+    "Code": "ARG",
+    "Ort": "Buenos Aires",
+    "Land": "Argentinien",
+    "Koordinaten": [-34.6118, -58.4173],
+    "Perfecto compuesto": "4.95 %",
+    "Perfecto simple": "95.05 %",
+    "Regionales System": "Dominanz des perfecto simple",
+    "Systemschluessel": "simple_dominant",
+    "Verwendung der Tempora": "Neutralisierung zugunsten des simple: Das simple deckt in der lokalen Radiosprache fast alle Vergangenheitskontexte ab."
+  },
+  {
+    "Code": "ARG-CBA",
+    "Ort": "Cordoba",
+    "Land": "Argentinien",
+    "Koordinaten": [-31.4201, -64.1888],
+    "Perfecto compuesto": "13.33 %",
+    "Perfecto simple": "86.67 %",
+    "Regionales System": "Übergangszone zwischen Dominanz des perfecto simple und Expansion des perfecto compuesto",
+    "Systemschluessel": "transition",
+    "Verwendung der Tempora": "Uebergangszone: Der Messpunkt steht zwischen simple-dominierter argentinischer Standardsituation und nordwestlicher compuesto-Expansion."
+  },
+  {
+    "Code": "ARG-SDE",
+    "Ort": "Santiago del Estero",
+    "Land": "Argentinien",
+    "Koordinaten": [-27.7951, -64.2615],
+    "Perfecto compuesto": "35.12 %",
+    "Perfecto simple": "64.88 %",
+    "Regionales System": "Expansion des perfecto compuesto",
+    "Systemschluessel": "compound_expansion",
+    "Verwendung der Tempora": "Nordwestnaher Ausbau des compuesto; der lokale Punkt illustriert eine andere Balance als Buenos Aires oder Trelew."
+  },
+  {
+    "Code": "ARG-NW",
+    "Ort": "Salta",
+    "Land": "Argentinien (Nordwesten)",
+    "Koordinaten": [-24.782932, -65.412155],
+    "Perfecto compuesto": "keine direkten Daten",
+    "Perfecto simple": "keine direkten Daten",
+    "Regionales System": "Expansion des perfecto compuesto",
+    "Systemschluessel": "compound_expansion",
+    "Verwendung der Tempora": "didaktische Regionalzuordnung ohne lokalen Prozentwert",
+    "Hinweis": "Didaktische Regionalzuordnung ohne direkten lokalen Messwert."
+  },
+  {
+    "Code": "ARG-CHU",
+    "Ort": "Trelew",
+    "Land": "Argentinien (Chubut)",
+    "Koordinaten": [-43.2489, -65.3051],
+    "Perfecto compuesto": "20.88 %",
+    "Perfecto simple": "79.12 %",
+    "Regionales System": "Dominanz des perfecto simple",
+    "Systemschluessel": "simple_dominant",
+    "Verwendung der Tempora": "Patagonische bzw. rioplatensische simple-Dominanz; die lokalen Messwerte bleiben auf Trelew bezogen."
+  },
+  {
+    "Code": "CHL",
+    "Ort": "Santiago",
+    "Land": "Chile",
+    "Koordinaten": [-33.4489, -70.6693],
+    "Perfecto compuesto": "15.63 %",
+    "Perfecto simple": "84.37 %",
+    "Regionales System": "Dominanz des perfecto simple",
+    "Systemschluessel": "simple_dominant",
+    "Verwendung der Tempora": "Neutralisierung zugunsten des simple: Das simple uebernimmt hier einen grossen Teil der Vergangenheitskontexte."
+  },
+  {
+    "Code": "URY",
+    "Ort": "Montevideo",
+    "Land": "Uruguay",
+    "Koordinaten": [-34.9011, -56.191],
+    "Perfecto compuesto": "9.03 %",
+    "Perfecto simple": "90.97 %",
+    "Regionales System": "Dominanz des perfecto simple",
+    "Systemschluessel": "simple_dominant",
+    "Verwendung der Tempora": "Neutralisierung zugunsten des simple mit besonders starker lokaler Konzentration auf die einfache Form."
+  }
 ]

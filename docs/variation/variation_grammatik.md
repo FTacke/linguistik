@@ -131,8 +131,8 @@ Weniger intuitiv ist die *verstärkende Funktion*: In bestimmten Kontexten bedeu
     <span class="token-id">(URY5bbf88c76)</span>
     </div>
     <audio controls preload="metadata">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY5bbf88c76.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY5bbf88c76.m4a" type="audio/mp4">
+    <source src="/assets/audiofiles/corapan/URY5bbf88c76.mp3" type="audio/mpeg">
+    <source src="/assets/audiofiles/corapan/URY5bbf88c76.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -143,8 +143,8 @@ Weniger intuitiv ist die *verstärkende Funktion*: In bestimmten Kontexten bedeu
     <span class="token-id">(URY2cff70d0d)</span>
     </div>
     <audio controls preload="metadata">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY2cff70d0d.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY2cff70d0d.m4a" type="audio/mp4">
+    <source src="/assets/audiofiles/corapan/URY2cff70d0d.mp3" type="audio/mpeg">
+    <source src="/assets/audiofiles/corapan/URY2cff70d0d.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -155,8 +155,8 @@ Weniger intuitiv ist die *verstärkende Funktion*: In bestimmten Kontexten bedeu
     <span class="token-id">(PRYb10ea56ba)</span>
     </div>
     <audio controls preload="metadata">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PRYb10ea56ba.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PRYb10ea56ba.m4a" type="audio/mp4">
+    <source src="/assets/audiofiles/corapan/PRYb10ea56ba.mp3" type="audio/mpeg">
+    <source src="/assets/audiofiles/corapan/PRYb10ea56ba.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -167,8 +167,8 @@ Weniger intuitiv ist die *verstärkende Funktion*: In bestimmten Kontexten bedeu
     <span class="token-id">(PER1101faa0f)</span>
     </div>
     <audio controls preload="metadata">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PER1101faa0f.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PER1101faa0f.m4a" type="audio/mp4">
+    <source src="/assets/audiofiles/corapan/PER1101faa0f.mp3" type="audio/mpeg">
+    <source src="/assets/audiofiles/corapan/PER1101faa0f.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -201,8 +201,8 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     <span class="token-id">(ARG5955354d7)</span>
     </div>
     <audio controls preload="metadata">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG5955354d7.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG5955354d7.m4a" type="audio/mp4">
+    <source src="/assets/audiofiles/corapan/ARG5955354d7.mp3" type="audio/mpeg">
+    <source src="/assets/audiofiles/corapan/ARG5955354d7.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -213,8 +213,8 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     <span class="token-id">(URY3e6d4dfb2)</span>
     </div>
     <audio controls preload="metadata">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY3e6d4dfb2.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY3e6d4dfb2.m4a" type="audio/mp4">
+    <source src="/assets/audiofiles/corapan/URY3e6d4dfb2.mp3" type="audio/mpeg">
+    <source src="/assets/audiofiles/corapan/URY3e6d4dfb2.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -225,8 +225,8 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     <span class="token-id">(ESPCAN17a593f28)</span>
     </div>
     <audio controls preload="metadata">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ESPCAN17a593f28.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ESPCAN17a593f28.m4a" type="audio/mp4">
+    <source src="/assets/audiofiles/corapan/ESPCAN17a593f28.mp3" type="audio/mpeg">
+    <source src="/assets/audiofiles/corapan/ESPCAN17a593f28.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -237,8 +237,8 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     <span class="token-id">(CRI3733abe16)</span>
     </div>
     <audio controls preload="metadata">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CRI3733abe16.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CRI3733abe16.m4a" type="audio/mp4">
+    <source src="/assets/audiofiles/corapan/CRI3733abe16.mp3" type="audio/mpeg">
+    <source src="/assets/audiofiles/corapan/CRI3733abe16.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -249,8 +249,8 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     <span class="token-id">(PER49335038b)</span>
     </div>
     <audio controls preload="metadata">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PER49335038b.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PER49335038b.m4a" type="audio/mp4">
+    <source src="/assets/audiofiles/corapan/PER49335038b.mp3" type="audio/mpeg">
+    <source src="/assets/audiofiles/corapan/PER49335038b.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -261,8 +261,8 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     <span class="token-id">(SLVaf013aad1)</span>
     </div>
     <audio controls preload="metadata">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/SLVaf013aad1.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/SLVaf013aad1.m4a" type="audio/mp4">
+    <source src="/assets/audiofiles/corapan/SLVaf013aad1.mp3" type="audio/mpeg">
+    <source src="/assets/audiofiles/corapan/SLVaf013aad1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -273,8 +273,8 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     <span class="token-id">(COLf1ebb8bde)</span>
     </div>
     <audio controls preload="metadata">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/COLf1ebb8bde.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/COLf1ebb8bde.m4a" type="audio/mp4">
+    <source src="/assets/audiofiles/corapan/COLf1ebb8bde.mp3" type="audio/mpeg">
+    <source src="/assets/audiofiles/corapan/COLf1ebb8bde.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -285,8 +285,8 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     <span class="token-id">(CUB5d77cc7b3)</span>
     </div>
     <audio controls preload="metadata">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CUB5d77cc7b3.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CUB5d77cc7b3.m4a" type="audio/mp4">
+    <source src="/assets/audiofiles/corapan/CUB5d77cc7b3.mp3" type="audio/mpeg">
+    <source src="/assets/audiofiles/corapan/CUB5d77cc7b3.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>

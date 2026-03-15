@@ -41,7 +41,7 @@
   }
 
   function initContainer(container) {
-    if (!container || (window.MapUI && window.MapUI.isMapInitialized(container))) {
+    if (!container || (window.MapUI && window.MapUI.isMapInitializedForType(container, MAP_TYPE))) {
       return;
     }
 
@@ -59,7 +59,7 @@
       window.MapUI.enablePopupCloseUX(map);
       window.MapUI.enableResponsiveInvalidation(map);
       window.MapUI.enableFullscreenUI(container, map, fullscreenButton);
-      window.MapUI.markMapInitialized(container);
+      window.MapUI.markMapInitialized(container, MAP_TYPE);
     }
 
     const base = window.ZENSICAL_BASE_PATH || '/';
