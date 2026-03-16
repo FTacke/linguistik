@@ -28,33 +28,64 @@
   const SYSTEM_STYLES = {
     prototypical: {
       fillColor: '#8fb7d9',
-      markerColor: '#3f6f99',
-      label: 'Prototypischer Gebrauch des perfecto compuesto'
+      markerColor: '#3f6f99'
     },
     simple_dominant: {
       fillColor: '#d9b38c',
-      markerColor: '#c96a1b',
-      label: 'Dominanz des perfecto simple'
+      markerColor: '#c96a1b'
     },
     aspectual: {
       fillColor: '#9cc9a3',
-      markerColor: '#3f7f52',
-      label: 'Aspektuelles System'
+      markerColor: '#3f7f52'
     },
     compound_expansion: {
       fillColor: '#b7a1d6',
-      markerColor: '#6d4ea8',
-      label: 'Expansion des perfecto compuesto'
+      markerColor: '#6d4ea8'
     },
     transition: {
       fillColor: '#c7b8a3',
-      markerColor: '#8a6f52',
-      label: 'Übergangszone zwischen Systemen'
+      markerColor: '#8a6f52'
     },
     fallback: {
       fillColor: '#c7d2de',
-      markerColor: '#64748b',
-      label: 'Didaktische Regionalzuordnung'
+      markerColor: '#64748b'
+    }
+  };
+
+  const SYSTEM_CONTENT = {
+    prototypical: {
+      label: 'Prototypischer Gebrauch des perfecto compuesto',
+      example: [
+        { type: 'line', text: 'Hoy he hablado con Ana.' },
+        { type: 'line', text: 'Ayer hablé con Ana.' }
+      ]
+    },
+    simple_dominant: {
+      label: 'Dominanz des perfecto simple',
+      example: [
+        { type: 'line', text: 'Hoy hablé con Ana.' }
+      ]
+    },
+    aspectual: {
+      label: 'Aspektuelles Gebrauchssystem',
+      example: [
+        { type: 'line', text: 'Viví en Puebla dos años.' },
+        { type: 'interpretation', text: '→ Zeitraum abgeschlossen' },
+        { type: 'line', text: 'He vivido en Puebla dos años.' },
+        { type: 'interpretation', text: '→ bis heute, meist weiterhin' }
+      ]
+    },
+    compound_expansion: {
+      label: 'Expansion des perfecto compuesto',
+      example: [
+        { type: 'line', text: 'He llegado ayer.' }
+      ]
+    },
+    fallback: {
+      label: 'Dominanz des perfecto simple',
+      example: [
+        { type: 'line', text: 'Hoy hablé con Ana.' }
+      ]
     }
   };
 
@@ -98,12 +129,49 @@
     return 'fallback';
   }
 
+  function parsePercentValue(value) {
+    if (typeof value !== 'string') {
+      return Number.NaN;
+    }
+
+    return Number.parseFloat(value.replace('%', '').replace(',', '.').trim());
+  }
+
+  function getCanonicalSystemKey(raw) {
+    const inferredKey = raw.Systemschluessel ?? inferSystemKey(raw['Regionales System'] ?? '');
+
+    if (inferredKey === 'transition') {
+      const compuestoValue = parsePercentValue(raw['Perfecto compuesto']);
+      const simpleValue = parsePercentValue(raw['Perfecto simple']);
+
+      if (Number.isFinite(compuestoValue) && Number.isFinite(simpleValue)) {
+        return compuestoValue > simpleValue ? 'compound_expansion' : 'simple_dominant';
+      }
+
+      return 'simple_dominant';
+    }
+
+    return SYSTEM_CONTENT[inferredKey] ? inferredKey : 'fallback';
+  }
+
+  function getSystemContent(systemKey) {
+    return SYSTEM_CONTENT[systemKey] || SYSTEM_CONTENT.fallback;
+  }
+
   function getSystemStyle(systemKey) {
     return SYSTEM_STYLES[systemKey] || SYSTEM_STYLES.fallback;
   }
 
   function hasDirectPercentValues(raw) {
     return raw['Perfecto compuesto'] !== 'keine direkten Daten' && raw['Perfecto simple'] !== 'keine direkten Daten';
+  }
+
+  function isNationalPrimaryPoint(raw) {
+    return raw.type === 'national' || raw.tier === 'primary' || raw.category === 'national' || raw.primary === true || raw.capital === true;
+  }
+
+  function isRegionalCategorizedPoint(raw) {
+    return raw.type === 'regional' || raw.tier === 'secondary' || raw.category === 'regional';
   }
 
   function isDidacticPoint(raw, hasDirectData) {
@@ -121,6 +189,14 @@
   function getPointStatus(raw, hasDirectData) {
     if (isDidacticPoint(raw, hasDirectData)) {
       return 'didactic';
+    }
+
+    if (isNationalPrimaryPoint(raw)) {
+      return 'national';
+    }
+
+    if (isRegionalCategorizedPoint(raw)) {
+      return 'regional';
     }
 
     if (isRegionalPoint(raw, hasDirectData)) {
@@ -165,9 +241,31 @@
     mapCanvas.style.display = 'block';
   }
 
+  function formatFrequencyLine(perfectoCompuesto, perfectoSimple) {
+    return `${perfectoCompuesto} compuesto | ${perfectoSimple} simple`;
+  }
+
+  function escapeHtml(value) {
+    return String(value ?? '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+
+  function buildExampleHtml(exampleLines) {
+    return exampleLines
+      .map((line) => {
+        const className = line.type === 'interpretation' ? 'popup-interpretation' : 'popup-example-line';
+        return `<div class="${className}">${escapeHtml(line.text)}</div>`;
+      })
+      .join('');
+  }
+
   function normalizeTemporaItem(raw) {
-    const systemLabel = raw['Regionales System'] ?? '';
-    const systemKey = raw.Systemschluessel ?? inferSystemKey(systemLabel);
+    const systemKey = getCanonicalSystemKey(raw);
+    const systemContent = getSystemContent(systemKey);
     const systemStyle = getSystemStyle(systemKey);
     const hasDirectData = hasDirectPercentValues(raw);
     const pointStatus = getPointStatus(raw, hasDirectData);
@@ -175,12 +273,12 @@
 
     return {
       title: raw.Ort ?? raw.Hauptstadt ?? raw.Land ?? '',
-      subtitle: raw.Land ?? raw.Region ?? '',
       perfectoCompuesto: raw['Perfecto compuesto'] ?? '',
       perfectoSimple: raw['Perfecto simple'] ?? '',
-      systemLabel,
-      usage: raw['Verwendung der Tempora'] ?? '',
-      note: raw.Hinweis ?? '',
+      hasDirectData,
+      frequencyLine: hasDirectData ? formatFrequencyLine(raw['Perfecto compuesto'] ?? '', raw['Perfecto simple'] ?? '') : '',
+      systemLabel: systemContent.label,
+      exampleLines: systemContent.example,
       points: getCoordinateList(raw.Koordinaten),
       pointStatus,
       influenceCircle,
@@ -197,14 +295,20 @@
   }
 
   function buildPopupHtml(item) {
+    const frequencyBlock = item.hasDirectData
+      ? `
+        <div class="popup-frequency-label">Frequenz (freie Rede)</div>
+        <div class="popup-frequency">${escapeHtml(item.frequencyLine)}</div>`
+      : '';
+
     return `
       <div class="popup-sprachenkarte">
-        <div class="popup-title">${item.title}</div>
-        ${item.subtitle ? `<div class="popup-hauptstadt">${item.subtitle}</div>` : ''}
-        <div class="popup-line"><span class="popup-label">Perfecto compuesto:</span> <span class="popup-value">${item.perfectoCompuesto}</span></div>
-        <div class="popup-line"><span class="popup-label">Perfecto simple:</span> <span class="popup-value">${item.perfectoSimple}</span></div>
-        <div class="popup-line"><span class="popup-label">Regionales System:</span> <span class="popup-value">${item.systemLabel || item.usage}</span></div>
-        ${item.note ? `<div class="popup-line"><span class="popup-label">Hinweis:</span> <span class="popup-value">${item.note}</span></div>` : ''}
+        <div class="popup-title">${escapeHtml(item.title)}</div>
+        ${frequencyBlock}
+        <div class="popup-section-label">Gebrauchssystem</div>
+        <div class="popup-system">${escapeHtml(item.systemLabel)}</div>
+        <div class="popup-section-label">Beispiel</div>
+        <div class="popup-example">${buildExampleHtml(item.exampleLines)}</div>
       </div>`;
   }
 
