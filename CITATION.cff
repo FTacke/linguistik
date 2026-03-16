@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Linguistik im Spanischunterricht"
+message: "If you use this project, please cite it as follows."
+type: book
+authors:
+  - family-names: Tacke
+    given-names: Felix
+    affiliation: Philipps-Universität Marburg
+year: 2026
+doi: 10.5281/zenodo.15348687
+url: https://linguistik.hispanistica.com
+publisher: Philipps-Universität Marburg
+license: CC-BY-SA-4.0
