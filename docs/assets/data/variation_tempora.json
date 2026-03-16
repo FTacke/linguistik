@@ -158,18 +158,7 @@
     "Systemschluessel": "aspectual",
     "Verwendung der Tempora": "Karibische Auspraegung des aspektuellen Systems mit funktionaler Opposition zwischen compuesto und simple."
   },
-  {
-    "Code": "PRI",
-    "Ort": "San Juan",
-    "Land": "Puerto Rico",
-    "Koordinaten": [18.4655, -66.1057],
-    "Perfecto compuesto": "keine direkten Daten",
-    "Perfecto simple": "keine direkten Daten",
-    "Regionales System": "Aspektuelles System",
-    "Systemschluessel": "aspectual",
-    "Verwendung der Tempora": "didaktische Regionalzuordnung ohne lokalen Prozentwert",
-    "Hinweis": "Didaktische Regionalzuordnung ohne direkten lokalen Messwert."
-  },
+
   {
     "Code": "CAR",
     "Ort": "Karibik",
@@ -216,18 +205,6 @@
     "Verwendung der Tempora": "Expansion des compuesto: Die Form kann auch Kontexte uebernehmen, in denen anderswo haeufig das simple steht."
   },
   {
-    "Code": "PER-AND",
-    "Ort": "Cusco",
-    "Land": "Peru (Andenraum)",
-    "Koordinaten": [-13.529427, -71.984978],
-    "Perfecto compuesto": "keine direkten Daten",
-    "Perfecto simple": "keine direkten Daten",
-    "Regionales System": "Expansion des perfecto compuesto",
-    "Systemschluessel": "compound_expansion",
-    "Verwendung der Tempora": "didaktische Regionalzuordnung ohne lokalen Prozentwert",
-    "Hinweis": "Didaktische Regionalzuordnung ohne direkten lokalen Messwert."
-  },
-  {
     "Code": "BOL",
     "Ort": "La Paz",
     "Land": "Bolivien",
@@ -248,18 +225,6 @@
     "Regionales System": "Expansion des perfecto compuesto",
     "Systemschluessel": "compound_expansion",
     "Verwendung der Tempora": "Didaktisch dem Expansionsbereich des compuesto zugeordnet; die lokalen Prozentwerte bleiben ein eigener Messpunkt."
-  },
-  {
-    "Code": "AND",
-    "Ort": "Titicacasee-Region",
-    "Land": "Andenraum (laenderuebergreifend)",
-    "Koordinaten": [-15.76557, -69.526123],
-    "Perfecto compuesto": "keine direkten Daten",
-    "Perfecto simple": "keine direkten Daten",
-    "Regionales System": "Expansion des perfecto compuesto",
-    "Systemschluessel": "compound_expansion",
-    "Verwendung der Tempora": "didaktische Regionalzuordnung ohne lokalen Prozentwert",
-    "Hinweis": "Didaktische Regionalzuordnung ohne direkten lokalen Messwert."
   },
   {
     "Code": "PRY",
@@ -304,18 +269,6 @@
     "Regionales System": "Expansion des perfecto compuesto",
     "Systemschluessel": "compound_expansion",
     "Verwendung der Tempora": "Nordwestnaher Ausbau des compuesto; der lokale Punkt illustriert eine andere Balance als Buenos Aires oder Trelew."
-  },
-  {
-    "Code": "ARG-NW",
-    "Ort": "Salta",
-    "Land": "Argentinien (Nordwesten)",
-    "Koordinaten": [-24.782932, -65.412155],
-    "Perfecto compuesto": "keine direkten Daten",
-    "Perfecto simple": "keine direkten Daten",
-    "Regionales System": "Expansion des perfecto compuesto",
-    "Systemschluessel": "compound_expansion",
-    "Verwendung der Tempora": "didaktische Regionalzuordnung ohne lokalen Prozentwert",
-    "Hinweis": "Didaktische Regionalzuordnung ohne direkten lokalen Messwert."
   },
   {
     "Code": "ARG-CHU",

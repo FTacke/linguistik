@@ -25,7 +25,7 @@ The goal is to implement **one consistent popup layout system** with different c
 ---
 
 # 1. Design Goals
-
+### Shared labels
 The popup system must:
 
 1. Be **compact and quickly scannable**
@@ -33,6 +33,8 @@ The popup system must:
 3. Avoid verbose label-value lists
 4. Work **consistently across all maps**
 5. Keep the **map visually dominant**
+### Metric block
+Used for numeric information like frequencies or speaker counts.
 6. Use **minimal color inside popups**
 7. Avoid large popups that obscure the map
 
@@ -42,8 +44,12 @@ Popups should feel like **small editorial information cards**, not data tables.
 
 # 2. Popup Layout System
 
-All popups must follow the same structural pattern.
-
+.popup-kicker
+font-size: 0.68rem
+font-weight: 600
+color: var(--book-muted)
+letter-spacing: 0.04em
+margin-bottom: 4px
 ## General Structure
 
 ```
@@ -52,9 +58,8 @@ Title
 
 (optional metric block)
 
-Section label
-Content
-
+.popup-kicker
+.popup-metric
 Section label
 Content
 
@@ -119,11 +124,11 @@ Title should **not use accent colors**.
 
 ---
 
-### Section labels
+### Shared labels
 
 ```
 
-.popup-section-label
+.popup-kicker
 font-size: 0.68rem
 font-weight: 600
 letter-spacing: 0.04em
@@ -134,7 +139,7 @@ margin-bottom: 4px
 
 ```
 
-Section labels must be **visually quiet but structured**.
+Labels must be **visually quiet but structured**.
 
 ---
 
@@ -157,7 +162,7 @@ Used for numeric information like frequencies or speaker counts.
 
 ```
 
-.popup-metric-label
+.popup-kicker
 font-size: 0.68rem
 font-weight: 600
 color: var(--book-muted)
@@ -436,9 +441,8 @@ All popups should use:
 ```
 
 .popup-title
-.popup-metric-label
+.popup-kicker
 .popup-metric
-.popup-section-label
 .popup-body
 .popup-example
 .popup-interpretation

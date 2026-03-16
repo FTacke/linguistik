@@ -783,6 +783,38 @@ body[data-md-color-scheme="slate"] .md-typeset details.weiterlesen {
   mask-image: var(--md-typeset-weiterlesen-icon);
 }
 
+/* ─────────────────────────────────────────────────────────
+   FIGCAPTION – Bild- und Kartenunterschriften
+   Verwendung: <div class="figcaption" markdown>…</div>
+   ───────────────────────────────────────────────────────── */
+
+.md-typeset .figcaption {
+  font-size: 0.78em;
+  line-height: 1.45;
+
+  margin-top: 0.0rem;
+  margin-bottom: 1.4rem;
+
+  color: color-mix(in srgb, var(--book-fg) 65%, transparent);
+
+  max-width: 52rem;
+}
+
+/* erster Satz leicht hervorgehoben */
+.md-typeset .figcaption > p:first-child strong {
+  font-weight: 600;
+}
+
+/* Fußnotenzeichen nicht zu groß */
+.md-typeset .figcaption sup {
+  font-size: 0.75em;
+}
+
+/* Dark Mode */
+body[data-md-color-scheme="slate"] .md-typeset .figcaption {
+  color: color-mix(in srgb, var(--book-fg) 82%, transparent);
+}
+
 /* ── Standard-Admonitions (minimal / unverändert – Basis-Styles in 20_book.css) ─ */
 
 

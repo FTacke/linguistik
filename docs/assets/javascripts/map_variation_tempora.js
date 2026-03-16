@@ -245,6 +245,18 @@
     return `${perfectoCompuesto} PPC | ${perfectoSimple} PPS`;
   }
 
+  function getMetaLabel(raw) {
+    if (!raw) {
+      return '';
+    }
+
+    if (raw.Land && raw.Land !== 'Didaktische Region') {
+      return raw.Land;
+    }
+
+    return raw.Region ?? '';
+  }
+
   function normalizeTemporaItem(raw) {
     const systemKey = getCanonicalSystemKey(raw);
     const systemContent = getSystemContent(systemKey);
@@ -255,6 +267,7 @@
 
     return {
       title: raw.Ort ?? raw.Hauptstadt ?? raw.Land ?? '',
+      meta: getMetaLabel(raw),
       perfectoCompuesto: raw['Perfecto compuesto'] ?? '',
       perfectoSimple: raw['Perfecto simple'] ?? '',
       hasDirectData,
@@ -309,6 +322,7 @@
 
       return window.MapUI.renderPopupCard({
         title: item.title,
+        meta: item.meta,
         blocks
       });
     }
@@ -376,9 +390,11 @@
   }
 
   function fitDesktopBounds(map, bounds) {
-    map.fitBounds(bounds.pad(0.1), {
-      animate: false,
-      padding: [24, 24]
+    const paddedBounds = bounds.pad(0.1);
+    const targetZoom = map.getBoundsZoom(paddedBounds, false, [24, 24]) + 0;
+
+    map.setView(paddedBounds.getCenter(), targetZoom, {
+      animate: false
     });
   }
 

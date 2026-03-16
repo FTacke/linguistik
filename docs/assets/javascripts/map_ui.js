@@ -16,7 +16,7 @@ function popupOptions(className) {
     closeOnClick: false,
     autoPan: true,
     keepInView: true,
-    maxWidth: mobile ? 280 : 320,
+    maxWidth: mobile ? 300 : 320,
     minWidth: mobile ? 180 : 200,
     autoPanPaddingTopLeft: mobile ? [20, 80] : [50, 100],
     autoPanPaddingBottomRight: mobile ? [20, 20] : [50, 50]
@@ -73,8 +73,10 @@ function renderPopupBlock(block) {
     }
 
     return `
-      <div class="popup-metric-label">${escapeHtml(block.label)}</div>
-      <div class="popup-metric">${escapeHtml(block.value)}</div>`;
+      <div class="popup-block">
+        <div class="popup-kicker">${escapeHtml(block.label)}</div>
+        <div class="popup-metric">${escapeHtml(block.value)}</div>
+      </div>`;
   }
 
   const contentHtml = renderPopupContent(block.content);
@@ -84,18 +86,25 @@ function renderPopupBlock(block) {
   }
 
   return `
-    <div class="popup-section-label">${escapeHtml(block.label)}</div>
-    ${contentHtml}`;
+    <div class="popup-block">
+      <div class="popup-kicker">${escapeHtml(block.label)}</div>
+      ${contentHtml}
+    </div>`;
 }
 
 function renderPopupCard(config) {
   const title = escapeHtml(config?.title ?? '');
+  const meta = config?.meta ? escapeHtml(config.meta) : '';
   const blocks = Array.isArray(config?.blocks) ? config.blocks : [];
   const blocksHtml = blocks.map(renderPopupBlock).join('');
+  const headerClassName = meta ? 'popup-header has-meta' : 'popup-header';
 
   return `
     <div class="popup-sprachenkarte">
-      <div class="popup-title">${title}</div>
+      <div class="${headerClassName}">
+        <div class="popup-title">${title}</div>
+        ${meta ? `<div class="popup-meta">${meta}</div>` : ''}
+      </div>
       ${blocksHtml}
     </div>`;
 }

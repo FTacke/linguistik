@@ -147,7 +147,7 @@ Insgesamt zeigt sich damit, dass der *voseo* zwar in weiten Teilen Hispanoamerik
     </div>
     </div>
 
-    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de">CO.RA.PAN</a></p>
+    <p class="audio-source">Audios aus <a href="https://corapan.hispanistica.com">CO.RA.PAN</a></p>
 
 
 ## *Vosotros* oder *ustedes*? Variation in der Pluralanrede[^ksq]

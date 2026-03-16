@@ -50,15 +50,8 @@
     if (window.MapUI && typeof window.MapUI.renderPopupCard === 'function') {
       return window.MapUI.renderPopupCard({
         title: item.title,
+        meta: item.capital,
         blocks: [
-          {
-            type: 'section',
-            label: 'Hauptstadt',
-            content: {
-              type: 'body',
-              text: item.capital
-            }
-          },
           {
             type: 'metric',
             label: 'Sprecher:innen',

@@ -68,6 +68,10 @@ Diese gemeinsamen Verwendungen zeigen, dass das *Perfecto Compuesto* auch dort, 
         aria-pressed="false"></button>
 </div>
 
+<div class="figcaption" markdown>
+**Karte: Tempusvariation im Spanischen.** Die Prozentwerte geben die relative Häufigkeit von *PPC* (*pretérito perfecto compuesto*) und *PPS* (*pretérito perfecto simple*) wieder. Die Farben markieren unterschiedliche *Gebrauchssysteme*, die farbigen Kreise symbolisieren ihren ungefähren regionalen Einflussbereich. Die Zuordnung ist stark vereinfachend und orientiert sich an der Darstellung der Tempusvariation in der *Nueva gramática de la lengua española* (NGLE, 2025).[^tempuskarte]
+</div>
+
 !!! tip "Tempusformen lernen – Gebrauch verstehen"
     Im Unterricht liegt der Schwerpunkt oft auf dem Konjugieren und Einüben von Verbformen. Mindestens ebenso wichtig ist jedoch die Frage, wie diese Formen tatsächlich verwendet werden. Gerade die Tempusvariation zeigt: Grammatische Formen korrekt bilden zu können, reicht nicht aus – entscheidend ist auch zu wissen, wann und wo sie üblich sind.
 
@@ -174,7 +178,7 @@ Weniger intuitiv ist die *verstärkende Funktion*: In bestimmten Kontexten bedeu
     </div>
     </div>
 
-    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de">CO.RA.PAN</a></p>
+    <p class="audio-source">Audios aus <a href="https://corapan.hispanistica.com">CO.RA.PAN</a></p>
 
 ### *Momentito* oder *momentico*? Und was bedeutet *ahorita*?
 
@@ -292,7 +296,7 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     </div>
     </div>
 
-    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de">CO.RA.PAN</a></p>
+    <p class="audio-source">Audios aus <a href="https://corapan.hispanistica.com">CO.RA.PAN</a></p>
 
 
 ## Zwischen Variation und Norm
@@ -335,7 +339,84 @@ Eine besondere Spielart des *leísmo* verdient eigene Erwähnung: der *leísmo d
 
     Ziel des Unterrichts ist daher nicht, diese Varianten zu übernehmen, sondern sie erkennen und einordnen zu können.
 
-### Dequeísmo y queísmo[^erp]
+### *Me acuerdo que…*? – Queísmo, Dequeísmo und Präpositionen vor Nebensätzen[^erp]
+
+Ein Satz wie *Me acuerdo que lo vimos ayer* wirkt für viele Lehrkräfte sofort verdächtig – müsste es nicht *me acuerdo de que…* heißen? Solche Fälle gehören zu den klassischen Zweifelsfragen der spanischen Grammatik. Gemeint sind die Phänomene *queísmo* und *dequeísmo*, also unterschiedliche Varianten im Gebrauch von Präpositionen vor der Konjunktion *que*. Beim *queísmo* fehlt eine Präposition, die nach der Norm erwartet wird (*me acuerdo que…* statt *me acuerdo de que…*), während beim *dequeísmo* eine Präposition eingefügt wird, obwohl sie standardsprachlich nicht vorgesehen ist (*pienso de que vendrá*, *creo de que es verdad*). Beide Erscheinungen sind im Spanischen seit Langem belegt und treten vor allem im gesprochenen Sprachgebrauch vieler Regionen auf.
+
+Der Hintergrund liegt in der Struktur vieler Verb- und Adjektivkonstruktionen. Einige verbinden sich direkt mit einem Nebensatz (*creer que*, *pensar que*, *decir que*), andere verlangen eine Präposition (*acordarse de que*, *estar seguro de que*, *alegrarse de que*). Diese Präposition ist meist nicht semantisch transparent, sondern Teil der Valenz des jeweiligen Ausdrucks. Gerade deshalb entstehen leicht Unsicherheiten. Wer etwa weiß, dass *acordarse* eine Präposition verlangt (*me acuerdo de que vendrá*), kann dieses Muster fälschlich auf andere Verben übertragen und Formen wie *creo de que vendrá* bilden, obwohl es standardsprachlich *creo que vendrá* heißen müsste. Für Lernende – und oft auch für Erstsprachler:innen – liegt das Problem also weniger in der Bedeutung als in der lexikalisch festgelegten Struktur der Konstruktion.
+
+Im tatsächlichen Sprachgebrauch zeigen sich jedoch auch Fälle, in denen Varianten nebeneinander auftreten oder regional unterschiedlich bevorzugt werden. So wird etwa beim Verb *informar* sowohl die Konstruktion *informar de que el ministro dimitió* als auch *informar que el ministro dimitió* verwendet. In der spanischen Pressesprache ist die Variante mit Präposition (*informar de que*) besonders verbreitet, während in vielen hispanoamerikanischen Medien häufiger die Konstruktion ohne Präposition (*informar que*) erscheint. Beide Formen gelten in diesem Kontext als akzeptabel und illustrieren, dass sich im realen Sprachgebrauch unterschiedliche Präpositionsmuster etablieren können.
+
+??? hoermal "Alternanzen zwischen *informar que* oder *informar de que*"
+    Die folgenden Ausschnitte aus Nachrichtensendungen zeigen zwei gebräuchliche Konstruktionen mit dem Verb *informar*. In  Hispanoamerikas erscheint meist (aber nicht immer) *informar que*, während in Spanien traditionell *informar de que* bevorzugt wird. Beide Varianten sind im journalistischen Sprachgebrauch etabliert.
+
+    <div class="audio-grid">
+    <div class="audio-block">
+    <h4>Chile:</h4>
+    <div class="example">
+    „(...) las autoridades <strong>informaron que</strong> desde el 14 de agosto a la fecha se han detectado 4,62 toneladas de merluza común de origen ilegal.“
+    <span class="token-id">(CHL269490cb5)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source src="/assets/audiofiles/corapan/CHL269490cb5.mp3" type="audio/mpeg">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    <div class="audio-block">
+    <h4>Bolivien:</h4>
+    <div class="example">
+    „El Servicio Departamental de Salud de Cochabamba <strong>informó que</strong> tuvo un 70% de alcance en la campaña de vacunación contra la influenza.“
+    <span class="token-id">(BOLaa501b2f6)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source src="/assets/audiofiles/corapan/BOLaa501b2f6.mp3" type="audio/mpeg">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    <div class="audio-block">
+    <h4>Nicaragua:</h4>
+    <div class="example">
+    „(...) que el diario *The New York Times* <strong>informara de que</strong> Moscú había reunido una fuerza de 50.000 tropas (...) en la región fronteriza con Ucrania (...)“
+    <span class="token-id">(NICdb83e03a2)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source src="/assets/audiofiles/corapan/NICdb83e03a2.mp3" type="audio/mpeg">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    <div class="audio-block">
+    <h4>Spanien:</h4>
+    <div class="example">
+    „(…) han enviado este miércoles un escrito (...) en el que <strong>informan de que</strong> efectivamente participaron en el acto de bienvenida Puigdemont en Barcelona el pasado jueves.“
+    <span class="token-id">(ESPe783daec2)</span>
+    </div>
+    <audio controls preload="metadata">
+    <source src="/assets/audiofiles/corapan/ESPe783daec2.mp3" type="audio/mpeg">
+    Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+    </div>
+    </div>
+
+    <p class="audio-source">Audios aus <a href="https://corapan.hispanistica.com">CO.RA.PAN</a></p>
+
+Für den Unterricht bedeutet das vor allem: In der Standardsprache gilt in vielen Fällen eine klare Zuordnung der Präposition (*me acuerdo de que…*, aber *creo que…*). Gleichzeitig zeigt der tatsächliche Gebrauch des Spanischen, dass Unsicherheiten bei der Präpositionswahl relativ häufig sind. Für Lernende empfiehlt es sich daher, solche Präpositionen zusammen mit dem jeweiligen Verb oder Ausdruck zu lernen, statt sie allein aus der Bedeutung abzuleiten.
+
+!!! regel "*Que* oder *de que*: eine einfache Probe"
+    Ob ein Nebensatz mit *que* oder *de que* steht, lässt sich mit einer einfachen Probe prüfen: Ersetze den gesamten Nebensatz durch ein neutrales Pronomen wie *eso*. Wenn das Pronomen eine Präposition verlangt, steht auch vor dem *que*-Satz eine Präposition.
+
+    *¿Me di cuenta **que** lo había olvidado?* → *¿Me di cuenta **eso**?* → nein
+      <br> → richtig ist: *Me di cuenta **de que** lo había olvidado.*
+
+    *¿Opinas **de que** es una buena idea?* → *¿Opinas **de eso**?* → nein
+      <br> → richtig ist: *Opinas **que** es una buena idea.*
+
+      
+??? expand "Der *(de)queísmo* gestern und heute"
+    Sowohl *queísmo* als auch *dequeísmo* sind keine neuen Erscheinungen des Spanischen, sondern bereits in älteren Sprachstufen belegt. Besonders das Weglassen der Präposition (*queísmo*) ist historisch weit verbreitet und findet sich schon in Texten des klassischen Spanisch. *Dequeísmo* tritt dagegen insgesamt seltener auf und wird häufig als Reaktion auf Unsicherheiten bei der Präpositionswahl interpretiert.
+    
+    Die NGLE weist außerdem darauf hin, dass Alternanzen zwischen Konstruktionen mit *que* und *de que* nicht immer nur als normative Abweichungen zu verstehen sind. Bei verschiedenen Verben des Sagens, Hinweisens oder Wahrnehmens – etwa *advertir*, *avisar* oder *cuidar* – können beide Konstruktionen auftreten. Ihre Verteilung hängt dabei teilweise von Bedeutungsnuancen der jeweiligen Konstruktion, teilweise auch vom regionalen Gebrauch ab. So wird in vielen Varietäten des amerikanischen Spanisch häufiger die Variante ohne Präposition verwendet (*avisaron que…*), während im europäischen Spanisch häufiger beide Möglichkeiten nebeneinander erscheinen (*avisaron que…* ~ *avisaron de que…*). Solche Fälle zeigen, dass die Wahl zwischen *que* und *de que* nicht immer eindeutig als ‘richtig’ oder ‘falsch’ einzuordnen ist, sondern auch mit unterschiedlichen Bedeutungen, Konstruktionstypen und regionalen Präferenzen zusammenhängen kann.
+
+
 
 ### *Habían muchos problemas* – gibt es das?[^sm]
 
@@ -364,3 +445,5 @@ Die in diesem Kapitel behandelten Phänomene zeigen ein gemeinsames Muster: Gram
 [^lb]: (Mit-)Autorin: Lisa Bender.
 [^erp]: (Mit-)Autor: Enrique Ritz Pequeño.
 [^sm]: (Mit-)Autor: Stanislav Minchev.
+
+[^tempuskarte]: Die Frequenzen basieren auf einer Auswertung von Belegen aus dem Korpus [CO.RA.PAN](https://corapan.hispanistica.com) (*Corpus de Radio del Español de Panamá y América*). Berücksichtigt wurden Vorkommen aus standardnaher freier Rede im Radio. Die Prozentwerte spiegeln daher eine spezifische kommunikative Situation wider und sind nicht als direkte Repräsentation des allgemeinen Sprachgebrauchs eines Landes zu verstehen. Die Einteilung der Gebrauchssysteme folgt den arealen Mustern, wie sie in der *Nueva gramática de la lengua española* (NGLE, 2025) beschrieben werden; die kartographische Darstellung mit farbigen Kreisen dient lediglich der groben Orientierung und stellt keine festen Sprachgrenzen dar.

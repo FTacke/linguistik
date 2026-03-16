@@ -146,7 +146,7 @@ In einem plurizentrischen Unterricht zählt nicht, welche Variante verwendet wir
 
     In der Fremdsprachendidaktik gewinnt seit einigen Jahren die Idee einer *rezeptiven Varietätenkompetenz* (nach Reimann 2010ff.) an Bedeutung. Sie bezeichnet die Fähigkeit, verschiedene nationale und regionale Standardvarietäten zu verstehen und kontextuell einzuordnen, ohne sie aktiv erlernen oder verwenden zu müssen. Praxisorientierte Beiträge bieten Moreno Fernández (2010, 2015, 2017) sowie die Bände *Varietäten im Fremdsprachenunterricht* (Leitzke-Ungerer & Polzin-Haumann 2017) und *La diversidad del español y su enseñanza* (Hernández Muñoz et al. 2021).
 
-    Wer schließlich authentische Vergleichsdaten und Hörbeispiele zu nationalen Standardvarietäten sucht, findet sie in den folgenden Kapiteln. Darüber hinaus bietet das [CO.RA.PAN](https://corapan.online.uni-marburg.de)-Korpus (Tacke 2026) Zugang zu Beispielen gesprochener Sprache aus sämtlichen hispanophonen Ländern.
+    Wer schließlich authentische Vergleichsdaten und Hörbeispiele zu nationalen Standardvarietäten sucht, findet sie in den folgenden Kapiteln. Darüber hinaus bietet das [CO.RA.PAN](https://corapan.hispanistica.com)-Korpus (Tacke 2026) Zugang zu Beispielen gesprochener Sprache aus sämtlichen hispanophonen Ländern.
 
 ## Literatur
 

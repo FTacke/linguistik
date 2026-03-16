@@ -112,7 +112,7 @@ Als Lehrkraft trifft man zwangsläufig eine Entscheidung – aber sie sollte bew
     </audio>
     </div>
     </div>
-    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de">CO.RA.PAN</a></p>
+    <p class="audio-source">Audios aus <a href="https://corapan.hispanistica.com">CO.RA.PAN</a></p>
 
 
 Für die eine wie für die andere Entscheidung lassen sich gute Gründe anführen. Für den *seseo* spricht, dass er in der Mehrheit der spanischsprachigen Welt die Norm ist. Wird er unterrichtet, entfällt die Vermittlung des Interdentallauts `[θ]`, der im Deutschen nicht existiert und den viele Lernende zunächst fremd oder schwer aussprechbar finden – das sogenannte ‚Lispeln‘ gilt im Deutschen als Aussprachefehler, und nicht wenige Lernende empfinden den Laut daher als ‚uncool‘. Für die *distinción* spricht wiederum, dass sie in vielen Lehrwerken als Standard vorausgesetzt wird – ebenso in Prüfungsformaten und schulischen Kanontexten – und dass die Unterscheidung auch in der Orthographie sichtbar ist. Hinzu kommt ein sprachsensibilisierendes Argument: Der Interdentallaut `[θ]` steckt auch im englischen `<th>` (z. B. *think*, *author*, *path*) und ist den meisten Lernenden aus dem Englischunterricht bereits bekannt – nur eben nicht als ‚uncool‘. Solche sprachenvergleichenden Parallelen können helfen, stereotype Vorstellungen zu hinterfragen (vgl. Kapitel [Fehlerlinguistik](../fehlerlinguistik.md#nicht-jede-abweichung-ist-ein-fehler)).
@@ -231,7 +231,7 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     </div>
     </div>
 
-    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de">CO.RA.PAN</a></p>
+    <p class="audio-source">Audios aus <a href="https://corapan.hispanistica.com">CO.RA.PAN</a></p>
 
 
 Für den Unterricht bedeutet das: Dem *yeísmo* kann man entspannt begegnen. Wenn Lehrwerke noch die traditionelle Unterscheidung zwischen `/ʎ/` und `/ʝ/` erwähnen, lohnt es sich, das einzuordnen und kurz zu erklären, dass diese Unterscheidung in der Sprachpraxis kaum noch vorkommt. Unterrichtet wird eine lebendige Sprache – keine reine Schulbuchsprache.
@@ -335,7 +335,7 @@ Dabei ist zu berücksichtigen, dass die Abschwächung heute in vielen dieser Geb
 
     </div>
 
-    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de">CO.RA.PAN</a></p>
+    <p class="audio-source">Audios aus <a href="https://corapan.hispanistica.com">CO.RA.PAN</a></p>
 
 
 Die Hochlandregionen hingegen – Mexiko-Stadt, Bogotá, Quito, La Paz – zeichnen sich durch eine klare Artikulation des `/s/` auch am Silbenende aus, was historisch mit ihrer engeren Bindung an die spanischen Kolonialzentren zusammenhängt. Dort wird die Abschwächung eher mit informellen Redesituationen oder niedrigerem Bildungsniveau assoziiert und ist damit kein neutrales Merkmal, sondern eines mit sozialer Dimension. Dasselbe lautliche Phänomen kann also je nach Region als normgerecht oder als nachlässig oder umgangssprachlich gelten.
@@ -444,7 +444,7 @@ Die Hochlandregionen hingegen – Mexiko-Stadt, Bogotá, Quito, La Paz – zeich
 
     </div>
 
-    <p class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de">CO.RA.PAN</a></p>
+    <p class="audio-source">Audios aus <a href="https://corapan.hispanistica.com">CO.RA.PAN</a></p>
 
 
 !!! tip "Ein Phänomen, verschiedene Bewertungen"
@@ -484,7 +484,7 @@ Niemand muss alle Varianten beherrschen oder vermitteln. Es genügt, wenn Lernen
 
     Zur Unterrichtsperspektive: Die ASELE-Akten *¿Qué español enseñar?* (Martín Zorraquino/Díez Pellegrín 2000) protokollieren erste Befragungen zur Wahl der Ziellautung; Leitzke-Ungerer/Polzin-Haumann (2017) zeigen für den deutschsprachigen Unterricht, dass Lehrwerke und Prüfungen regionale Lautmerkmale nur punktuell einbauen; Andión (2013) weist nach, dass Lehrkräfte ihre eigene Variante nutzen, sich bei der Vermittlung mehrerer Lautbilder aber oft unsicher fühlen. Moreno Fernández (2000) liefert Kriterien für ein bewusst gewähltes Varietäten-Modell; Hernández Muñoz et al. (2021) ergänzen kommentierte Unterrichtsbeispiele zu *seseo*, *yeísmo* und weiteren Phänomenen, und Poch Olivé (2024) legt eine komplette Sequenz zur Wahrnehmung und Produktion verschiedener Lautvarianten vor.
 
-    Authentische Hörbelege aus allen hispanophonen Ländern bietet das [CO.RA.PAN](https://corapan.online.uni-marburg.de)-Korpus (Tacke 2026).
+    Authentische Hörbelege aus allen hispanophonen Ländern bietet das [CO.RA.PAN](https://corapan.hispanistica.com)-Korpus (Tacke 2026).
 
 ## Literatur
 
