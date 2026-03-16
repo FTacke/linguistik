@@ -26,11 +26,33 @@
   }
 
   function buildPopupHtml(item, index) {
+    if (window.MapUI && typeof window.MapUI.renderPopupCard === 'function') {
+      return window.MapUI.renderPopupCard({
+        title: item.title,
+        blocks: [
+          {
+            type: 'section',
+            label: 'Sprachfamilie',
+            content: {
+              type: 'body',
+              text: item.family
+            }
+          },
+          {
+            type: 'section',
+            label: 'Herkunft',
+            content: {
+              type: 'body',
+              text: item.origins[index] ?? ''
+            }
+          }
+        ]
+      });
+    }
+
     return `
       <div class="popup-sprachenkarte">
-        <span class="popup-title">${item.title}</span>
-        <span class="popup-familie">${item.family}</span>
-        <div class="popup-herkunft">${item.origins[index] ?? ''}</div>
+        <div class="popup-title">${item.title}</div>
       </div>`;
   }
 

@@ -54,20 +54,20 @@
 
   const SYSTEM_CONTENT = {
     prototypical: {
-      label: 'Prototypischer Gebrauch des perfecto compuesto',
+      label: 'Prototypisch',
       example: [
         { type: 'line', text: 'Hoy he hablado con Ana.' },
         { type: 'line', text: 'Ayer hablé con Ana.' }
       ]
     },
     simple_dominant: {
-      label: 'Dominanz des perfecto simple',
+      label: 'Dominanz des PPS',
       example: [
         { type: 'line', text: 'Hoy hablé con Ana.' }
       ]
     },
     aspectual: {
-      label: 'Aspektuelles Gebrauchssystem',
+      label: 'Aspektuell',
       example: [
         { type: 'line', text: 'Viví en Puebla dos años.' },
         { type: 'interpretation', text: '→ Zeitraum abgeschlossen' },
@@ -76,13 +76,13 @@
       ]
     },
     compound_expansion: {
-      label: 'Expansion des perfecto compuesto',
+      label: 'Expansion des PPC',
       example: [
         { type: 'line', text: 'He llegado ayer.' }
       ]
     },
     fallback: {
-      label: 'Dominanz des perfecto simple',
+      label: 'Dominanz des PPS',
       example: [
         { type: 'line', text: 'Hoy hablé con Ana.' }
       ]
@@ -242,25 +242,7 @@
   }
 
   function formatFrequencyLine(perfectoCompuesto, perfectoSimple) {
-    return `${perfectoCompuesto} compuesto | ${perfectoSimple} simple`;
-  }
-
-  function escapeHtml(value) {
-    return String(value ?? '')
-      .replace(/&/g, '&amp;')
-      .replace(/</g, '&lt;')
-      .replace(/>/g, '&gt;')
-      .replace(/"/g, '&quot;')
-      .replace(/'/g, '&#39;');
-  }
-
-  function buildExampleHtml(exampleLines) {
-    return exampleLines
-      .map((line) => {
-        const className = line.type === 'interpretation' ? 'popup-interpretation' : 'popup-example-line';
-        return `<div class="${className}">${escapeHtml(line.text)}</div>`;
-      })
-      .join('');
+    return `${perfectoCompuesto} PPC | ${perfectoSimple} PPS`;
   }
 
   function normalizeTemporaItem(raw) {
@@ -295,20 +277,45 @@
   }
 
   function buildPopupHtml(item) {
-    const frequencyBlock = item.hasDirectData
-      ? `
-        <div class="popup-frequency-label">Frequenz (freie Rede)</div>
-        <div class="popup-frequency">${escapeHtml(item.frequencyLine)}</div>`
-      : '';
+    if (window.MapUI && typeof window.MapUI.renderPopupCard === 'function') {
+      const blocks = [];
+
+      if (item.hasDirectData) {
+        blocks.push({
+          type: 'metric',
+          label: 'Frequenz (freie Rede)',
+          value: item.frequencyLine
+        });
+      }
+
+      blocks.push(
+        {
+          type: 'section',
+          label: 'Gebrauchssystem',
+          content: {
+            type: 'body',
+            text: item.systemLabel
+          }
+        },
+        {
+          type: 'section',
+          label: 'Beispiel',
+          content: {
+            type: 'example',
+            lines: item.exampleLines
+          }
+        }
+      );
+
+      return window.MapUI.renderPopupCard({
+        title: item.title,
+        blocks
+      });
+    }
 
     return `
       <div class="popup-sprachenkarte">
-        <div class="popup-title">${escapeHtml(item.title)}</div>
-        ${frequencyBlock}
-        <div class="popup-section-label">Gebrauchssystem</div>
-        <div class="popup-system">${escapeHtml(item.systemLabel)}</div>
-        <div class="popup-section-label">Beispiel</div>
-        <div class="popup-example">${buildExampleHtml(item.exampleLines)}</div>
+        <div class="popup-title">${item.title}</div>
       </div>`;
   }
 

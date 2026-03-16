@@ -23,6 +23,83 @@ function popupOptions(className) {
   };
 }
 
+function escapeHtml(value) {
+  return String(value ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function renderPopupContent(content) {
+  if (!content) {
+    return '';
+  }
+
+  if (typeof content === 'string') {
+    return `<div class="popup-body">${escapeHtml(content)}</div>`;
+  }
+
+  if (content.type === 'body') {
+    const numericClass = content.numeric ? ' popup-body--numeric' : '';
+    return `<div class="popup-body${numericClass}">${escapeHtml(content.text ?? '')}</div>`;
+  }
+
+  if (content.type === 'example') {
+    const lines = Array.isArray(content.lines)
+      ? content.lines
+          .map((line) => {
+            const className = line?.type === 'interpretation' ? 'popup-interpretation' : 'popup-example-line';
+            return `<div class="${className}">${escapeHtml(line?.text ?? '')}</div>`;
+          })
+          .join('')
+      : '';
+
+    return `<div class="popup-example">${lines}</div>`;
+  }
+
+  return '';
+}
+
+function renderPopupBlock(block) {
+  if (!block || !block.label) {
+    return '';
+  }
+
+  if (block.type === 'metric') {
+    if (!block.value) {
+      return '';
+    }
+
+    return `
+      <div class="popup-metric-label">${escapeHtml(block.label)}</div>
+      <div class="popup-metric">${escapeHtml(block.value)}</div>`;
+  }
+
+  const contentHtml = renderPopupContent(block.content);
+
+  if (!contentHtml) {
+    return '';
+  }
+
+  return `
+    <div class="popup-section-label">${escapeHtml(block.label)}</div>
+    ${contentHtml}`;
+}
+
+function renderPopupCard(config) {
+  const title = escapeHtml(config?.title ?? '');
+  const blocks = Array.isArray(config?.blocks) ? config.blocks : [];
+  const blocksHtml = blocks.map(renderPopupBlock).join('');
+
+  return `
+    <div class="popup-sprachenkarte">
+      <div class="popup-title">${title}</div>
+      ${blocksHtml}
+    </div>`;
+}
+
 function bindClickPopup(map, marker, html, className) {
   marker.bindPopup(html, popupOptions(className));
   marker.on('click', (event) => {
@@ -283,6 +360,7 @@ if (typeof module !== 'undefined' && module.exports) {
   module.exports = {
     isMobileViewport,
     popupOptions,
+    renderPopupCard,
     bindClickPopup,
     enablePopupCloseUX,
     enableResponsiveInvalidation,
@@ -298,6 +376,7 @@ if (typeof module !== 'undefined' && module.exports) {
 window.MapUI = {
   isMobileViewport,
   popupOptions,
+  renderPopupCard,
   bindClickPopup,
   enablePopupCloseUX,
   enableResponsiveInvalidation,

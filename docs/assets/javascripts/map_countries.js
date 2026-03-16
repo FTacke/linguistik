@@ -30,9 +30,11 @@
 
     return {
       title: raw.Land ?? '',
-      subtitle: raw.Hauptstadt ?? '',
+      capital: raw.Hauptstadt ?? '',
       gdn,
       share,
+      speakersLabel: gdn ? new Intl.NumberFormat('de-DE').format(gdn) : '',
+      shareLabel: share ? `${share.toFixed(1)} %` : '',
       points: getCoordinateList(raw.Koordinaten),
       markerOptions: {
         color,
@@ -45,12 +47,35 @@
   }
 
   function buildPopupHtml(item) {
+    if (window.MapUI && typeof window.MapUI.renderPopupCard === 'function') {
+      return window.MapUI.renderPopupCard({
+        title: item.title,
+        blocks: [
+          {
+            type: 'section',
+            label: 'Hauptstadt',
+            content: {
+              type: 'body',
+              text: item.capital
+            }
+          },
+          {
+            type: 'metric',
+            label: 'Sprecher:innen',
+            value: item.speakersLabel
+          },
+          {
+            type: 'metric',
+            label: 'Anteil Hispanophonie',
+            value: item.shareLabel
+          }
+        ]
+      });
+    }
+
     return `
       <div class="popup-sprachenkarte">
         <div class="popup-title">${item.title}</div>
-        <div class="popup-hauptstadt">${item.subtitle}</div>
-        ${item.gdn ? `<div class="popup-line"><span class="popup-label">Anzahl Sprecher:innen:</span> <span class="popup-value">${item.gdn.toLocaleString()}</span></div>` : ''}
-        ${item.share ? `<div class="popup-line"><span class="popup-label">Anteil Hispanophonie:</span> <span class="popup-value">${item.share}%</span></div>` : ''}
       </div>`;
   }
 

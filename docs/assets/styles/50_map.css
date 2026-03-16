@@ -17,18 +17,21 @@
   --map-control-size: 42px;
   --map-control-radius: 10px;
   --map-popup-radius: 16px;
+  /* Leaflet sets its own popup font-size in leaflet.css; all project-level popup sizing is centralized here. */
   --map-popup-max-width: 300px;
-  --map-popup-font-size: 0.78rem;
+  --map-popup-font-size: 0.7rem;
   --map-popup-line-height: 1.4;
-  --map-popup-title-scale: 1.12;
+  --map-popup-title-scale: 1.28;
   --map-popup-title-line-height: 1.2;
-  --map-popup-meta-scale: 0.98;
-  --map-popup-meta-line-height: 1.35;
-  --map-popup-body-scale: 1.02;
-  --map-popup-body-line-height: 1.3;
-  --map-popup-label-scale: 0.93;
-  --map-popup-value-scale: 0.93;
-  --map-tooltip-font-size: 0.72rem;
+  --map-popup-label-scale: 0.87;
+  --map-popup-label-line-height: 1.25;
+  --map-popup-body-line-height: 1.35;
+  --map-popup-metric-line-height: 1.3;
+  --map-popup-example-scale: 1;
+  --map-popup-example-line-height: 1.35;
+  --map-popup-interpretation-scale: 0.92;
+  --map-popup-interpretation-line-height: 1.3;
+  --map-tooltip-font-size: 0.7rem;
   --map-tooltip-line-height: 1.25;
   --map-layer-base: 0;
   --map-layer-popup: 700;
@@ -44,12 +47,9 @@
     --map-header-offset: 56px;
     --map-control-size: 40px;
     --map-popup-max-width: min(260px, calc(100vw - 32px));
-    --map-popup-font-size: 0.8rem;
-    --map-popup-title-scale: 1.1;
-    --map-popup-meta-scale: 0.97;
-    --map-popup-body-scale: 1;
-    --map-popup-label-scale: 0.92;
-    --map-popup-value-scale: 0.92;
+    --map-popup-font-size: 0.74rem;
+    --map-popup-title-scale: 1.24;
+    --map-popup-label-scale: 0.85;
     --map-tooltip-font-size: 0.74rem;
     --map-tooltip-line-height: 1.22;
   }
@@ -283,8 +283,8 @@ html.has-map-fullscreen {
   overflow: auto;
   background: color-mix(in srgb, var(--book-bg) 97%, var(--book-surface-1));
   font-family: var(--book-font-ui);
-  font-size: var(--map-popup-font-size);
-  line-height: var(--map-popup-line-height);
+  font-size: var(--map-popup-font-size) !important;
+  line-height: var(--map-popup-line-height) !important;
   border-radius: var(--map-popup-radius);
 }
 
@@ -325,85 +325,82 @@ html.has-map-fullscreen {
 
 .md-typeset .book-map .popup-sprachenkarte {
   color: var(--book-fg);
-  font-size: var(--map-popup-font-size);
-  line-height: var(--map-popup-line-height);
+  font-size: 1em;
+  line-height: var(--map-popup-body-line-height);
 }
 
-.md-typeset .book-map[data-map="variation_tempora"] .popup-title {
+.md-typeset .book-map .popup-title {
   display: block;
   margin: 0 0 8px 0;
-  font-size: 1.02rem;
-  line-height: 1.2;
+  font-size: calc(1em * var(--map-popup-title-scale));
+  line-height: var(--map-popup-title-line-height);
   font-weight: 700;
   color: var(--book-fg);
 }
 
-.md-typeset .book-map[data-map="variation_tempora"] .popup-frequency-label {
-  margin: 2px 0 4px;
-  font-size: 0.69rem;
-  font-weight: 600;
-  letter-spacing: 0.045em;
-  text-transform: uppercase;
-  color: var(--book-muted);
-}
-
-.md-typeset .book-map[data-map="variation_tempora"] .popup-frequency {
-  margin: 0 0 10px;
-  padding: 4px 6px;
-  border-radius: 6px;
-  background: color-mix(in srgb, var(--book-surface-1) 92%, white);
-  color: var(--book-fg);
-  font-weight: 700;
-  line-height: 1.3;
-  font-variant-numeric: tabular-nums;
-}
-
-.md-typeset .book-map[data-map="variation_tempora"] .popup-section-label {
-  margin: 11px 0 4px;
-  font-size: 0.7rem;
+.md-typeset .book-map .popup-section-label {
+  margin: 10px 0 4px;
+  font-size: calc(1em * var(--map-popup-label-scale));
+  line-height: var(--map-popup-label-line-height);
   font-weight: 600;
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--book-muted);
 }
 
-.md-typeset .book-map[data-map="variation_tempora"] .popup-system {
+.md-typeset .book-map .popup-metric-label {
+  margin: 2px 0 4px;
+  font-size: calc(1em * var(--map-popup-label-scale));
+  line-height: var(--map-popup-label-line-height);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--book-muted);
+}
+
+.md-typeset .book-map .popup-metric {
+  margin: 0 0 10px;
+  padding: 4px 6px;
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--book-surface-1) 92%, white);
   color: var(--book-fg);
   font-weight: 600;
-  line-height: 1.3;
+  line-height: var(--map-popup-metric-line-height);
+  font-variant-numeric: tabular-nums;
 }
 
-.md-typeset .book-map[data-map="variation_tempora"] .popup-example {
-  margin-top: 2px;
+.md-typeset .book-map .popup-body {
+  font-size: 1em;
   color: var(--book-fg);
-  line-height: 1.35;
+  line-height: var(--map-popup-body-line-height);
 }
 
-.md-typeset .book-map[data-map="variation_tempora"] .popup-example-line {
+.md-typeset .book-map .popup-body--numeric {
+  font-variant-numeric: tabular-nums;
+}
+
+.md-typeset .book-map .popup-example {
+  margin-top: 2px;
+  font-size: calc(1em * var(--map-popup-example-scale));
+  color: var(--book-fg);
+  line-height: var(--map-popup-example-line-height);
+  font-style: italic;
+}
+
+.md-typeset .book-map .popup-example-line {
   margin: 0;
 }
 
-.md-typeset .book-map[data-map="variation_tempora"] .popup-example-line + .popup-example-line {
+.md-typeset .book-map .popup-example-line + .popup-example-line {
   margin-top: 3px;
 }
 
-.md-typeset .book-map[data-map="variation_tempora"] .popup-interpretation {
-  margin-top: 1px;
-  margin-bottom: 4px;
-  color: var(--book-muted);
-  font-size: 0.92em;
-  line-height: 1.3;
-}
-
-.md-typeset .book-map[data-map="variation_tempora"] .popup-interpretation:last-child {
+.md-typeset .book-map .popup-interpretation {
+  margin-top: 2px;
   margin-bottom: 0;
-}
-
-.md-typeset .book-map .popup-value {
-  color: var(--book-fg);
-  font-weight: 700;
-  font-size: calc(1em * var(--map-popup-value-scale));
-  margin-inline-start: 4px;
+  color: var(--book-muted);
+  font-size: calc(1em * var(--map-popup-interpretation-scale));
+  line-height: var(--map-popup-interpretation-line-height);
+  font-style: normal;
 }
 
 .md-typeset .book-map .leaflet-tooltip {
