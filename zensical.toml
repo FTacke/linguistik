@@ -30,8 +30,6 @@ nav = [
   {"7 Herkunftssprachen"          = "herkunftssprachen.md"},
   {"X Admonitions"                = "admonitions.md"},
   {"Anhang"                        = "anhang.md"},
-  {"Lizenz"                        = "lizenz.md"},
-  {"Impressum"                     = "impressum.md"}
 ]
 
 extra_css = [
