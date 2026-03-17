@@ -24,7 +24,9 @@ nav = [
     {"5.1 Variation & Plurizentrik"             = "variation/variation_plurizentrik.md"},
     {"5.2 Variation in der Aussprache"          = "variation/variation_aussprache.md"},
     {"5.3 Variation in der Anrede"              = "variation/variation_anrede.md"},
-    {"5.4 Variation in der Grammatik" = "variation/variation_grammatik.md"}
+    {"5.4 Variation im Gebrauch der Tempora"    = "variation/variation_tempora.md"},
+    {"5.5 Variation in Morphologie und Syntax"  = "variation/variation_morphosyntax.md"},
+    {"5.X Variation in der Grammatik" = "variation/variation_grammatik.md"}
   ]},
   {"6 Sprachwandel"               = "wandel.md"},
   {"7 Herkunftssprachen"          = "herkunftssprachen.md"},

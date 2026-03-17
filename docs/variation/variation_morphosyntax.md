@@ -2,110 +2,25 @@
 authors:
   - "Paul Becker"
   - "Lisa Bender"
-  - "Ramón Delgado Moreno"
-  - "Stanislav Minchev"
   - "Enrique Ritz Pequeño"
+  - "Stanislav Minchev"
   - "Felix Tacke"
 peer_review:
   - "Daniel Mehrlein Merenciano"
   - "Lucas Pimenta Lange"
   - "Karina Stephan Quezada"
-created: "11.11.25"
-last_modified: "14.03.2026"
+created: "11.11.2025"
+last_modified: "17.03.2026"
 ---
 
-# 5.4 Variation in der Grammatik
+# 5.5 Variation in Morphologie und Syntax
 
-## Richtig, falsch – oder einfach anders?
+## Von *casita* bis *habían*: wenn Formen variieren
 
-Ein Schüler erzählt im Unterricht von seinem Wochenende: „Hoy comí con mi abuela.“ Aber müsste es nicht „Hoy he comido“ heißen? In einem kolumbianischen Podcast wird ein Arzt mit *doctorcito* angesprochen – ist aber offenbar respektvoll gemeint. In einer peruanischen Nachrichtensendung hört man *habían muchos problemas* – und in einer spanischen Serie *Le vi ayer en el centro* statt des erwarteten *Lo vi*. Was davon ist richtig, was falsch, was einfach anders?
+Grammatikalische Variation zeigt sich nicht nur im Gebrauch der Tempora (vgl. Kapitel [Variation im Gebrauch der Tempora](variation_tempora.md)), sondern auch in der Morphologie und Syntax – also darin, wie Wörter gebildet, Pronomen gewählt und Sätze konstruiert werden. Dabei unterscheiden sich die hier behandelten Phänomene in einem wichtigen Punkt: Bei den Tempora geht es um gleichberechtigte regionale Systeme, bei denen keine Form ‚richtiger‘ ist als die andere. Bei den Phänomenen dieses Kapitels ist das Bild differenzierter.
 
-Variation in der Grammatik ist kein Randphänomen und kein Zeichen von Nachlässigkeit, sondern Ausdruck regionaler und nationaler Normen innerhalb einer plurizentrischen Sprache (vgl. Kapitel [Variation & Plurizentrik](variation_plurizentrik.md)). Wie bei der Aussprache gibt es auch in der Grammatik gleichberechtigte Varianten – also etablierte Möglichkeiten, dasselbe mit anderen Formen auszudrücken. Für den Unterricht ist das besonders relevant, weil grammatikalische Unterschiede unmittelbar Fragen der Regelvermittlung, der Korrektur und der Bewertung berühren (vgl. Kapitel [Fehlerlinguistik](../fehlerlinguistik.md#nicht-jede-abweichung-ist-ein-fehler)).
+Die Diminutive zeigen, dass ein und dasselbe Suffix in verschiedenen Regionen ganz unterschiedliche Funktionen erfüllen kann – von Verkleinerung über Höflichkeit bis hin zu Ironie. Hier steht die Frage nach ‚richtig‘ oder ‚falsch‘ gar nicht im Raum. Beim *leísmo* verschiebt sich die Perspektive: Das Phänomen ist regional verbreitet und teils normativ toleriert, teils nicht. Und beim *(de)queísmo* sowie bei Konstruktionen wie *habían muchos problemas* steht die normative Bewertung stärker im Vordergrund – diese Formen werden in den meisten Kontexten als nicht standardgemäß eingestuft, sind aber in bestimmten Regionen weit verbreitet. Für Lehrkräfte ist es wichtig, diese Abstufungen zu kennen: Nicht jede Variation ist normativ gleichwertig, aber auch normativ markierte Formen verdienen eine linguistische Einordnung statt eines pauschalen Fehlerurteils (vgl. Kapitel [Fehlerlinguistik](../fehlerlinguistik.md)).
 
-Dieses Kapitel gliedert sich in drei Bereiche. Im Bereich der Tempusvariation geht es um das Verhältnis von *perfecto compuesto* und *perfecto simple* sowie um die Konkurrenz der beiden Futurformen. In der Morphologie zeigt der Diminutiv, dass ein und dasselbe Suffix in verschiedenen Regionen ganz unterschiedliche Funktionen erfüllen kann – von Verkleinerung über Höflichkeit bis hin zu Ironie. Und im Bereich der morphosyntaktischen Variation stehen drei Phänomene im Fokus, bei denen die Frage nach Norm und Akzeptabilität besonders konkret wird: der *leísmo*, der *(de)queísmo* und die pluralische Verwendung von *haber*.
-
-Ziel ist dabei keine Werbung für möglichst viele Varianten im Unterricht, sondern eine fundierte Orientierung: Du sollst als Lehrkraft einschätzen können, welche grammatikalischen Unterschiede systematisch sind, wie Du sie einordnest und wie Du Lernende dafür sensibilisierst, ohne sie zu überfordern.
-
-## *He cantado* oder *canté*? Wie die Vergangenheit in der Hispanophonie ausgedrückt wird
-
-Wenn im Spanischunterricht das *Perfecto Compuesto* (*he cantado, he vivido*) und das *Perfecto Simple* (*canté, viví*) eingeführt werden, werden entweder ausschließlich die für Zentralspanien übliche Verwendungsweise der beiden Tempora unterrichtet oder es wird – falls Variation eine Rolle spielt – ein sehr stark vereinfachtes Bild der Verwendung ‚in Amerika‘ gegeben. So heißt es in den klassischen Definitionen der Schulbücher etwa, dass mit den beiden Formen unterschieden wird, ob eine Handlung abgeschlossen in der Vergangenheit liegt oder ob sie ‚gerade erst‘ oder ‚heute‘ stattfand. Dem gegenüber heißt es gern, dass in Amerika (fast) immer die einfache Perfektform *canté* benutzt wird – nicht selten führt das zu dem Eindruck, die Sprecher:innen dort sprächen ein weniger differenziertes Spanisch. Dem realen Gebrauch des Spanischen und seiner Varietäten wird diese Gegenüberstellung jedoch nicht gerecht. Es wird oft übersehen, dass das *Perfecto Compuesto* selbst im gesamten spanischsprachigen Raum verwendet wird und keineswegs auf Spanien beschränkt ist. Entscheidend ist vielmehr, welche Bedeutungen mit dieser Form verbunden werden.
-
-Ein und dieselbe Äußerung – etwa *He vivido aquí veinte años* – kann je nach Land und Region unterschiedlich interpretiert werden: In weiten Teilen Spaniens bleibt offen, ob die Person dort weiterhin lebt oder nicht, während in vielen lateinamerikanischen Varietäten, etwa in Mexiko und Zentralamerika, dieselbe Form meist so verstanden wird, dass die Person noch immer dort lebt. Die Form ist zwar dieselbe, das zugrunde liegende System und die Interpretation können sich aber stark unterscheiden. Dabei gibt es nicht das eine richtige oder gar bessere System.
-
-#### Prototypischer Wert des *Perfecto Compuesto*
-
-Lehrwerke orientieren sich meist am sogenannten prototypischen Wert des *Perfecto Compuesto*: Es bezeichnet ein Ereignis, das zwar abgeschlossen ist, aber als in die Gegenwart hineinreichend gedeutet wird. Dass *He comido con Luis* in Spanien typischerweise ‚heute‘ meint und nicht irgendwann in der Vergangenheit, ist ein Beispiel für diesen jetztbezogenen Gebrauch. In diesem Zusammenhang wird im Unterricht häufig auf sogenannte ‚Triggerwörter‘ wie *hoy* oder *esta mañana* verwiesen, die in vielen Varietäten Spaniens tatsächlich bevorzugt mit dem *Perfecto Compuesto* kombiniert werden (*Hoy he desayunado tarde*).
-
-Wichtig ist jedoch: Dieser Gebrauch ist weder typisch für ganz Spanien, noch exklusiv, denn in Peru, Bolivien und dem Nordwesten Argentiniens wird das *Perfecto Compuesto* ebenfalls so verwendet. Die typische Lehrbuchregel, die implizit suggeriert, Hispanoamerika funktioniere einheitlich anders als Spanien, trifft also schlicht nicht zu.
-
-??? expand "*Hoy desayuné temprano*? Variation des Gebrauchs in Spanien"
-    Auch innerhalb Spaniens wird das *Perfecto Compuesto* nicht einheitlich verwendet. Während im Zentrum und Süden Formen wie
-    *Hoy he llegado tarde* oder *Esta mañana he hablado con ella* sehr verbreitet sind, wird in anderen Regionen – etwa in Galicien oder auf den Kanarischen Inseln – das *Perfecto Simple* bevorzugt. Dort heißt es eher *Hoy llegué tarde* oder *Esta mañana hablé con ella*. In diesen Varietäten übernimmt das *Perfecto Simple* viele Funktionen, die im zentralspanischen Gebrauch dem *Perfecto Compuesto* zukommen. Die Unterschiede zeigen, dass es auch innerhalb Spaniens mehrere grammatische Normen gibt und der sogenannte prototypische Gebrauch regional begrenzt ist.
-
-
-#### Vielfalt statt Zweiteilung: unterschiedliche grammatische Systeme
-
-In vielen Regionen Amerikas unterscheiden sich *Perfecto Compuesto* und *Perfecto Simple* nicht primär dadurch, ob ein Ereignis einen Bezug zur Gegenwart hat, sondern dadurch, wie eine Handlung bewertet wird: als abgeschlossen oder als fortdauernd. In großen Teilen Mexikos, Mittelamerikas und der Karibik wird *viví* bevorzugt verwendet, wenn eine Situation eindeutig beendet ist, während *he vivido* typischerweise dann erscheint, wenn eine Handlung oder ein Zustand bis in die Gegenwart reicht. Vor diesem Hintergrund erklärt sich auch, warum ein Satz wie *He vivido aquí veinte años* meist so verstanden wird, dass die Person noch immer dort lebt.
-
-#### Neutralisierung der Opposition: wenn eine Form die andere ersetzt
-
-Neben solchen Systemen, in denen *Perfecto Compuesto* und *Perfecto Simple* unterschiedliche Funktionen übernehmen, gibt es Varietäten, in denen die Opposition zwischen beiden Formen weitgehend neutralisiert ist. In Ländern wie Chile, Uruguay, großen Teilen Argentiniens sowie im Nordwesten Spaniens wird das *Perfecto Simple* im Alltagsgebrauch zur dominanten Vergangenheitsform und übernimmt nahezu alle Kontexte, auch solche, in denen anderswo das *Perfecto Compuesto* üblich ist. Statt *¿Has llamado?* oder *¿Qué has dicho?* heißt es hier üblicherweise *¿Llamaste?* und *¿Qué dijiste?*, selbst wenn es um etwas gerade eben Erlebtes oder Gesagtes geht.
-
-Der umgekehrte Fall tritt aber auch auf: An der peruanischen Küste und in Teilen Boliviens sowie in Paraguay und dem Nordwesten Argentiniens übernimmt nämlich das *Perfecto Compuesto* Funktionen, die sonst dem *Perfecto Simple* zukommen. Dort kann man Äußerungen wie *Ha llegado hace tres años* hören. Ein Grund dafür liegt darin, dass die einfache Perfektform insbesondere im Andengebiet als allzu formell empfunden und daher eher vermieden wird (wie das Präteritum im Deutschen heute).
-
-#### Gemeinsame Verwendungen des *Perfecto Compuesto*
-
-Trotz der beschriebenen Unterschiede gibt es Verwendungen des *Perfecto Compuesto*, die im gesamten spanischsprachigen Raum stabil sind – selbst in Varietäten, in denen diese Form sonst nur selten gebraucht wird. Dazu gehört vor allem der Ausdruck von Lebenserfahrungen, wie in *He viajado muchas veces a Europa* oder *Nunca lo he visto en mi vida*. Solche Sachverhalte beziehen sich auf einen offenen Zeitraum (‘bis jetzt’) und werden überall mit dem *Perfecto Compuesto* gebildet. Ähnlich verhält es sich mit Verwendungen, bei denen ein gegenwärtig wahrnehmbares Ergebnis oder eine aktuelle Feststellung sowie Überraschung im Vordergrund stehen, etwa in *¡Cómo han subido los precios!* oder *¡Cómo has cambiado!*
-
-Diese gemeinsamen Verwendungen zeigen, dass das *Perfecto Compuesto* auch dort, wo andere Vergangenheitsformen dominieren, feste und klar umrissene Funktionen behält.
-
-<div class="book-map" data-map="variation_tempora">
-    <div class="book-map__canvas"></div>
-    <button
-        type="button"
-        class="book-map__control book-map__control--fullscreen"
-        aria-label="Karte im Vollbild öffnen"
-        aria-pressed="false"></button>
-</div>
-
-<div class="figcaption" markdown>
-**Karte: Tempusvariation im Spanischen.** Die Prozentwerte geben die relative Häufigkeit von *PPC* (*pretérito perfecto compuesto*) und *PPS* (*pretérito perfecto simple*) wieder. Die Farben markieren unterschiedliche *Gebrauchssysteme*, die farbigen Kreise symbolisieren ihren ungefähren regionalen Einflussbereich. Die Zuordnung ist stark vereinfachend und orientiert sich an der Darstellung der Tempusvariation in der *Nueva gramática de la lengua española* (NGLE, 2025).[^tempuskarte]
-</div>
-
-!!! tip "Tempusformen lernen – Gebrauch verstehen"
-    Im Unterricht liegt der Schwerpunkt oft auf dem Konjugieren und Einüben von Verbformen. Mindestens ebenso wichtig ist jedoch die Frage, wie diese Formen tatsächlich verwendet werden. Gerade die Tempusvariation zeigt: Grammatische Formen korrekt bilden zu können, reicht nicht aus – entscheidend ist auch zu wissen, wann und wo sie üblich sind.
-
-## *Cantaré* oder *voy a cantar*? Zwei Futurformen und ihre Funktionen[^rdm]
-
-In Spanischlehrwerken gewinnt man leicht den Eindruck, *cantaré* sei die ‚eigentliche‘ Zukunftsform und *ir a + infinitivo* eine umgangssprachliche Alternative, die man ergänzend kennen sollte. Im authentischen Sprachgebrauch ist es allerdings eher umgekehrt: In den meisten Gesprächssituationen greifen Spanischsprechende weltweit bevorzugt zu *voy a cantar* – und in weiten Teilen Hispanoamerikas ist diese Form im Mündlichen so dominant, dass *cantaré* dort fast nur noch der Schriftsprache oder bestimmten festen Wendungen vorbehalten bleibt. Das bedeutet aber nicht, dass das die einfache Futurform (das ‚synthetische Futur‘) verschwunden wäre: Es hat sich vielmehr funktional spezialisiert.
-
-#### Zwei Formen, zwei Funktionen
-
-Beide Formen gehören fest zum System und sind nicht frei austauschbar. *Ir a + infinitivo* drückt typischerweise etwas Geplantes, Unmittelbares oder aus Sicht des Sprechers Erwartbares aus: *Voy a llamar a Marta* signalisiert eine Absicht oder die Einschätzung, dass die Handlung bevorsteht. *Cantaré* projiziert dagegen neutraler in die Zukunft und ist weniger an die Sprechsituation gebunden: *Mañana lloverá* stellt eine Vorhersage dar, ohne dass der Sprecher bereits Wolken am Himmel sehen muss. Diese semantische Differenzierung wirkt in beiden Varietäten, wird aber unterschiedlich genutzt.
-
-#### Unterschiedliche Gewichte: Spanien und Hispanoamerika
-
-In Spanien sind beide Formen im alltäglichen Gespräch präsent. Sprecher:innen wählen situationsabhängig: Wo es um aktuell Geplantes oder unmittelbar Bevorstehendes geht, dominiert *ir a + infinitivo*; wo eine eher distanzierte Aussage über Zukünftiges gemacht wird, erscheint häufig das einfache Futur. Die Wahl folgt also semantischen Kriterien – beiden Formen begegnet man im Alltag daher regelmäßig.
-
-In Hispanoamerika verschiebt sich das Gewicht deutlich: *Ir a + infinitivo* übernimmt im Gesprochenen einen Großteil der temporalen Funktionen, auch solche, für die in Spanien eher *cantaré* stehen würde. Das einfache Futur wird stärker mit formellem oder schriftsprachlichem Gebrauch assoziiert und kann in mündlichen Alltagssituationen allzu gehoben oder wenig natürlich wirken. Ein Satz wie *¿A qué hora saldremos mañana?* klingt in vielen hispanoamerikanischen Kontexten stilistisch allzu gewählt, während *¿A qué hora vamos a salir mañana?* die üblichere Wahl ist.
-
-Es handelt sich nicht um einen binären Gegensatz ‚Spanien = einfaches Futur, Amerika = periphrastisches Futur‘. Vielmehr hat sich die Präferenz in Hispanoamerika schon so weit verschoben, dass die ältere einfache Form nur noch eingeschränkt ‚natürlich‘ klingt im Gesprochenen. Dabei gilt: Auch in Spanien breitet sich das periphrastische Futur weiter aus; und auch in Amerika bleibt *cantaré* in bestimmten Funktionen und v.a. in der Schriftsprache lebendig. Wir beobachten also einen [Sprachwandel](../wandel.md#warum-gibt-es-im-spanischen-zwei-futurformen), der die gesamte Hispanophonie betrifft, nur eben in unterschiedlichem Tempo.
-
-#### Modale Verwendung: Das *futuro de conjetura*
-
-Eine Funktion, in der das einfache Futur überall stabil bleibt, ist die modale Verwendung. Der sogenannte *futuro de conjetura* (auch *futuro epistémico*) drückt keine Zukunft aus, sondern eine Vermutung über die Gegenwart: *Serán las ocho* bedeutet nicht ‘Es wird acht Uhr werden’, sondern ‘Es wird wohl acht Uhr sein’. Ähnlich: *Tendrá frío* ‘Ihm/ihr ist wahrscheinlich kalt’. Dieser Gebrauch ist in der gesamten spanischsprachigen Welt verbreitet und zeigt, dass *cantaré* keineswegs verschwindet, sondern sich in bestimmten Funktionen behauptet. Übrigens existiert ein vergleichbarer epistemischer Gebrauch des Futurs auch im Deutschen (*Das wird wohl stimmen*), im Französischen und in anderen Sprachen – es handelt sich also um ein sprachübergreifendes Phänomen.
-
-Die Unterscheidung zwischen temporaler und modaler Lesart hat auch eine Variationsdimension: Im europäischen Spanisch ergibt sich nur aus dem Kontext, ob mit einer Äußerung wie *Tendrás hambre* eine Vermutung (‘Du hast wohl Hunger’) oder eine Zukunftsaussage (‘Du wirst Hunger bekommen’) gemeint ist. Im amerikanischen Spanisch würde man für die temporale Lesart typischerweise *Vas a tener hambre* verwenden, wodurch die Zukunftsbedeutung eindeutiger markiert ist. Die funktionale Spezialisierung von *cantaré* auf modale Kontexte ist dort also weiter fortgeschritten.
-
-Für den Unterricht heißt das: Beide Formen sollten vermittelt werden, aber die Gewichtung des Lehrwerks verdient Reflexion. Wenn Schüler:innen in authentischen Gesprächen fast nur *ir a + infinitivo* hören, ist das kein Defizit des Hörmaterials, sondern Ausdruck des tatsächlichen Sprachgebrauchs. Das einfache Futur bleibt wichtig – vor allem für die Schriftsprache und für modale Verwendungen –, aber es als die ‚normale‘ oder ‚bessere‘ Zukunftsform darzustellen, führt am realen Gebrauch vorbei.
-
-??? expand "Futur als Imperativ: Sprachkontakt in den Anden"
-    In Teilen der Andenregion – vor allem in Ecuador, aber auch in Kolumbien, Peru und Bolivien – zeigt sich eine weitere modale Verwendung des einfachen Futurs. Dort kann das Futur häufiger auch imperativisch gebraucht werden. Formen wie *tomarás* können dann ‘nimm!’ bedeuten und *harás* ‘mach!’, wo in den meisten anderen Varietäten des Spanischen Imperativformen wie *toma* oder *haz(lo)* verwendet würden.  
-
-    Dieser Gebrauch, den man sonst vor allem aus festen religiösen Formeln wie den Zehn Geboten kennt (*No matarás*), wird möglicherweise durch den Einfluss des Quechua begünstigt, in dem ähnliche Überlappungen zwischen Futur und Imperativ bestehen. Vereinzelt treten diese Formen sogar mit enklitischen Pronomen auf, etwa in *Darásme pues un poco de chicha* ‘Gib mir doch ein wenig Chicha’, wo sonst *Dame pues un poco de chicha* stehen würde. Im Unterricht wird man diesem Phänomen kaum begegnen, doch es zeigt anschaulich, wie Sprachkontakt grammatische Strukturen verändern kann (vgl. Kapitel [Herkunftssprachen](../herkunftssprachen.md)).
-
-!!! tip "Beide Futurformen gehören in den Unterricht"
-    Wenn das Lehrwerk *cantaré* als die ‚Hauptform‘ des Futurs einführt, lohnt es sich, früh klarzustellen: Im gesprochenen Spanisch – besonders in Hispanoamerika – ist *ir a + infinitivo* die häufigere Form. Wichtig ist dabei festzuhalten, dass das einfache Futur ist nicht die ‚bessere‘ Futurform ist, sondern dass es in der Schriftsprache und in der Alltagssprache (zumindest in Spanien) andere Nuancen ausdrückt. Diese Einordnung hilft Schüler:innen, authentisches Sprachmaterial richtig einzuordnen und *voy a cantar* nicht als ‚minderwertiges‘ Futur wahrzunehmen.
 
 ## Diminutive: mehr als Verkleinerung[^pb]
 
@@ -301,7 +216,7 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
 
 ## Zwischen Variation und Norm
 
-Die bisher behandelten Phänomene – Tempusvariation und Diminutive – haben eines gemeinsam: Es geht um funktionale Unterschiede zwischen Varietäten, bei denen keine Form ‚richtiger‘ ist als die andere. Bei den folgenden drei Phänomenen verschiebt sich die Perspektive. Der *leísmo* ist regional verbreitet und teils normativ toleriert, teils nicht. Beim *(de)queísmo* und bei der pluralischen Verwendung von *haber* steht die normative Bewertung stärker im Vordergrund – diese Formen werden in den meisten Kontexten als nicht standardgemäß eingestuft, sind aber linguistisch erklärbar und in bestimmten Regionen weit verbreitet. Für Lehrkräfte ist es wichtig, diese Abstufungen zu kennen: Nicht jede Variation ist normativ gleichwertig, aber auch normativ markierte Formen verdienen eine linguistische Einordnung statt eines pauschalen Fehlerurteils (vgl. Kapitel [Fehlerlinguistik](../fehlerlinguistik.md)).
+Bei den folgenden drei Phänomenen verschiebt sich die Perspektive gegenüber den Diminutiven: Es geht nicht mehr nur um regionale Unterschiede im Gebrauch, sondern auch um die Frage, wie diese Formen normativ bewertet werden. Der kastilische *leísmo* ist seit Jahrhunderten verankert und wird von der RAE als tolerierte Variante eingestuft. Beim *(de)queísmo* und bei der pluralischen Verwendung von *haber* ist die normative Bewertung dagegen deutlicher: Diese Formen sind weit verbreitet und linguistisch erklärbar, gelten aber in den meisten Kontexten als nicht standardgemäß. Für den Unterricht ist diese Abstufung entscheidend – denn wer zwischen regionaler Norm, tolerierter Abweichung und stigmatisierter Form unterscheiden kann, reagiert im Klassenzimmer souveräner.
 
 ### *Lo vi* oder *le vi*? Der *leísmo* und seine Grenzen[^lb]
 
@@ -339,7 +254,7 @@ Eine besondere Spielart des *leísmo* verdient eigene Erwähnung: der *leísmo d
 
     Ziel des Unterrichts ist daher nicht, diese Varianten zu übernehmen, sondern sie erkennen und einordnen zu können.
 
-### *Me acuerdo que…*? – Queísmo, Dequeísmo und Präpositionen vor Nebensätzen[^erp]
+### *Me acuerdo que…*? – *Queísmo*, *Dequeísmo* und Präpositionen vor Nebensätzen[^erp]
 
 Ein Satz wie *Me acuerdo que lo vimos ayer* wirkt für viele Lehrkräfte sofort verdächtig – müsste es nicht *me acuerdo de que…* heißen? Solche Fälle gehören zu den klassischen Zweifelsfragen der spanischen Grammatik. Gemeint sind die Phänomene *queísmo* und *dequeísmo*, also unterschiedliche Varianten im Gebrauch von Präpositionen vor der Konjunktion *que*. Beim *queísmo* fehlt eine Präposition, die nach der Norm erwartet wird (*me acuerdo que…* statt *me acuerdo de que…*), während beim *dequeísmo* eine Präposition eingefügt wird, obwohl sie standardsprachlich nicht vorgesehen ist (*pienso de que vendrá*, *creo de que es verdad*). Beide Erscheinungen sind im Spanischen seit Langem belegt und treten vor allem im gesprochenen Sprachgebrauch vieler Regionen auf.
 
@@ -429,22 +344,23 @@ Die von der Norm abweichenden Pluralformen sind allerdings weder gleich häufig 
 !!! tip "*Habían problemas* im Unterricht"
     Im Standardspanischen steht das Existenzverb *haber* immer im Singular (*hay*, *había*, *hubo*, *habrá*), auch wenn sich das Bezugsnomen auf mehrere Dinge bezieht (*hay muchos problemas*). Für den Unterricht bedeutet das: Aktiv gelernt wird die Singularform; wenn in authentischem Material Pluralformen auftreten, lassen sie sich als verbreitetes Variationsphänomen einordnen (vgl. Kapitel [Fehlerlinguistik](../fehlerlinguistik.md#nicht-jede-abweichung-ist-ein-fehler)).
 
+
 ## Variation als Normalfall – und als didaktische Chance
 
-Die in diesem Kapitel behandelten Phänomene zeigen ein gemeinsames Muster: Grammatische Variation im Spanischen ist kein Randphänomen, sondern der Normalfall. Es gibt weder ‚die‘ eine richtige Lösung noch einen einfachen Gegensatz zwischen Spanien und Hispanoamerika, sondern regional verankerte Systeme, die jeweils konsistent funktionieren – und die sich in ihrem normativen Status unterscheiden können. Tempusvariation und Diminutive stehen für gleichberechtigte regionale Unterschiede; der *leísmo* bewegt sich im Grenzbereich zwischen regionaler Norm und tolerierter Abweichung; *(de)queísmo* und Formen wie *habían muchos problemas* sind linguistisch erklärbar, aber normativ markiert. Für den Unterricht heißt das: Solche Unterschiede sind keine Fehler, die korrigiert werden müssten, sondern Phänomene, die man bei Bedarf einordnen können sollte. Sprachliche Sensibilität für diese Vielfalt – und für die unterschiedlichen normativen Bewertungen, die damit einhergehen – ist ein zentrales Ziel eines reflektierten Spanischunterrichts.
+Die in diesem Kapitel behandelten Phänomene zeigen ein gemeinsames Muster: Morphologische und syntaktische Variation im Spanischen ist kein Randphänomen, sondern der Normalfall. Dabei unterscheiden sich die Phänomene in ihrem normativen Status erheblich. Die Diminutive stehen für regionale Vielfalt ohne jede Normfrage – keine Form ist ‚richtiger‘ als die andere. Der kastilische *leísmo* bewegt sich im Grenzbereich zwischen regionaler Norm und tolerierter Abweichung. Und beim *(de)queísmo* sowie bei der pluralischen Verwendung von *haber* stehen Formen im Raum, die linguistisch erklärbar und regional verbreitet, normativ aber markiert sind. Für den Unterricht heißt das: Solche Unterschiede sind keine Fehler, die pauschal korrigiert werden müssten, sondern Phänomene, die man bei Bedarf einordnen können sollte. Sprachliche Sensibilität für diese Vielfalt – und für die unterschiedlichen normativen Bewertungen, die damit einhergehen – ist ein zentrales Ziel eines reflektierten Spanischunterrichts.
 
 !!! summary "Zusammenfassung"
-    Grammatikalische Variation im Spanischen lässt sich nicht auf einen Gegensatz Spanien vs. Hispanoamerika reduzieren. *Perfecto compuesto* und *perfecto simple* koexistieren in regional unterschiedlichen Systemen; das periphrastische Futur (*ir a + infinitivo*) dominiert im Gesprochenen, während das einfache Futur (*cantaré*) sich zunehmend auf Schriftsprache und modale Funktionen spezialisiert. Die Diminutive zeigen, dass ein und dasselbe Suffix je nach Region ganz unterschiedliche kommunikative Leistungen erbringt – von Verkleinerung über Abschwächung bis hin zu Höflichkeit. Bei den morphosyntaktischen Phänomenen – *leísmo*, *(de)queísmo*, pluralisches *haber* – verschiebt sich die Perspektive: Diese Formen sind linguistisch erklärbar und regional verbreitet, normativ aber unterschiedlich bewertet. Für den Unterricht gilt: Die (bzw. eine) Standardvarietät aktiv lehren und beherrschen, regionale Varianten passiv einordnen können.
+    Die Diminutive zeigen, dass ein und dasselbe Suffix je nach Region ganz unterschiedliche kommunikative Leistungen erbringt – von Verkleinerung über Abschwächung und Verstärkung bis hin zu Höflichkeit. Bei den morphosyntaktischen Phänomenen verschiebt sich die Perspektive: Der kastilische *leísmo* ist historisch verankert und normativ toleriert; *(de)queísmo* und pluralisches *haber* sind in einigen Regionen sehr verbreitet, aber normativ markiert. Für den Unterricht gilt: Die panhispanische Norm aktiv lehren, regionale und normativ markierte Formen passiv einordnen können.
 
 
 ??? weiterlesen "Wer mehr wissen will …"
-    Für eine vertiefte linguistische Auseinandersetzung mit den hier behandelten Phänomenen bietet die *Nueva gramática de la lengua española* (RAE/ASALE 2009/2011; aktualisierte Ausgabe 2025) den zentralen Ausgangspunkt, da sie die Strukturen systematisch beschreibt und zugleich ihre Verteilung im gesamten spanischsprachigen Raum dokumentiert; die neue Ausgabe enthält zudem ausführlichere Bibliographien zu den einzelnen Themen. Für die Tempora sind insbesondere Arbeiten zur Variation aufschlussreich: Laca (2009) untersucht die Perfektformen im Spanischen in ihrer semantischen und diatopischen Differenzierung, während Schwenter/Torres Cacoullos (2008) die Variation und Grammatikalisierung des *pretérito perfecto compuesto* im Zusammenspiel mit anderen Vergangenheitsformen analysieren. Einen systematischen Überblick über Tempus und Aspekt im Spanischen bietet Schrott (2012).
+    Den zentralen Ausgangspunkt für eine vertiefte Auseinandersetzung mit den hier behandelten Phänomenen bietet die *Nueva gramática de la lengua española* (RAE/ASALE 2009/2011; aktualisierte Ausgabe 2025), die Strukturen systematisch beschreibt und ihre Verteilung im gesamten spanischsprachigen Raum dokumentiert; die neue Ausgabe enthält zudem ausführliche Bibliographien zu den einzelnen Themen.
 
-    Auch die übrigen Phänomene sind Gegenstand variationslinguistischer Forschung. Für die Objektpronomina (*leísmo*, *laísmo*, *loísmo*) bietet Fernández-Ordóñez (1999) eine grundlegende Übersicht über ihre diatopische Verteilung und systematische Einordnung; ergänzend analysiert Klein-Andreu (2000) ihre Variation und historische Entwicklung. Die Distribution von *queísmo* und *dequeísmo* wird u. a. in Gómez Torrego (1999) als Variationsphänomen im Bereich der Subordination beschrieben. Für das existenzielle *haber* stellt der Sammelband von de Benito Moreno/Octavio de Toledo (2016) eine aktuelle Referenz dar, die diachrone Entwicklung und gegenwärtige Variation zusammenführt; ergänzend untersuchen Gómez Devís/Gómez Molina (2020) die Kongruenzvariation in verschiedenen Varietäten gesprochener Sprache. Untersuchungen zu Diminutiven wie Eddington (2017) zeigen schließlich, dass auch diese Formen je nach Varietät unterschiedlich verteilt sind und produktiv variieren.
+    Für die Objektpronomina (*leísmo*, *laísmo*, *loísmo*) bietet Fernández-Ordóñez (1999) eine grundlegende Übersicht über diatopische Verteilung und systematische Einordnung; ergänzend analysiert Klein-Andreu (2000) Variation und historische Entwicklung. Die Distribution von *queísmo* und *dequeísmo* wird u.a. in Gómez Torrego (1999) als Variationsphänomen im Bereich der Subordination beschrieben. Für das existenzielle *haber* stellt der Sammelband von de Benito Moreno/Octavio de Toledo (2016) eine aktuelle Referenz dar; ergänzend untersuchen Gómez Devís/Gómez Molina (2020) die Kongruenzvariation in verschiedenen Varietäten gesprochener Sprache. Zu den Diminutiven zeigt Gerhalter (2026) auf der Grundlage umfangreicher Korpusdaten aus dem CORPES XXI die diatopische und diafásische Variation von -*ito*/*-ita*-Formen und weist insbesondere ihre höhere Frequenz und funktionale Ausdifferenzierung in der gesprochenen Sprache sowie in verschiedenen amerikanischen Varietäten nach.
 
-    Auch für die didaktische Perspektive liegen Arbeiten vor, die einzelne der hier behandelten Phänomene im ELE-Kontext aufgreifen. Auffällig ist jedoch, dass grammatische Variation meist nur indirekt erscheint – etwa in Lehrwerksanalysen oder bei der Diagnose typischer Lernschwierigkeiten. So zeigt Bustos Gisbert (2023), dass die diatopische Variation des *pretérito perfecto compuesto* in Lehrwerken oft nur unzureichend berücksichtigt wird. Für einzelne Phänomene wie *leísmo* oder das existenzielle *haber* wird Variation punktuell explizit thematisiert, etwa bei García Rodríguez (2004) oder Criado de Diego (2019). Insgesamt liefert die Literatur wichtige diagnostische und praktische Impulse, eine systematische didaktische Aufarbeitung grammatischer Variation im panhispanischen Sinne bleibt jedoch bislang die Ausnahme.
+    Auch für die didaktische Perspektive liegen Arbeiten vor, die einzelne der hier behandelten Phänomene im ELE-Kontext aufgreifen. Auffällig ist jedoch, dass grammatische Variation dabei meist nur punktuell berücksichtigt wird – etwa im Zusammenhang mit der Vermittlung einzelner Strukturen oder bei der Diagnose typischer Lernschwierigkeiten. So werden die Objektpronomina (*leísmo*, *laísmo*, *loísmo*) bei García Rodríguez (2004) im Hinblick auf ihre unterrichtliche Behandlung diskutiert, während Criado de Diego (2019) am Beispiel des existenziellen *haber* variable Zielstrukturen in Lernerdaten analysiert.
 
-    Auch Korpora mit authentischem Sprachmaterial bieten einen wichtigen Zugang zur hier behandelten Variation. Das Corpus CO.RA.PAN stellt standardnahe und standardsprachliche Varietäten des Spanischen mit Audio zur Verfügung und erlaubt so die Analyse grammatischer Phänomene im realen Gebrauchskontext. Ergänzend bietet das PRESEEA-Korpus umfangreiche Daten gesprochener Sprache aus verschiedenen hispanophonen Regionen und sozialen Gruppen, in denen sich u. a. Diminutive sowie weitere variable Strukturen untersuchen lassen. Beide Ressourcen ermöglichen es, Variation nicht nur zu beschreiben, sondern anhand authentischer Beispiele systematisch in Analyse und Unterricht einzubeziehen (vgl. Moreno Fernández 2005).
+    Auch Korpora mit authentischem Sprachmaterial bieten einen wichtigen Zugang zur hier behandelten Variation. Das [CO.RA.PAN](https://corapan.hispanistica.com)-Korpus (Tacke 2026) stellt standardnahe Varietäten aus dem gesamten hispanophonen Raum mit Audio zur Verfügung. Ergänzend bietet das [PRESEEA](http://preseea.uah.es)-Korpus Daten gesprochener Sprache aus verschiedenen Regionen und sozialen Gruppen. Für groß angelegte, panhispanische Analysen eignet sich zudem das [CORPES XXI](https://www.rae.es/corpes/) der RAE, das umfangreiche schriftliche und mündliche Daten zur Untersuchung grammatischer Variation bereitstellt.
 
 
 
@@ -452,56 +368,40 @@ Die in diesem Kapitel behandelten Phänomene zeigen ein gemeinsames Muster: Gram
 
 <div class="literatur-abkuerzungen" markdown="1">
 
-- NGLE *Nueva gramática de la lengua española*  
 - CO.RA.PAN *Corpus Radiofónico Panhispánico*
-- PRESEEA **
+- CORPES XXI *Corpus del Español del Siglo XXI*
+- NGLE *Nueva gramática de la lengua española*  
+- PRESEEA *Proyecto para el Estudio Sociolingüístico del Español de España y de América*
 
 </div>
 
 <div class="literatur" markdown="1">
 
-- de Benito Moreno, Carlota / Octavio de Toledo y Huerta, Álvaro S. (Hg.) (2016): *En torno a „haber“. Construcciones, usos y variación desde el latín hasta la actualidad.* Frankfurt a. M. / Madrid: Iberoamericana / Vervuert. DOI: [https://doi.org/10.3726/978-3-653-06099-7](https://doi.org/10.3726/978-3-653-06099-7)
-- Eddington, David (2017): „Dialectal variation in Spanish diminutives: A performance model“. In: *Studies in Hispanic and Lusophone Linguistics* 10(1), 39–66. DOI: [https://doi.org/10.1515/shll-2017-0002](https://doi.org/10.1515/shll-2017-0002)
+- Criado de Diego, Cecilia (2019): „Uso concordado del verbo ‚haber‘ existencial en la lengua escrita de aprendices de español como lengua extranjera“. In: *Revista Signos. Estudios de Lingüística* 52(101), 720–735. DOI: [https://doi.org/10.4067/S0718-09342019000300720](https://doi.org/10.4067/S0718-09342019000300720)
+- de Benito Moreno, Carlota / Octavio de Toledo y Huerta, Álvaro S. (Hg.) (2016): *En torno a ‚haber‘. Construcciones, usos y variación desde el latín hasta la actualidad.* Frankfurt a. M. / Madrid: Iberoamericana / Vervuert. DOI: [https://doi.org/10.3726/978-3-653-06099-7](https://doi.org/10.3726/978-3-653-06099-7)
 - Fernández-Ordóñez, Inés (1999): „Leísmo, laísmo y loísmo“. In: Bosque, Ignacio / Demonte, Violeta (Hg.): *Gramática descriptiva de la lengua española*. Bd. 1. Madrid: Espasa, 1317–1397.
+- García Rodríguez, Coral (2004): „El leísmo y el laísmo en la enseñanza-aprendizaje del E/LE“. In: Cusato, Domenico Antonio et al. (Hg.): *La memoria delle lingue: la didattica e lo studio delle lingue della Penisola Iberica in Italia. Atti del XXI Convegno (AISPI)*. Messina: Andrea Lippolis, 93–106.
+- Gerhalter, Katharina (2026): „Frecuencia y distribución geográfica del diminutivo *-ito*/*-ita* en la lengua oral y escrita del CORPES XXI“. In: *Círculo de Lingüística Aplicada a la Comunicación* 105, 161–186. DOI: [https://doi.org/10.5209/clac.92605](https://doi.org/10.5209/clac.92605)
 - Gómez Devís, M.ª Begoña / Gómez Molina, José Ramón (2020): „The agreement of existential *haber* in three varieties of spoken Spanish: A contrastive analysis“. In: *Spanish in Context* 17(2), 273–293. DOI: [https://doi.org/10.1075/sic.00059.gom](https://doi.org/10.1075/sic.00059.gom)
 - Gómez Torrego, Leonardo (1999): „La variación en las subordinadas sustantivas: dequeísmo y queísmo“. In: Bosque, Ignacio / Demonte, Violeta (Hg.): *Gramática descriptiva de la lengua española*. Bd. 2. Madrid: Espasa, 2105–2148.
 - Klein-Andreu, Flora (2000): *Variación actual y evolución histórica: los clíticos le/s, la/s, lo/s.* München: Lincom Europa.
-- Laca, Brenda (2009): „Acerca de los perfectos en las variedades ibero-americanas“. In: Sánchez-Miret, Fernando (Hg.): *Romanística sin complejos. Homenaje a Carmen Pensado*. Berlin: Peter Lang, 357–380.
+- PRESEEA (2014–): *Corpus del Proyecto para el estudio sociolingüístico del español de España y de América.* Alcalá de Henares: Universidad de Alcalá. Online: [http://preseea.uah.es](http://preseea.uah.es).
 
 - Real Academia Española / Asociación de Academias de la Lengua Española:  
   — (2009–2011): *Nueva gramática de la lengua española*. 3 Bde. Madrid: Espasa. Online: [https://www.rae.es/gramática/]  
   — (2025): *Nueva gramática de la lengua española*. Nueva edición actualizada, 4 Bde. Madrid: Espasa.
 
-- Schrott, Angela (2012): „Tempus und Aspekt“. In: Born, Joachim / Folger, Robert / Laferl, Christopher F. / Pöll, Bernhard (Hg.): *Handbuch Spanisch. Sprache, Literatur, Kultur, Geschichte in Spanien und Hispanoamerika.* Berlin: Erich Schmidt, 329–334.
-- Schwenter, Scott A. / Torres Cacoullos, Rena (2008): „Defaults and Indeterminacy in Temporal Grammaticalization: The ‘Perfect’ Road to Perfective“. In: *Language Variation and Change* 20(1), 1–39. DOI: [https://doi.org/10.1017/S0954394508000057](https://doi.org/10.1017/S0954394508000057)
-
-
----
----
----
-- Bustos Gisbert, José Manuel (2023): „El pretérito perfecto compuesto en los manuales de español de nivel B1: análisis crítico“. In: *ELUA: Estudios de Lingüística. Universidad de Alicante* 40, 11–32.  
-  DOI: [https://doi.org/10.14198/ELUA.24457](https://doi.org/10.14198/ELUA.24457)
-
-- Criado de Diego, Cecilia (2019): „Uso concordado del verbo ‘haber’ existencial en la lengua escrita de aprendices de español como lengua extranjera“. In: *Revista Signos. Estudios de Lingüística* 52(101), 720–735.  
-  DOI: [https://doi.org/10.4067/S0718-09342019000300720](https://doi.org/10.4067/S0718-09342019000300720)
-
-- García Rodríguez, Coral (2004): „El leísmo y el laísmo en la enseñanza-aprendizaje del E/LE“. In: Cusato, Domenico Antonio et al. (Hg.): *La memoria delle lingue: la didattica e lo studio delle lingue della Penisola Iberica in Italia. Atti del XXI Convegno (AISPI)*. Messina: Andrea Lippolis, 93–106.
-
-- Criado de Diego, Cecilia / Andión Herrero, María Antonieta (2016): „Variación y variedad de diminutivos y pronombres. Aspectos de interés para la enseñanza de español a lusohablantes“. In: *Calidoscópio* 14(1), 109–126.  
-  DOI: [https://doi.org/10.4013/cld.2016.141.09](https://doi.org/10.4013/cld.2016.141.09)
-
-- Moreno Fernández, Francisco (2005): Corpus para el estudio sociolingüístico del español de España y de América (PRESEEA). Alcalá de Henares: Universidad de Alcalá.
+- Real Academia Española (o.J.): *CORPES XXI. Corpus del Español del Siglo XXI (CORPES).* Madrid: Real Academia Española. Online: [https://www.rae.es/corpes/](https://www.rae.es/corpes/)
+- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
 
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Paul Becker, Lisa Bender, Ramón Delgado Moreno, Stanislav Minchev, Enrique Ritz Pequeño, Felix Tacke (2026): „Variation in Grammatik und Pragmatik“. In: Tacke, Felix (Hrsg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.  
+    Becker, Paul / Bender, Lisa / Ritz Pequeño, Enrique / Minchev, Stanislav / Tacke, Felix (2026): „Variation in Morphologie und Syntax“. In: Tacke, Felix (Hrsg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.  
+    Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
 
-[^rdm]: (Mit-)Autor: Ramón Delgado Moreno.
 [^pb]: (Mit-)Autor: Paul Becker.
 [^lb]: (Mit-)Autorin: Lisa Bender.
 [^erp]: (Mit-)Autor: Enrique Ritz Pequeño.
 [^sm]: (Mit-)Autor: Stanislav Minchev.
-
-[^tempuskarte]: Die Frequenzen basieren auf einer Auswertung von Belegen aus dem Korpus [CO.RA.PAN](https://corapan.hispanistica.com) (*Corpus de Radio del Español de Panamá y América*). Berücksichtigt wurden Vorkommen aus standardnaher freier Rede im Radio. Die Prozentwerte spiegeln daher eine spezifische kommunikative Situation wider und sind nicht als direkte Repräsentation des allgemeinen Sprachgebrauchs eines Landes zu verstehen. Die Einteilung der Gebrauchssysteme folgt den arealen Mustern, wie sie in der *Nueva gramática de la lengua española* (NGLE, 2025) beschrieben werden; die kartographische Darstellung mit farbigen Kreisen dient lediglich der groben Orientierung und stellt keine festen Sprachgrenzen dar.
