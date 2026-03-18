@@ -1,6 +1,6 @@
 // Asset source fixup: resolves data-zc-src attributes against the runtime base path.
 // Handles <source class="zc-audio-src"> (audio) and <img class="zc-img-src"> (images).
-// Works on GitHub Project Pages (/school/) and custom domains (/).
+// Works on GitHub Project Pages (/<repo>/) and custom domains (/).
 (function () {
   function fixAssetSources() {
     const base = window.ZENSICAL_BASE_PATH || "/";

@@ -55,6 +55,7 @@
   line-height: 1.35;
   color: var(--book-fg);
   opacity: 0.78;             /* minimal stärker */
+  max-width: 45ch;
 }
 
 /* ── Details (Peer Review, Letzte Änderung) ───────────────── */
@@ -84,7 +85,7 @@
 .md-typeset .doc-chapter-meta__peer {
   min-width: 0;        /* wichtig für Grid-Wrap */
   white-space: normal;
-  max-width: 45ch;
+  max-width: 42ch;
 }
 
 /* Letzte Änderung: kein Zeilenumbruch, auf Desktop rechtsbündig */

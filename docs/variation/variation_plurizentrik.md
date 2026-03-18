@@ -1,14 +1,15 @@
 ---
 authors:
-  - "Felix Tacke"
+  - "Laura Hesral Sánchez"
   - "Riccarda Falcone"
+  - "Felix Tacke"
 created: "11.11.2025"
-last_modified: "09.03.2026"
+last_modified: "18.03.2026"
 ---
 
 # 5.1 Variation & Plurizentrik
 
-## „El español tiene muchas voces“ – Welches Spanisch lehre ich eigentlich?
+## „El español tiene muchas voces“ – Welches Spanisch lehre ich eigentlich?[^lhs]
 
 Wer Spanisch unterrichtet, steht früher oder später vor einer grundlegenden Frage: Gibt es ‚das Spanische‘ überhaupt – und wenn nicht, welches lehre ich?
 
@@ -40,7 +41,7 @@ Für den Unterricht ist ein reflektierter Umgang mit dieser plurizentrischen Kon
 
 Dieses Überblickskapitel führt die dazu nötigen Grundbegriffe ein. Die folgenden Kapitel vertiefen dann konkrete Variationsphänomene: [Variation in der Aussprache](./variation_aussprache.md) erläutert anhand von Hörbeispielen aus authentischen Sprachsituationen die wichtigsten lautlichen Unterschiede – vom *seseo* über die Aspiration des `/s/` bis zur Aussprache von `<ll>` und `<y>`. [Variation in der Anrede](./variation_anrede.md) behandelt die regional sehr unterschiedlich organisierten Anredesysteme rund um *tú*, *vos* und *usted* in der Singularanrede sowie *ustedes* und *vosotros* in der Pluralanrede. Das Kapitel [Variation im Gebrauch der Tempora](./variation_tempora.md) zeigt, wie sich der Gebrauch von *perfecto compuesto* und *indefinido* großräumig zwischen europäischem und hispanoamerikanischem Spanisch unterscheidet. [Variation in Morphologie und Syntax](./variation_morphosyntax.md) gibt schließlich einen Überblick über weitere grammatikalische Unterschiede: von der geographischen Verteilung der Diminutivsuffixe *-ito*, *-ico* und *-illo* über den *leísmo* als regionalspezifisch kastilisches Phänomen bis zum *(de)queísmo* und der Pluralisierung von *haber*.
 
-## Variation: Wie Sprachen variieren – und warum das wichtig ist
+## Variation: Wie Sprachen variieren – und warum das wichtig ist[^rf]
 
 Sprachen sind nie einheitlich. Sie bestehen aus einer Vielzahl von Ausdrucksformen, die je nach Ort, sozialem Umfeld und Situation unterschiedlich gebraucht werden. Diese Vielfalt bezeichnet man als Variation. Sie ist kein Zeichen von Unordnung, sondern ein Grundmerkmal lebendiger Kommunikation.
 
@@ -63,7 +64,7 @@ Diese Ebenen greifen ineinander. Eine Form kann zugleich regional, sozial und st
 !!! praxis "Variation im Unterricht"
     Im Unterricht lässt sich sprachliche Variation aufgreifen, wann immer sich Gelegenheiten ergeben – beim Arbeiten mit Hörtexten aus unterschiedlichen Regionen, beim Vergleich von Wortschatz oder bei der Reflexion über Anredeformen. Entscheidend ist dabei nicht die erschöpfende Behandlung aller Varianten, sondern eine klare Haltung: Unterschiede zwischen Varietäten werden sichtbar gemacht und eingeordnet, aber nicht bewertet.
 
-## Was ist eine Standardsprache – und wozu brauchen wir sie im Unterricht?
+## Was ist eine Standardsprache – und wozu brauchen wir sie im Unterricht?[^rf]
 
 Eine Standardsprache ist die gesellschaftlich – oft auch nur implizit – vereinbarte Norm einer Sprache. Sie legt fest, welche Ausdrucksformen in der formellen Kommunikation als vorbildlich und in der Schriftsprache als verbindlich gelten. Sie ist das Ergebnis von impliziten oder expliziten Auswahlprozessen, bei denen zwischen alternativen Ausdrucksvarianten entschieden wird. Linguistisch betrachtet handelt es sich bei einer Standardsprache aber nicht per se um eine ‚bessere‘ Sprache, sondern um eine Varietät, die den Sprecher:innen als Orientierung und Referenz dienen soll.
 
@@ -77,7 +78,7 @@ Das in Spanien dominierende Standardspanische war lange Zeit alleinige Referenz.
 
 Auch andere Sprachen sind plurizentrisch, etwa Englisch (Großbritannien, USA, Australien, etc.) oder Portugiesisch (Portugal, Brasilien, Angola). Das Spanische zeigt dabei eine besonders ausgeprägte Plurizentrik, da es in über zwanzig Ländern eine offizielle und normgebende Rolle spielt. Ein ähnliches Modell findet sich auch im Deutschen (Deutschland, Österreich, Schweiz), wenngleich in der Germanistik meist der Begriff *pluriareal* präferiert wird.
 
-### Das Schulbuchspanisch – eine Perspektive im Wandel
+### Das Schulbuchspanisch – eine Perspektive im Wandel[^lhs]
 
 In vielen Bildungszusammenhängen gilt bis heute die in Spanien gebräuchliche Standardvarietät als ‚besonders korrekt‘ – ein Erbe historischer und gesellschaftlicher Wertungen, nicht linguistischer Argumente.
 
@@ -85,7 +86,7 @@ Mit der zunehmenden Anerkennung des plurizentrischen Charakters des Spanischen v
 
 Für den Unterricht bedeutet das einen Perspektivwechsel: Eine plurizentrische Sichtweise ersetzt das alte Modell des ‚richtigen Spanisch‘ durch ein bewusstes Verständnis sprachlicher Vielfalt. Lehrkräfte können Lernenden zeigen, dass Variation zur Normalität gehört – und dass jede Standardvarietät ihre eigene Legitimität besitzt.
 
-### Standardvarietäten im Vergleich – Zentren und Asymmetrien
+### Standardvarietäten im Vergleich – Zentren und Asymmetrien[^lhs]
 
 Nicht alle nationalen Standardvarietäten des Spanischen genießen dasselbe internationale Prestige oder dieselbe Sichtbarkeit. Das in Spanien kodifizierte Standardspanische besitzt aufgrund seiner langen literarischen und kulturellen Tradition eine besonders hohe institutionelle Sichtbarkeit. Die in Hispanoamerika entstandenen Standardvarietäten sind dagegen das Ergebnis jüngerer historischer Prozesse und sind – je nach Größe und kulturellem Einfluss des Landes – unterschiedlich sichtbar und wiedererkennbar. Hervorzuheben sind dabei zwei häufig genannte Zentren: Mexiko und Argentinien.
 
@@ -100,9 +101,21 @@ Das Gesamtbild zeigt eine deutliche Asymmetrie unter den hispanophonen Zentren: 
 
     Das Ziel der heutigen Kodifizierungsarbeit besteht darin, die spanische Sprache in ihrer gesamten geographischen Breite zu beschreiben, zu dokumentieren und fortlaufend zu aktualisieren, ohne dabei Varietäten zu hierarchisieren. Diese Haltung prägt die gemeinsamen Referenzwerke: die *Nueva gramática de la lengua española* (2009, aktualisierte Ausgabe 2025), das *Diccionario panhispánico de dudas* (2005, 2. Ausgabe 2025) und das *Diccionario de americanismos* (RAE/ASALE 2010). Die fortlaufende Zusammenarbeit aller Akademien zeigt, dass Normpflege heute als dynamischer, kooperativer und inklusiver Prozess verstanden wird: Grundlage ist nicht zentrale Steuerung, sondern die gemeinsame Verantwortung für eine vielfältige, aber geeinte Sprache.
 
-## Vielfalt im Unterricht – was Plurizentrik praktisch bedeutet
+Dass die Linguistik (und die heutigen Sprachakademien) Varietäten als strukturell gleichwertig beschreibt, bedeutet nicht, dass Sprecher:innen sie auch so wahrnehmen. Im Gegenteil: Sprachliche Einstellungen bzw. Bewertungen – sogenannte *actitudes lingüísticas* – gehören zu den wirkungsmächtigsten Faktoren dafür, welche Varietäten als ‚korrekt‘ oder ‚schön‘ gelten und welche stigmatisiert werden. Wer an deutschen Schulen Spanisch unterrichtet, kennt dieses Phänomen aus der eigenen Sprachgemeinschaft: Sächsisch und Bairisch lösen im Deutschen sehr unterschiedliche Reaktionen aus, obwohl beide linguistisch gesehen vollwertige Varietäten sind. Im Spanischen sind diese Bewertungsmuster nicht weniger wirksam – und für eine plurizentrisch informierte Unterrichtspraxis ist es wichtig, sie zu kennen und einordnen zu können.
 
-Ein plurizentrischer Unterricht bedeutet nicht, alle Varietäten gleichzeitig zu lehren, sondern sprachliche Vielfalt bewusst zu thematisieren.
+??? expand "Was halten die *hispanohablantes* für das ‚beste‘ Spanisch?"
+    Spracheinstellungen sind keine individuellen Geschmacksfragen, sondern diskursiv vermittelte Bewertungsmuster, die in Bildungsinstitutionen, Medien und Alltagskommunikation weitergegeben werden. Die perzeptive Varietätenlinguistik und die *attitude*-Forschung untersuchen, wie Sprecher:innen sprachliche Varietäten wahrnehmen, kategorisieren und bewerten – und wie diese Bewertungen soziales Handeln beeinflussen (Caravedo 2014).
+
+    Eine großangelegte Studie zu Spracheinstellungen in allen zwanzig hispanophonen Ländern (Chiquito/Quesada Pacheco 2014) fördert dabei aufschlussreiche Widersprüche zutage: Befragt nach dem Land, in dem am ‚korrektesten‘ Spanisch gesprochen werde, nannten Befragte aus fast allen Ländern Spanien oder Kolumbien – auch dann, wenn sie zuvor die eigene Varietät als besonders schön oder ausdrucksstark bewertet hatten. Die eigene Sprechweise wird also oft als identitätsstiftend geschätzt, aber gleichzeitig an einer externen, als prestigeträchtig empfundenen Norm gemessen.
+
+    Besonders deutlich zeigen sich sprachideologische Muster in den Vorstellungen davon, was ‚gutes Sprechen‘ ausmache. Befragte in Ecuador etwa nannten Kriterien wie „hablar como se escribe“, „no tener acento“ oder „no usar términos de lenguas indígenas“. Solche Aussagen sind linguistisch nicht haltbar – kein Mensch spricht akzentfrei, und Kontaktphänomene sind Teil jeder lebendigen Sprache –, aber sie offenbaren, wie eng Sprachbewertung mit sozialer Hierarchie, schulischen Traditionen und althergebrachten Stereotypen verflochten ist.
+
+    Der Fachbegriff *glotofobia* bezeichnet die Diskriminierung von Menschen aufgrund ihrer Sprechweise. Für den Spanischunterricht ist das Thema in doppelter Hinsicht relevant: Zum einen sollten Lehrkräfte vermeiden, bestimmte Varietäten implizit als minderwertig zu behandeln. Zum anderen bietet die Reflexion über Spracheinstellungen – auch über die eigenen – einen produktiven Unterrichtsgegenstand, der metalinguistische Kompetenz fördert und sich gut an Erfahrungen mit Dialektbewertung im Deutschen anknüpfen lässt.
+
+
+## Vielfalt im Unterricht – was Plurizentrik praktisch bedeutet[^lhs]
+
+Vor diesem Hintergrund stellt sich die Frage, was ein varietätenbewusster Umgang für die Unterrichtspraxis konkret bedeutet. Ein plurizentrischer Unterricht bedeutet nicht, alle Varietäten gleichzeitig zu lehren, sondern sprachliche Vielfalt bewusst zu thematisieren.
 
 Ein Unterricht, der die plurizentrische Struktur des Spanischen ernst nimmt, braucht keine neue Grammatik, sondern bewusste Normtransparenz. Lehrkräfte wählen eine Arbeitsnorm, benennen sie offen und machen deutlich, dass andere nationale Standardvarietäten ebenso gültig sind – so entsteht Orientierung ohne Hierarchie. Da jede Lehrkraft sprachliche Entscheidungen trifft, oft unbewusst, lohnt eine kurze Reflexion: Welche Varietät prägt mein Sprachbild – und wie bewusst ist diese Wahl im Unterricht?
 
@@ -130,12 +143,13 @@ Ein Unterricht, der die plurizentrische Struktur des Spanischen ernst nimmt, bra
     > — Renata Freyre Castro
 
 
-Plurizentrische Ansätze lassen sich auf verschiedenen Ebenen des Unterrichts umsetzen. Entscheidend ist, dass Lernende die Vielfalt wahrnehmen, einordnen und wertschätzen können – nicht, dass sie alle Varianten aktiv beherrschen. Ziel ist vielmehr eine *rezeptive Varietätenkompetenz*: die Fähigkeit, verschiedene Varietäten zu verstehen und einzuordnen, ohne sie selbst übernehmen zu müssen. Beispiele bieten sich etwa in Hörtexten aus unterschiedlichen Regionen, beim Vergleich landesspezifischer Wortschätze oder in Gesprächssituationen, in denen Varietäten bewusst aufeinandertreffen. Auch kurze Reflexionsphasen zur Frage, was als ‚richtiges Spanisch‘ gilt, fördern Sprachbewusstheit und Offenheit. Anschauliches Material findet sich dazu in den folgenden Kapiteln.
+Plurizentrische Ansätze lassen sich auf verschiedenen Ebenen des Unterrichts umsetzen. Entscheidend ist, dass Lernende die Vielfalt wahrnehmen, einordnen und wertschätzen können – nicht, dass sie alle Varianten aktiv beherrschen. Ziel ist vielmehr eine *rezeptive Varietätenkompetenz*: die Fähigkeit, verschiedene Varietäten zu verstehen und einzuordnen, ohne sie selbst übernehmen zu müssen. Konkret lässt sich das auf verschiedenen Wegen umsetzen: durch den Einsatz von Hörtexten aus unterschiedlichen Ländern, die Lernende anhand einfacher Raster vergleichen – etwa zur Frage, ob ein auslautendes *-s* hörbar ist oder wie `<ll>` und `<y>` realisiert werden (vgl. Kapitel [Variation in der Aussprache](./variation_aussprache.md)); durch die Gegenüberstellung regionaler Anredesysteme, z.B. anhand der Frage, ob in einem Hörtext *tú*, *vos* oder *usted* verwendet wird (vgl. Kapitel [Variation in der Anrede](./variation_anrede.md)); oder durch die Beobachtung morphosyntaktischer Unterschiede wie des *leísmo* oder regionaler Diminutivformen in authentischem Material (vgl. Kapitel [Variation in der Morphosyntax](./variation_morphosyntax.md)). Auch kurze Reflexionsphasen zur Frage, was als ‚richtiges Spanisch‘ gilt und woran sich diese Einschätzung festmacht, fördern Sprachbewusstheit, ohne Überforderung auszulösen. Kurze Steckbriefe zu Varietäten, die Lernende selbst recherchieren und erstellen, können diesen Zugang ergänzen.
 
 In einem plurizentrischen Unterricht zählt nicht, welche Variante verwendet wird, sondern ob sie konsequent und situationsgerecht eingesetzt wird; Varietätenunterschiede gelten daher nicht als Fehler, sondern als Ausdruck sprachlicher Vielfalt und sollten als solche niemals korrigiert, sondern – wenn möglich – bewusst thematisiert werden (vgl. Kapitel [Fehlerlinguistik](../fehlerlinguistik.md#nicht-jede-abweichung-ist-ein-fehler)).
 
 !!! summary "Zusammenfassung"
-    Spanisch ist eine plurizentrische Sprache mit mehreren gleichwertigen Standardvarietäten. Diese Vielfalt ist kein Problem, sondern die Grundlage für sprachliche Realität und Unterrichtspraxis. Standardvarietäten dienen im Unterricht als Orientierung, ohne dass man andere Varietäten als ‚weniger korrekt‘ darstellen sollte. Entscheidend ist, bewusst mit dem Thema umzugehen, für sich eine eigene ‚Arbeitsnorm‘ festzulegen, sie offenzulegen und andere Varianten mitzudenken. Ziel ist eine *rezeptive Varietäten&shy;kompetenz*: Lernende sollen Unterschiede verstehen und einordnen können, ohne jede Variante aktiv zu beherrschen. Varietätenunterschiede sind keine Fehler, sondern Ausdruck sprachlicher Vielfalt; Bewertung orientiert sich daher an Kohärenz und Kontextangemessenheit, nicht an einer vermeintlich ‚richtigen Norm‘.
+    Spanisch ist eine plurizentrische Sprache mit mehreren gleichwertigen Standardvarietäten. Diese Vielfalt ist kein Problem, sondern die Grundlage für sprachliche Realität und Unterrichtspraxis. Standardvarietäten dienen im Unterricht als Orientierung, ohne dass man andere Varietäten als ‚weniger korrekt‘ darstellen sollte. Dabei ist zu bedenken, dass Sprecher:innen Varietäten nicht neutral wahrnehmen: Spracheinstellungen – *actitudes lingüísticas* – sind wirkmächtige, diskursiv vermittelte Bewertungsmuster, die auch den Unterricht prägen und reflektiert werden sollten. Entscheidend ist, bewusst mit dem Thema umzugehen, für sich eine eigene ‚Arbeitsnorm‘ festzulegen, sie offenzulegen und andere Varianten mitzudenken. Ziel ist eine *rezeptive Varietäten&shy;kompetenz*: Lernende sollen Unterschiede verstehen und einordnen können, ohne jede Variante aktiv zu beherrschen. Varietätenunterschiede sind keine Fehler, sondern Ausdruck sprachlicher Vielfalt; Bewertung orientiert sich daher an Kohärenz und Kontextangemessenheit, nicht an einer vermeintlich ‚richtigen Norm‘.
+
 
 ??? weiterlesen "Wer mehr wissen will"
     Wer mehr über die Herkunft des Begriffs Plurizentrik erfahren möchte, findet zentrale Bezugspunkte bei Stewart (1968 [1962]); vertiefende Systematisierungen bieten Arbeiten zu *Standard Englishes* (Joseph 1987; Trudgill & Hannah 2017 [1982]). Als Klassiker gilt der internationale Band von Clyne (1992).
@@ -144,17 +158,22 @@ In einem plurizentrischen Unterricht zählt nicht, welche Variante verwendet wir
 
     Aktuelle Nachschlagewerke wie die *Nueva gramática de la lengua española* (RAE/ASALE 2009; aktualisierte Ausgabe 2025), das *Diccionario panhispánico de dudas* (2005 / 2025) und das *Diccionario de americanismos* (RAE/ASALE 2010) spiegeln diesen Wandel. Sie dokumentieren Variation und repräsentieren die von der RAE und der ASALE gemeinsam entwickelte *política lingüística panhispánica* – ein modernes Modell der kooperativen Normpflege unter dem Leitprinzip *unidad en la diversidad* (vgl. u.a. Tacke 2011).
 
+    Wer sich mit den Spracheinstellungen von Hispanophonen gegenüber den eigenen und fremden Varietäten auseinandersetzen möchte, findet in Chiquito / Quesada Pacheco (2014) empirische Daten aus allen zwanzig hispanophonen Ländern. Einen theoretischen Rahmen für die Frage, wie Sprecher:innen Varietäten wahrnehmen und bewerten, bietet die perzeptive Varietätenlinguistik, grundlegend dazu Caravedo (2014).
+
     In der Fremdsprachendidaktik gewinnt seit einigen Jahren die Idee einer *rezeptiven Varietätenkompetenz* (nach Reimann 2010ff.) an Bedeutung. Sie bezeichnet die Fähigkeit, verschiedene nationale und regionale Standardvarietäten zu verstehen und kontextuell einzuordnen, ohne sie aktiv erlernen oder verwenden zu müssen. Praxisorientierte Beiträge bieten Moreno Fernández (2010, 2015, 2017) sowie die Bände *Varietäten im Fremdsprachenunterricht* (Leitzke-Ungerer & Polzin-Haumann 2017) und *La diversidad del español y su enseñanza* (Hernández Muñoz et al. 2021).
 
-    Wer schließlich authentische Vergleichsdaten und Hörbeispiele zu nationalen Standardvarietäten sucht, findet sie in den folgenden Kapiteln. Darüber hinaus bietet das [CO.RA.PAN](https://corapan.hispanistica.com)-Korpus (Tacke 2026) Zugang zu Beispielen gesprochener Sprache aus sämtlichen hispanophonen Ländern.
+    Auch Korpora mit authentischem Sprachmaterial bieten einen wichtigen Zugang zur hier behandelten Variation. Das [CO.RA.PAN](https://corapan.hispanistica.com)-Korpus (Tacke 2026) stellt standardnahe Varietäten aus dem gesamten hispanophonen Raum mit Audio zur Verfügung und eignet sich besonders für vergleichende Hörübungen im Unterricht. Ergänzend bietet das [PRESEEA](http://preseea.uah.es)-Korpus Daten gesprochener Sprache aus verschiedenen Regionen und sozialen Gruppen. Für groß angelegte, panhispanische Analysen eignet sich zudem das [CORPES XXI](https://www.rae.es/corpes/) der RAE, das umfangreiche schriftliche und mündliche Daten zur Untersuchung (auch seltener) grammatischer und lexikalischer Variation bereitstellt.
+
 
 ## Literatur
 
 <div class="literatur-abkuerzungen" markdown="1">
 
-- DPD *Diccionario panhispánico de dudas*  
-- NGLE *Nueva gramática de la lengua española*  
 - CO.RA.PAN *Corpus Radiofónico Panhispánico*
+- DPD *Diccionario panhispánico de dudas*  
+- CORPES XXI *Corpus del Español del Siglo XXI*
+- NGLE *Nueva gramática de la lengua española*  
+- PRESEEA *Proyecto para el Estudio Sociolingüístico del Español de España y de América*
 
 </div>
 
@@ -163,6 +182,8 @@ In einem plurizentrischen Unterricht zählt nicht, welche Variante verwendet wir
 - Amorós-Negre, Carla (2012): „El pluricentrismo de la lengua española ¿un nuevo ideologema en el discurso institucional? El desafío de la glosodidáctica“, *Revista internacional de lingüística iberoamericana* 19, 127–147.
 - Amorós-Negre, Carla (2014): *Las lenguas en la sociedad.* Madrid: Síntesis.
 - Bierbach, Mechtild (2000): „Spanisch – eine plurizentrische Sprache? Zum Problem von *norma culta* und Varietät in der hispanophonen Welt“, *Vox Romanica* 59, 143–170.
+- Caravedo, Rocío (2014): *Percepción y variación lingüística. Enfoque sociocognitivo*. Madrid/Frankfurt: Iberoamericana/Vervuert.
+- Chiquito, Ana Beatriz & Quesada Pacheco, Miguel Ángel (Hrsg.) (2014): *Actitudes lingüísticas de los hispanohablantes hacia el idioma español y sus variantes*. Bergen: Bergen Language and Linguistics Studies (BeLLS), 5. [https://bells.uib.no/index.php/bells/issue/view/161](https://bells.uib.no/index.php/bells/issue/view/161)
 - Clyne, Michael (Hg.) (1992): *Pluricentric Languages: Different Norms in Different Countries.* Berlin/New York: De Gruyter Mouton.
 - Greußlich, Sebastian / Lebsanft, Franz (Hg.) (2020): *El español, lengua pluricéntrica. Discurso, gramática, léxico y medios de comunicación masiva.* Göttingen: Vandenhoeck & Ruprecht / Bonn University Press. DOI: [https://doi.org/10.14220/9783737009997](https://doi.org/10.14220/9783737009997)
 - Greußlich, Sebastian (2022): „The Pluricentricity of Spanish in the Americas – Current Perspectives on Variety Dominance, Standardization, and the Media“. In: Muhr, Rudolf et al. (Hg.): *Pluricentric Languages in the Americas.* Graz/Berlin: PCL-Press, 47–74.
@@ -180,6 +201,7 @@ In einem plurizentrischen Unterricht zählt nicht, welche Variante verwendet wir
 - Oesterreicher, Wulf (2000): „Plurizentrische Sprachkultur – der Varietätenraum des Spanischen“, *Romanistisches Jahrbuch* 51, 287–318.
 - Pöll, Bernhard (2021): „Spanish Today. Pluricentricity and Codification“. In: Perez, Danae et al. (Hg.): *English and Spanish. World Languages in Interaction.* Cambridge: Cambridge University Press, 163–183.
 - Polzin-Haumann, Claudia (2005): „Zwischen *unidad* und *diversidad*. Sprachliche Variation und sprachliche Identität im hispanophonen Raum", *Romanistisches Jahrbuch* 56, 271–295.
+- PRESEEA (2014–): *Corpus del Proyecto para el estudio sociolingüístico del español de España y de América.* Alcalá de Henares: Universidad de Alcalá. Online: [http://preseea.uah.es](http://preseea.uah.es).
 - Prifti, Elton (2021): „Hacia el pluricentrismo: moldeamientos modernos del español en América“. In: Eckkrammer, Eva Martha (Hg.): *Manual del español en América.* Berlin/Boston: De Gruyter, 183–206. DOI: [https://doi.org/10.1515/9783110334845-012](https://doi.org/10.1515/9783110334845-012)
 
 - Real Academia Española / Asociación de Academias de la Lengua Española:  
@@ -189,6 +211,7 @@ In einem plurizentrischen Unterricht zählt nicht, welche Variante verwendet wir
   — (2025): *Diccionario panhispánico de dudas*. 2.ª ed. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/)  
   — (2025): *Nueva gramática de la lengua española*. Nueva edición actualizada, 4 Bde. Madrid: Espasa.
 
+- Real Academia Española (o.J.): *CORPES XXI. Corpus del Español del Siglo XXI (CORPES).* Madrid: Real Academia Española. Online: [https://www.rae.es/corpes/](https://www.rae.es/corpes/)
 - Reimann, Daniel (2017): „Rezeptive Varietätenkompetenz im Spanischen“. In: Leitzke-Ungerer, Eva / Polzin-Haumann, Claudia (Hg.): *Varietäten des Spanischen im Fremdsprachenunterricht.* Stuttgart: ibidem, 69–95.
 - Stewart, William (1968 [1962]): „A Sociolinguistic Typology for Describing National Multilingualism“. In: Fishman, Joshua A. (Hg.): *Readings in the Sociology of Language.* Den Haag: Mouton, 530–545.
 - Tacke, Felix (2011): „Plurizentrik und normativer Diskurs in der *Nueva gramática de la lengua española*“, *Romanische Forschungen* 123, 145–166.
@@ -198,9 +221,13 @@ In einem plurizentrischen Unterricht zählt nicht, welche Variante verwendet wir
 - Thompson, Robert W. (1992): „Spanish as a Pluricentric Language“, in: Clyne, Michael (Hg.): *Pluricentric Languages.* Berlin/New York: De Gruyter Mouton, 45–70.
 
 
+
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Tacke, Felix / Falcone, Riccarda (2026): „Variation & Plurizentrik“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
+    Hesral Sánchez, Laura / Falcone, Riccarda / Tacke, Felix (2026): „Variation & Plurizentrik“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
+
+[^lhs]: (Mit-)Autorin: Laura Hesral Sánchez.
+[^rf]: (Mit-)Autorin: Riccarda Falcone.

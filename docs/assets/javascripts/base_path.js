@@ -9,7 +9,7 @@
   let basePath = "/";
 
   if (host.endsWith("github.io")) {
-    // e.g. /school/variation/...  -> first segment is "school"
+    // e.g. /linguistik.hispanistica/variation/... -> first segment is the repo name
     const seg = path.split("/").filter(Boolean)[0];
     if (seg) basePath = "/" + seg + "/";
   }
