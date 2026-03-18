@@ -187,7 +187,7 @@ Grammatik entsteht im Gebrauch:
 
 Diesen Übergang von lexikalisch Elementen mit konkreter Bedeutung zu grammatischen Elementen mit abstrakterer Bedeutung nennt man ‚Grammatikalisierung‘.
 
-In der Betrachtung der romanischen Sprachen wird oft betont, was ‚fehlt‘ im Vergleich zum lateinischen Ursprung. Berühmt ist das Kasussystem, das es nicht mehr gibt. Noch spannender ist dagegen, was in den romanischen Sprachen alles neu entstanden ist. In diesem Abschnitt geht es um drei solcher Innovationen am Spanischen: ein Vergangenheitstempus (*he cantado*), das in Konkurrenz zum alten Perfekt (*canté*) steht; gleich zwei neue – ebenfalls konkurrierende – Futurtempora (*voy a cantar* vs. *cantaré*) (vgl. Kapitel [Variation in der Grammatik](./variation/variation_grammatik.md#tempusvariation)) und schließlich Adverbien auf *-mente*, deren Entstehung erklärt, warum es immer mit der femininen Adjektivform gebildet wird.
+In der Betrachtung der romanischen Sprachen wird oft betont, was ‚fehlt‘ im Vergleich zum lateinischen Ursprung. Berühmt ist das Kasussystem, das es nicht mehr gibt. Noch spannender ist dagegen, was in den romanischen Sprachen alles neu entstanden ist. In diesem Abschnitt geht es um drei solcher Innovationen am Spanischen: ein Vergangenheitstempus (*he cantado*), das in Konkurrenz zum alten Perfekt (*canté*) steht; gleich zwei neue – ebenfalls konkurrierende – Futurtempora (*voy a cantar* vs. *cantaré*) (vgl. Kapitel [Variation im Gebrauch der Tempora](./variation/variation_tempora.md)) und schließlich Adverbien auf *-mente*, deren Entstehung erklärt, warum es immer mit der femininen Adjektivform gebildet wird.
 
 #### Warum gibt es zwei konkurrierende Vergangenheitsformen – und woher stammt das Perfekt?
 
