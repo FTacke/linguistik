@@ -201,6 +201,6 @@ In einem plurizentrischen Unterricht zählt nicht, welche Variante verwendet wir
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Tacke, Felix / Falcone, Riccarda (2026): „Variation & Plurizentrik“. In: Tacke, Felix (Hrsg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.  
+    Tacke, Felix / Falcone, Riccarda (2026): „Variation & Plurizentrik“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)

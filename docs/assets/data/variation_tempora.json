@@ -37,15 +37,15 @@
     "Hinweis": "Didaktische Regionalzuordnung ohne direkten lokalen Messwert."
   },
   {
-    "Code": "ES-CAN",
-    "Ort": "La Laguna",
-    "Land": "Kanarische Inseln",
-    "Koordinaten": [28.4874, -16.3141],
-    "Perfecto compuesto": "59.27 %",
-    "Perfecto simple": "40.73 %",
-    "Regionales System": "Dominanz des perfecto simple",
-    "Systemschluessel": "simple_dominant",
-    "Verwendung der Tempora": "Didaktisch der simple-dominierten Zone zugeordnet; der lokale Messpunkt ersetzt diese grobe Regionalzuordnung nicht."
+  "Code": "ES-CAN",
+  "Ort": "La Laguna",
+  "Land": "Kanarische Inseln",
+  "Koordinaten": [28.4874, -16.3141],
+  "Perfecto compuesto": "59.27 %",
+  "Perfecto simple": "40.73 %",
+  "Regionales System": "Übergangszone",
+  "Systemschluessel": "transition",
+  "Verwendung der Tempora": "Übergangszone; im Messpunkt zeigt sich eine ausgeglichene Verwendung von perfecto compuesto und simple."
   },
   {
     "Code": "MEX",
@@ -233,9 +233,9 @@
     "Koordinaten": [-25.2637, -57.5759],
     "Perfecto compuesto": "3.79 %",
     "Perfecto simple": "96.21 %",
-    "Regionales System": "Expansion des perfecto compuesto",
-    "Systemschluessel": "compound_expansion",
-    "Verwendung der Tempora": "Didaktisch an den Expansionsbereich des compuesto angeschlossen; der lokale Messpunkt aus freier Rede ist davon getrennt zu lesen."
+    "Regionales System": "Übergangszone",
+    "Systemschluessel": "transition",
+    "Verwendung der Tempora": "Übergangszone zwischen PPC-Expansion und PPS-Dominanz; der lokale Messpunkt zeigt in standardnaher Rede eine klare Dominanz des perfecto simple."
   },
   {
     "Code": "ARG",
@@ -249,15 +249,15 @@
     "Verwendung der Tempora": "Neutralisierung zugunsten des simple: Das simple deckt in der lokalen Radiosprache fast alle Vergangenheitskontexte ab."
   },
   {
-    "Code": "ARG-CBA",
-    "Ort": "Cordoba",
-    "Land": "Argentinien",
-    "Koordinaten": [-31.4201, -64.1888],
-    "Perfecto compuesto": "13.33 %",
-    "Perfecto simple": "86.67 %",
-    "Regionales System": "Dominanz des perfecto simple",
-    "Systemschluessel": "simple_dominant",
-    "Verwendung der Tempora": "Uebergangszone: Der Messpunkt steht zwischen simple-dominierter argentinischer Standardsituation und nordwestlicher compuesto-Expansion."
+  "Code": "ARG-CBA",
+  "Ort": "Cordoba",
+  "Land": "Argentinien",
+  "Koordinaten": [-31.4201, -64.1888],
+  "Perfecto compuesto": "13.33 %",
+  "Perfecto simple": "86.67 %",
+  "Regionales System": "Übergangszone",
+  "Systemschluessel": "transition",
+  "Verwendung der Tempora": "Übergangszone zwischen PPS-Dominanz und nordwestlicher PPC-Expansion."
   },
   {
     "Code": "ARG-SDE",

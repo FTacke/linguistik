@@ -246,6 +246,6 @@ Das Muster findet sich ebenfalls in den übrigen romanischen Sprachen: fr. clair
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Lea-Marie Domin, Selin Sevgi, Felix Tacke (2026): „Sprachwandel“. In: Tacke, Felix (Hrsg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.  
+    Lea-Marie Domin, Selin Sevgi, Felix Tacke (2026): „Sprachwandel“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)

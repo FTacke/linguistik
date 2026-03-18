@@ -18,7 +18,7 @@ Wenn Sie das Material remixen, verändern oder darauf aufbauen, müssen Ihre Bei
 
 ## Empfohlene Zitierweise
 
-Tacke, Felix (Hrsg.) (2026):  
+Tacke, Felix (Hg.) (2026):  
 *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte.*  
 Marburg: Philipps-Universität Marburg.  
 Online: https://linguistik.hispanistica.com  

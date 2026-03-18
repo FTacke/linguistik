@@ -237,6 +237,6 @@ Natürlich bleibt es eine Frage der Situation: Manchmal ist eine direkte Korrekt
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Gabriel, Gloria / Merte, Marlon / Tacke, Felix (2026): „Fehlerlinguistik“. In: Tacke, Felix (Hrsg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.  
+    Gabriel, Gloria / Merte, Marlon / Tacke, Felix (2026): „Fehlerlinguistik“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)

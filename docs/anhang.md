@@ -1,11 +1,8 @@
 # Anhang
 
-## Verbreitung des Spanischen als Muttersprache (Stand 2024)
+## Das Spanische in Zahlen: Verbreitung und Gewichtung
 
-Die Karte und die Tabelle zeigen die Zahl der spanischen Muttersprachlerinnen und Muttersprachler („Grupo de Dominio Nativo“ / GDN) nach Ländern auf Basis der aktuellsten Daten des Instituto Cervantes (2024).
-
-
-
+Viele der in diesem Buch behandelten Phänomene – von der Tempusvariation über Anredesysteme bis hin zu Aussprachunterschieden – lassen sich besser einordnen, wenn man sich die geographische und demographische Verteilung des Spanischen vor Augen führt. Die folgende Karte und Tabelle zeigen die Zahl der Muttersprachlerinnen und Muttersprachler nach Ländern (Stand 2024).
 
 <div class="book-map" data-map="variation">
   <div class="book-map__canvas"></div>
@@ -15,10 +12,9 @@ Die Karte und die Tabelle zeigen die Zahl der spanischen Muttersprachlerinnen un
     aria-label="Karte im Vollbild öffnen"
     aria-pressed="false"></button>
 </div>
-> Legende: Die Punktgröße steht für die Anzahl der Sprecher:innen (nur „Grupo de Dominio Nativo“), die Farbintensität für deren prozentualen Anteil an der Gesamtzahl weltweit.
-  
-Die größten spanischsprachigen Bevölkerungen leben in Mexiko, Kolumbien, Spanien, Argentinien, den Vereinigten Staaten und Peru. Spanien liegt mit rund 46 Millionen Muttersprachlern weltweit an dritter Stelle, hinter Mexiko und Kolumbien. In den meisten Ländern Lateinamerikas beträgt der Anteil der Bevölkerung mit Spanisch als Muttersprache über 90 %. Niedrigere Anteile finden sich in mehrsprachigen Staaten wie Paraguay, Bolivien, Guatemala und Guinea Ecuatorial.
-
+<div class="figcaption" markdown>
+Verbreitung des Spanischen als Muttersprache weltweit. Die Punktgröße entspricht der Anzahl der Muttersprachler:innen („Grupo de Dominio Nativo" / GDN), die Farbintensität ihrem prozentualen Anteil an der Gesamtzahl weltweit. Datengrundlage: Instituto Cervantes (2024).
+</div>
 
 
 | Rang       | Land                        | Muttersprachler:innen<br>(GDN) | Anteil an Hispanophonie |
@@ -47,8 +43,27 @@ Die größten spanischsprachigen Bevölkerungen leben in Mexiko, Kolumbien, Span
 | 22         | **Guinea Ecuatorial**       |             1 209 048 |                              0,2 % |
 | **Gesamt** |                             |     **≈ 497 800 000** |                          **100 %** |
 
+### Was die Zahlen zeigen
 
-**Quelle:** Instituto Cervantes (2024): *El español en el mundo. Anuario del Instituto Cervantes 2024*. Observatorio Global del Español, Madrid. Online: [https://cvc.cervantes.es/lengua/anuario/anuario_24/el_espanol_en_el_mundo_anuario_instituto_cervantes_2024.pdf](https://cvc.cervantes.es/lengua/anuario/anuario_24/el_espanol_en_el_mundo_anuario_instituto_cervantes_2024.pdf)
+Rund 500 Millionen Menschen sprechen Spanisch als Muttersprache. Die mit Abstand größte Sprechergruppe lebt in Mexiko (ca. 125 Millionen), gefolgt von Kolumbien (ca. 52 Millionen). Spanien liegt mit rund 46 Millionen an dritter Stelle – und damit auf einer Stufe mit Argentinien und den Vereinigten Staaten. Allein diese fünf Länder vereinen fast zwei Drittel aller Muttersprachler:innen.
+
+### Warum das für den Unterricht relevant ist
+
+Die Verteilung macht deutlich, dass das europäische Spanisch nur einen kleinen Ausschnitt der hispanophonen Welt repräsentiert. Über 90 % der Muttersprachler:innen leben außerhalb Spaniens. Wenn ein Lehrwerk ausschließlich peninsulare Normen vermittelt – etwa *vosotros*, die Unterscheidung von `/θ/` und `/s/` oder den Gebrauch des *pretérito perfecto compuesto* für heutige Ereignisse –, dann bildet es ein System ab, das für weniger als ein Zehntel der Sprecher:innen gilt.
+
+Das bedeutet nicht, dass peninsulare Formen falsch oder irrelevant wären. Es bedeutet aber, dass Lehrkräfte die Gewichtung kennen sollten, um sprachliche Variation im Unterricht angemessen einzuordnen. Die Kapitel zur [Variation in der Aussprache](variation/variation_aussprache.md), zur [Anrede](variation/variation_anrede.md), zur [Grammatik](variation/variation_grammatik.md) und zum [Gebrauch der Tempora](variation/variation_tempora.md) greifen diese Proportionen immer wieder auf.
+
+!!! info "Zur Datengrundlage"
+    Die Zahlen beruhen auf der Kategorie „Grupo de Dominio Nativo" (GDN) des Instituto Cervantes (2024). Diese umfasst Personen, die Spanisch als Erstsprache erworben haben. Nicht erfasst sind Zweitsprachler:innen, Lernende und Personen mit eingeschränkter Kompetenz. Die tatsächliche Zahl der Spanischsprechenden weltweit liegt daher deutlich höher.
+
+
+## Literatur
+
+<div class="literatur" markdown="1">
+
+Instituto Cervantes (2024): *El español en el mundo. Anuario del Instituto Cervantes 2024*. Observatorio Global del Español, Madrid. [Online](https://cvc.cervantes.es/lengua/anuario/anuario_24/el_espanol_en_el_mundo_anuario_instituto_cervantes_2024.pdf).
+
+</div>
 
 
 

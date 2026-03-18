@@ -14,9 +14,9 @@ last_modified: "17.03.2026"
 
 ## *He comido* oder *comí*? Und: Welches Futur sollte man verwenden?
 
-Wenn im Spanischunterricht die Vergangenheitstempora eingeführt werden, orientieren sich Lehrwerke fast immer am zentralspanischen Modell: *He comido con Luis* für ‚heute‘, *Comí con Luis* für ‚gestern‘. Und beim Futur gilt *cantaré* meist als die ‚eigentliche‘ Form, während *voy a cantar* als umgangssprachliche Alternative eingeführt wird. Beide Darstellungen sind nicht falsch – aber sie bilden nur einen Ausschnitt der Realität ab. In weiten Teilen Hispanoamerikas ist *Hoy comí con Luis* die völlig normale Form, und *voy a cantar* ist im gesprochenen Spanisch weltweit die häufigere Zukunftsform. Wer authentische Materialien einsetzt – Serien, Podcasts, Zeitungstexte –, stößt unweigerlich auf diese Unterschiede.
+Wenn im Spanischunterricht die Vergangenheitstempora eingeführt werden, orientieren sich Lehrwerke fast immer am zentralspanischen Modell: *He comido con Luis* für ‚heute‘, *Comí con Luis* für ‚gestern‘ – eingeübt mit Triggerwörtern und Lückentexten. Und beim Futur gilt *cantaré* meist als die ‚eigentliche‘ Form, während *voy a cantar* als umgangssprachliche Alternative eingeführt wird. Beide Darstellungen sind nicht falsch – aber sie bilden nur einen Ausschnitt der Realität ab. In weiten Teilen Hispanoamerikas ist *Hoy comí con Luis* die üblichere Äußerung, und *voy a cantar* ist im gesprochenen Spanisch weltweit die häufigere Zukunftsform. Wer authentische Materialien einsetzt – Serien, Podcasts, Nachrichtensendungen –, stößt unweigerlich auf diese Unterschiede. Und wer Lernenden erklären will, warum die Regeln aus dem Schulbuch plötzlich nicht mehr greifen, braucht ein Verständnis von Tempusvariation.
 
-Die Tempusvariation im Spanischen lässt sich dabei nicht auf einen einfachen Gegensatz Spanien vs. Hispanoamerika reduzieren. Es gibt vielmehr mehrere regional verankerte Systeme, die jeweils konsistent funktionieren und in denen dieselben Formen unterschiedliche Bedeutungen tragen können. Für den Unterricht ist das relevant, weil es unmittelbar Fragen der Regelvermittlung und der Bewertung berührt: Ist *Hoy comí* ein Fehler? Ist *voy a cantar* schlechteres Spanisch? In beiden Fällen lautet die Antwort: nein (vgl. Kapitel [Fehlerlinguistik](../fehlerlinguistik.md#nicht-jede-abweichung-ist-ein-fehler) und [Variation & Plurizentrik](variation_plurizentrik.md)).
+Die Tempusvariation im Spanischen lässt sich dabei nicht auf einen einfachen Gegensatz Spanien vs. Hispanoamerika reduzieren. Es gibt vielmehr mehrere regional verankerte Systeme, die jeweils konsistent funktionieren und in denen dieselben Formen unterschiedliche Bedeutungen tragen können. Für den Unterricht ist das relevant, weil es unmittelbar Fragen der Regelvermittlung und der Bewertung berührt: Ist *Hoy comí* ein Fehler? Ist *voy a cantar* schlechteres Spanisch? In beiden Fällen lautet die Antwort: nein (vgl. Kapitel [Fehlerlinguistik](../fehlerlinguistik.md#nicht-jede-abweichung-ist-ein-fehler) und [Variation & Plurizentrik](variation_plurizentrik.md)). Dieses Kapitel zeigt, welche Systeme hinter diesen Unterschieden stehen – und warum es im Unterricht nicht nur um korrekte Formenbildung gehen kann, sondern auch um die Frage, wann und wo eine Form tatsächlich üblich ist.
 
 ## *He cantado* oder *canté*? Wie die Vergangenheit in der Hispanophonie ausgedrückt wird
 
@@ -61,8 +61,9 @@ Diese gemeinsamen Verwendungen zeigen, dass das *Perfecto Compuesto* auch dort, 
 </div>
 
 <div class="figcaption" markdown>
-**Karte: Tempusvariation im Spanischen.** Die Prozentwerte geben die relative Häufigkeit von *PPC* (*pretérito perfecto compuesto*) und *PPS* (*pretérito perfecto simple*) wieder. Die Farben markieren unterschiedliche *Gebrauchssysteme*, die farbigen Kreise symbolisieren ihren ungefähren regionalen Einflussbereich. Die Zuordnung ist stark vereinfachend und orientiert sich an der Darstellung der Tempusvariation in der *Nueva gramática de la lengua española* (NGLE, 2025).[^tempuskarte]
+**Karte: Tempusvariation im Spanischen.** Die Prozentwerte geben die relative Häufigkeit von *PPC* und *PPS* in standardnaher Radiosprache wieder. Die Farben markieren unterschiedliche Gebrauchssysteme nach NGLE (2025).[^tempuskarte]
 </div>
+
 
 !!! tip "Tempusformen lernen – Gebrauch verstehen"
     Im Unterricht liegt der Schwerpunkt oft auf dem Konjugieren und Einüben von Verbformen. Mindestens ebenso wichtig ist jedoch die Frage, wie diese Formen tatsächlich verwendet werden. Gerade die Tempusvariation zeigt: Grammatische Formen korrekt bilden zu können, reicht nicht aus – entscheidend ist auch zu wissen, wann und wo sie üblich sind.
@@ -144,8 +145,9 @@ Der Vergleich der Vergangenheitstempora und der Futurformen zeigt exemplarisch, 
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Delgado Moreno, Ramón / Tacke, Felix (2026): „Variation im Gebrauch der Tempora“. In: Tacke, Felix (Hrsg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.  
+    Delgado Moreno, Ramón / Tacke, Felix (2026): „Variation im Gebrauch der Tempora“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
 
 [^rdm]: (Mit-)Autor: Ramón Delgado Moreno.
+[^tempuskarte]: Die Frequenzen basieren auf einer Auswertung des [CO.RA.PAN](https://corapan.hispanistica.com)-Korpus; berücksichtigt wurden Belege aus standardnaher freier Rede. Die Prozentwerte spiegeln daher eine spezifische kommunikative Situation wider und sind nicht als Repräsentation des allgemeinen Sprachgebrauchs eines Landes zu verstehen. Die Einteilung der Gebrauchssysteme folgt der *Nueva gramática de la lengua española* (NGLE, 2025); die kartographische Darstellung mit farbigen Kreisen und symbolisierten Einflusszonen dient der groben Orientierung und stellt keine Sprachgrenzen dar. Dies führt in Einzelfällen (z.B. Kanarische Inseln, Paraguay, Córdoba) zu Abweichungen zwischen den gemessenen Frequenzen und der systematischen Einordnung.

@@ -43,8 +43,8 @@
       markerColor: '#6d4ea8'
     },
     transition: {
-      fillColor: '#c7b8a3',
-      markerColor: '#8a6f52'
+      fillColor: '#bfb4c7',
+      markerColor: '#7a6a86'
     },
     fallback: {
       fillColor: '#c7d2de',
@@ -75,17 +75,22 @@
         { type: 'interpretation', text: '→ bis heute, meist weiterhin' }
       ]
     },
+    transition: {
+      label: 'Übergangszone',
+      example: [
+        { type: 'line', text: 'He llegado hace dos años.' },
+        { type: 'line', text: 'Ayer llegué.' }
+      ]
+    },
     compound_expansion: {
       label: 'Expansion des PPC',
       example: [
-        { type: 'line', text: 'He llegado ayer.' }
+        { type: 'line', text: 'He llegado hace dos años.' }
       ]
     },
     fallback: {
-      label: 'Dominanz des PPS',
-      example: [
-        { type: 'line', text: 'Hoy hablé con Ana.' }
-      ]
+      label: 'nicht klassifiziert',
+      example: []
     }
   };
 
@@ -140,18 +145,34 @@
   function getCanonicalSystemKey(raw) {
     const inferredKey = raw.Systemschluessel ?? inferSystemKey(raw['Regionales System'] ?? '');
 
+    console.log('[variation_tempora] Systemschluessel gelesen', {
+      ort: raw.Ort ?? raw.Land ?? null,
+      rawSystemschluessel: raw.Systemschluessel,
+      regionalesSystem: raw['Regionales System'] ?? null,
+      inferredKey
+    });
+
     if (inferredKey === 'transition') {
-      const compuestoValue = parsePercentValue(raw['Perfecto compuesto']);
-      const simpleValue = parsePercentValue(raw['Perfecto simple']);
+      console.log('[variation_tempora] transition bleibt erhalten', {
+        ort: raw.Ort ?? raw.Land ?? null,
+        compuesto: raw['Perfecto compuesto'] ?? null,
+        simple: raw['Perfecto simple'] ?? null
+      });
 
-      if (Number.isFinite(compuestoValue) && Number.isFinite(simpleValue)) {
-        return compuestoValue > simpleValue ? 'compound_expansion' : 'simple_dominant';
-      }
-
-      return 'simple_dominant';
+      return 'transition';
     }
 
-    return SYSTEM_CONTENT[inferredKey] ? inferredKey : 'fallback';
+    const canonicalKey = SYSTEM_CONTENT[inferredKey] ? inferredKey : 'fallback';
+
+    if (canonicalKey === 'fallback') {
+      console.log('[variation_tempora] fallback aktiv', {
+        ort: raw.Ort ?? raw.Land ?? null,
+        rawSystemschluessel: raw.Systemschluessel,
+        inferredKey
+      });
+    }
+
+    return canonicalKey;
   }
 
   function getSystemContent(systemKey) {
@@ -265,6 +286,14 @@
     const pointStatus = getPointStatus(raw, hasDirectData);
     const influenceCircle = getInfluenceCircleOptions(systemStyle, pointStatus);
 
+    console.log('[variation_tempora] Style angewendet', {
+      ort: raw.Ort ?? raw.Land ?? null,
+      rawSystemschluessel: raw.Systemschluessel,
+      canonicalSystemKey: systemKey,
+      usedFallbackStyle: systemStyle === SYSTEM_STYLES.fallback,
+      systemStyle
+    });
+
     return {
       title: raw.Ort ?? raw.Hauptstadt ?? raw.Land ?? '',
       meta: getMetaLabel(raw),
@@ -296,7 +325,7 @@
       if (item.hasDirectData) {
         blocks.push({
           type: 'metric',
-          label: 'Frequenz (freie Rede)',
+          label: 'Frequenz (standardnahe Rede)',
           value: item.frequencyLine
         });
       }

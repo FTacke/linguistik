@@ -50,7 +50,7 @@ Dass dieses Buch digital erscheint und nicht als gedrucktes Werk, ist eine bewus
 
 
 !!! cite "Dieses Buch zitieren"
-    Tacke, Felix (Hrsg.) (2026): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.  
+    Tacke, Felix (Hg.) (2026): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.  
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
     
