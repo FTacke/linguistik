@@ -29,7 +29,6 @@ nav = [
   ]},
   {"6 Sprachwandel"               = "wandel.md"},
   {"7 Herkunftssprachen"          = "herkunftssprachen.md"},
-  {"X Admonitions"                = "admonitions.md"},
   {"Anhang"                        = "anhang.md"},
 ]
 
