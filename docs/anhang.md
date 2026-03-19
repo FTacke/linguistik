@@ -2,7 +2,7 @@
 
 ## Das Spanische in Zahlen: Verbreitung und Gewichtung
 
-Viele der in diesem Buch behandelten Phänomene – von der Tempusvariation über Anredesysteme bis hin zu Aussprachunterschieden – lassen sich besser einordnen, wenn man sich die geographische und demographische Verteilung des Spanischen vor Augen führt. Die folgende Karte und Tabelle zeigen die Zahl der Muttersprachlerinnen und Muttersprachler nach Ländern (Stand 2024).
+Viele der in diesem Buch behandelten Phänomene – von der Tempusvariation über Anredesysteme bis hin zu Aussprachunterschieden – lassen sich besser einordnen, wenn man sich die geographische und demographische Verteilung des Spanischen vor Augen führt. Die folgende Karte und Tabelle zeigen die Zahl der *hablantes nativos* nach Ländern (Stand 2024).
 
 <div class="book-map" data-map="variation">
   <div class="book-map__canvas"></div>
@@ -13,11 +13,11 @@ Viele der in diesem Buch behandelten Phänomene – von der Tempusvariation übe
     aria-pressed="false"></button>
 </div>
 <div class="figcaption" markdown>
-**Karte: Verbreitung des Spanischen als Muttersprache weltweit.** Die Punktgröße entspricht der Anzahl der Muttersprachler:innen („Grupo de Dominio Nativo“ / GDN), die Farbintensität ihrem prozentualen Anteil an der Gesamtzahl weltweit. Datengrundlage: Instituto Cervantes (2024).
+**Karte: Verbreitung des Spanischen als Erstsprache weltweit.** Die Punktgröße entspricht der Anzahl der Sprecher:innen („Grupo de Dominio Nativo“ / GDN), die Farbintensität ihrem prozentualen Anteil an der Gesamtzahl weltweit. Datengrundlage: Instituto Cervantes (2024).
 </div>
 
 
-| Rang       | Land                        | Muttersprachler:innen<br>(GDN) | Anteil an Hispanophonie |
+| Rang       | Land                        | Sprecher:innen<br>(GDN) | Anteil an Hispanophonie |
 | ---------- | --------------------------- | --------------------: | ---------------------------------: |
 | 1          | **Mexiko**                  |           124 781 373 |                             25,1 % |
 | 2          | **Kolumbien**               |            51 684 976 |                             10,4 % |
@@ -50,11 +50,11 @@ Viele der in diesem Buch behandelten Phänomene – von der Tempusvariation übe
 
 ### Was die Zahlen zeigen
 
-Rund 500 Millionen Menschen sprechen Spanisch als Muttersprache. Die mit Abstand größte Sprechergruppe lebt in Mexiko (ca. 125 Millionen), gefolgt von Kolumbien (ca. 52 Millionen). Spanien liegt mit rund 46 Millionen an dritter Stelle – und damit auf einer Stufe mit Argentinien und den Vereinigten Staaten. Allein diese fünf Länder vereinen fast zwei Drittel aller Muttersprachler:innen.
+Rund 500 Millionen Menschen sprechen Spanisch als Erstsprache. Die mit Abstand größte Sprechergruppe lebt in Mexiko (ca. 125 Millionen), gefolgt von Kolumbien (ca. 52 Millionen). Spanien liegt mit rund 46 Millionen an dritter Stelle – und damit auf einer Stufe mit Argentinien und den Vereinigten Staaten. Allein diese fünf Länder vereinen fast zwei Drittel aller Sprecher:innen.
 
 ### Warum das für den Unterricht relevant ist
 
-Die Verteilung macht deutlich, dass das europäische Spanisch nur einen kleinen Ausschnitt der hispanophonen Welt repräsentiert. Über 90 % der Muttersprachler:innen leben außerhalb Spaniens. Wenn ein Lehrwerk ausschließlich peninsulare Normen vermittelt – etwa *vosotros*, die Unterscheidung von `/θ/` und `/s/` oder den Gebrauch des *pretérito perfecto compuesto* für heutige Ereignisse –, dann bildet es ein System ab, das für weniger als ein Zehntel der Sprecher:innen gilt.
+Die Verteilung macht deutlich, dass das europäische Spanisch nur einen kleinen Ausschnitt der hispanophonen Welt repräsentiert. Über 90 % der Sprecher:innen leben außerhalb Spaniens. Wenn ein Lehrwerk ausschließlich peninsulare Normen vermittelt – etwa *vosotros*, die Unterscheidung von `/θ/` und `/s/` oder den Gebrauch des *pretérito perfecto compuesto* für heutige Ereignisse –, dann bildet es ein System ab, das für weniger als ein Zehntel der Sprecher:innen gilt.
 
 Das bedeutet nicht, dass peninsulare Formen falsch oder irrelevant wären. Es bedeutet aber, dass Lehrkräfte die Gewichtung kennen sollten, um sprachliche Variation im Unterricht angemessen einzuordnen. Die Kapitel zur [Variation in der Aussprache](variation/variation_aussprache.md), in der [Anrede](variation/variation_anrede.md), im [Gebrauch der Tempora](variation/variation_tempora.md) sowie in der [Morphologie und Syntax](variation/variation_morphosyntax.md) greifen diese Proportionen immer wieder auf.
 

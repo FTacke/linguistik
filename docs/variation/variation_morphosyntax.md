@@ -40,7 +40,7 @@ Weniger intuitiv ist die *verstärkende Funktion*: In bestimmten Kontexten bedeu
 ??? expand "Der Diminutiv als Respektform"
     In bestimmten Varietäten, etwa im andinen Raum, kann ein Diminutiv wie doctorcito auch Höflichkeit oder Respekt ausdrücken: *doctorcito*, *maestrita* oder *ingenierita* sind dann höfliche, wertschätzende Anreden. In Spanien würde dieselbe Form eher als herablassend oder deplatziert empfunden. Diese Asymmetrie ist im Unterricht dann relevant, wenn Lernende Kontakt mit hispanoamerikanischen Gesprächspartner:innen haben – oder wenn entsprechende Situationen in authentischen Materialien auftauchen.
 
-??? hoermal "*Yo perdí toda mi platita* Funktionen im Gespräch"
+??? hoermal "*Yo perdí toda mi platita*: Verwendungsweisen"
     Die folgenden Beispiele zeigen Diminutive in spontanen Gesprächssituationen. Hier dienen sie häufig dazu, Aussagen abzuschwächen, zu intensivieren, Nähe auszudrücken oder freundlicher zu wirken.
 
     <div class="audio-grid">
@@ -110,7 +110,7 @@ Ein Sonderfall ist das Adverb *ahorita*: Es kann je nach Kontext ‘sofort’, �
 
 Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeichnen, sind sie heute auch in Spanien zunehmend präsent, nicht zuletzt durch den Einfluss von Serien, Musik und andere Medien aus Hispanoamerika.
 
-??? hoermal "*Ya estamos cerquita*: Hörbeispiele"
+??? hoermal "*Ya estamos cerquita*: Formen und Vielfalt"
     Die folgenden Ausschnitte aus Radiosendungen zeigen Diminutive im gesprochenen Spanisch aus verschiedenen Regionen der Hispanophonie. Sie illustrieren sowohl unterschiedliche Suffixvarianten (*-ito*, *-ico*, *-itico*) als auch die Ausdehnung der Diminutivbildung auf andere Wortarten, etwa Adverbien (*cerquita*, *despacito*, *ahorita*). Beachte: Die Bedeutungsangaben sind wörtlich, können im Kontext aber besondere Bedeutungsnuancen versprachlichen. Beispielsweise bedeutet *algún rayito de sol* wörtlich ‘kleiner Sonnenstrahl’, meint aber im Kontext ‘gelegentlicher/seltener Sonnenschein’.
 
     <div class="audio-grid">
@@ -255,7 +255,7 @@ Eine besondere Spielart des *leísmo* verdient eigene Erwähnung: der *leísmo d
 
     Ziel des Unterrichts ist daher nicht, diese Varianten zu übernehmen, sondern sie erkennen und einordnen zu können.
 
-### *Me acuerdo que…*? – *Queísmo*, *Dequeísmo* und Präpositionen vor Nebensätzen[^erp]
+### *Me acuerdo que…*? – *Queísmo* und *dequeísmo*[^erp]
 
 Ein Satz wie *Me acuerdo que lo vimos ayer* wirkt für viele Lehrkräfte sofort verdächtig – müsste es nicht *me acuerdo de que…* heißen? Solche Fälle gehören zu den klassischen Zweifelsfragen der spanischen Grammatik. Gemeint sind die Phänomene *queísmo* und *dequeísmo*, also unterschiedliche Varianten im Gebrauch von Präpositionen vor der Konjunktion *que*. Beim *queísmo* fehlt eine Präposition, die nach der Norm erwartet wird (*me acuerdo que…* statt *me acuerdo de que…*), während beim *dequeísmo* eine Präposition eingefügt wird, obwohl sie standardsprachlich nicht vorgesehen ist (*pienso de que vendrá*, *creo de que es verdad*). Beide Erscheinungen sind im Spanischen seit Langem belegt und treten vor allem im gesprochenen Sprachgebrauch vieler Regionen auf.
 
@@ -263,7 +263,7 @@ Der Hintergrund liegt in der Struktur vieler Verb- und Adjektivkonstruktionen. E
 
 Im tatsächlichen Sprachgebrauch zeigen sich jedoch auch Fälle, in denen Varianten nebeneinander auftreten oder regional unterschiedlich bevorzugt werden. So wird etwa beim Verb *informar* sowohl die Konstruktion *informar de que el ministro dimitió* als auch *informar que el ministro dimitió* verwendet. In der spanischen Pressesprache ist die Variante mit Präposition (*informar de que*) besonders verbreitet, während in vielen hispanoamerikanischen Medien häufiger die Konstruktion ohne Präposition (*informar que*) erscheint. Beide Formen gelten in diesem Kontext als akzeptabel und illustrieren, dass sich im realen Sprachgebrauch unterschiedliche Präpositionsmuster etablieren können.
 
-??? hoermal "Alternanzen zwischen *informar que* oder *informar de que*"
+??? hoermal "*Informar que* oder *informar de que*: Hörbeispiele"
     Die folgenden Ausschnitte aus Nachrichtensendungen zeigen zwei gebräuchliche Konstruktionen mit dem Verb *informar*. In  Hispanoamerikas erscheint meist (aber nicht immer) *informar que*, während in Spanien traditionell *informar de que* bevorzugt wird. Beide Varianten sind im journalistischen Sprachgebrauch etabliert.
 
     <div class="audio-grid">
@@ -346,7 +346,7 @@ Die von der Norm abweichenden Pluralformen sind allerdings weder gleich häufig 
     Im Standardspanischen steht das Existenzverb *haber* immer im Singular (*hay*, *había*, *hubo*, *habrá*), auch wenn sich das Bezugsnomen auf mehrere Dinge bezieht (*hay muchos problemas*). Für den Unterricht bedeutet das: Aktiv gelernt wird die Singularform; wenn in authentischem Material Pluralformen auftreten, lassen sie sich als verbreitetes Variationsphänomen einordnen (vgl. Kapitel [Fehlerlinguistik](../fehlerlinguistik.md#nicht-jede-abweichung-ist-ein-fehler)).
 
 
-## Variation als Normalfall – und als didaktische Chance
+## Variation als didaktische Chance
 
 Die in diesem Kapitel behandelten Phänomene zeigen ein gemeinsames Muster: Morphologische und syntaktische Variation im Spanischen ist kein Randphänomen, sondern der Normalfall. Dabei unterscheiden sich die Phänomene in ihrem normativen Status erheblich. Die Diminutive stehen für regionale Vielfalt ohne jede Normfrage – keine Form ist ‚richtiger‘ als die andere. Der kastilische *leísmo* bewegt sich im Grenzbereich zwischen regionaler Norm und tolerierter Abweichung. Und beim *(de)queísmo* sowie bei der pluralischen Verwendung von *haber* stehen Formen im Raum, die linguistisch erklärbar und regional verbreitet, normativ aber markiert sind. Für den Unterricht heißt das: Solche Unterschiede sind keine Fehler, die pauschal korrigiert werden müssten, sondern Phänomene, die man bei Bedarf einordnen können sollte. Sprachliche Sensibilität für diese Vielfalt – und für die unterschiedlichen normativen Bewertungen, die damit einhergehen – ist ein zentrales Ziel eines reflektierten Spanischunterrichts.
 
@@ -357,7 +357,7 @@ Die in diesem Kapitel behandelten Phänomene zeigen ein gemeinsames Muster: Morp
 ??? weiterlesen "Wer mehr wissen will …"
     Den zentralen Ausgangspunkt für eine vertiefte Auseinandersetzung mit den hier behandelten Phänomenen bietet die *Nueva gramática de la lengua española* (RAE/ASALE 2009/2011; aktualisierte Ausgabe 2025), die Strukturen systematisch beschreibt und ihre Verteilung im gesamten spanischsprachigen Raum dokumentiert; die neue Ausgabe enthält zudem ausführliche Bibliographien zu den einzelnen Themen.
 
-    Für die Objektpronomina (*leísmo*, *laísmo*, *loísmo*) bietet Fernández-Ordóñez (1999) eine grundlegende Übersicht über diatopische Verteilung und systematische Einordnung; ergänzend analysiert Klein-Andreu (2000) Variation und historische Entwicklung. Die Distribution von *queísmo* und *dequeísmo* wird u.a. in Gómez Torrego (1999) als Variationsphänomen im Bereich der Subordination beschrieben. Für das existenzielle *haber* stellt der Sammelband von de Benito Moreno/Octavio de Toledo (2016) eine aktuelle Referenz dar; ergänzend untersuchen Gómez Devís/Gómez Molina (2020) die Kongruenzvariation in verschiedenen Varietäten gesprochener Sprache. Zu den Diminutiven zeigt Gerhalter (2026) auf der Grundlage umfangreicher Korpusdaten aus dem CORPES XXI die diatopische und diafásische Variation von -*ito*/*-ita*-Formen und weist insbesondere ihre höhere Frequenz und funktionale Ausdifferenzierung in der gesprochenen Sprache sowie in verschiedenen amerikanischen Varietäten nach.
+    Für die Objektpronomina (*leísmo*, *laísmo*, *loísmo*) bietet Fernández-Ordóñez (1999) eine grundlegende Übersicht über diatopische Verteilung und systematische Einordnung; ergänzend analysiert Klein-Andreu (2000) Variation und historische Entwicklung. Die Distribution von *queísmo* und *dequeísmo* wird u.a. in Gómez Torrego (1999) als Variationsphänomen im Bereich der Subordination beschrieben. Für das existenzielle *haber* stellt der Sammelband von de Benito Moreno / Octavio de Toledo (2016) eine aktuelle Referenz dar; ergänzend untersuchen Gómez Devís / Gómez Molina (2020) die Kongruenzvariation in verschiedenen Varietäten gesprochener Sprache. Zu den Diminutiven zeigt Gerhalter (2026) auf der Grundlage umfangreicher Korpusdaten aus dem CORPES XXI die diatopische und diafásische Variation von -*ito*/*-ita*-Formen und weist insbesondere ihre höhere Frequenz und funktionale Ausdifferenzierung in der gesprochenen Sprache sowie in verschiedenen amerikanischen Varietäten nach.
 
     Auch für die didaktische Perspektive liegen Arbeiten vor, die einzelne der hier behandelten Phänomene im ELE-Kontext aufgreifen. Auffällig ist jedoch, dass grammatische Variation dabei meist nur punktuell berücksichtigt wird – etwa im Zusammenhang mit der Vermittlung einzelner Strukturen oder bei der Diagnose typischer Lernschwierigkeiten. So werden die Objektpronomina (*leísmo*, *laísmo*, *loísmo*) bei García Rodríguez (2004) im Hinblick auf ihre unterrichtliche Behandlung diskutiert, während Criado de Diego (2019) am Beispiel des existenziellen *haber* variable Zielstrukturen in Lernerdaten analysiert.
 

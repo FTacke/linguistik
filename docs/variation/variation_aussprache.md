@@ -34,9 +34,8 @@ Was dabei oft nicht deutlich genug wird: Die *distinción* (vgl. Kapitel [Ausspr
 
 Als Lehrkraft trifft man zwangsläufig eine Entscheidung – aber sie sollte bewusst getroffen und kommuniziert werden. Entscheide ich mich für die *distinción*, sollte ich transparent machen, dass es sich dabei um die Standardaussprache Spaniens handelt, nicht um die einzig ‚richtige‘ Option. Entscheide ich mich für den *seseo*, sollte ich erläutern, dass es in der Aussprache Spaniens einen weiteren Laut gibt und mit welchen Graphemen er verknüpft ist. In jedem Fall gilt: Wenn Lernende – insbesondere fortgeschrittene – für diese Unterschiede sensibilisiert werden, sollte klar sein, dass der *seseo* genauso korrekt ist wie die Unterscheidung von `/s/` und `/θ/`. Wer außerhalb Spaniens *zapato* als `[θa.ˈpa.to]` ausspricht, fällt übrigens auf – Spanier:innen werden nicht zuletzt durch den Interdentallaut sofort erkannt.
 
-??? hoermal "<i>Seseo</i> vs. <i>distinción</i>"
-    Die folgenden Ausschnitte aus Radiosendungen veranschaulichen einerseits den <i>seseo</i> in Hispanoamerika und andererseits die Verwendung des Interdentallautes `/θ/` in Spanien. Es handelt sich um Radiomoderator:innen, deren Aussprache der ‚guten Aussprache‘ des jeweiligen Landes bzw. der Region entspricht:
-
+??? hoermal "*Seseo* vs. *distinción*: Hörbeispiele"
+    Die folgenden Ausschnitte aus Radiosendungen veranschaulichen einerseits den *seseo* in Hispanoamerika und andererseits die Verwendung des Interdentallautes `/θ/` in Spanien. Es handelt sich um Radiomoderator:innen, deren Aussprache der ‚guten Aussprache‘ des jeweiligen Landes bzw. der Region entspricht:
 
     <div class="audio-grid">
     <div class="audio-block">
@@ -112,6 +111,7 @@ Als Lehrkraft trifft man zwangsläufig eine Entscheidung – aber sie sollte bew
     </audio>
     </div>
     </div>
+
     <p class="audio-source">Audios aus <a href="https://corapan.hispanistica.com">CO.RA.PAN</a></p>
 
 
@@ -128,9 +128,8 @@ Wer *pollo* und *poyo* gleich ausspricht, macht es heute wie die Mehrheit aller 
 
 Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien hört man meist `[ʝ]`, in der Karibik oder in Zentralamerika dagegen oft nur ein sanftes `[j]`. Im *Río de la Plata*-Raum, vor allem in Buenos Aires und Montevideo, ist die Aussprache besonders markant: Dort wird `[ʒ]` (als *žeísmo* bezeichnet) und mittlerweile noch häufiger das stimmlose `[ʃ]` (als *šeísmo* bezeichnet) realisiert, z.B. *llamar* als `[ʒaˈmar]` oder `[ʃaˈmar]`.
 
-??? hoermal "<i>Yeísmo</i>, <i>žeísmo</i> und <i>šeísmo</i>"
-    Die folgenden Ausschnitte aus Radiosendungen veranschaulichen, dass der <i>yeísmo</i> – die Realisierung des Phonems `/ʝ/` als `[ʝ]` (manchmal auch schwächer als `[j]`) für `<ll>` und `<y>` – heute überall normal ist. Die Argentinien-Beispiele veranschaulichen darüber hinaus <i>žeísmo</i> und <i>šeísmo</i>. Es handelt sich um Radiomoderator:innen, deren Aussprache der ‚guten Aussprache‘ des jeweiligen Landes bzw. der Region entspricht:
-
+??? hoermal "*Yeísmo*, *žeísmo* und *šeísmo*: Hörbeispiele"
+    Die folgenden Ausschnitte aus Radiosendungen veranschaulichen, dass der *yeísmo* – die Realisierung des Phonems `/ʝ/` als `[ʝ]` (manchmal auch schwächer als `[j]`) für `<ll>` und `<y>` – heute überall normal ist. Die Argentinien-Beispiele veranschaulichen darüber hinaus *žeísmo* und *šeísmo*. Es handelt sich um Radiomoderator:innen, deren Aussprache der ‚guten Aussprache‘ des jeweiligen Landes bzw. der Region entspricht:
 
     <div class="audio-grid">
     <div class="audio-block">
@@ -256,7 +255,7 @@ Die Abschwächung ist kein Zufall. Offene Silben (CV) werden in allen romanische
 
 Dabei ist zu berücksichtigen, dass die Abschwächung heute in vielen dieser Gebiete nicht nur umgangssprachlich verbreitet ist, sondern auch in formelleren Kontexten so normal ist, dass sie als gute Aussprache gilt.
 
-??? hoermal "Abschwächung des `/s/`"
+??? hoermal "Abschwächung des `/s/`: Hörbeispiele"
     Die folgenden Ausschnitte aus Radiosendungen veranschaulichen das Phänomen. Ein silben- oder wortfinales `/s/` wird als `[s]` realisiert, wenn es vor Pause oder vor Vokal steht; vor Konsonant hört man entweder Aspiration `[h]` oder nichts. Beachte, dass hier Radiomoderator:innen sprechen, es handelt sich also um eine Aussprache, die der ‚guten Aussprache‘ des jeweiligen Landes (oder der Region) entspricht:
 
     <div class="audio-grid">
@@ -332,7 +331,6 @@ Dabei ist zu berücksichtigen, dass die Abschwächung heute in vielen dieser Geb
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
-
     </div>
 
     <p class="audio-source">Audios aus <a href="https://corapan.hispanistica.com">CO.RA.PAN</a></p>
@@ -340,9 +338,8 @@ Dabei ist zu berücksichtigen, dass die Abschwächung heute in vielen dieser Geb
 
 Die Hochlandregionen hingegen – Mexiko-Stadt, Bogotá, Quito, La Paz – zeichnen sich durch eine klare Artikulation des `/s/` auch am Silbenende aus, was historisch mit ihrer engeren Bindung an die spanischen Kolonialzentren zusammenhängt. Dort wird die Abschwächung eher mit informellen Redesituationen oder niedrigerem Bildungsniveau assoziiert und ist damit kein neutrales Merkmal, sondern eines mit sozialer Dimension. Dasselbe lautliche Phänomen kann also je nach Region als normgerecht oder als nachlässig oder umgangssprachlich gelten.
 
-??? hoermal "Realisierung des `/s/` im Hochland"
+??? hoermal "Realisierung des `/s/` im Hochland: Hörbeispiele"
     Die folgenden Ausschnitte veranschaulichen, dass das `/s/` im hispanoamerikanischen Hochland in jedem Kontext als `[s]` realisiert wird und eindeutig zur jeweiligen Hauptstadtnorm gehört:
-
 
     <div class="audio-grid">
     <div class="audio-block">
@@ -441,7 +438,6 @@ Die Hochlandregionen hingegen – Mexiko-Stadt, Bogotá, Quito, La Paz – zeich
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
-
     </div>
 
     <p class="audio-source">Audios aus <a href="https://corapan.hispanistica.com">CO.RA.PAN</a></p>
@@ -473,16 +469,16 @@ Niemand muss alle Varianten beherrschen oder vermitteln. Es genügt, wenn Lernen
 
     *Yeísmo* (inkl. *žeísmo*/*šeísmo*): `/ʎ/` und `/ʝ/` werden heute fast überall als `[ʝ]` ausgesprochen; im Río de la Plata-Raum wird das Phonem meist als `[ʒ]` oder `[ʃ]` artikuliert.
 
-    `/s/`-Abschwächung am Silbenende: Aspiration `[h]` und Elision prägen die Aussprache in der Karibik, den amerikanischen Tieflandgebiete, in Südandalusien und den Kanaren – und gehört in vielen dieser Gebiete zur Aussprachenorm.
+    `/s/`-Abschwächung am Silbenende: Aspiration `[h]` und Elision prägen die Aussprache in der Karibik, den amerikanischen Tieflandgebieten, in Südandalusien und den Kanaren – und gehört in vielen dieser Gebiete zur Aussprachenorm.
 
     `/s/`-Erhalt im Hochland: In den Hochlandregionen Hispanoamerikas – etwa in Mexiko-Stadt, Bogotá, Quito oder La Paz – wird `/s/` auch am Silbenende deutlich als `[s]` artikuliert.
 
     Lehrkräfte sollten bewusst eine Aussprachevariante als Orientierung verwenden, zugleich aber deutlich machen, dass andere Varianten ebenso korrekt sind und zur sprachlichen Realität der Hispanophonie gehören.
 
-??? weiterlesen "Wer mehr wissen will"
+??? weiterlesen "Wer mehr wissen will …"
     Grobe Übersichten zu *seseo* und *yeísmo* bietet das *Diccionario panhispánico de dudas* ([DPD](https://www.rae.es/dpd/), RAE/ASALE 2025); die einschlägigen Kapitel in Band 3 der *Nueva gramática de la lengua española* (RAE/ASALE 2009–2011, 2.ª ed. 2025) gehen deutlich tiefer. Tacke (2020) gibt einen kompakten Überblick zur Aussprache­norm im Spanischen und zeigt, dass diese plurizentrisch selbstreguliert ist.
 
-    Zur Unterrichtsperspektive: Die ASELE-Akten *¿Qué español enseñar?* (Martín Zorraquino/Díez Pellegrín 2000) protokollieren erste Befragungen zur Wahl der Ziellautung; Leitzke-Ungerer/Polzin-Haumann (2017) zeigen für den deutschsprachigen Unterricht, dass Lehrwerke und Prüfungen regionale Lautmerkmale nur punktuell einbauen; Andión (2013) weist nach, dass Lehrkräfte ihre eigene Variante nutzen, sich bei der Vermittlung mehrerer Lautbilder aber oft unsicher fühlen. Moreno Fernández (2000) liefert Kriterien für ein bewusst gewähltes Varietäten-Modell; Hernández Muñoz et al. (2021) ergänzen kommentierte Unterrichtsbeispiele zu *seseo*, *yeísmo* und weiteren Phänomenen, und Poch Olivé (2024) legt eine komplette Sequenz zur Wahrnehmung und Produktion verschiedener Lautvarianten vor.
+    Zur Unterrichtsperspektive: Die ASELE-Akten *¿Qué español enseñar?* (Martín Zorraquino / Díez Pellegrín 2000) protokollieren erste Befragungen zur Wahl der Ziellautung; Leitzke-Ungerer / Polzin-Haumann (2017) zeigen für den deutschsprachigen Unterricht, dass Lehrwerke und Prüfungen regionale Lautmerkmale nur punktuell einbauen; Andión (2013) weist nach, dass Lehrkräfte ihre eigene Variante nutzen, sich bei der Vermittlung mehrerer Lautbilder aber oft unsicher fühlen. Moreno Fernández (2000) liefert Kriterien für ein bewusst gewähltes Varietäten-Modell; Hernández Muñoz et al. (2021) ergänzen kommentierte Unterrichtsbeispiele zu *seseo*, *yeísmo* und weiteren Phänomenen, und Poch Olivé (2024) legt eine komplette Sequenz zur Wahrnehmung und Produktion verschiedener Lautvarianten vor.
 
     Authentische Hörbelege aus allen hispanophonen Ländern bietet das [CO.RA.PAN](https://corapan.hispanistica.com)-Korpus (Tacke 2026).
 
@@ -504,19 +500,19 @@ Niemand muss alle Varianten beherrschen oder vermitteln. Es genügt, wenn Lernen
 - Hualde, José Ignacio (2014): *Los sonidos del español*. Cambridge: Cambridge University Press.
 - Kubarth, Hugo (1987): *Das lateinamerikanische Spanisch. Ein Panorama*. München: Hueber.
 - Leitzke-Ungerer, Eva / Polzin-Haumann, Claudia (Hg.) (2017): *Varietäten des Spanischen im Fremdsprachenunterricht. Ihre Rolle in Schule, Hochschule, Lehrerbildung und Sprachenzertifikaten*. Stuttgart: ibidem.
-- Lipski, John M. (1994): *Latin American Spanish*. London/New York: Longman.
-- Lipski, John M. (2020): „Spanish Phonological Variation“. In: Sonia Colina / Fernando Martínez-Gil (Hg.): *The Routledge Handbook of Spanish Phonology*. London/New York: Routledge, 455–469. DOI: [https://doi.org/10.4324/9781315228112-26](https://doi.org/10.4324/9781315228112-26)
+- Lipski, John M. (1994): *Latin American Spanish*. London / New York: Longman.
+- Lipski, John M. (2020): „Spanish Phonological Variation“. In: Sonia Colina / Fernando Martínez-Gil (Hg.): *The Routledge Handbook of Spanish Phonology*. London / New York: Routledge, 455–469. DOI: [https://doi.org/10.4324/9781315228112-26](https://doi.org/10.4324/9781315228112-26)
 - Martín Zorraquino, M. Antonia / Díez Pellegrín, Cristina (Hg.) (2000): *¿Qué español enseñar? Norma y variación lingüísticas en la enseñanza del español a extranjeros. Actas del XI Congreso Internacional de ASELE (Zaragoza, 13.–16. 9. 2000)*. Zaragoza: Universidad de Zaragoza.
 - Moreno Fernández, Francisco (2000): *¿Qué español enseñar?* Madrid: Arco Libros.
 - Poch Olivé, Dolors (2024): „Variación fonética y enseñanza del español“. *Variación. Revista de variación y cambio lingüístico*, 1 (2), 18–30. DOI: [https://doi.org/10.30827/3020.9854rvcl.1.2.2024.31844](https://doi.org/10.30827/3020.9854rvcl.1.2.2024.31844)
-- Pustka, Elissa / Schwegler, Armin (2021): „Phonética y fonología: vocalismo y consonantismo". In: Eva Martha Eckkrammer (Hg.): *Manual del español en América*. Berlin/Boston: De Gruyter, 451–464. DOI: [https://doi.org/10.1515/9783110334845-027](https://doi.org/10.1515/9783110334845-027)
+- Pustka, Elissa / Schwegler, Armin (2021): „Phonética y fonología: vocalismo y consonantismo". In: Eva Martha Eckkrammer (Hg.): *Manual del español en América*. Berlin / Boston: De Gruyter, 451–464. DOI: [https://doi.org/10.1515/9783110334845-027](https://doi.org/10.1515/9783110334845-027)
 
 - Real Academia Española / Asociación de Academias de la Lengua Española:  
   — (2009–2011): *Nueva gramática de la lengua española*. 3 Bde. Madrid: Espasa. Online: [https://www.rae.es/gramática/](https://www.rae.es/gram%C3%A1tica/)  
   — (2025): *Diccionario panhispánico de dudas*. 2.ª ed. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/)  
   — (2025): *Nueva gramática de la lengua española*. Nueva edición actualizada, 4 Bde. Madrid: Espasa.
 
-- Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Franz Lebsanft / Felix Tacke (Hg.): *Manual of Standardization in the Romance Languages*. Berlin/Boston: De Gruyter, 559–579. DOI: [https://doi.org/10.1515/9783110458084-025](https://doi.org/10.1515/9783110458084-025)
+- Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Franz Lebsanft / Felix Tacke (Hg.): *Manual of Standardization in the Romance Languages*. Berlin / Boston: De Gruyter, 559–579. DOI: [https://doi.org/10.1515/9783110458084-025](https://doi.org/10.1515/9783110458084-025)
 - Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
 
 </div>

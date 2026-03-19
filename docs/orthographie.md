@@ -54,41 +54,44 @@ Ein weiterer Bereich, der im Unterricht besondere Aufmerksamkeit verdient, sind 
     Die folgenden Beispiele zeigen, wie das spanische Graphem `<eu>` unter dem Einfluss deutscher Aussprachegewohnheiten fehlgedeutet werden kann. Verglichen werden jeweils die spanische Zielaussprache und eine deutsch geprägte Lernendenaussprache:
 
     <div class="audio-comparison">
-      <div class="audio-pair">
-        <div class="audio-block">
-          <h4>Zielaussprache:</h4>
-          <div class="example-ipa">[ew.ˈɾo.pa]</div>
-          <audio controls preload="metadata">
-            <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/europa_l1.mp3" type="audio/mpeg">
-            Dein Browser unterstützt das Audio-Format nicht.
-          </audio>
-        </div>
-        <div class="audio-block">
-          <h4>Lernendenaussprache:</h4>
-          <div class="example-ipa">&#42;[ɔɪ.ˈɾo.pa]</div>
-          <audio controls preload="metadata">
-            <source class="zc-audio-src" data-zc-src="assets/audiofiles/promat/europa_ele.mp3" type="audio/mpeg">
-            Dein Browser unterstützt das Audio-Format nicht.
-          </audio>
-        </div>
+      <div class="audio-block">
+        <h4>Zielaussprache:</h4>
+        <div class="example-ipa">[ew.ˈɾo.pa]</div>
+        <audio controls preload="metadata">
+          <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/europa_l1.mp3" type="audio/mpeg">
+          <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/europa_l1.m4a" type="audio/mp4">
+          Dein Browser unterstützt das Audio-Format nicht.
+        </audio>
       </div>
-      <div class="audio-pair">
-        <div class="audio-block">
-          <h4>Zielaussprache:</h4>
-          <div class="example-ipa">[ˈdeu̯.da]</div>
-          <audio controls preload="metadata">
-            <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/deuda_l1.mp3" type="audio/mpeg">
-            Dein Browser unterstützt das Audio-Format nicht.
-          </audio>
-        </div>
-        <div class="audio-block">
-          <h4>Lernendenaussprache:</h4>
-          <div class="example-ipa">&#42;[ˈdɔɪ̯.da]</div>
-          <audio controls preload="metadata">
-            <source class="zc-audio-src" data-zc-src="assets/audiofiles/promat/deuda_ele.mp3" type="audio/mpeg">
-            Dein Browser unterstützt das Audio-Format nicht.
-          </audio>
-        </div>
+      <div class="audio-block">
+        <h4>Lernendenaussprache:</h4>
+        <div class="example-ipa">&#42;[ɔɪ.ˈɾo.pa]</div>
+        <audio controls preload="metadata">
+          <source class="zc-audio-src" data-zc-src="assets/audiofiles/promat/europa_ele.mp3" type="audio/mpeg">
+          <source class="zc-audio-src" data-zc-src="assets/audiofiles/promat/europa_ele.m4a" type="audio/mp4">
+          Dein Browser unterstützt das Audio-Format nicht.
+        </audio>
+      </div>
+    </div>
+
+    <div class="audio-comparison">
+      <div class="audio-block">
+        <h4>Zielaussprache:</h4>
+        <div class="example-ipa">[ˈdeu̯.da]</div>
+        <audio controls preload="metadata">
+          <source src="/assets/audiofiles/marele/deuda_l1.mp3" type="audio/mpeg">
+          <source src="/assets/audiofiles/marele/deuda_l1.m4a" type="audio/mp4">
+          Dein Browser unterstützt das Audio-Format nicht.
+        </audio>
+      </div>
+      <div class="audio-block">
+        <h4>Lernendenaussprache:</h4>
+        <div class="example-ipa">&#42;[ˈdɔɪ̯.da]</div>
+        <audio controls preload="metadata">
+          <source src="/assets/audiofiles/promat/deuda_ele.mp3" type="audio/mpeg">
+          <source src="/assets/audiofiles/promat/deuda_ele.m4a" type="audio/mp4">
+          Dein Browser unterstützt das Audio-Format nicht.
+        </audio>
       </div>
     </div>
 
@@ -120,27 +123,24 @@ Die Schwierigkeit für Lernende – und die Ursache vieler Aussprachefehler (vgl
     Anhand der folgenden Audios hörst Du, dass ein spanischer Modellsprecher die Wörter *barón* und *varón* genau gleich ausspricht, weil sie im Spanischen trotz der unterschiedlichen Schreibung *homophon* sind. Lernende neigen hingegen dazu, das `<v>` wie im Deutschen und anderen Sprachen auszusprechen, was im Spanischen als Aussprachefehler gilt:
 
     <div class="audio-comparison">
-      <div class="audio-pair">
-        <div class="audio-block">
-          <h4>Zielaussprache:</h4>
-            <span class="example">
-            <i><strong>b</strong>arón</i> <span class="ipa">[baˈɾon]</span> – <i><strong>v</strong>arón</i> <span class="ipa">[baˈɾon]</span>
-            </span>
-          <audio controls preload="metadata">
-            <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/baron_varon_l1.mp3" type="audio/mpeg">
-            <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/baron_varon_l1.m4a" type="audio/mp4">
-            Dein Browser unterstützt das Audio-Format nicht.
-          </audio>
-        </div>
-        <div class="audio-block">
-          <h4>Lernendenaussprache:</h4>
-            <div class="example"><i><strong>b</strong>arón</i> <span class="ipa">[baˈʁon]</span> – <i><strong>v</strong>arón</i> <span class="ipa">&#42;[vaˈʁon]</span></div>
-          <audio controls preload="metadata">
-            <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/baron_varon_ele.mp3" type="audio/mpeg">
-            <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/baron_varon_ele.m4a" type="audio/mp4">
-            Dein Browser unterstützt das Audio-Format nicht.
-          </audio>
-        </div>
+      <div class="audio-block">
+        <h4>Zielaussprache:</h4>
+        <span class="example"><i><strong>b</strong>arón</i> <span class="ipa">[baˈɾon]</span> – <i><strong>v</strong>arón</i> <span class="ipa">[baˈɾon]</span>
+        </span>
+        <audio controls preload="metadata">
+          <source src="/assets/audiofiles/marele/baron_varon_l1.mp3" type="audio/mpeg">
+          <source src="/assets/audiofiles/marele/baron_varon_l1.m4a" type="audio/mp4">
+          Dein Browser unterstützt das Audio-Format nicht.
+        </audio>
+      </div>
+      <div class="audio-block">
+        <h4>Lernendenaussprache:</h4>
+        <div class="example"><i><strong>b</strong>arón</i> <span class="ipa">[baˈʁon]</span> – <i><strong>v</strong>arón</i> <span class="ipa">&#42;[vaˈʁon]</span></div>
+        <audio controls preload="metadata">
+          <source src="/assets/audiofiles/marele/baron_varon_ele.mp3" type="audio/mpeg">
+          <source src="/assets/audiofiles/marele/baron_varon_ele.m4a" type="audio/mp4">
+          Dein Browser unterstützt das Audio-Format nicht.
+        </audio>
       </div>
     </div>
 
@@ -212,7 +212,7 @@ Orthographien variieren viel weniger als die gesprochene Sprache, denn einerseit
 
 ### Man schreibt so, wie *in Kastilien* gesprochen wird
 
-Die spanische Orthographie ist zwar nah an der Aussprache, aber die Aussprache ist in der spanischsprachigen Welt natürlich nicht einheitlich. Je nachdem, wessen Aussprache man zugrunde legt, kann die Orthographie also doch etwas ‚tiefer‘ sein und damit auch etwas schwieriger zu erlernen. Die spanische Orthographie bildet auch heute noch die traditionelle Aussprache Kastiliens ab, die im Vergleich mit anderen Varietäten ein sogenanntes ‚Maximalsystem‘ aufweist, da dort `/s/` und `/θ/` sowie `/ʎ/` und `/ʝ/` unterschieden werden – bzw. *wurden*, da sich der *yeísmo* inzwischen weitgehend durchgesetzt hat (vgl. Kapitel [Aussprachevariation](./variation/variation_aussprache.md)). Zwar sind weltweit die allermeisten Sprecher:innen *seseantes*, und selbst in Kastilien gibt es heute kaum noch Sprecher:innen, die `/ʎ/` und `/ʝ/` unterscheiden, aber die Orthographie spiegelt nicht den Usus der Mehrheit wider. Für die meisten Sprecher:innen entspricht die graphische Unterscheidung zwischen `<s>`, `<z>`, `<c>` (vor `<e>` und `<i>`) sowie zwischen `<ll>` und `<y>` also nicht der eigenen Aussprache – und ist somit eine potenzielle Fehlerquelle. Frühere Reformversuche und alternative ‚amerikanische‘ Orthographien sind gescheitert oder wurden wieder aufgegeben. Heute gilt die Orthographie allen spanischsprachigen Ländern als Symbol der Einheit, während Aussprache, Wortschatz und Grammatik plurizentrisch variieren (vgl. Kapitel [Variation & Plurizentrik](./variation/variation_plurizentrik.md)).
+Die spanische Orthographie ist zwar nah an der Aussprache, aber die Aussprache ist in der spanischsprachigen Welt natürlich nicht einheitlich. Je nachdem, wessen Aussprache man zugrunde legt, kann die Orthographie also doch etwas ‚tiefer‘ sein und damit auch etwas schwieriger zu erlernen. Die spanische Orthographie bildet auch heute noch die traditionelle Aussprache Kastiliens ab, die im Vergleich mit anderen Varietäten ein sogenanntes ‚Maximalsystem‘ aufweist, da dort `/s/` und `/θ/` sowie `/ʎ/` und `/ʝ/` unterschieden werden – bzw. *wurden*, da sich der *yeísmo* inzwischen weitgehend durchgesetzt hat (vgl. Kapitel [Variation in der Aussprache](./variation/variation_aussprache.md)). Zwar sind weltweit die allermeisten Sprecher:innen *seseantes*, und selbst in Kastilien gibt es heute kaum noch Sprecher:innen, die `/ʎ/` und `/ʝ/` unterscheiden, aber die Orthographie spiegelt nicht den Usus der Mehrheit wider. Für die meisten Sprecher:innen entspricht die graphische Unterscheidung zwischen `<s>`, `<z>`, `<c>` (vor `<e>` und `<i>`) sowie zwischen `<ll>` und `<y>` also nicht der eigenen Aussprache – und ist somit eine potenzielle Fehlerquelle. Frühere Reformversuche und alternative ‚amerikanische‘ Orthographien sind gescheitert oder wurden wieder aufgegeben. Heute gilt die Orthographie allen spanischsprachigen Ländern als Symbol der Einheit, während Aussprache, Wortschatz und Grammatik plurizentrisch variieren (vgl. Kapitel [Variation & Plurizentrik](./variation/variation_plurizentrik.md)).
 
 ### Wortvarianten
 
@@ -234,16 +234,12 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten 
   
 
 !!! summary "Zusammenfassung"
-    Die spanische Orthographie gilt als regelmäßig, doch einige Punkte verdienen besondere Aufmerksamkeit:  
-
-    - Die Graphem-Phonem-Korrespondenzen sind weitgehend eindeutig. Nur wenige Ausnahmen wie `<b>` vs. `<v>` (beide `/b/`), stummes `<h>` oder die alternativen Grapheme für `/x/` (`<j>` und `<g>` vor `<e>`, `<i>`) müssen gelernt werden.  
-    - Der Wortakzent ist zentral: Er wird aber immer nur dann durch die Tilde (`´`) markiert, wenn er nicht dem häufigsten Betonungsmuster folgt. Wer die Regeln kennt, macht kaum noch Fehler.
-    - Die Orthographie ist im gesamten spanischsprachigen Raum einheitlich und orientiert sich weitgehend an der traditionellen Aussprache Kastiliens (Unterscheidung von interdentalem `/θ/` und `/s/` sowie von palatalem `/ʎ/` und `/ʝ/`).
-    - Variation gibt es bei v.a. bei Fremdwörtern (z.B. *video* vs. *vídeo*)  
-    - Lernende können sich meist am Prinzip „Schreibe, wie du sprichst“ orientieren, sollten aber die systematischen Ausnahmen kennen. Zweifelsfälle lassen sich über die frei zugänglichen Wörterbuchressourcen ([DLE](https://dle.rae.es/), [DPD](https://www.rae.es/dpd/)) schnell klären
+    Die spanische Orthographie gilt als regelmäßig, doch einige Punkte verdienen besondere Aufmerksamkeit. Die Graphem-Phonem-Korrespondenzen sind weitgehend eindeutig; nur wenige Ausnahmen wie `<b>` vs. `<v>` (beide `/b/`), stummes `<h>` oder die alternativen Grapheme für `/x/` (`<j>` und `<g>` vor `<e>`, `<i>`) müssen gezielt gelernt werden. Eine zentrale Rolle spielt der Wortakzent: Die Tilde (`´`) wird immer nur dann gesetzt, wenn die Betonung vom häufigsten Muster abweicht – wer die Regeln einmal verinnerlicht hat, macht kaum noch Fehler.  
+    
+    Im gesamten spanischsprachigen Raum ist die Orthographie einheitlich und orientiert sich weitgehend an der traditionellen Aussprache Kastiliens, die zwischen interdentalem `/θ/` und `/s/` sowie zwischen palatalem `/ʎ/` und `/ʝ/` unterscheidet. Variation zeigt sich vor allem bei Fremdwörtern, etwa *video* vs. *vídeo*. Insgesamt können sich Lernende meist am Prinzip „Schreibe, wie du sprichst" orientieren, sollten aber die systematischen Ausnahmen kennen. Zweifelsfälle lassen sich über die frei zugänglichen Wörterbuchressourcen ([DLE](https://dle.rae.es/), [DPD](https://www.rae.es/dpd/)) schnell klären.
 
 
-??? weiterlesen "Wer mehr wissen will"
+??? weiterlesen "Wer mehr wissen will …"
     Das grundlegende Referenzwerk ist die *[Ortografía de la lengua española](https://www.rae.es/ortograf%C3%ADa/)* (RAE/ASALE 2010) der Real Academia Española und der Asociación de Academias de la Lengua Española. Sie ist vollständig online verfügbar und bündelt alle Regeln, erläutert Sonderfälle und gibt Hinweise zu Fremdwörtern und Varianten. Ergänzend informiert das *[Diccionario panhispánico de dudas](https://www.rae.es/dpd/)* (RAE/ASALE 2025) über orthographische Zweifelsfälle, während das *[Diccionario de la lengua española](https://dle.rae.es)* (DLE) auch alternative Schreibungen angibt (s.o.).
 
     Für einen historischen und systematischen Überblick sind Meisenburgs Studien zu den romanischen Schriftsystemen (1996) besonders empfehlenswert. Tacke (2020) gibt eine aktuelle Gesamtdarstellung zu Orthographie und Orthoepie (Standardaussprache) im Spanischen. Einen praxisorientierten Zugang bietet Martínez de Sousa (2014) mit seinem *Manual de estilo de la lengua española*. Nützlich sind außerdem die digitalen Beratungsangebote der RAE ([@RAEinforma](https://x.com/RAEinforma)) und der [Fundéu](https://fundeu.es), die laufend neue orthographische Empfehlungen bereitstellen.
@@ -269,7 +265,7 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten 
   — (2025): *Diccionario panhispánico de dudas*. 2.ª ed. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/)  
 - Real Academia Española (online): *Diccionario de la lengua española (DLE)*. 23.ª ed. Online: [https://dle.rae.es](https://dle.rae.es)
 
-- Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Lebsanft, Franz / Tacke, Felix (Hg.): *Manual of Standardization in the Romance Languages*. Berlin/Boston: De Gruyter, 559–579.
+- Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Lebsanft, Franz / Tacke, Felix (Hg.): *Manual of Standardization in the Romance Languages*. Berlin / Boston: De Gruyter, 559–579.
 - Tacke, Felix (2023): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)
 
 </div>

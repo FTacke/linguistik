@@ -57,7 +57,7 @@ Die geographische Nähe oder Distanz sagt jedoch nur bedingt etwas über die spr
   
 Wie man in diesen Übersichten erkennt, sind Türkisch und Arabisch nicht einmal entfernt mit dem Spanischen verwandt, Sprachen wie Kurdisch oder Persisch sind hingegen entfernte Verwandte. Nun stellt sich natürlich die Frage, was das konkret für den Spanischunterricht bedeutet. Da dies kein Lehrbuch über die einzelnen Sprachen und Sprachfamilien ist, werden wir daher im Folgenden ausgehend von den lautlichen und grammatischen Strukturen des Spanischen anschauen, welche Sprachen jeweils Ähnlichkeiten oder Unterschiede aufweisen.
 
-## Strukturen im Vergleich: Chancen & Herausforderungen
+## Strukturen im Vergleich
 
 In diesem Abschnitt werden zentrale Eigenschaften ausgewählter Herkunftssprachen im Vergleich zum Deutschen beleuchtet. Dabei geht es sowohl um Merkmale, die das Spanischlernen erleichtern, als auch um solche, die zu typischen Stolpersteinen werden können. Für jede Eigenschaft wird knapp erklärt, wie sie im Spanischen und Deutschen ausgeprägt ist und in welchen Herkunftssprachen ähnliche oder abweichende Strukturen vorliegen.
 
@@ -67,11 +67,11 @@ In diesem Abschnitt werden typische Ausspracheneigenheiten vorgestellt, die für
 
 #### Gerolltes `/r/`: Normal in allen Herkunftssprachen
 
-Wer Spanisch lernt, begegnet schon zu Beginn dem ‚gerollten R', das für Lernende mit Deutsch als Erstsprache meist eine Herausforderung darstellt, da das R im Standarddeutschen uvular (hinten) ausgesprochen wird (vgl. Kapitel [Aussprache](./aussprache.md)). Schüler:innen mit den hier betrachteten Herkunftssprachen – egal ob Türkisch, Kurdisch oder Italienisch – bringen hier einen klaren Startvorteil mit, denn das `/r/` wird dort an der gleichen Stelle artikuliert wie im Spanischen.
+Wer Spanisch lernt, begegnet schon zu Beginn dem ‚gerollten R‘, das für Lernende mit Deutsch als Erstsprache meist eine Herausforderung darstellt, da das R im Standarddeutschen uvular (hinten) ausgesprochen wird (vgl. Kapitel [Aussprache](./aussprache.md)). Schüler:innen mit den hier betrachteten Herkunftssprachen – egal ob Türkisch, Kurdisch oder Italienisch – bringen hier einen klaren Startvorteil mit, denn das `/r/` wird dort an der gleichen Stelle artikuliert wie im Spanischen.
 
 Sprachvergleichend ist es sogar so, dass in der Mehrzahl der Sprachen der Welt das `/r/` alveolar, also mit der Zungenspitze, artikuliert wird. Sprachen wie Deutsch und Französisch, in denen das `/r/` uvular ausgesprochen wird, sind weltweit in der Minderheit.  
 
-Allerdings weist das Spanische eine Besonderheit auf – sowohl im Vergleich mit dem Deutschen als auch mit den Herkunftssprachen –, nämlich die Unterscheidung zwischen einfachem `/ɾ/` und mehrfach gerolltem `/r/`, die wortintern bedeutungsunterscheidend sein kann (z.B. *caro* vs. *carro*). In den hier betrachteten Sprachen gibt es diese Unterscheidung nicht – nicht einmal im Italienischen. Vielmehr finden sich dort, je nach Dialekt oder lautlicher Umgebung, lediglich Präferenzen für einfaches Anschlagen oder mehrfaches Rollen. In manchen Sprachen, wie zum Beispiel dem Türkischen, ist das mehrfache Vibrieren sogar unüblich und muss erst erlernt werden. In jedem Fall ist aber der Artikulationsort bereits vertraut. Detailliertere Informationen zu den einzelnen Sprachen findest du im folgenden Kasten.
+Allerdings weist das Spanische eine Besonderheit auf – sowohl im Vergleich mit dem Deutschen als auch mit den Herkunftssprachen –, nämlich die Unterscheidung zwischen einfachem `/ɾ/` und mehrfach gerolltem `/r/`, die wortintern bedeutungsunterscheidend sein kann (z.B. *caro* vs. *carro*). In den hier betrachteten Sprachen gibt es diese Unterscheidung nicht – nicht einmal im Italienischen. Vielmehr finden sich dort, je nach Dialekt oder lautlicher Umgebung, lediglich Präferenzen für einfaches Anschlagen oder mehrfaches Rollen. In manchen Sprachen, wie zum Beispiel dem Türkischen, ist das mehrfache Vibrieren sogar unüblich und muss erst erlernt werden. In jedem Fall ist aber der Artikulationsort bereits vertraut. Detailliertere Informationen zu den einzelnen Sprachen findest Du im folgenden Kasten.
 
 ??? expand "Mehr zum R in den Herkunftssprachen"
     **Türkisch:** Das `/r/` ist stets ein Zungenspitzenvibrant (Tap), der meist einfach geschlagen wird als `[ɾ]` – unabhängig von der Wortposition. Ein mehrfach gerolltes `[r]` kommt im Türkischen nicht systematisch vor.
@@ -142,7 +142,7 @@ Insgesamt profitieren alle Gruppen von kontrastiven Vergleichen: Je vertrauter i
 
 ### Sprachen ohne Artikel
 
-Da man sowohl im Spanischen als auch im Deutschen Artikel verwendet, macht man sich womöglich wenig Gedanken darüber, dass es Sprachen gibt, in denen es keine Artikel gibt – weder bestimmte noch unbestimmte (wer Latein gelernt hat, mag sich erinnern!).  
+Mit dem Genus eng verknüpft ist eine weitere Kategorie, die man als Deutschsprechende leicht für selbstverständlich hält: der Artikel. Sowohl das Spanische als auch das Deutsche verwenden bestimmte und unbestimmte Artikel – doch diese Kategorie ist keineswegs universell. Wer Latein gelernt hat, erinnert sich vielleicht: Dort gab es keine Artikel, und viele der hier betrachteten Herkunftssprachen kommen ebenfalls ohne sie aus.  
 
 Schüler:innen mit deutscher Erstsprache haben es nicht besonders schwer: Lediglich die Formen (und Verbindungen mit Präpositionen wie *a* + *el*) sind zu erlernen. Die Verwendung der Artikel ist bis auf wenige Ausnahmen wie im Deutschen und die Funktionen, die zwischen bestimmten und unbestimmten Artikeln unterscheiden lassen, sind daher meist intuitiv klar (auch wenn die meisten sie gar nicht benennen können).  
 
@@ -185,9 +185,9 @@ Für den Unterricht heißt das: Je stärker das Herkunftssystem dem Spanischen �
 
 Mit Blick auf diese Herkunftssprachen braucht es also systematische Einführung, viel Übung und konsequentes Feedback, um den Artikelgebrauch zu automatisieren. Artikelfehler sind dabei ein gutes Beispiel für systematischen Transfer: Wer keine Artikel kennt, macht nicht ‚Fehler aus Unachtsamkeit‘, sondern setzt eine Erstsprachroutine ein, der im Spanischen keine Entsprechung gegenübersteht. Das Kapitel [Fehlerlinguistik](./fehlerlinguistik.md) zeigt, wie solche Interferenzfehler diagnostisch genutzt werden können.  
 
-### *(**Yo**) aprend**o** español*: Wie Person markiert wird  
+### *(Yo) aprendo español*: Wie Person markiert wird  
 
-In jeder Sprache muss erkennbar sein, wer handelt: *ich*, *du*, *er/sie*. Dafür gibt es verschiedene Mittel. Manche Sprachen zeigen die Person hauptsächlich an der Verbendung, andere brauchen zusätzlich ein Subjektpronomen. Deutsch und Französisch gehören zur zweiten Gruppe: *ich gehe, du gehst, er/sie geht*, *j'aime, tu aimes, il aime* – die Endung allein reicht teilweise nicht aus (bei den französischen Verben hört man oft keinerlei Unterschied!), daher ist das Pronomen immer dabei.
+In jeder Sprache muss erkennbar sein, wer handelt: *ich*, *du*, *er/sie*. Dafür gibt es verschiedene Mittel. Manche Sprachen zeigen die Person hauptsächlich an der Verbendung, andere brauchen zusätzlich ein Subjektpronomen. Deutsch und Französisch gehören zur zweiten Gruppe: *ich gehe, du gehst, er/sie geht*, *j’aime, tu aimes, il aime* – die Endung allein reicht teilweise nicht aus (bei den französischen Verben hört man oft keinerlei Unterschied!), daher ist das Pronomen immer dabei.
 
 Im Spanischen ist es anders. Jede Person hat ihre eigene Verbendung, und diese Unterschiede sind auch in der Aussprache gut hörbar: *hablo, hablas, habla, hablamos, habláis, hablan*. Das Pronomen wird nur ausnahmsweise genannt, nämlich wenn etwas besonders hervorgehoben werden soll, zum Beispiel in *Ella canta, yo no* (‘Sie singt, ich nicht’). Für Lernende bedeutet das: Die Verbendung genügt, Pronomen erscheinen nur selten zur Hervorhebung.
 
@@ -221,11 +221,11 @@ Viele Herkunftssprachen der Lernenden verhalten sich ähnlich wie das Spanische.
     **Paschtu:** Personenaffixe am Verb; Pronomen tritt je nach Tempus/Aspekt häufiger oder seltener auf. Beispiel: *razam* ‘ich komme’ / *za razam* (hervorgehoben).
 
 
-Für den Unterricht heißt das: Lernende müssen im Spanischen bewusst wahrnehmen, dass die Verbendung reicht und dies einüben. Viele Schüler:innen mit einer der Herkunftssprache sind hier wieder klar im Vorteil und darauf darf im Unterricht auch hingewiesen werden.
+Für den Unterricht heißt das: Lernende müssen im Spanischen bewusst wahrnehmen, dass die Verbendung reicht und dies einüben. Viele Schüler:innen mit einer der Herkunftssprache sind hier wieder klar im Vorteil – und darauf darf im Unterricht auch hingewiesen werden.
 
 ### SVO oder SOV? Wortstellung im Vergleich
 
-Wenn man Wortstellungen überblicksartig beschreibt, wird oft stark vereinfacht. So werden Deutsch und Spanisch beide gern als *S–V–O-Sprachen* bezeichnet: *María escribe la carta* / *Maria schreibt den Brief*. Diese Sicht ist nützlich für den Einstieg, doch sie verdeckt wichtige Unterschiede.
+Neben der Frage, *wie* das Verb die Person markiert, stellt sich die Frage, *wo* es im Satz steht. Wenn man Wortstellungen überblicksartig beschreibt, wird oft stark vereinfacht. So werden Deutsch und Spanisch beide gern als *S–V–O-Sprachen* bezeichnet: *María escribe la carta* / *Maria schreibt den Brief*. Diese Sicht ist nützlich für den Einstieg, doch sie verdeckt wichtige Unterschiede.
 
 In beiden Sprachen gibt es Spielräume. Im Deutschen kann das Objekt vorangestellt werden, ohne dass die Struktur falsch wird: *Den Brief schreibt Maria heute.* Entscheidend ist, dass das konjugierte Verb im Hauptsatz an zweiter Stelle bleibt. Im Spanischen lässt sich ebenfalls umstellen: *La carta la escribe María* oder *Hoy escribe María la carta*. Auch hier geht es nicht um eine starre Reihenfolge, sondern um Betonung und Informationsgewicht.
 
@@ -235,7 +235,7 @@ Andere Herkunftssprachen sind näher am Spanischen. Italienisch und Bosnisch/Kro
 
 Im Unterricht sollte man also sensibel sein für Unterschiede, die möglicherweise durch die Herkunftssprachen bedingt sind. Falls man die Wortstellung daher einmal zum Thema macht, lässt sich daran auch bewusst machen, dass es keine ‚natürliche‘ oder ‚bessere‘ Wortstellung gibt, sondern dass Sprachen weltweit zeigen, wie unterschiedlich ein und derselbe Sachverhalt grammatisch ausgedrückt werden kann.
 
-### Kasus und Präpositionen in den Herkunftssprachen
+### Kasus und Präpositionen
 
 Statt *Maria**s** Buch* (Genitiv) sagt Spanisch *el libro **de María***. Aber viele würden im Deutschen heutzutage ohnehin eher *das Buch **von Maria*** (oder gar ***Maria ihr** Buch*) sagen. Man sieht: Solche Beziehungen und Rollen im weiteren Sinne können auf unterschiedliche Art und Weise ausgedrückt werden. Sprachen arbeiten mit Endungen, mit Präpositionen und mit Wortstellung. Das Deutsche, das Spanische und die hier betrachteten Herkunftssprachen decken dieses Spektrum in unterschiedlichen Mischungen ab.
 
@@ -247,32 +247,17 @@ Die Herkunftssprachen bringen diesbezüglich unterschiedliche Vorerfahrungen mit
 
 Für den Unterricht heißt das: Es geht primär darum, Rollen und Beziehungen sicher zu erkennen und im Spanischen passend auszudrücken. Wichtig ist auch hier vor allem das Bewusstsein, dass Sprachen dieselben Funktionen unterschiedlich kodieren.
 
-## Empfehlungen für den Unterricht
+## Vom Vergleich zur Praxis
 
-Für einen erfolgreichen Spanischunterricht in sprachlich heterogenen Lerngruppen ist Sensibilisierung zentral – sowohl bei den Lehrkräften als auch bei den Schüler:innen. Das entspricht auch den Zielen zahlreicher Lehrpläne, die Sprachbewusstheit als förderwürdige Kompetenz ausweisen. Über sprachvergleichende Reflexion entsteht dabei ein neuer Zugang nicht nur zum Spanischen, sondern auch zur Herkunftssprache und zum Deutschen.  
+Für einen erfolgreichen Spanischunterricht in sprachlich heterogenen Lerngruppen ist Sensibilisierung zentral – auf beiden Seiten. Für Dich als Lehrkraft bedeutet das: Je mehr Du über die Herkunftssprachen Deiner Schüler:innen weißt, desto besser kannst Du einordnen, warum bestimmte Fehler auftreten und warum manche Lernende bestimmte Strukturen schneller erfassen als andere. Du musst dafür nicht Türkisch oder Arabisch sprechen – ein Bewusstsein für die in diesem Kapitel skizzierten strukturellen Unterschiede genügt, um Lernfortschritte gezielter zu erkennen und Fehler als Effekte der Mehrsprachigkeit einzuordnen statt als Defizite zu bewerten (vgl. Kapitel [Fehlerlinguistik](./fehlerlinguistik.md)).
 
-### Lehrkräfte sensibilisieren
+Auch die Lernenden selbst profitieren davon, sprachliche Unterschiede bewusst wahrzunehmen. Reflexionsimpulse wie „Wie drückt deine Herkunftssprache Zukunft, Besitz oder Richtung aus?“ öffnen Perspektiven, ohne dass man Expert:in sein muss. Dabei sollte kein ‚bewusstes Regelwissen‘ über die Herkunftssprache vorausgesetzt werden – viele Herkunftssprachen wurden vor allem mündlich erworben, sodass schriftsprachliche Differenzierungen unbekannt sein können. Ebenso gilt: Das Fehlen eines grammatischen Merkmals wie des Artikels bedeutet keinen Mangel – die Funktion wird lediglich anders erfüllt. Fragen und Antworten zu den Herkunftssprachen sollten daher immer Angebote sein, keine Pflicht.
 
-Ein grundlegendes Wissen über Herkunftssprachen und ihre Unterschiede zum Spanischen ist für Dich als Lehrkraft von großem Vorteil. Je nach den Herkunftssprachen der Schüler:innen werden ganz unterschiedliche Fehler beim Erlernen des Spanischen gemacht; umgekehrt erlernen manche Schüler:innen neue Strukturen schneller als andere.  
-
-Je mehr Du über diese Sprachen weißt, desto mehr werden solche Fehler oder Vorteile als Effekte der Mehrsprachigkeit verständlich. Im Kapitel [Fehlerlinguistik](./fehlerlinguistik.md) wird bereits verdeutlicht, wie Fehler diagnostisch genutzt werden können: Sie legen offen, was bereits verstanden ist und wo Förderbedarf besteht. Besonders bei den Herkunftssprachen kann das Wissen über strukturelle Unterschiede – etwa *Genus* im Spanischen vs. kein *Genus* im Türkischen – helfen, Lernfortschritte gezielter zu erkennen.  
-
-### Schüler:innen sensibilisieren
-
-Sprachbewusstheit fördern heißt, Unterschiede und Gemeinsamkeiten zwischen Sprachen sichtbar zu machen. Es gibt keine besseren oder schlechteren Sprachen: Deutsch ist nicht ‚besser‘ als Türkisch und Spanisch nicht ‚schlechter‘ oder ‚besser‘ als Arabisch. Sprachen erfüllen denselben kommunikativen Zweck lediglich auf unterschiedliche Weise. Reflexionsimpulse wie „Wie drückt deine Herkunftssprache Zukunft, Besitz oder Richtung aus?“ öffnen Perspektiven, ohne Expert:innenwissen zu erzwingen. Bei den Schüler:innen darf dabei aber kein ‚bewusstes Regelwissen‘ über ihre Herkunftssprache vorausgesetzt werden. Berücksichtige zudem, dass viele Herkunftssprachen vor allem mündlich erworben wurden und die Schriftsprache und Differenzierungen, die (nur) dort vorkommen, möglicherweise unbekannt sind.   
-
-Das Fehlen eines grammatischen Merkmals, wie z.B. der Artikel, bedeutet keinen Mangel: Die Funktion wird anders erfüllt, oft mit weniger grammatischer Markierung. Kleine sprachvergleichende Aufgaben, z.B. „Wie sagt man den Satz X im Spanischen und Deutschen im Vergleich mit den Herkunftssprachen?“, können diesen Perspektivwechsel unterstützen. Fragen und Antworten zu den Herkunftssprachen sollten aber immer nur Angebote sein, diese Perspektive im Unterricht zu vertiefen. Weder für Lehrende noch für die Schüler:innen soll hier Zwang entstehen.   
-
-### Mehrsprachigkeit als Ressource
-
-Werden Herkunftssprachen aktiv genutzt, stärken sich Beziehungen im Klassenraum. Gemeinsam lässt sich interkulturelles Wissen vernetzen und Mehrsprachigkeit als Normalität etablieren. Organisiere Beiträge am besten so, dass alle mitdenken können.  
+Werden Herkunftssprachen im Unterricht aktiv aufgegriffen, stärkt das nicht nur die fachliche Reflexion, sondern auch die Beziehungen im Klassenraum. Mehrsprachigkeit wird als Normalität sichtbar, interkulturelles Wissen kann vernetzt und sprachliche Vielfalt als Ressource erfahrbar werden. So wird Spanischlernen nicht nur ein sprachlicher Gewinn, sondern auch ein metasprachlicher: Lernende nutzen ihr gesamtes sprachliches Repertoire reflektiert, nehmen Unterschiede bewusst wahr und entwickeln Strategien, die ihnen auch beim Erwerb weiterer Sprachen zugutekommen.  
 
 !!! praxis "Mehrsprachigkeit sichtbar machen: Karte nutzen!"
-    Nutze die [interaktive Karte](#herkunftssprachen-sprachfamilien) der Herkunftssprachen im Vollbildmodus. Lasse Lernende die Sprachen, die sie selbst oder ihre Mitschüler:innen sprechen, auf der Karte verorten. So lässt sich Mehrsprachigkeit auch visuell sichtbar machen.  
+    Nutze die [interaktive Karte](#herkunftssprachen-sprachfamilien) der Herkunftssprachen im Vollbildmodus. Lasse Lernende die Sprachen, die sie selbst oder ihre Mitschüler:innen sprechen, auf der Karte verorten. So lässt sich Mehrsprachigkeit auch visuell sichtbar machen.
 
-### Didaktische Konsequenz
-
-Kenntnisse über Herkunftssprachen und ein sensibler Umgang damit ermöglichen einen Unterricht, in dem Fehlerquellen erklärbar, Vorteile nutzbar und Potenziale mehrsprachiger Lernender sichtbar werden. Spanischlernen wird so nicht nur ein sprachlicher Gewinn, sondern auch ein metasprachlicher (Sprechen über Sprache/n). Die Einbindung von Sprachbewusstheit sorgt zusätzlich dafür, dass Lernende ihr gesamtes sprachliches Repertoire reflektiert nutzen, Unterschiede bewusst wahrnehmen und Lernstrategien für weitere Sprachen entwickeln.  
 
 !!! summary "Zusammenfassung"
     Die häufigsten Herkunftssprachen in Deutschland sind vor allem Türkisch, Russisch, Arabisch und Polnisch; daneben spielen auch Italienisch, Kurdisch, BKS und Englisch eine Rolle. Herkunftssprachen wirken sich auf Aussprache, Grammatik, Wortschatz und Lernstrategien aus, wobei sie sowohl positive Transfers ermöglichen als auch Interferenzen hervorrufen können.
@@ -281,10 +266,10 @@ Kenntnisse über Herkunftssprachen und ein sensibler Umgang damit ermöglichen e
 
     Didaktisch bedeutet das: Fehler sollten nicht als Defizite betrachtet, sondern als Diagnoseinstrument verstanden werden (vgl. Kapitel [Fehlerlinguistik](./fehlerlinguistik.md)). Ein sensibler Umgang mit Herkunftssprachen, die Sichtbarmachung von Mehrsprachigkeit etwa durch die interaktive Karte und die Förderung von Sprachbewusstsein schaffen die Grundlage dafür, dass Herkunftssprachen als Ressource wirken können.
 
-??? weiterlesen "Wer mehr wissen will ..."
-    Die Forschung zu Herkunftssprachen hat sich gewandelt: Während sie früher vor allem als Fehlerquelle gesehen wurden, zeigen Werke wie Gogolin (2008) und Neumann & Gogolin (2009), wie stark das Schulsystem von einem monolingualen Habitus geprägt war. Demgegenüber plädiert Krumm (2016) für die Anerkennung von Familiensprachen als Ressource.
+??? weiterlesen "Wer mehr wissen will …"
+    Die Forschung zu Herkunftssprachen hat sich gewandelt: Während sie früher vor allem als Fehlerquelle gesehen wurden, zeigen Werke wie Gogolin (2008) und Neumann / Gogolin (2009), wie stark das Schulsystem von einem monolingualen Habitus geprägt war. Demgegenüber plädiert Krumm (2016) für die Anerkennung von Familiensprachen als Ressource.
 
-    Einen systematischen Überblick bieten *Brehmer & Mehlhorn (2018) sowie die Handbücher von Gogolin, Hansen, McMonagle & Rauch (2020) und von Fäcke & Meißner (2019)*. Sie bündeln theoretische Grundlagen, empirische Befunde und didaktische Ansätze. Speziell für den deutschen Kontext beschreibt Mehlhorn (2017) die Stellung von Herkunftssprachen im Schulsystem und ihre Rolle im Fremdsprachenunterricht.
+    Einen systematischen Überblick bieten Brehmer / Mehlhorn (2018) sowie die Handbücher von Gogolin et al. (2020) und von Fäcke / Meißner (2019). Sie bündeln theoretische Grundlagen, empirische Befunde und didaktische Ansätze. Speziell für den deutschen Kontext beschreibt Mehlhorn (2017) die Stellung von Herkunftssprachen im Schulsystem und ihre Rolle im Fremdsprachenunterricht.
 
     Aus linguistischer Perspektive steht heute im Vordergrund, Herkunftssprachen als gleichwertige Systeme zu begreifen und ihre typologischen Unterschiede – etwa im Bereich von Artikeln, Genus oder Satzbau – für Forschung und Unterricht reflektiert zu nutzen.
 
@@ -307,6 +292,6 @@ Kenntnisse über Herkunftssprachen und ein sensibler Umgang damit ermöglichen e
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Jamaa Khodja, Selina Scholz, Felix Tacke (2026): „Herkunftssprachen“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
+    Khodja, Jamaa / Scholz, Selina / Tacke, Felix (2026): „Herkunftssprachen“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)

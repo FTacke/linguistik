@@ -49,7 +49,7 @@ Im Unterricht lässt sich die Derivation besonders gut nutzen, um Wortschatzarbe
 
 Besonders typisch für das Spanische – und im Unterricht früh relevant – sind die Diminutiv- und Augmentativsuffixe. Diminutive wie *perrito* ‘Hündchen’ oder *casita* ‘Häuschen’ drücken nicht nur Verkleinerung aus, sondern auch Nähe oder Zuneigung (*mi abuelita*), manchmal auch Ironie (*señorito*). Augmentative wie *hombrazo* oder [*portón*](https://dle.rae.es/portón) ‘großes Tor’ verstärken Größe oder Intensität; je nach Kontext können sie auch abwertend wirken, wie in [*manazo*](https://dle.rae.es/manazo) ‘grober Handgriff, Tatze’.
 
-Die Diminutivbildung variiert zudem regional: Während in Spanien *-ito/-ita* dominiert, sind in Mexiko Formen wie *ahorita* oder *lueguito* so verbreitet, dass sie kaum noch als Verkleinerung empfunden werden, und in Kolumbien oder Venezuela begegnet man häufig dem Suffix *-ico/-ica* (z.B. *momentico*). Diese Variation ist im Kapitel [Grammatische Variation](variation/variation_grammatik.md) ausführlicher behandelt und bietet im Unterricht Anlass, über die Vielfalt des Spanischen zu sprechen.
+Die Diminutivbildung variiert zudem regional: Während in Spanien *-ito/-ita* dominiert, sind in Mexiko Formen wie *ahorita* oder *lueguito* so verbreitet, dass sie kaum noch als Verkleinerung empfunden werden, und in Kolumbien oder Venezuela begegnet man häufig dem Suffix *-ico/-ica* (z.B. *momentico*). Diese Variation wird im Kapitel [Variation in Morphologie und Syntax](variation/variation_morphosyntax.md#diminutive-mehr-als-verkleinerung) ausführlicher behandelt und bietet im Unterricht Anlass, über die Vielfalt des Spanischen zu sprechen.
 
 ??? expand "Struktur der Derivation & Beispiele"
     Das Grundprinzip der Derivation ist einfach: An ein vorhandenes Lexem wird ein Affix angefügt, das Bedeutung oder Wortart verändert. Suffixe bewirken dabei häufig einen Wortartwechsel: *-ción/-sión* bildet Handlungssubstantive (*educación*, *decisión*), *-ero/-ista* Berufs- oder Zugehörigkeitsbezeichnungen ([*panadero*](https://dle.rae.es/panadero), *futbolista*), *-ito/-illo* Diminutive (*perrito*, [*ventanilla*](https://dle.rae.es/ventanilla)), *-ón/-azo* Augmentative ([*portón*](https://dle.rae.es/portón), [*manazo*](https://dle.rae.es/manazo)), und *-oso/-able* adjektivische Eigenschaften (*hermoso*, *cantable*).
@@ -105,6 +105,8 @@ Keine Sprache existiert in einem Vakuum. Das Spanische hat im Laufe seiner Gesch
 
 Entlehnungen entstehen, wenn Wörter aus einer anderen Sprache übernommen werden. Dabei gibt es unterschiedliche Grade der Integration: Manche Wörter werden lautlich und orthographisch vollständig angepasst (*fútbol* aus engl. *football*), andere behalten ihre fremde Schreibung weitgehend bei (*software*, *wifi*). Gerade bei der Schreibung von Fremdwörtern zeigt sich, dass das Spanische Variation zulässt: *fútbol* und *futbol*, *vídeo* und *video* existieren je nach Land nebeneinander – beides ist korrekt (vgl. Kapitel [Orthographie](orthographie.md#fremdwörterintegration) und [Fehlerlinguistik](fehlerlinguistik.md#nicht-jede-abweichung-ist-ein-fehler)).
 
+Besonders produktiv ist die Übernahme englischer Verben, die nach dem Muster *-ear* ins Spanische integriert werden: *googlear* ‘googeln’, *chatear* ‘chatten’, *stalkear* ‘stalken’, *tuitear* ‘twittern’. Das Muster folgt einer klaren Wortbildungsregel: Der englische Stamm wird mit dem spanischen Suffix *-ear* verbunden und anschließend regulär konjugiert – *googleo*, *googleas*, *googleamos*. Für den Unterricht ist das ein anschaulicher Fall, in dem Entlehnung und Derivation zusammenwirken: Die fremde Wurzel wird durch ein produktives spanisches Suffix grammatisch ‚eingebürgert‘. Gleichzeitig zeigt sich hier die Dynamik des Sprachkontakts: Während manche dieser Formen längst alltagssprachlich etabliert sind, empfehlen Sprachpflegeinstitutionen wie die *Fundéu* oft spanische Alternativen – etwa [*acosar* statt *stalkear*](https://www.fundeu.es/recomendacion/espiar-acechar-o-acosar-mejor-que-stalkear/). Ob sich die Entlehnung oder die heimische Alternative durchsetzt, entscheidet letztlich der Sprachgebrauch.
+
 Von direkten Entlehnungen zu unterscheiden sind Lehnübersetzungen: Hier wird nicht das fremde Wort selbst übernommen, sondern seine Bedeutung mit spanischen Elementen nachgebildet. So wurde aus dem englischen *skyscraper* das spanische [*rascacielos*](https://dle.rae.es/rascacielos) ‘Wolkenkratzer’ (wörtlich: ‘kratzt Himmel’), aus *honeymoon* die *luna de miel* ‘Flitterwochen’ (wörtlich: ‘Honigmond’). Lehnübersetzungen machen besonders gut sichtbar, wie Sprache fremde Konzepte aufnimmt und in die eigene Struktur überführt – ein Prozess, den Lernende im Sprachvergleich mit dem Deutschen, dem Englischen oder ihren Herkunftssprachen unmittelbar nachvollziehen können (vgl. Kapitel [Herkunftssprachen](herkunftssprachen.md)).
 
 !!! praxis "Entlehnungen und Sprachkontakt erfahrbar machen"
@@ -124,10 +126,10 @@ Sprache bleibt also immer in Bewegung und kann nie vollständig in einem einzige
 !!! summary "Zusammenfassung"
     Wortbildung im Spanischen folgt erkennbaren Mustern, die sich im Unterricht gezielt nutzen lassen. Die Derivation – die Bildung neuer Wörter durch Präfixe und Suffixe – ist das produktivste Verfahren und bietet Lernenden einen systematischen Zugang zur Erschließung unbekannten Wortschatzes. Die Komposition kombiniert bestehende Wörter zu neuen Einheiten und lässt sich gut im Sprachvergleich mit dem Deutschen einsetzen. Daneben gibt es Verkürzungen, Konversion und Kontamination als weitere, weniger produktive Verfahren. Entlehnungen und Lehnübersetzungen schließlich zeigen, wie Sprachen in Kontakt stehen und sich gegenseitig bereichern – und werfen die Frage auf, ab wann ein neues Wort eigentlich zur Sprache gehört. Für den Unterricht bedeutet das: Wortbildung ist nicht nur Grammatik, sondern ein Zugang zu sprachlicher Kreativität, kultureller Vielfalt und der Dynamik des Spanischen.
 
-??? weiterlesen "Wer mehr wissen will"
-    Einführende Darstellungen zur Wortbildung bieten Kabatek/Pusch (2011), die zentrale Begriffe der spanischen Morphologie vorstellen und in den Gesamtaufbau des Lexikons einordnen. Speziellere und vertiefende Analysen finden sich bei Rainer (1993) sowie Varela (2005), die Formen, Funktionen und Produktivität einzelner Wortbildungsmuster systematisch beschreiben. Sehr ausführlich behandelt das Thema auch die *Nueva gramática de la lengua española* (RAE/ASALE 2009–2011, 2.ª ed. 2025), deren Ausgabe von 2009 [online durchsuchbar](https://www.rae.es/gram%C3%A1tica/) ist.
+??? weiterlesen "Wer mehr wissen will …"
+    Einführende Darstellungen zur Wortbildung bieten Kabatek / Pusch (2011), die zentrale Begriffe der spanischen Morphologie vorstellen und in den Gesamtaufbau des Lexikons einordnen. Speziellere und vertiefende Analysen finden sich bei Rainer (1993) sowie Varela (2005), die Formen, Funktionen und Produktivität einzelner Wortbildungsmuster systematisch beschreiben. Sehr ausführlich behandelt das Thema auch die *Nueva gramática de la lengua española* (RAE/ASALE 2009–2011, 2.ª ed. 2025), deren Ausgabe von 2009 [online durchsuchbar](https://www.rae.es/gram%C3%A1tica/) ist.
 
-    Für didaktisch orientierte Zugänge sind vor allem Serrano-Dolader (2019) und Entre/Gumiel-Molina (2024) relevant. Beide Werke verbinden linguistische Grundlagen mit methodischen Vorschlägen für den Unterricht. Ergänzend bietet das [Online-Dossier](https://cvc.cervantes.es/ensenanza/biblioteca_ele/antologia_didactica/morfologia/default.htm) des Instituto Cervantes praxisnahe Materialien und Aufgabenformate.
+    Für didaktisch orientierte Zugänge sind vor allem Serrano-Dolader (2019) und Entre / Gumiel-Molina (2024) relevant. Beide Werke verbinden linguistische Grundlagen mit methodischen Vorschlägen für den Unterricht. Ergänzend bietet das [Online-Dossier](https://cvc.cervantes.es/ensenanza/biblioteca_ele/antologia_didactica/morfologia/default.htm) des Instituto Cervantes praxisnahe Materialien und Aufgabenformate.
 
 
 ## Literatur
@@ -136,6 +138,7 @@ Sprache bleibt also immer in Bewegung und kann nie vollständig in einem einzige
 
 - DLE *Diccionario de la lengua española*  
 - DPD *Diccionario panhispánico de dudas*  
+- Fundéu *Fundación del Español Urgente*
 - NGLE *Nueva gramática de la lengua española*  
 
 </div>
@@ -146,6 +149,7 @@ Sprache bleibt also immer in Bewegung und kann nie vollständig in einem einzige
 - Colegio de México (online): *Diccionario del español de México (DEM)*. Online: [https://dem.colmex.mx/](https://dem.colmex.mx/)
 - CVC – Instituto Cervantes (Hrsg.): *La formación de palabras en la clase de ELE*. In: *Antología didáctica de morfología*. Online: [https://cvc.cervantes.es/](https://cvc.cervantes.es/ensenanza/biblioteca_ele/antologia_didactica/morfologia/default.htm)
 - Entre, María Ángeles / Gumiel-Molina, Susana (Hg.) (2024): *Didáctica de la morfología*. Alcalá de Henares: Universidad de Alcalá.
+- Fundación del Español Urgente (Fundéu) (o.J.). Online: [https://www.fundeu.es/](https://www.fundeu.es/)
 - Kabatek, Johannes / Pusch, Claus D. (2011): *Spanische Sprachwissenschaft*. 2., überarb. Aufl. Tübingen: Narr Francke Attempto.
 - Rainer, Franz (1993): *Spanische Wortbildungslehre*. Tübingen: Niemeyer. DOI: [https://doi.org/10.1515/9783110956054](https://doi.org/10.1515/9783110956054)  
 
@@ -164,6 +168,6 @@ Sprache bleibt also immer in Bewegung und kann nie vollständig in einem einzige
 
 
 !!! cite "Dieses Kapitel zitieren"
-    Büşra Özen, Teodora Teodorescu, Felix Tacke (2026): „Lexikalische Kreativität“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
+    Özen, Büşra / Teodorescu, Teodora / Tacke, Felix (2026): „Lexikalische Kreativität“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)

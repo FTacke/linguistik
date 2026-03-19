@@ -18,7 +18,7 @@ In diesem Kapitel geht es nun darum, wie ein solider linguistischer Zugriff zu e
 
 Welche Herausforderungen beinhaltet der Erwerb einer soliden Aussprachekompetenz? Wenn wir vom Deutschen ausgehen, lassen sich drei Bereiche unterscheiden: Laute, die im Spanischen anders artikuliert werden als im Deutschen (v.a. die R-Laute), Laute, die ganz neu zu erlernen sind (z.B. `/ɲ/`, `/θ/`), und Fälle, in denen ein Graphem keinen Lautwert besitzt (das stumme `<h>`) oder zwei Grapheme denselben Laut abbilden (`<b>` und `<v>`). Dabei soll nicht außer Acht gelassen werden, dass manche Lernende eine andere Erstsprache als Deutsch mitbringen: Was für die einen eine Hürde ist, kann für andere eine Leichtigkeit sein – und umgekehrt (vgl. Kapitel [Herkunftssprachen](herkunftssprachen.md)).  
 
-Aussprache linguistisch fundiert zu unterrichten umfasst darüber hinaus aber auch die Herausforderung, kompetent mit Fragen der Variation, der Norm und manchmal mit Klischees oder (dummen) Vorurteilen umzugehen: Wie klingt das Spanische eigentlich in den verschiedenen Ländern? Was ist der *seseo*? Wo wird `<ll>` heute noch als `/ʎ/` ausgesprochen? Muss die für Madrid oder Salamanca typische Aussprache unterrichtet werden? Ist die Aussprache Chiles weniger korrekt? Muss man als Lehrkraft und müssen die Schüler:innen den Interdental `/θ/` erlernen und verwenden? Oder umgekehrt: Kann man auch die Aussprache eines amerikanischen Landes lehren und lernen? All diese wichtigen Fragen, die sich um Variation und konkrete Aussprachevarianten drehen, behandeln wir separat im Kapitel [Aussprachevariation](./variation/variation_aussprache.md).
+Aussprache linguistisch fundiert zu unterrichten umfasst darüber hinaus aber auch die Herausforderung, kompetent mit Fragen der Variation, der Norm und manchmal mit Klischees oder Vorurteilen umzugehen: Wie klingt das Spanische eigentlich in den verschiedenen Ländern? Was ist der *seseo*? Wo wird `<ll>` heute noch als `/ʎ/` ausgesprochen? Muss die für Madrid oder Salamanca typische Aussprache unterrichtet werden? Ist die Aussprache Chiles weniger korrekt? Muss man als Lehrkraft und müssen die Schüler:innen den Interdental `/θ/` erlernen und verwenden? Oder umgekehrt: Kann man auch die Aussprache eines amerikanischen Landes lehren und lernen? All diese wichtigen Fragen, die sich um Variation und konkrete Aussprachevarianten drehen, behandeln wir separat im Kapitel [Variation in der Aussprache](./variation/variation_aussprache.md).
 
 ## Laute des Spanischen: Herausforderungen  
 
@@ -30,9 +30,8 @@ Einen weiteren Fall von ‚deutschem Akzent‘ vernimmt man, wenn Lernende die s
 
 Ein Grund dafür, warum das Deutsche oft als ‚abgehackt‘ empfunden wird, liegt darin, dass vor Vokalen am Wort- und Silbenanfang ein Knacklaut (Glottisverschluss) `[ʔ]` artikuliert wird – im Spanischen jedoch nie. Vergleiche etwa dt. *die **E**nte* `[di.ˈʔɛn.tə]` mit sp. *si **e**ntiendo bien* `[si.en.ˈtjen.do.βjen]`.
 
-??? hoermal "Hör mal (Vokale am Wortanfang)"
+??? hoermal "Vokale am Wortanfang: Mit und ohne ‚Knacklaut‘"
     Anhand der folgenden Audios kannst Du die Aussprache der Sequenz <i><b>o hay</b></i> (z.B. in Äußerungen wie <i>¿Está bien <b>o hay</b> un problema?</i>) eines Modellsprechers und einer Lernenden vergleichen:
-
 
     <div class="audio-comparison">
     <div class="audio-block">
@@ -58,11 +57,11 @@ Ein Grund dafür, warum das Deutsche oft als ‚abgehackt‘ empfunden wird, lie
 
 Sobald man Lernende für diese Details sensibilisiert hat, lässt sich bei den Vokalen rasch eine nahezu zielsprachliche Kompetenz erreichen. Etwas größere Herausforderungen liegen dagegen im Bereich der Konsonanten.
 
-### Anders artikulierte Laute: R-Laut(e)  
+### Anders artikulierte Laute: die R-Laute  
 
 Sowohl das Deutsche als auch das Spanische verfügen über mehrere R-Laute. Im Deutschen ist es dabei nicht relevant, wie man das Phonem `/r/` ausspricht, ob als uvularen Frikativ `[ʁ]` (also einen Reibelaut, der am Zäpfchen entsteht), wie er im Standarddeutschen normal ist, als alveolaren Vibranten `[r]`, wie im südlichen Sprachraum, Österreich und der Schweiz, oder auch als sogenanntes Tiefenschwa im Auslaut wie in *Lehrer* `[ˈleːʁɐ]`. Phonologisch betrachtet handelt es sich um bloße Varianten desselben Phonems, sogenannte Allphone.  
 
-??? hoermal "Hör mal (/r/)"
+??? hoermal "Das `/r/`: spanische vs. deutsche Aussprache"
     Vergleiche `/r-/` am Wortanfang und `/-r/` am Ende in <i><b>reír</b></i>:
 
 
@@ -84,16 +83,17 @@ Sowohl das Deutsche als auch das Spanische verfügen über mehrere R-Laute. Im D
     </audio>
     </div>
     </div>
+
     <p class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de">MAR.ELE</a></p>
 
 
 Im Spanischen werden die R-Laute dagegen immer vorne am Zahndamm durch Zungenschlag bzw. -vibration gebildet. Je nach Herkunftsregion (z.B. Süddeutschland) und Erstsprache (Deutsch oder eine [Herkunftssprache](herkunftssprachen.md)) fällt es Lernenden leichter oder schwerer, die spanischen R-Laute zu artikulieren. Wenn vom ‚gerollten R‘ als Herausforderung die Rede ist, gilt das in erster Linie im Vergleich zur standarddeutschen Aussprache. Unabhängig davon ist zu beachten, dass das Spanische zwei ‚gerollte‘ R-Laute besitzt – ein einfaches `/ɾ/` und ein mehrfach vibrierendes `/r/` – die in bestimmten lautlichen Kontexten bedeutungsunterscheidend sind und somit den Status eigenständiger Phoneme haben. Der Kontrast wird besonders deutlich in (Minimal-)Paaren wie *pero* `[ˈpeɾo]` und *perro* `[ˈpero]` oder *caro* `[ˈkaɾo]` und *carro* `[ˈkaro]`. Dieser Unterschied ist allerdings nur innerhalb von Wörtern relevant, in allen anderen Positionen gibt es nur Präferenzen für bestimmte Varianten: Zielsprachlich normal – und mit fortgeschrittenen Schüler:innen einzuüben – ist das mehrfache Vibrieren am Wortanfang, während am Wortende einfaches Anschlagen der Zungenspitze üblich ist (Erstsprachler:innen vibrieren nur in besonders emphatischer Rede mehrfach). Die Orthographie spiegelt also nur den relevanten Unterschied im Wort wider und bildet die übrigen Feinheiten nicht ab (vgl. [Orthographie](./orthographie.md)).
 
-!!! regel "Tipp: Das spanische R einüben"
+!!! regel "Wie kann man das spanische R einüben?"
     In ihrer Artikulation ähneln sich die spanischen Vibranten viel eher dem deutschen `[d]` oder `[t]`, da die Zungenspitze ebenfalls den Zahndamm berührt und dort zusätzlich eine Vibration erzeugt. Um dies zu üben, kann man sich beim spanischen Wort *claro* zunächst ein `<d>` statt des `<r>` vorstellen – also *cla**d**o* – und versuchen, dieses `<d>` zunehmend schneller auszusprechen. Mit etwas Übung löst sich der Verschluss am Zahndamm dabei so schnell, dass eine Vibration entsteht.
   
 
-??? expand "**R**egionale Dive**r**sität"
+??? expand "Regionale Diversität"
 
     Neben den genannten Varianten existieren regional natürlich noch viele weitere Varianten der Aussprache, die für den Unterricht zwar nicht unmittelbar relevant sind, aber zeigen, welche Diversität allein ein einzelnes Phonem aufweisen kann.
 
@@ -109,7 +109,7 @@ Im Spanischen werden die R-Laute dagegen immer vorne am Zahndamm durch Zungensch
 
 ### Neu zu erlernende Laute
 
-Neben Lauten, die im Deutschen anders artikuliert werden als im Spanischen, besitzt das Spanische auch einige wenige Laute, die im Deutschen gar nicht vorkommen. Hierzu gehört der umgangssprachlich als ‚Lispellaut‘ bezeichnete Interdentallaut `/θ/`, der mit der Zungenspitze zwischen den Schneidezähnen artikuliert wird. Lernende werden ihn bereits kennen, denn er entspricht dem stimmlosen *th* des Englischen, wie in *think*. Im Spanischen ist er allerdings nicht universell: Er gehört zwar zur Aussprachenorm Spaniens, wird jedoch fast ausschließlich in Zentral- und Nordspanien verwendet. Ansonsten kommt er in der spanischsprachigen Welt nirgendwo vor und stellt somit global betrachtet nur die Aussprache einer Minderheit der spanischsprechenden Menschen dar (vgl. [Hispanophonie in Zahlen](../anhang.md)). Mehr dazu und zu der Frage, wie man damit im Unterricht umgeht, liest Du im Kapitel [Aussprachevariation](./variation/variation_aussprache.md). Sprecher:innen, die zwischen `/s/` und `/θ/` unterscheiden (z.B. *casa* vs. *caza*), werden als *distinguidores* bezeichnet. Die Mehrheit, die keinen Unterschied macht und nur das Phonem `/s/` kennt (Teile Spaniens und ganz Hispanoamerika), werden dagegen als *seseantes* bezeichnet, das Phänomen als *seseo* (mehr dazu [hier](https://www.rae.es/dpd/seseo)). Für den Unterricht ist dabei zentral, dass der *seseo* in der gesamten spanischsprachigen Welt als genauso korrekt gilt wie die Unterscheidung.
+Neben Lauten, die im Deutschen anders artikuliert werden als im Spanischen, besitzt das Spanische auch einige wenige Laute, die im Deutschen gar nicht vorkommen. Hierzu gehört der umgangssprachlich als ‚Lispellaut‘ bezeichnete Interdentallaut `/θ/`, der mit der Zungenspitze zwischen den Schneidezähnen artikuliert wird. Lernende werden ihn bereits kennen, denn er entspricht dem stimmlosen *th* des Englischen, wie in *think*. Im Spanischen ist er allerdings nicht universell: Er gehört zwar zur Aussprachenorm Spaniens, wird jedoch fast ausschließlich in Zentral- und Nordspanien verwendet. Ansonsten kommt er in der spanischsprachigen Welt nirgendwo vor und stellt somit global betrachtet nur die Aussprache einer Minderheit der spanischsprechenden Menschen dar (vgl. [Hispanophonie in Zahlen](./anhang.md)). Mehr dazu und zu der Frage, wie man damit im Unterricht umgeht, liest Du im Kapitel [Variation in der Aussprache](./variation/variation_aussprache.md). Sprecher:innen, die zwischen `/s/` und `/θ/` unterscheiden (z.B. *casa* vs. *caza*), werden als *distinguidores* bezeichnet. Die Mehrheit, die keinen Unterschied macht und nur das Phonem `/s/` kennt (Teile Spaniens und ganz Hispanoamerika), werden dagegen als *seseantes* bezeichnet, das Phänomen als *seseo* (mehr dazu [hier](https://www.rae.es/dpd/seseo)). Für den Unterricht ist dabei zentral, dass der *seseo* in der gesamten spanischsprachigen Welt als genauso korrekt gilt wie die Unterscheidung.
 
 ??? expand "*Seseo* vs. *Distinción*"
     Wie beim *yeísmo* (s.u.) wird beim *seseo* zwar ebenfalls von der Neutralisierung der Lautopposition von `/θ/` und `/s/` gesprochen, allerdings sollte man wissen, dass der Interdentallaut in den Gebieten, in denen der *seseo* vorherrscht, nie existiert hat. In Zentral- und Nordspanien hat sich der Interdental `/θ/` historisch aus der Reduktion der Affrikaten `/ts/` und `/dz/` entwickelt, während diese Laute in südlichen Gebieten zu `/s/` wurden.
@@ -123,37 +123,35 @@ Ein weiterer ‚neuer‘ Konsonant im Spanischunterricht ist der am harten Gaume
 
 Ein spanischer Laut, der dagegen das Spanische der gesamten Hispanophonie kennzeichnet, ist das sogenannte *eñe* `[ɲ]`, das durch den für das Spanische typischen Buchstaben `<ñ>` repräsentiert wird. Die Aussprache stellt keine große Herausforderung dar: Man stellt sich die Buchstabenfolge `<nj>` vor und liegt in der Artikulation nah am Spanischen, wo er jedoch als einzelner Konsonant realisiert wird. Alle anderen romanischen Sprachen besitzen diesen Laut ebenfalls (mal mit `<gn>` geschrieben wie in it. ***Gn**occhi* oder fr. *Breta**gn**e*, mal mit `<nh>` wie in pt. *Pira**nh**a*).
 
-Ein letzter Fall betrifft den stimmlosen Reibelaut `/x/`, der den Graphien `<g>` (nur in `<ge>` und `<gi>`) sowie `<j>` entspricht. Im Deutschen ist dieser Laut bekannt, wird dort jedoch mit der Schreibung `<ch>` assoziiert. Das Phonem wird im Deutschen kontextabhängig an unterschiedlichen Stellen im Mundraum artikuliert: vorne als `[ç]` in *ich*, weiter hinten als `[x]` in *och* und ganz hinten als `[χ]` in *ach* – eine Abstufung, die sich artikulatorisch gut nachvollziehen lässt, wenn man die drei Wörter nacheinander ausspricht. Im Spanischen kommen ähnliche Varianten vor, allerdings hängen sie dort nicht vom lautlichen Kontext ab, sondern sind jeweils typisch für bestimmte regionale oder nationale Varietäten (mehr dazu im Kapitel [Aussprachevariation](./variation/variation_aussprache.md)). Für deutschsprachige Lernende liegt die Herausforderung also weniger in der Artikulation als in der ungewohnten Zuordnung von Laut und Schriftbild.
+Ein letzter Fall betrifft den stimmlosen Reibelaut `/x/`, der den Graphien `<g>` (nur in `<ge>` und `<gi>`) sowie `<j>` entspricht. Im Deutschen ist dieser Laut bekannt, wird dort jedoch mit der Schreibung `<ch>` assoziiert. Das Phonem wird im Deutschen kontextabhängig an unterschiedlichen Stellen im Mundraum artikuliert: vorne als `[ç]` in *ich*, weiter hinten als `[x]` in *och* und ganz hinten als `[χ]` in *ach* – eine Abstufung, die sich artikulatorisch gut nachvollziehen lässt, wenn man die drei Wörter nacheinander ausspricht. Im Spanischen kommen ähnliche Varianten vor, allerdings hängen sie dort nicht vom lautlichen Kontext ab, sondern sind jeweils typisch für bestimmte regionale oder nationale Varietäten (mehr dazu im Kapitel [Variation in der Aussprache](./variation/variation_aussprache.md)). Für deutschsprachige Lernende liegt die Herausforderung also weniger in der Artikulation als in der ungewohnten Zuordnung von Laut und Schriftbild.
 
 ### Kontextabhängige („mal so, mal so“) Laute
 
 Wer Lernende zu einer besonders zielsprachlichen Kompetenz führen möchte, muss sich etwas mehr mit kontextabhängiger Variation auseinandersetzen. Wir haben bereits gesehen, dass die R-Laute je nach Position im Wort unterschiedlich artikuliert werden; die Laute `/b d g/` weisen ebenfalls eine markante Allophonie auf, die den Unterschied zwischen einem ‚deutschen Akzent‘ und einer typisch spanischen Aussprache ausmacht. Fortgeschrittene Lernende sollte man auf jeden Fall dafür sensibilisieren, dass die Aussprache als ‚hartes‘ `[b d g]` in *be**b**edor*, *olvi**d**ar* und *ami**g**o* sehr ‚deutsch‘ klingt und die drei Konsonanten hier stattdessen ‚weicher‘, nämlich als sogenannte Approximanten `[β ð ɣ]`, artikuliert werden: `[beβeˈðoɾ]`, `[olβiˈðaɾ]` und `[aˈmiɣo]`.
 
-??? hoermal "Hör mal (`/b d g/`)"
+??? hoermal "`/b d g/`: spanische vs. deutsche Aussprache"
     Vergleiche die Artikulation der Phoneme `/b/` und `/d/` in <i><b>el bebedor</b></i>:
-
 
     <div class="audio-comparison">
     <div class="audio-block">
     <h4>Zielaussprache:</h4> <div class="example-ipa">[el.βe.βe.ˈðoɾ]</div>
     <audio controls preload="metadata">
-    <source src="/assets/audiofiles/marele/bebedor_l1.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/bebedor_l1.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/bebedor_l1.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/bebedor_l1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
     <div class="audio-block">
     <h4>Lernendenaussprache:</h4> <div class="example-ipa">[el.be.be.ˈdoɐ]</div>
     <audio controls preload="metadata">
-    <source src="/assets/audiofiles/marele/bebedor_ele.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/bebedor_ele.m4a" type="audio/mp4">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/bebedor_ele.mp3" type="audio/mpeg">
+    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/bebedor_ele.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
     </div>
 
     Vergleiche die Artikulation des Phonems `/g/` in <i><b>con agua</b></i>:
-
 
     <div class="audio-comparison">
     <div class="audio-block">
@@ -205,10 +203,10 @@ Nicht jedes Graphem hat im Spanischen einen Lautwert. Das `<h>` ist immer stumm 
       
     Ein linguistisch fundierter, kontrastiver Blick zum Deutschen hilft, diese essenziellen Unterschiede gezielt zu trainieren und führt schnell zu (nahezu) zielsprachlicher Aussprachekompetenz. Schüler:innen mit anderen Herkunftssprachen bringen hier oft andere Voraussetzungen mit – ihre spezifischen Vorteile und Herausforderungen werden im Kapitel [Herkunftssprachen](./herkunftssprachen.md) behandelt.
 
-??? weiterlesen "Wer mehr wissen will ..."
-    Als *das* Standardwerk zur Phonetik und Phonologie des Spanischen – neben älteren Referenzen wie Quilis (1993) – gilt heute Band 3 der *Nueva gramática de la lengua española* (RAE/ASALE 2009–2011) bzw. Band 4 der 2. Auflage von 2025 (RAE/ASALE 2025). Es spiegelt in seiner umfassenden und äußerst detaillierten Darstellung nicht nur den aktuellen Forschungsstand wider, sondern berücksichtigt auch die Aussprachevariation in der spanischsprachigen Welt. Übersichtlicher und zugänglicher sind die deutschsprachigen Einführungen in das Gebiet von Kubarth (2009), Pustka (2021) und Gabriel/Meisenburg/Selig (2025). Letztere enthält in der zweiten Auflage auch ein Kapitel zum Spanischen „als Fremdsprache im deutschsprachigen Kontext“.
+??? weiterlesen "Wer mehr wissen will …"
+    Als *das* Standardwerk zur Phonetik und Phonologie des Spanischen – neben älteren Referenzen wie Quilis (1993) – gilt heute Band 3 der *Nueva gramática de la lengua española* (RAE/ASALE 2009–2011) bzw. Band 4 der 2. Auflage von 2025 (RAE/ASALE 2025). Es spiegelt in seiner umfassenden und äußerst detaillierten Darstellung nicht nur den aktuellen Forschungsstand wider, sondern berücksichtigt auch die Aussprachevariation in der spanischsprachigen Welt. Übersichtlicher und zugänglicher sind die deutschsprachigen Einführungen in das Gebiet von Kubarth (2009), Pustka (2021) und Gabriel / Meisenburg / Selig (2025). Letztere enthält in der zweiten Auflage auch ein Kapitel zum Spanischen „als Fremdsprache im deutschsprachigen Kontext“.
 
-    Eine Vertiefung der Vermittlung der Aussprache des Spanischen als Fremdsprache mit konkreteren Tipps für die Umsetzung im Unterricht bieten Gil Fernández (2007), die Beiträge in Gil Fernández (Hg.) (2012) und nicht zuletzt Reimann (2016). Benet/Pesková (2017) zeigen deutlich, wie man eine zielsprachliche Aussprache vermitteln kann.
+    Eine Vertiefung der Vermittlung der Aussprache des Spanischen als Fremdsprache mit konkreteren Tipps für die Umsetzung im Unterricht bieten Gil Fernández (2007), die Beiträge in Gil Fernández (Hg.) (2012) und nicht zuletzt Reimann (2016). Benet / Pesková (2017) zeigen deutlich, wie man eine zielsprachliche Aussprache vermitteln kann.
 
     Anschauungsmaterial für die Aussprache des Spanischen als Fremdsprache und den Kontrast zur zielsprachlichen Aussprache bietet das [MAR.ELE-Korpus](https://marele.online.uni-marburg.de) (Tacke 2023–2024). Dort wird die Möglichkeit geboten, die Aussprache einzelner Wörter, Sätze und eines ganzen Textes durch verschiedene Lernenden (L2/L3) anzuhören und mit der Zielaussprache von Modellsprecher:innen zu vergleichen. (Aus Datenschutzgründen wird ein Zugang benötigt, den man erhält, wenn man dort auf „solicitud“ klickt.)
 
@@ -230,7 +228,7 @@ Nicht jedes Graphem hat im Spanischen einen Lautwert. Das `<h>` ist immer stumm 
 - Gil Fernández, Juana (2007): *Fonética para profesores de español: de la teoría a la práctica*. Madrid: Arco Libros.
 - Kanngiesser-Krebs, Gisela (2017): „¿Cómo se dice qué? y ¿qué se dice dónde?“. *Der fremdsprachliche Unterricht Spanisch* 15 (3), 2–10.
 - Kubarth, Hugo (2009): *Spanische Phonetik und Phonologie: Segmente – Silben – Satzmelodien*. Frankfurt am Main: Peter Lang.
-- Pustka, Elissa (2021): *Phonetik und Phonologie des Spanischen. Eine korpuslinguistische Einführung*. Berlin: Erich Schmidt Verlag.
+- Pustka, Elissa (2021): *Phonetik und Phonologie des Spanischen. Eine korpuslinguistische Einführung*. Berlin: Erich Schmidt.
 - Quilis, Antonio (1993): *Tratado de fonología y fonética españolas*. Madrid: Gredos.
 
 - Real Academia Española / Asociación de Academias de la Lengua Española:  
