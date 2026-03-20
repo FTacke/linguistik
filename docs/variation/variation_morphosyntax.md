@@ -189,7 +189,7 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     <div class="audio-block">
     <h4>Kolumbien:</h4>
     <div class="example">
-    „Déjeme ir un <strong>momentico</strong> (‘einen kleinen Moment’) a Bucaramanga.“
+    „Déjeme ir un <strong>momentico</strong> (‘einen kleinen Moment’) a Bucaramanga que hay una noticia que tiene que ver con- precisamente  este asunto.“
     <span class="token-id">(COLf1ebb8bde)</span>
     </div>
     <audio controls preload="metadata">
@@ -201,7 +201,7 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     <div class="audio-block">
     <h4>Kuba:</h4>
     <div class="example">
-    „Mis saludos y mi abrazo también para que siente un <strong>poquitico</strong> (‘ein ganz kleines bisschen’) de calorcito, Luisito.“
+    „Mis saludos y mi abrazo también para que sienta un <strong>poquitico</strong> (‘ein ganz kleines bisschen’) de calorcito, Luisito.“
     <span class="token-id">(CUB5d77cc7b3)</span>
     </div>
     <audio controls preload="metadata">
@@ -320,18 +320,17 @@ Für den Unterricht bedeutet das vor allem: In der Standardsprache gilt in viele
 !!! regel "*Que* oder *de que*: eine einfache Probe"
     Ob ein Nebensatz mit *que* oder *de que* steht, lässt sich mit einer einfachen Probe prüfen: Ersetze den gesamten Nebensatz durch ein neutrales Pronomen wie *eso*. Wenn das Pronomen eine Präposition verlangt, steht auch vor dem *que*-Satz eine Präposition.
 
-    *¿Me di cuenta **que** lo había olvidado?* → *¿Me di cuenta **eso**?* → nein
-      <br> → richtig ist: *Me di cuenta **de que** lo había olvidado.*
+    *¿Recuerdo **de que** te quería llamar?* → *¿Recuerdo **de eso**?* → nein
+      <br> → richtig ist: *Recuerdo **que** te quería llamar.*
 
-    *¿Opinas **de que** es una buena idea?* → *¿Opinas **de eso**?* → nein
-      <br> → richtig ist: *Opinas **que** es una buena idea.*
+    *¿Me acuerdo **que** te quería llamar?* → *¿Me acuerdo **eso**?* → nein
+      <br> → richtig ist: *Me acuerdo **de que** te quería llamar.*
 
       
 ??? expand "Der *(de)queísmo* gestern und heute"
     Sowohl *queísmo* als auch *dequeísmo* sind keine neuen Erscheinungen des Spanischen, sondern bereits in älteren Sprachstufen belegt. Besonders das Weglassen der Präposition (*queísmo*) ist historisch weit verbreitet und findet sich schon in Texten des klassischen Spanisch. *Dequeísmo* tritt dagegen insgesamt seltener auf und wird häufig als Reaktion auf Unsicherheiten bei der Präpositionswahl interpretiert.
     
-    Die NGLE weist außerdem darauf hin, dass Alternanzen zwischen Konstruktionen mit *que* und *de que* nicht immer nur als normative Abweichungen zu verstehen sind. Bei verschiedenen Verben des Sagens, Hinweisens oder Wahrnehmens – etwa *advertir*, *avisar* oder *cuidar* – können beide Konstruktionen auftreten. Ihre Verteilung hängt dabei teilweise von Bedeutungsnuancen der jeweiligen Konstruktion, teilweise auch vom regionalen Gebrauch ab. So wird in vielen Varietäten des amerikanischen Spanisch häufiger die Variante ohne Präposition verwendet (*avisaron que…*), während im europäischen Spanisch häufiger beide Möglichkeiten nebeneinander erscheinen (*avisaron que…* ~ *avisaron de que…*). Solche Fälle zeigen, dass die Wahl zwischen *que* und *de que* nicht immer eindeutig als ‘richtig’ oder ‘falsch’ einzuordnen ist, sondern auch mit unterschiedlichen Bedeutungen, Konstruktionstypen und regionalen Präferenzen zusammenhängen kann.
-
+    Die NGLE weist außerdem darauf hin, dass Alternanzen zwischen Konstruktionen mit *que* und *de que* nicht immer nur als normative Abweichungen zu verstehen sind. Bei verschiedenen Verben des Sagens, Hinweisens oder Wahrnehmens – etwa *advertir*, *avisar* oder *cuidar* – können beide Konstruktionen auftreten. Ihre Verteilung hängt dabei teilweise von Bedeutungsnuancen der jeweiligen Konstruktion, teilweise auch vom regionalen Gebrauch ab. So wird in vielen Varietäten des amerikanischen Spanisch häufiger die Variante ohne Präposition verwendet (*avisaron que…*), während im europäischen Spanisch häufiger beide Möglichkeiten nebeneinander erscheinen (*avisaron que…* ~ *avisaron de que…*). Solche Fälle zeigen, dass die Wahl zwischen *que* und *de que* nicht immer eindeutig als ‘richtig’ oder ‘falsch’ einzuordnen ist, sondern auch mit unterschiedlichen Konstruktionstypen und regionalen Präferenzen zusammenhängt. Einen Sonderfall bildet *advertir*: Hier kann die Präposition bedeutungsunterscheidend sein – *advertir de que* bedeutet typischerweise ‘vor etwas warnen’, *advertir que* eher ‘etwas bemerken’ bzw. ‘ankündigen’. Im hispanoamerikanischen Spanisch wird *advertir que* häufig in beiden Bedeutungen ohne Präposition verwendet; im europäischen Spanisch ist die Unterscheidung stabiler.
 
 
 ### *Habían muchos problemas* – gibt es das?[^sm]
