@@ -388,11 +388,11 @@ Die in diesem Kapitel behandelten Phänomene zeigen ein gemeinsames Muster: Morp
 - PRESEEA (2014–): *Corpus del Proyecto para el estudio sociolingüístico del español de España y de América.* Alcalá de Henares: Universidad de Alcalá. Online: [http://preseea.uah.es](http://preseea.uah.es).
 
 - Real Academia Española / Asociación de Academias de la Lengua Española:  
-  — (2009–2011): *Nueva gramática de la lengua española*. 3 Bde. Madrid: Espasa. Online: [https://www.rae.es/gramática/]  
+  — (2009–2011): *Nueva gramática de la lengua española*. 3 Bde. Madrid: Espasa. Online: [https://www.rae.es/gramática/](https://www.rae.es/gram%C3%A1tica/)    
   — (2025): *Nueva gramática de la lengua española*. Nueva edición actualizada, 4 Bde. Madrid: Espasa.
 
 - Real Academia Española (o.J.): *CORPES XXI. Corpus del Español del Siglo XXI (CORPES).* Madrid: Real Academia Española. Online: [https://www.rae.es/corpes/](https://www.rae.es/corpes/)
-- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
+- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg: Universität Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
 
 </div>
 

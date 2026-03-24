@@ -501,19 +501,19 @@ Niemand muss alle Varianten beherrschen oder vermitteln. Es genügt, wenn Lernen
 - Kubarth, Hugo (1987): *Das lateinamerikanische Spanisch. Ein Panorama*. München: Hueber.
 - Leitzke-Ungerer, Eva / Polzin-Haumann, Claudia (Hg.) (2017): *Varietäten des Spanischen im Fremdsprachenunterricht. Ihre Rolle in Schule, Hochschule, Lehrerbildung und Sprachenzertifikaten*. Stuttgart: ibidem.
 - Lipski, John M. (1994): *Latin American Spanish*. London / New York: Longman.
-- Lipski, John M. (2020): „Spanish Phonological Variation“. In: Sonia Colina / Fernando Martínez-Gil (Hg.): *The Routledge Handbook of Spanish Phonology*. London / New York: Routledge, 455–469. DOI: [https://doi.org/10.4324/9781315228112-26](https://doi.org/10.4324/9781315228112-26)
+- Lipski, John M. (2019): „Spanish Phonological Variation“. In: Colina, Sonia / Martínez-Gil, Fernando (Hg.): *The Routledge Handbook of Spanish Phonology*. London / New York: Routledge, 455–469. DOI: [https://doi.org/10.4324/9781315228112-26](https://doi.org/10.4324/9781315228112-26)
 - Martín Zorraquino, M. Antonia / Díez Pellegrín, Cristina (Hg.) (2000): *¿Qué español enseñar? Norma y variación lingüísticas en la enseñanza del español a extranjeros. Actas del XI Congreso Internacional de ASELE (Zaragoza, 13.–16. 9. 2000)*. Zaragoza: Universidad de Zaragoza.
 - Moreno Fernández, Francisco (2000): *¿Qué español enseñar?* Madrid: Arco Libros.
 - Poch Olivé, Dolors (2024): „Variación fonética y enseñanza del español“. *Variación. Revista de variación y cambio lingüístico*, 1 (2), 18–30. DOI: [https://doi.org/10.30827/3020.9854rvcl.1.2.2024.31844](https://doi.org/10.30827/3020.9854rvcl.1.2.2024.31844)
-- Pustka, Elissa / Schwegler, Armin (2021): „Phonética y fonología: vocalismo y consonantismo". In: Eva Martha Eckkrammer (Hg.): *Manual del español en América*. Berlin / Boston: De Gruyter, 451–464. DOI: [https://doi.org/10.1515/9783110334845-027](https://doi.org/10.1515/9783110334845-027)
+- Pustka, Elissa / Schwegler, Armin (2021): „Phonética y fonología: vocalismo y consonantismo". In: Eckkrammer, Eva Martha (Hg.): *Manual del español en América*. Berlin / Boston: De Gruyter, 451–464. DOI: [https://doi.org/10.1515/9783110334845-027](https://doi.org/10.1515/9783110334845-027)
 
 - Real Academia Española / Asociación de Academias de la Lengua Española:  
   — (2009–2011): *Nueva gramática de la lengua española*. 3 Bde. Madrid: Espasa. Online: [https://www.rae.es/gramática/](https://www.rae.es/gram%C3%A1tica/)  
   — (2025): *Diccionario panhispánico de dudas*. 2.ª ed. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/)  
   — (2025): *Nueva gramática de la lengua española*. Nueva edición actualizada, 4 Bde. Madrid: Espasa.
 
-- Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Franz Lebsanft / Felix Tacke (Hg.): *Manual of Standardization in the Romance Languages*. Berlin / Boston: De Gruyter, 559–579. DOI: [https://doi.org/10.1515/9783110458084-025](https://doi.org/10.1515/9783110458084-025)
-- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
+- Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Lebsanft, Franz / Tacke, Felix (Hg.): *Manual of Standardization in the Romance Languages*. Berlin / Boston: De Gruyter, 559–579. DOI: [https://doi.org/10.1515/9783110458084-025](https://doi.org/10.1515/9783110458084-025)
+- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg: Universität Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
 
 </div>
 

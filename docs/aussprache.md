@@ -222,11 +222,11 @@ Nicht jedes Graphem hat im Spanischen einen Lautwert. Das `<h>` ist immer stumm 
 
 <div class="literatur" markdown="1">
 
-- Benet, Ariadna / Pesková, Andrea (2017): „Cómo reducir el ‚acento extranjero‘ en el ELE“. *Der fremdsprachliche Unterricht Spanisch* 15 (3), 16–20.
-- Bürgel, Christoph / Reimann, Daniel (Hg.) (2017): Sprachliche Mittel im Unterricht der romanischen Sprachen – Aussprache, Wortschatz und Morphosyntax in Zeiten der Kompetenzorientierung. Tübingen: Narr.
+- Benet, Ariadna / Pesková, Andrea (2017): „Cómo reducir el ‚acento extranjero‘ en el ELE“. *Der fremdsprachliche Unterricht Spanisch* 58, 16–20.
+- Bürgel, Christoph / Reimann, Daniel (Hg.) (2017): *Sprachliche Mittel im Unterricht der romanischen Sprachen. Aussprache, Wortschatz und Morphosyntax in Zeiten der Kompetenzorientierung.* Tübingen: Narr Francke Attempto.
 - Gabriel, Christoph / Meisenburg, Trudel / Selig, Maria (2025): *Spanisch: Phonetik und Phonologie. Eine Einführung*. 2., überarb. Aufl. Tübingen: Narr Francke Attempto. DOI: [https://doi.org/10.24053/9783381100125](https://doi.org/10.24053/9783381100125)
 - Gil Fernández, Juana (2007): *Fonética para profesores de español: de la teoría a la práctica*. Madrid: Arco Libros.
-- Kanngiesser-Krebs, Gisela (2017): „¿Cómo se dice qué? y ¿qué se dice dónde?“. *Der fremdsprachliche Unterricht Spanisch* 15 (3), 2–10.
+- Kanngiesser-Krebs, Gisela (2017): „¿Cómo se dice qué? y ¿qué se dice dónde?“. *Der fremdsprachliche Unterricht Spanisch* 15, 2–10.
 - Kubarth, Hugo (2009): *Spanische Phonetik und Phonologie: Segmente – Silben – Satzmelodien*. Frankfurt am Main: Peter Lang.
 - Pustka, Elissa (2021): *Phonetik und Phonologie des Spanischen. Eine korpuslinguistische Einführung*. Berlin: Erich Schmidt.
 - Quilis, Antonio (1993): *Tratado de fonología y fonética españolas*. Madrid: Gredos.
@@ -238,7 +238,7 @@ Nicht jedes Graphem hat im Spanischen einen Lautwert. Das `<h>` ist immer stumm 
   — (2025): *Nueva gramática de la lengua española*. Nueva edición actualizada, 4 Bde. Madrid: Espasa.
 
 - Reimann, Daniel (2016): *Aussprache im Unterricht der romanischen Sprachen (Französisch, Spanisch, Italienisch, Portugiesisch)*. Münster: LIT Verlag.
-- Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)
+- Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg: Universität Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)
 
 </div>
 

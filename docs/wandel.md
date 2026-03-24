@@ -240,8 +240,8 @@ Das Muster findet sich ebenfalls in den übrigen romanischen Sprachen: fr. clair
 - Müller-Lancé, Johannes (2006): *Latein für Romanisten. Ein Lehr- und Arbeitsbuch*. Tübingen: Narr Francke.
 - Penny, Ralph (2002): *A History of the Spanish Language*. 2. Aufl. Cambridge: Cambridge University Press. DOI: [https://doi.org/10.1017/CBO9780511992827](https://doi.org/10.1017/CBO9780511992827)
 - Pountain, Christopher J. (2001): *A History of the Spanish Language Through Texts*. London / New York: Routledge.
-- Ranson, Diana L. / Lubbers Quesada, Margaret (2018): *The History of Spanish. A Student’s Introduction*. Cambridge: Cambridge University Press.
-- Tacke, Felix (2021): „Die historische Betrachtung der romanischen Sprachen. Zur Zukunft der Sprachgeschichte in der universitären Lehre“. *Romanische Forschungen* 133, 68–89.
+- Ranson, Diana L. / Lubbers Quesada, Margaret (2018): *The History of Spanish. A Student’s Introduction*. Cambridge: Cambridge University Press. DOI: [https://doi.org/10.1017/9781316534793](https://doi.org/10.1017/9781316534793 )
+- Tacke, Felix (2021): „Die historische Betrachtung der romanischen Sprachen. Zur Zukunft der Sprachgeschichte in der universitären Lehre“. *Romanische Forschungen* 133, 68–89. DOI: [https://doi.org/10.3196/003581221831922409](https://doi.org/10.3196/003581221831922409)
 
 </div>
 

@@ -10,8 +10,8 @@
   - Real Academia Española (online): *Diccionario de la lengua española (DLE)*. 23.ª ed. Online: [https://dle.rae.es](https://dle.rae.es)
 
 
-- Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)  
-- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
+- Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg: Universität Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)  
+- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg: Universität Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
 
 
 <div class="literatur-abkuerzungen" markdown="1">

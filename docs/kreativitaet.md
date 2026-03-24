@@ -129,7 +129,7 @@ Sprache bleibt also immer in Bewegung und kann nie vollständig in einem einzige
 ??? weiterlesen "Wer mehr wissen will …"
     Einführende Darstellungen zur Wortbildung bieten Kabatek / Pusch (2011), die zentrale Begriffe der spanischen Morphologie vorstellen und in den Gesamtaufbau des Lexikons einordnen. Speziellere und vertiefende Analysen finden sich bei Rainer (1993) sowie Varela (2005), die Formen, Funktionen und Produktivität einzelner Wortbildungsmuster systematisch beschreiben. Sehr ausführlich behandelt das Thema auch die *Nueva gramática de la lengua española* (RAE/ASALE 2009–2011, 2.ª ed. 2025), deren Ausgabe von 2009 [online durchsuchbar](https://www.rae.es/gram%C3%A1tica/) ist.
 
-    Für didaktisch orientierte Zugänge sind vor allem Serrano-Dolader (2019) und Entre / Gumiel-Molina (2024) relevant. Beide Werke verbinden linguistische Grundlagen mit methodischen Vorschlägen für den Unterricht. Ergänzend bietet das [Online-Dossier](https://cvc.cervantes.es/ensenanza/biblioteca_ele/antologia_didactica/morfologia/default.htm) des Instituto Cervantes praxisnahe Materialien und Aufgabenformate.
+    Für didaktisch orientierte Zugänge sind vor allem Serrano-Dolader (2019) und Martín Vegas (Hg.) (2024) relevant. Beide Werke verbinden linguistische Grundlagen mit methodischen Vorschlägen für den Unterricht. Ergänzend bietet das [Online-Dossier](https://cvc.cervantes.es/ensenanza/biblioteca_ele/antologia_didactica/morfologia/default.htm) des Instituto Cervantes praxisnahe Materialien und Aufgabenformate.
 
 
 ## Literatur
@@ -147,8 +147,8 @@ Sprache bleibt also immer in Bewegung und kann nie vollständig in einem einzige
 
 - Asociación de Academias de la Lengua Española (online): *Diccionario de americanismos (DAMER)*. Online: [https://www.asale.org/damer/](https://www.asale.org/damer/)
 - Colegio de México (online): *Diccionario del español de México (DEM)*. Online: [https://dem.colmex.mx/](https://dem.colmex.mx/)
-- CVC – Instituto Cervantes (Hrsg.): *La formación de palabras en la clase de ELE*. In: *Antología didáctica de morfología*. Online: [https://cvc.cervantes.es/](https://cvc.cervantes.es/ensenanza/biblioteca_ele/antologia_didactica/morfologia/default.htm)
-- Entre, María Ángeles / Gumiel-Molina, Susana (Hg.) (2024): *Didáctica de la morfología*. Alcalá de Henares: Universidad de Alcalá.
+- CVC – Instituto Cervantes (Hg.): *La formación de palabras en la clase de ELE*. In: *Antología didáctica de morfología*. Online: [https://cvc.cervantes.es/](https://cvc.cervantes.es/ensenanza/biblioteca_ele/antologia_didactica/morfologia/default.htm)
+- Martín Vegas, Rosa Ana (Hg.) (2024): *Didáctica de la morfología. Propuestas para el aula de secundaria y bachillerato*. Madrid: Dykinson. DOI: [https://doi.org/10.14679/3561](https://doi.org/10.14679/3561)
 - Fundación del Español Urgente (Fundéu) (o.J.). Online: [https://www.fundeu.es/](https://www.fundeu.es/)
 - Kabatek, Johannes / Pusch, Claus D. (2011): *Spanische Sprachwissenschaft*. 2., überarb. Aufl. Tübingen: Narr Francke Attempto.
 - Rainer, Franz (1993): *Spanische Wortbildungslehre*. Tübingen: Niemeyer. DOI: [https://doi.org/10.1515/9783110956054](https://doi.org/10.1515/9783110956054)  
@@ -161,7 +161,7 @@ Sprache bleibt also immer in Bewegung und kann nie vollständig in einem einzige
   — (2025): *Nueva gramática de la lengua española*. Nueva edición actualizada, 4 Bde. Madrid: Espasa.
 - Real Academia Española (online): *Diccionario de la lengua española (DLE)*. 23.ª ed. Online: [https://dle.rae.es](https://dle.rae.es)
 
-- Serrano-Dolader, Daniel (2019): *Formación de palabras y enseñanza del español LE/L2*. London / New York: Routledge.
+- Serrano-Dolader, David (2019): *Formación de palabras y enseñanza del español LE/L2*. London / New York: Routledge.
 - Varela Ortega, Soledad (2005): *Morfología léxica: la formación de palabras*. Madrid: Gredos.
 
 </div>
