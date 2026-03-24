@@ -9,9 +9,9 @@
    -------------------------------------------------------------------------- */
 
 .md-typeset .admonition.cover {
-  --cover-w: 460px;
+  --cover-w: 500px;
   --cover-h: 790px;
-  --cover-w-sm: 360px;
+  --cover-w-sm: 480px;
   --cover-h-sm: 620px;
   --cover-radius: 18px;
   --cover-radius-sm: 14px;
