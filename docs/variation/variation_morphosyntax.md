@@ -15,7 +15,7 @@ last_modified: "17.03.2026"
 
 # 5.5 Variation in Morphologie und Syntax
 
-## Wenn Grammatik variiert: von *casita* über *le vi* bis *habían muchos problemas*
+## Wenn Grammatik variiert
 
 Grammatische Variation ist vielleicht der Bereich, der in der Spanischdidaktik am wenigsten systematisch berücksichtigt wird – obwohl Lehrkräfte und Lernende ihm regelmäßig begegnen. Wer spanischsprachige Serien schaut, hört ständig Diminutive: *ahorita*, *cervecita*, *mamacita*. Wer einen Roman aus Madrid liest, stößt auf *le vi* statt *lo vi*. Und wer Lernertexte korrigiert, steht irgendwann vor der Frage, ob *habían muchos problemas* ein Fehler ist oder eine regional verbreitete Konstruktion.
 
