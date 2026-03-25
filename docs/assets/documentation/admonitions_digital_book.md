@@ -88,7 +88,7 @@ Didaktische Rolle: Markierung zentraler Wissenspunkte.
 ### Form
 
 * Positiv konnotierte Farbgebung
-* Icon (z. B. Glühbirne)
+* Icon (z.B. Glühbirne)
 * Klar abgegrenzter Container
 
 ### Funktion

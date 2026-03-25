@@ -194,7 +194,7 @@ Im Spanischen ist es anders. Jede Person hat ihre eigene Verbendung, und diese U
 ??? expand "Mit (ohne) Subjektpronomen in der Linguistik"
     Sprachtypologisch gibt es verschiedene Wege, die handelnde Person zu markieren: durch Verbendungen, durch Klitika, durch Subjektpronomen oder durch den Kontext im Diskurs. In vielen Sprachen sind Pronomen deshalb nicht obligatorisch.
 
-    Für das Phänomen, dass keine Subjektpronomen vorkommen, ist in der Linguistik der Fachbegriff *Pro-Drop* etabliert. Er geht auf die Generative Grammatik zurück, wo von einem ‚leeren Pronomen‘ im Satzinneren ausgegangen wird. Der Name legt nahe, dass Pronomen der Normalfall seien und dann ‚fallen gelassen‘ werden – eine Sichtweise, die die tatsächliche Vielfalt verkürzt und zudem unplausibel ist: Sprachen ohne Subjektpronomen sind keine Ausnahme, sondern sehr zahlreich, und Subjektpronomen entwickeln sich historisch oft erst später (z. B. im Französischen, da dort die Verbendung die Funktion der Personenmarkierung nicht mehr durchgängig erfüllen kann).
+    Für das Phänomen, dass keine Subjektpronomen vorkommen, ist in der Linguistik der Fachbegriff *Pro-Drop* etabliert. Er geht auf die Generative Grammatik zurück, wo von einem ‚leeren Pronomen‘ im Satzinneren ausgegangen wird. Der Name legt nahe, dass Pronomen der Normalfall seien und dann ‚fallen gelassen‘ werden – eine Sichtweise, die die tatsächliche Vielfalt verkürzt und zudem unplausibel ist: Sprachen ohne Subjektpronomen sind keine Ausnahme, sondern sehr zahlreich, und Subjektpronomen entwickeln sich historisch oft erst später (z.B. im Französischen, da dort die Verbendung die Funktion der Personenmarkierung nicht mehr durchgängig erfüllen kann).
 
     Heute spricht man daher eher davon, *ob* und *wie* Sprachen Subjektinformation ausdrücken: konsistent über Flexion, diskursgesteuert oder nur partiell. *Pro-Drop* ist also vor allem ein etabliertes Schlagwort.
 
@@ -292,6 +292,6 @@ Werden Herkunftssprachen im Unterricht aktiv aufgegriffen, stärkt das nicht nur
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Khodja, Jamaa / Scholz, Selina / Tacke, Felix (2026): „Herkunftssprachen“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
+    Khodja, Jamaa / Scholz, Selina / Tacke, Felix (2026): „Herkunftssprachen“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
+    DOI: [UMR-DOI](https://doi.org/UMR-DOI)

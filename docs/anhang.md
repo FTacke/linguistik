@@ -2,7 +2,7 @@
 
 ## Das Spanische in Zahlen: Verbreitung und Gewichtung
 
-Viele der in diesem Buch behandelten Phänomene – von der Tempusvariation über Anredesysteme bis hin zu Aussprachunterschieden – lassen sich besser einordnen, wenn man sich die geographische und demographische Verteilung des Spanischen vor Augen führt. Die folgende Karte und Tabelle zeigen die Zahl der *hablantes nativos* nach Ländern (Stand 2024).
+Viele der in diesem Buch behandelten Phänomene – von der Tempusvariation über Anredesysteme bis hin zu Ausspracheunterschieden – lassen sich besser einordnen, wenn man sich die geographische und demographische Verteilung des Spanischen vor Augen führt. Die folgende Karte und Tabelle zeigen die Zahl der *hablantes nativos* nach Ländern (Stand 2024).
 
 <div class="book-map" data-map="variation">
   <div class="book-map__canvas"></div>

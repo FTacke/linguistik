@@ -146,14 +146,14 @@ Der Vergleich der Vergangenheitstempora und der Futurformen zeigt exemplarisch, 
 - Real Academia Española (o.J.): *CORPES XXI. Corpus del Español del Siglo XXI (CORPES).* Madrid: Real Academia Española. Online: [https://www.rae.es/corpes/](https://www.rae.es/corpes/)
 - Schrott, Angela (2012): „Tempus und Aspekt“. In: Born, Joachim / Folger, Robert / Laferl, Christopher F. / Pöll, Bernhard (Hg.): *Handbuch Spanisch. Sprache, Literatur, Kultur, Geschichte in Spanien und Hispanoamerika.* Berlin: Erich Schmidt, 329–334.
 - Schwenter, Scott A. / Torres Cacoullos, Rena (2008): „Defaults and Indeterminacy in Temporal Grammaticalization: The ‚Perfect‘ Road to Perfective“. In: *Language Variation and Change* 20(1), 1–39. DOI: [https://doi.org/10.1017/S0954394508000057](https://doi.org/10.1017/S0954394508000057)
-- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg: Universität Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
+- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg: Philipps-Universität Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
 
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Delgado Moreno, Ramón / Tacke, Felix (2026): „Variation im Gebrauch der Tempora“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
+    Delgado Moreno, Ramón / Tacke, Felix (2026): „Variation im Gebrauch der Tempora“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
+    DOI: [UMR-DOI](https://doi.org/UMR-DOI)
 
 [^rdm]: (Mit-)Autor: Ramón Delgado Moreno.
 [^tempuskarte]: Die Frequenzen basieren auf einer Auswertung des [CO.RA.PAN](https://corapan.hispanistica.com)-Korpus; berücksichtigt wurden Belege aus standardnaher freier Rede. Die Prozentwerte spiegeln daher eine spezifische kommunikative Situation wider und sind nicht als Repräsentation des allgemeinen Sprachgebrauchs eines Landes zu verstehen. Die Einteilung der Gebrauchssysteme folgt der *Nueva gramática de la lengua española* (NGLE, 2025); die kartographische Darstellung mit farbigen Kreisen und symbolisierten Einflusszonen dient der groben Orientierung und stellt keine Sprachgrenzen dar. Dies führt in Einzelfällen (z.B. Kanarische Inseln, Paraguay, Córdoba) zu Abweichungen zwischen den gemessenen Frequenzen und der systematischen Einordnung.

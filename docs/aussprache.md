@@ -238,11 +238,11 @@ Nicht jedes Graphem hat im Spanischen einen Lautwert. Das `<h>` ist immer stumm 
   — (2025): *Nueva gramática de la lengua española*. Nueva edición actualizada, 4 Bde. Madrid: Espasa.
 
 - Reimann, Daniel (2016): *Aussprache im Unterricht der romanischen Sprachen (Französisch, Spanisch, Italienisch, Portugiesisch)*. Münster: LIT Verlag.
-- Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg: Universität Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)
+- Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg: Philipps-Universität Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)
 
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Merte, Marlon / Tacke, Felix (2026): „Aussprache“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
+    Merte, Marlon / Tacke, Felix (2026): „Aussprache“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
+    DOI: [UMR-DOI](https://doi.org/UMR-DOI)

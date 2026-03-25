@@ -7,7 +7,7 @@ peer_review:
   - "Marlon Merte"
   - "Gloria Gabriel"
 created: "18.09.2025"
-last_modified: "23.09.2025"
+last_modified: "22.03.2026"
 ---
 
 # 6 Sprachwandel
@@ -87,7 +87,7 @@ Die beiden Varianten zeigen die Tendenz des Spanischen zur offenen Silbenstruktu
 
 So stehen heute beide Formen [*septiembre*](https://dle.rae.es/septiembre) und [*setiembre*](https://dle.rae.es/setiembre) nebeneinander – beide sind korrekt und im Wörterbuch verzeichnet.  
 
-Ein analoger Prozess zeigt sich bei Präfixen wie *trans-* vs. *tras-*. Im Spanischen dominierten Formen mit *tras-* (z. B. [*trasplantar*](https://dle.rae.es/trasplantar), [*traspasar*](https://dle.rae.es/traspasar)). In gelehrten oder international geprägten Bildungen kam *trans-* zurück ([*transparente*](https://dle.rae.es/transparente), [*transfusión*](https://dle.rae.es/transfusi%C3%B3n)). Diese Variation in der Lautung verdeutlicht die Tendenz zur Vereinfachung von Konsonantenclustern.  
+Ein analoger Prozess zeigt sich bei Präfixen wie *trans-* vs. *tras-*. Im Spanischen dominierten Formen mit *tras-* (z.B. [*trasplantar*](https://dle.rae.es/trasplantar), [*traspasar*](https://dle.rae.es/traspasar)). In gelehrten oder international geprägten Bildungen kam *trans-* zurück ([*transparente*](https://dle.rae.es/transparente), [*transfusión*](https://dle.rae.es/transfusi%C3%B3n)). Diese Variation in der Lautung verdeutlicht die Tendenz zur Vereinfachung von Konsonantenclustern.  
 
 Ein weiteres Beispiel komplexer Konsonantenfolgen ohne Aussprache ist [*psicólogo*](https://dle.rae.es/psic%C3%B3logo) bzw. [*psíquico*](https://dle.rae.es/ps%C3%ADquico). Das initiale `<p>` wird in der Aussprache in der Regel nicht realisiert, obwohl es orthographisch steht – hier wiederum ein Erbe des griechischen Ursprungs (im Wörterbuch werden *sícólogo* und *síquico* als alternative Schreibweisen aufgeführt).  
 
@@ -106,7 +106,7 @@ Zum Vergleich: Im Italienischen ist die vorvorletzte Silbe als Akzentposition se
 #### Warum ist das *h* im Spanischen stumm?  
 Der heutige Buchstabe `<h>`, den man in der geschriebenen Sprache vorfindet, hatte einst Lautwert. In vielen Fällen geht er auf ein lateinisches `/f/` zurück, das im Übergang zum Spanischen zu einem schwachen Atemlaut wurde und schließlich verschwand. So wurde FACERE zu *hacer*, FERRUM zu *hierro*, FORMOSUS zu *hermoso*. Die Schreibung ist also ein historisches Relikt, das meist auf den einstigen Lautwert und die lateinische Herkunft verweist (vgl. Kapitel [Orthographie](./orthographie.md); siehe auch [RAE](https://www.rae.es/ortograf%C3%ADa/la-h-muda)).  
 
-Ein Vergleich mit anderen romanischen Sprachen (z. B. fr. *faire*, pt. *fazer*, it. *fare*) zeigt, dass dieser Wandel spezifisch für das Spanische war.  
+Ein Vergleich mit anderen romanischen Sprachen (z.B. fr. *faire*, pt. *fazer*, it. *fare*) zeigt, dass dieser Wandel spezifisch für das Spanische war.  
 
 Heute besitzt keine der romanischen Sprachen mehr ein phonologisch relevantes `/h/`: Das Graphem `<h>` bleibt überall stumm, nur seine historische Herkunft unterscheidet sich.    
 
@@ -201,7 +201,7 @@ Die ‚Konkurrenzform‘ ist das Indefinido (*canté*). Es setzt das lateinische
 
 Im Spanischen verwendet man – wie in vielen anderen Sprachen auch – zwei verschiedene Futurformen. Der Grund dafür ist, dass gerade im Sprechen über Zukünftiges immer wieder neue Formen gebildet und ältere aufgegeben werden. Das Futur des Lateinischen hat es zum Beispiel nicht bis heute geschafft, es wurde durch innovativere Formen ersetzt. So setzte sich in der Entwicklung der romanischen Sprachen HABEN + Infinitiv durch (CANTARE HABEO ‘ich habe zu singen’) gegenüber dem alten lateinischen Futur (CANTABO). Die Idee des Müssens (deontische Modalität) war die ursprüngliche Idee dieser Konstruktion, aber auch hier wurde die Bedeutung so abstrakt, dass nur noch die Idee der Zukunft blieb. Gleichzeitig wurde das Hilfsverb langsam zur Endung: aus *cantar* + *he* wurde *cantaré* (vgl. dieselbe Entwicklung in den Nachbarsprachen: fr. chanter + ai > chanterai, it. cantare ho > cantarò).
 
-Später entstand zusätzlich ein Bewegungsfutur aus GEHEN + Infinitiv (z. B. *voy a cantar*). Entscheidend ist hier die Entwicklung von der Idee des ‘sich in Bewegung setzen, um X zu tun’, zu ‘beabsichtigen, X zu tun’, und schließlich schlicht zu ‘zukünftig X tun’. In diesem Verlauf verlor *ir* seine volle Bewegungsbedeutung, die Fügung wurde fest und dient heute als Zukunftsmarker. Dieses periphrastische Futur ersetzt heute immer öfter das ältere einfache Futur (*mañana cantaré*).
+Später entstand zusätzlich ein Bewegungsfutur aus GEHEN + Infinitiv (z.B. *voy a cantar*). Entscheidend ist hier die Entwicklung von der Idee des ‘sich in Bewegung setzen, um X zu tun’, zu ‘beabsichtigen, X zu tun’, und schließlich schlicht zu ‘zukünftig X tun’. In diesem Verlauf verlor *ir* seine volle Bewegungsbedeutung, die Fügung wurde fest und dient heute als Zukunftsmarker. Dieses periphrastische Futur ersetzt heute immer öfter das ältere einfache Futur (*mañana cantaré*).
 
 ??? expand "Bewegung in die Zukunft – nicht nur im Spanischen"
     Das ‚Bewegungsfutur‘ ist kein spanisches Einzelphänomen. Auch im Französischen heißt es je vais chanter und im Englischen sagt man I’m going to sing. Dort geht die Entwicklung sogar weiter: aus going to wird in der Umgangssprache gonna, denn je abstrakter die Bedeutung, desto mehr verschleift oft auch die Form. Der Weg ist in allen Fällen derselbe: ‘gehen, um etwas zu tun’ > ‘Absicht haben’ > ‘zukünftig tun’.
@@ -246,6 +246,6 @@ Das Muster findet sich ebenfalls in den übrigen romanischen Sprachen: fr. clair
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Domin, Lea-Marie / Sevgi, Selin / Tacke, Felix (2026): „Sprachwandel“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
+    Domin, Lea-Marie / Sevgi, Selin / Tacke, Felix (2026): „Sprachwandel“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
+    DOI: [UMR-DOI](https://doi.org/UMR-DOI)

@@ -266,11 +266,11 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten 
 - Real Academia Española (online): *Diccionario de la lengua española (DLE)*. 23.ª ed. Online: [https://dle.rae.es](https://dle.rae.es)
 
 - Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Lebsanft, Franz / Tacke, Felix (Hg.): *Manual of Standardization in the Romance Languages*. Berlin / Boston: De Gruyter, 559–579.
-- Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg: Universität Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)
+- Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg: Philipps-Universität Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)
 
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Tacke, Felix / Merte, Marlon (2026): „Orthographie“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
+  Tacke, Felix / Merte, Marlon (2026): „Orthographie“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
+    DOI: [UMR-DOI](https://doi.org/UMR-DOI)

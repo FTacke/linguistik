@@ -392,14 +392,14 @@ Die in diesem Kapitel behandelten Phänomene zeigen ein gemeinsames Muster: Morp
   — (2025): *Nueva gramática de la lengua española*. Nueva edición actualizada, 4 Bde. Madrid: Espasa.
 
 - Real Academia Española (o.J.): *CORPES XXI. Corpus del Español del Siglo XXI (CORPES).* Madrid: Real Academia Española. Online: [https://www.rae.es/corpes/](https://www.rae.es/corpes/)
-- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg: Universität Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
+- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg: Philipps-Universität Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
 
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Becker, Paul / Bender, Lisa / Ritz Pequeño, Enrique / Minchev, Stanislav / Tacke, Felix (2026): „Variation in Morphologie und Syntax“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
+    Becker, Paul / Bender, Lisa / Ritz Pequeño, Enrique / Minchev, Stanislav / Tacke, Felix (2026): „Variation in Morphologie und Syntax“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
+    DOI: [UMR-DOI](https://doi.org/UMR-DOI)
 
 [^pb]: (Mit-)Autor: Paul Becker.
 [^lb]: (Mit-)Autorin: Lisa Bender.

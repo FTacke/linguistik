@@ -231,12 +231,12 @@ Anders verhält es sich bei *Abweichungen, die keine Fehler im engeren Sinne dar
 - Lyster, Roy / Ranta, Leila (1997): „Corrective Feedback and Learner Uptake: Negotiation of Form in Communicative Classrooms“. *Studies in Second Language Acquisition* 19 (1), 37–66. DOI: [https://doi.org/10.1017/S0272263197001034](https://doi.org/10.1017/S0272263197001034)
 - Schlaak, Claudia (2020): „Fehlertoleranz bei und von Fremdsprachenlernern im ersten Lernjahr“. In: Ossenkop, Christiane & Veldre-Gerner, Gabriele (Hg.): *Fehler – Abweichung – Variation*. Frankfurt a. M.: Lang, S. 209–223. DOI: [10.3726/b17238](10.3726/b17238)
 - Selinker, Larry (1972): „Interlanguage“. *International Review of Applied Linguistics* 10 (3), 209–231. DOI: [https://doi.org/10.1515/iral.1972.10.1-4.209](https://doi.org/10.1515/iral.1972.10.1-4.209)
-- Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg: Universität Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)  
-- Tacke, Felix (2026): *Pronunciation Matters.*. Marburg: Universität Marburg. Online: [https://pronunciation-matters.de](https://pronunciation-matters.de)
+- Tacke, Felix (2023–2024): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg: Philipps-Universität Marburg. Online: [https://marele.hispanistica.com](https://marele.hispanistica.com)  
+- Tacke, Felix (2026): *Pronunciation Matters*. Marburg: Philipps-Universität Marburg. Online: [https://pronunciation-matters.de](https://pronunciation-matters.de)
 
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Gabriel, Gloria / Merte, Marlon / Tacke, Felix (2026): „Fehlerlinguistik“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
+    Gabriel, Gloria / Merte, Marlon / Tacke, Felix (2026): „Fehlerlinguistik“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
+    DOI: [UMR-DOI](https://doi.org/UMR-DOI)

@@ -3,8 +3,10 @@ authors:
   - "Laura Hesral Sánchez"
   - "Riccarda Falcone"
   - "Felix Tacke"
+peer_review:
+  - "Marlon Merte"
 created: "11.11.2025"
-last_modified: "18.03.2026"
+last_modified: "25.03.2026"
 ---
 
 # 5.1 Variation & Plurizentrik
@@ -183,7 +185,7 @@ In einem plurizentrischen Unterricht zählt nicht, welche Variante verwendet wir
 - Amorós-Negre, Carla (2014): *Las lenguas en la sociedad.* Madrid: Síntesis.
 - Bierbach, Mechtild (2000): „Spanisch – eine plurizentrische Sprache? Zum Problem von *norma culta* und Varietät in der hispanophonen Welt“, *Vox Romanica* 59, 143–170.
 - Caravedo, Rocío (2014): *Percepción y variación lingüística. Enfoque sociocognitivo*. Madrid / Frankfurt: Iberoamericana / Vervuert.
-- Chiquito, Ana Beatriz & Quesada Pacheco, Miguel Ángel (Hrsg.) (2014): *Actitudes lingüísticas de los hispanohablantes hacia el idioma español y sus variantes*. Bergen: Bergen Language and Linguistics Studies (BeLLS), 5. Online: [https://bells.uib.no/index.php/bells/issue/view/161](https://bells.uib.no/index.php/bells/issue/view/161)
+- Chiquito, Ana Beatriz & Quesada Pacheco, Miguel Ángel (Hg.) (2014): *Actitudes lingüísticas de los hispanohablantes hacia el idioma español y sus variantes*. Bergen: Bergen Language and Linguistics Studies (BeLLS), 5. Online: [https://bells.uib.no/index.php/bells/issue/view/161](https://bells.uib.no/index.php/bells/issue/view/161)
 - Clyne, Michael (Hg.) (1992): *Pluricentric Languages: Different Norms in Different Countries.* Berlin/New York: De Gruyter Mouton.
 - Greußlich, Sebastian / Lebsanft, Franz (Hg.) (2020): *El español, lengua pluricéntrica. Discurso, gramática, léxico y medios de comunicación masiva.* Göttingen: Vandenhoeck & Ruprecht / Bonn University Press. DOI: [https://doi.org/10.14220/9783737009997](https://doi.org/10.14220/9783737009997)
 - Greußlich, Sebastian (2022): „The Pluricentricity of Spanish in the Americas – Current Perspectives on Variety Dominance, Standardization, and the Media“. In: Muhr, Rudolf et al. (Hg.): *Pluricentric Languages in the Americas.* Graz/Berlin: PCL-Press, 47–74.
@@ -217,15 +219,15 @@ In einem plurizentrischen Unterricht zählt nicht, welche Variante verwendet wir
 - Tacke, Felix (2011): „Plurizentrik und normativer Diskurs in der *Nueva gramática de la lengua española*“, *Romanische Forschungen* 123, 145–166. DOI: [https://doi.org/10.3196/003581211796029376](https://doi.org/10.3196/003581211796029376)
 - Tacke, Felix (2024a): „Die Rekonfiguration und Modernisierung romanischer Standardsprachen“, in: Becker, Lidia et al. (Hg.): *Zwischen Pluralität und Präskription.* Tübingen: Narr, 29–67.
 - Tacke, Felix (2024b): „Informal Standardization and the Regionalization of Language Norms: An Introduction“. In: Tacke, Felix (Hg.): *Informal Standardization and the Regionalization of Language Norms.* *Energeia* 9, 1–17. DOI: [https://doi.org/10.55245/energeia.2024.001](https://doi.org/10.55245/energeia.2024.001).
-- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg: Universität Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
+- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg: Philipps-Universität Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
 - Thompson, Robert W. (1992): „Spanish as a Pluricentric Language“, in: Clyne, Michael (Hg.): *Pluricentric Languages.* Berlin / New York: De Gruyter Mouton, 45–70.
 
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Hesral Sánchez, Laura / Falcone, Riccarda / Tacke, Felix (2026): „Variation & Plurizentrik“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
+    Hesral Sánchez, Laura / Falcone, Riccarda / Tacke, Felix (2026): „Variation & Plurizentrik“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
+    DOI: [UMR-DOI](https://doi.org/UMR-DOI)
 
 [^lhs]: (Mit-)Autorin: Laura Hesral Sánchez.
 [^rf]: (Mit-)Autorin: Riccarda Falcone.

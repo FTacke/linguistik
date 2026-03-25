@@ -168,6 +168,6 @@ Sprache bleibt also immer in Bewegung und kann nie vollständig in einem einzige
 
 
 !!! cite "Dieses Kapitel zitieren"
-    Özen, Büşra / Teodorescu, Teodora / Tacke, Felix (2026): „Lexikalische Kreativität“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
+    Özen, Büşra / Teodorescu, Teodora / Tacke, Felix (2026): „Lexikalische Kreativität“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
+    DOI: [UMR-DOI](https://doi.org/UMR-DOI)

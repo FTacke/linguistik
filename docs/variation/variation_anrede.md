@@ -216,14 +216,14 @@ Die Betrachtung der Anredeformen zeigt, dass das Spanische über keine einheitli
   — (2009–2011): *Nueva gramática de la lengua española*. 3 Bde. Madrid: Espasa. Online: [https://www.rae.es/gramática/]  
   — (2025): *Nueva gramática de la lengua española*. Nueva edición actualizada, 4 Bde. Madrid: Espasa.
 
-- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg: Universität Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
+- Tacke, Felix (2026): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg: Philipps-Universität Marburg. Online: [https://corapan.hispanistica.com](https://corapan.hispanistica.com)
 
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Mehrlein Merenciano, Daniel / Pimenta Lange, Lucas / Stephan Quezada, Karina / Tacke, Felix (2026): „Variation in der Anrede“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Universität Marburg.
+    Mehrlein Merenciano, Daniel / Pimenta Lange, Lucas / Stephan Quezada, Karina / Tacke, Felix (2026): „Variation in der Anrede“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
+    DOI: [UMR-DOI](https://doi.org/UMR-DOI)
     
 [^ksq]: (Mit-)Autorin: Karina Stephan Quezada.
 [^lpl]: (Mit-)Autor: Lucas Pimenta Lange.
