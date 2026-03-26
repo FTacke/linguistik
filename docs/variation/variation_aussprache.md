@@ -52,7 +52,7 @@ Als Lehrkraft trifft man zwangsläufig eine Entscheidung – aber sie sollte bew
     <div class="audio-block">
     <h4>Costa Rica:</h4>
     <div class="example">
-    „Gana una <strong>c</strong>ena para cuatro personas (...)"
+    „Gana una <strong>c</strong>ena para cuatro personas (...)“
     <span class="token-id">(CRI61d9dc2dc)</span>
     </div>
     <audio controls preload="metadata">
@@ -140,7 +140,7 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     <div class="audio-block">
     <h4>Nicaragua:</h4>
     <div class="example">
-    „(...) estamos experimentando este tipo de <strong>ll</strong>uvias en distintas partes del país (...)"
+    „(...) estamos experimentando este tipo de <strong>ll</strong>uvias en distintas partes del país (...)“
     <span class="token-id">(NIC9cc4332e7)</span>
     </div>
     <audio controls preload="metadata">
@@ -184,7 +184,7 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     <div class="audio-block">
     <h4>Argentinien, Bsp. 2:</h4>
     <div class="example">
-    „(...) gente que nos <strong>ll</strong>ena de orgu<strong>ll</strong>o (...)"
+    „(...) gente que nos <strong>ll</strong>ena de orgu<strong>ll</strong>o (...)“
     <span class="token-id">(ARG83d8dcded)</span>
     </div>
     <audio controls preload="metadata">
@@ -195,7 +195,7 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     <div class="audio-block">
     <h4>Argentinien, Bsp. 3:</h4>
     <div class="example">
-    „Friedrich Merz es el próximo canci<strong>ll</strong>er alemán (...)"
+    „Friedrich Merz es el próximo canci<strong>ll</strong>er alemán (...)“
     <span class="token-id">(ARG6f0773898)</span>
     </div>
     <audio controls preload="metadata">
@@ -206,7 +206,7 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     <div class="audio-block">
     <h4>Argentinien, Bsp. 4:</h4>
     <div class="example">
-    „Bueno, mañana también está previsto que <strong>ll</strong>ueva todo el día, mañana miércoles (...)"
+    „Bueno, mañana también está previsto que <strong>ll</strong>ueva todo el día, mañana miércoles (...)“
     <span class="token-id">(ARG976a70db8)</span>
     </div>
     <audio controls preload="metadata">
@@ -248,7 +248,7 @@ Dabei ist zu berücksichtigen, dass die Abschwächung heute in vielen dieser Geb
     <div class="audio-block">
     <h4>Chile, Bsp. 1:</h4>
     <div class="example">
-    „(...) revisamo<strong>s</strong> alguna<strong>s</strong> de la<strong>s</strong> informacione<strong>s</strong> internacionale<strong>s</strong> que han marcado la<strong>s</strong> última<strong>s</strong> hora<strong>s</strong> (...)"
+    „(...) revisamo<strong>s</strong> alguna<strong>s</strong> de la<strong>s</strong> informacione<strong>s</strong> internacionale<strong>s</strong> que han marcado la<strong>s</strong> última<strong>s</strong> hora<strong>s</strong> (...)“
     <span class="token-id">(CHL70dd886f7)</span>
     </div>
     <audio controls preload="metadata">
@@ -281,7 +281,7 @@ Dabei ist zu berücksichtigen, dass die Abschwächung heute in vielen dieser Geb
     <div class="audio-block">
     <h4>Argentinien, Bsp. 2:</h4>
     <div class="example">
-    „Mucho<strong>s</strong> de lo<strong>s</strong> votante<strong>s</strong> de Javier Milei no e<strong>s</strong>tán de acuerdo con su negacioni<strong>s</strong>mo del cambio climático (...)"
+    „Mucho<strong>s</strong> de lo<strong>s</strong> votante<strong>s</strong> de Javier Milei no e<strong>s</strong>tán de acuerdo con su negacioni<strong>s</strong>mo del cambio climático (...)“
     <span class="token-id">(ARGad0b6f8c6)</span>
     </div>
     <audio controls preload="metadata">
@@ -292,7 +292,7 @@ Dabei ist zu berücksichtigen, dass die Abschwächung heute in vielen dieser Geb
     <div class="audio-block">
     <h4>Kanaren (Spanien), Bsp. 1:</h4>
     <div class="example">
-    „(...) el reparto de lo<strong>s</strong> menore<strong>s</strong> no acompañado<strong>s</strong> entre toda<strong>s</strong> la<strong>s</strong> comunidade<strong>s</strong> autónoma<strong>s</strong> (...)"
+    „(...) el reparto de lo<strong>s</strong> menore<strong>s</strong> no acompañado<strong>s</strong> entre toda<strong>s</strong> la<strong>s</strong> comunidade<strong>s</strong> autónoma<strong>s</strong> (...)“
     <span class="token-id">(ESPCANdd7e69c6a)</span>
     </div>
     <audio controls preload="metadata">
@@ -303,7 +303,7 @@ Dabei ist zu berücksichtigen, dass die Abschwächung heute in vielen dieser Geb
     <div class="audio-block">
     <h4>Kanaren (Spanien), Bsp. 2:</h4>
     <div class="example">
-    „Ademá<strong>s</strong>, la<strong>s</strong> temperatura<strong>s</strong> media<strong>s</strong> que han llegado a ser de un grado y (...)"
+    „Ademá<strong>s</strong>, la<strong>s</strong> temperatura<strong>s</strong> media<strong>s</strong> que han llegado a ser de un grado y (...)“
     <span class="token-id">(ESPCAN27f974cca)</span>
     </div>
     <audio controls preload="metadata">
