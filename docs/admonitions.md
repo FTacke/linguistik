@@ -75,7 +75,6 @@ Das Phonem `/b/` wird im Spanischen unabhängig davon, ob es mit `<b>` oder `<v>
     <h4>Zielaussprache:</h4> <div class="example"><i><strong>b</strong>arón</i> [baˈɾon] – <i><strong>v</strong>arón</i> [baˈɾon]</div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/baron_varon_l1.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/baron_varon_l1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -83,7 +82,6 @@ Das Phonem `/b/` wird im Spanischen unabhängig davon, ob es mit `<b>` oder `<v>
     <h4>Lernendenaussprache:</h4> <div class="example"><i><strong>b</strong>arón</i> [baˈʁon] – <i><strong>v</strong>arón</i> *[vaˈʁon]</div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/baron_varon_ele.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/baron_varon_ele.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -182,7 +180,6 @@ Die Unterscheidung zwischen einfachem `/ɾ/` und mehrfach vibrierendem `/r/` ist
     <h4>Zielaussprache:</h4> <div class="example">[re.ˈiɾ]</div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/r_l1.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/r_l1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -190,7 +187,6 @@ Die Unterscheidung zwischen einfachem `/ɾ/` und mehrfach vibrierendem `/r/` ist
     <h4>Lernendenaussprache:</h4> <div class="example">[ʁe.ˈɪɐ]</div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/r_ele.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/r_ele.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>

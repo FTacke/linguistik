@@ -46,7 +46,6 @@ Als Lehrkraft trifft man zwangsläufig eine Entscheidung – aber sie sollte bew
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/MEXb80def27c.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/MEXb80def27c.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -58,7 +57,6 @@ Als Lehrkraft trifft man zwangsläufig eine Entscheidung – aber sie sollte bew
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CRI61d9dc2dc.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CRI61d9dc2dc.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -70,7 +68,6 @@ Als Lehrkraft trifft man zwangsläufig eine Entscheidung – aber sie sollte bew
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHL8b78ac16b.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHL8b78ac16b.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -82,7 +79,6 @@ Als Lehrkraft trifft man zwangsläufig eine Entscheidung – aber sie sollte bew
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARGCBAeca46a987.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARGCBAeca46a987.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -94,7 +90,6 @@ Als Lehrkraft trifft man zwangsläufig eine Entscheidung – aber sie sollte bew
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ESPf05b1f805.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ESPf05b1f805.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -106,7 +101,6 @@ Als Lehrkraft trifft man zwangsläufig eine Entscheidung – aber sie sollte bew
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ESPf1a6cf8f9.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ESPf1a6cf8f9.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -140,7 +134,6 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ESP468f8cda7.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ESP468f8cda7.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -152,7 +145,6 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/NIC9cc4332e7.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/NIC9cc4332e7.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -164,7 +156,6 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHLcca547c4d.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHLcca547c4d.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -176,7 +167,6 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PERfb855ad5f.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PERfb855ad5f.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -188,7 +178,6 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG4b08885ac.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG4b08885ac.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -200,7 +189,6 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG83d8dcded.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG83d8dcded.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -212,7 +200,6 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG6f0773898.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG6f0773898.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -224,7 +211,6 @@ Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien h�
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG976a70db8.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG976a70db8.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -267,7 +253,6 @@ Dabei ist zu berücksichtigen, dass die Abschwächung heute in vielen dieser Geb
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHL70dd886f7.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHL70dd886f7.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -279,7 +264,6 @@ Dabei ist zu berücksichtigen, dass die Abschwächung heute in vielen dieser Geb
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHL677fe3caa.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/CHL677fe3caa.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -291,7 +275,6 @@ Dabei ist zu berücksichtigen, dass die Abschwächung heute in vielen dieser Geb
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG6b4b5aaa0.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG6b4b5aaa0.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -303,7 +286,6 @@ Dabei ist zu berücksichtigen, dass die Abschwächung heute in vielen dieser Geb
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARGad0b6f8c6.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARGad0b6f8c6.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -315,7 +297,6 @@ Dabei ist zu berücksichtigen, dass die Abschwächung heute in vielen dieser Geb
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ESPCANdd7e69c6a.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ESPCANdd7e69c6a.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -327,7 +308,6 @@ Dabei ist zu berücksichtigen, dass die Abschwächung heute in vielen dieser Geb
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ESPCAN27f974cca.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ESPCAN27f974cca.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -350,7 +330,6 @@ Die Hochlandregionen hingegen – Mexiko-Stadt, Bogotá, Quito, La Paz – zeich
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/MEXeb9444db6.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/MEXeb9444db6.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -362,7 +341,6 @@ Die Hochlandregionen hingegen – Mexiko-Stadt, Bogotá, Quito, La Paz – zeich
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/MEX2c8baf584.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/MEX2c8baf584.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -374,7 +352,6 @@ Die Hochlandregionen hingegen – Mexiko-Stadt, Bogotá, Quito, La Paz – zeich
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/COL85d7dd9c5.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/COL85d7dd9c5.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -386,7 +363,6 @@ Die Hochlandregionen hingegen – Mexiko-Stadt, Bogotá, Quito, La Paz – zeich
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/COL67ae8c87e.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/COL67ae8c87e.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -398,7 +374,6 @@ Die Hochlandregionen hingegen – Mexiko-Stadt, Bogotá, Quito, La Paz – zeich
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ECU6a890d14d.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ECU6a890d14d.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -410,7 +385,6 @@ Die Hochlandregionen hingegen – Mexiko-Stadt, Bogotá, Quito, La Paz – zeich
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ECU73ad76bb5.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ECU73ad76bb5.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -422,7 +396,6 @@ Die Hochlandregionen hingegen – Mexiko-Stadt, Bogotá, Quito, La Paz – zeich
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/BOL3c25ed786.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/BOL3c25ed786.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -434,7 +407,6 @@ Die Hochlandregionen hingegen – Mexiko-Stadt, Bogotá, Quito, La Paz – zeich
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/BOL1d4225d5f.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/BOL1d4225d5f.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>

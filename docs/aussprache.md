@@ -38,7 +38,6 @@ Ein Grund dafür, warum das Deutsche oft als ‚abgehackt‘ empfunden wird, lie
     <h4>Zielaussprache:</h4> <div class="example-ipa">[o.ˈai]</div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/glottis_l1.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/glottis_l1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -46,7 +45,6 @@ Ein Grund dafür, warum das Deutsche oft als ‚abgehackt‘ empfunden wird, lie
     <h4>Lernendenaussprache:</h4> <div class="example-ipa">[ʔo.ʔai]</div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/glottis_ele.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/glottis_ele.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -70,7 +68,6 @@ Sowohl das Deutsche als auch das Spanische verfügen über mehrere R-Laute. Im D
     <h4>Zielaussprache:</h4> <div class="example-ipa">[re.ˈiɾ]</div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/r_l1.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/r_l1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -78,7 +75,6 @@ Sowohl das Deutsche als auch das Spanische verfügen über mehrere R-Laute. Im D
     <h4>Lernendenaussprache:</h4> <div class="example-ipa">[ʁe.ˈɪɐ]</div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/r_ele.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/r_ele.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -137,7 +133,6 @@ Wer Lernende zu einer besonders zielsprachlichen Kompetenz führen möchte, muss
     <h4>Zielaussprache:</h4> <div class="example-ipa">[el.βe.βe.ˈðoɾ]</div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/bebedor_l1.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/bebedor_l1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -145,7 +140,6 @@ Wer Lernende zu einer besonders zielsprachlichen Kompetenz führen möchte, muss
     <h4>Lernendenaussprache:</h4> <div class="example-ipa">[el.be.be.ˈdoɐ]</div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/bebedor_ele.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/marele/bebedor_ele.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -158,7 +152,6 @@ Wer Lernende zu einer besonders zielsprachlichen Kompetenz führen möchte, muss
     <h4>Zielaussprache:</h4> <div class="example-ipa">[ko.ˈna.ɣwa]</div>
     <audio controls controlsList="nodownload" preload="metadata">
     <source src="/assets/audiofiles/marele/agua_l1.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/agua_l1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -166,7 +159,6 @@ Wer Lernende zu einer besonders zielsprachlichen Kompetenz führen möchte, muss
     <h4>Lernendenaussprache:</h4> <div class="example-ipa">[kon.ˈa.gwa]</div>
     <audio controls controlsList="nodownload" preload="metadata">
     <source src="/assets/audiofiles/marele/agua_ele.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/marele/agua_ele.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>

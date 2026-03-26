@@ -52,7 +52,6 @@ Weniger intuitiv ist die *verstärkende Funktion*: In bestimmten Kontexten bedeu
     </div>
     <audio controls preload="metadata">
     <source src="/assets/audiofiles/corapan/URY5bbf88c76.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/corapan/URY5bbf88c76.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -64,7 +63,6 @@ Weniger intuitiv ist die *verstärkende Funktion*: In bestimmten Kontexten bedeu
     </div>
     <audio controls preload="metadata">
     <source src="/assets/audiofiles/corapan/URY2cff70d0d.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/corapan/URY2cff70d0d.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -76,7 +74,6 @@ Weniger intuitiv ist die *verstärkende Funktion*: In bestimmten Kontexten bedeu
     </div>
     <audio controls preload="metadata">
     <source src="/assets/audiofiles/corapan/PRYb10ea56ba.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/corapan/PRYb10ea56ba.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -88,7 +85,6 @@ Weniger intuitiv ist die *verstärkende Funktion*: In bestimmten Kontexten bedeu
     </div>
     <audio controls preload="metadata">
     <source src="/assets/audiofiles/corapan/PER1101faa0f.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/corapan/PER1101faa0f.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -122,7 +118,6 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     </div>
     <audio controls preload="metadata">
     <source src="/assets/audiofiles/corapan/ARG5955354d7.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/corapan/ARG5955354d7.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -134,7 +129,6 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     </div>
     <audio controls preload="metadata">
     <source src="/assets/audiofiles/corapan/URY3e6d4dfb2.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/corapan/URY3e6d4dfb2.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -146,7 +140,6 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     </div>
     <audio controls preload="metadata">
     <source src="/assets/audiofiles/corapan/ESPCAN17a593f28.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/corapan/ESPCAN17a593f28.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -158,7 +151,6 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     </div>
     <audio controls preload="metadata">
     <source src="/assets/audiofiles/corapan/CRI3733abe16.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/corapan/CRI3733abe16.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -170,7 +162,6 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     </div>
     <audio controls preload="metadata">
     <source src="/assets/audiofiles/corapan/PER49335038b.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/corapan/PER49335038b.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -182,7 +173,6 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     </div>
     <audio controls preload="metadata">
     <source src="/assets/audiofiles/corapan/SLVaf013aad1.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/corapan/SLVaf013aad1.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -194,7 +184,6 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     </div>
     <audio controls preload="metadata">
     <source src="/assets/audiofiles/corapan/COLf1ebb8bde.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/corapan/COLf1ebb8bde.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -206,7 +195,6 @@ Wenngleich all diese Verwendungen vor allem das amerikanische Spanisch kennzeich
     </div>
     <audio controls preload="metadata">
     <source src="/assets/audiofiles/corapan/CUB5d77cc7b3.mp3" type="audio/mpeg">
-    <source src="/assets/audiofiles/corapan/CUB5d77cc7b3.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>

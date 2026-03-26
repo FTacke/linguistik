@@ -81,7 +81,6 @@ Insgesamt zeigt sich damit, dass der *voseo* zwar in weiten Teilen Hispanoamerik
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/SLVd96cd5aec.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/SLVd96cd5aec.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -93,7 +92,6 @@ Insgesamt zeigt sich damit, dass der *voseo* zwar in weiten Teilen Hispanoamerik
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PRY056c6e190.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/PRY056c6e190.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -105,7 +103,6 @@ Insgesamt zeigt sich damit, dass der *voseo* zwar in weiten Teilen Hispanoamerik
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG0e9041c54.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG0e9041c54.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -117,7 +114,6 @@ Insgesamt zeigt sich damit, dass der *voseo* zwar in weiten Teilen Hispanoamerik
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG161dd0304.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/ARG161dd0304.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -129,7 +125,6 @@ Insgesamt zeigt sich damit, dass der *voseo* zwar in weiten Teilen Hispanoamerik
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY0f1c01cd7.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY0f1c01cd7.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
@@ -141,7 +136,6 @@ Insgesamt zeigt sich damit, dass der *voseo* zwar in weiten Teilen Hispanoamerik
     </div>
     <audio controls preload="metadata">
     <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY8b580411c.mp3" type="audio/mpeg">
-    <source class="zc-audio-src" data-zc-src="assets/audiofiles/corapan/URY8b580411c.m4a" type="audio/mp4">
     Dein Browser unterstützt das Audio-Format nicht.
     </audio>
     </div>
