@@ -14,7 +14,8 @@ copyright = """
 """
 
 nav = [
-  {"Titel & Vorwort"                        = "index.md"},
+  {"Titel"                                 = "index.md"},
+  {"Vorwort"                               = "vorwort.md"},
   {"Einleitung"                   = "einleitung.md"},
   {"1 Fehlerlinguistik"           = "fehlerlinguistik.md"},
   {"2 Aussprache"                 = "aussprache.md"},
@@ -41,6 +42,7 @@ extra_css = [
   "assets/vendor/leaflet/leaflet.css",
   "assets/styles/40_custom.css",
   "assets/styles/50_map.css",
+  "assets/styles/99_pdf.css",
 ]
 
 extra_javascript = [

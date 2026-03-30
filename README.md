@@ -21,7 +21,7 @@ Das Lehrbuch ist als Open-Access-Publikation über das institutionelle Repositor
 
 ## Technik
 
-Die Website wird mit [MkDocs](https://www.mkdocs.org/) und dem Theme [Zensical](https://zensical.org/about/) generiert. Das Layout wurde für didaktische Zwecke strukturell angepasst (Admonitions, Audio-Elemente, interaktive Karten, mobile Lesbarkeit). Der Quellcode dieses Projekts ist auf [Zenodo](ZENODO-DOI) archiviert.
+Die Website wird mit [MkDocs](https://www.mkdocs.org/) und dem Theme [Zensical](https://zensical.org/about/) generiert. Das Layout wurde für didaktische Zwecke strukturell angepasst (Admonitions, Audio-Elemente, interaktive Karten, mobile Lesbarkeit). Der Quellcode dieses Projekts ist auf [Zenodo](https://doi.org/10.5281/zenodo.19255666) archiviert.
 
 ## Zitierweise
 

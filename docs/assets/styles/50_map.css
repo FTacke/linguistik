@@ -509,7 +509,8 @@ body[data-md-color-scheme="slate"] .md-typeset .book-map .leaflet-popup-tip {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0.5rem;
-  margin-bottom: 0.0rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
 }
 
 /* CTA button - aligns bottom-right, uses Material button style */

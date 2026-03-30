@@ -21,9 +21,9 @@ Diese Vielfalt zeigt sich auf allen Ebenen: in der Aussprache, im Wortschatz, in
 
 Traditionell orientierte sich der Spanischunterricht lange am sogenannten ‚peninsularen Standard‘, also an der in Spanien kodifizierten Norm, was sich bis heute an der Gestaltung von Schulbüchern und Unterrichtsmaterialien erkennen lässt. Heute gilt diese einseitige Orientierung als überholt. Aus linguistischer Perspektive spricht man vielmehr von mehreren gleichberechtigten Standardvarietäten des Spanischen, ähnlich wie im Englischen weder das britische noch das amerikanische Englisch dem anderen ‚überlegen‘ ist.
 
-!!! tip "Hispanophonie: Karte und Zahlen"
+!!! expand "Hispanophonie: Karte und Zahlen"
     <div class="map-admonition">
-    Entdecke auf einer Karte der Hispanophonie, wie das Spanische weltweit verbreitet ist und welches Gewicht die einzelnen Länder in der spanischsprachigen Welt haben (quantitativ).
+    Schau Dir auf einer Karte der Hispanophonie an, wie das Spanische weltweit verbreitet ist und welches (quantitative) Gewicht die einzelnen Länder gemäß ihrer aktuellen Sprecher:innenzahlen in der spanischsprachigen Welt haben.
         <div class="map-image-row">
             <div class="map-image-item">
                 <a href="/anhang/" class="map-image-link">

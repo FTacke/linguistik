@@ -1,0 +1,34 @@
+/* Homepage PDF-only CTA */
+
+.md-typeset .index-cover-cta {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.md-typeset .index-cover-cta a {
+  margin: 0 auto;
+}
+
+/* Default: hidden online */
+.md-typeset .index-cover-cta.pdf-only {
+  display: none;
+}
+
+/* Print/PDF: visible and centered */
+@media print {
+  .md-typeset .index-cover-cta.pdf-only {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 1.2rem;
+    margin-bottom: 0;
+  }
+
+  .md-typeset .index-cover-cta.pdf-only .map-cta {
+    align-self: center;
+    margin: 0 auto;
+  }
+}

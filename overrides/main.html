@@ -3,6 +3,26 @@
 {% block extrahead %}
   {{ super() }}
 
+  {% if page and page.file and page.file.src_uri == "index.md" %}
+  <style>
+    .md-content__inner {
+      padding-top: 0;
+    }
+
+    .md-content__inner > h1:first-child {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+  </style>
+  {% endif %}
+
   {% set prod_domain = config.extra.analytics.prod_domain %}
   {% set gc_endpoint = config.extra.analytics.goatcounter.endpoint %}
   {% set gc_src = config.extra.analytics.goatcounter.script_src %}

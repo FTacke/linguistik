@@ -3,7 +3,7 @@
   {"Land": "Kolumbien", "Hauptstadt": "Bogotá", "Koordinaten": [4.7110, -74.0721], "GDN": 51684976, "Anteil_GDN": 10.4},
   {"Land": "Spanien", "Hauptstadt": "Madrid", "Koordinaten": [40.4168, -3.7038], "GDN": 46460284, "Anteil_GDN": 9.3},
   {"Land": "Argentinien", "Hauptstadt": "Buenos Aires", "Koordinaten": [-34.6037, -58.3816], "GDN": 46246057, "Anteil_GDN": 9.3},
-  {"Land": "USA", "Hauptstadt": "Washington D. C.", "Koordinaten": [38.8951, -77.0364], "GDN": 45000000, "Anteil_GDN": 9.0},
+  {"Land": "USA", "Hauptstadt": "(Washington D.C.) Medial: Miami", "Koordinaten": [25.7617, -80.1918], "GDN": 45000000, "Anteil_GDN": 9.0},
   {"Land": "Peru", "Hauptstadt": "Lima", "Koordinaten": [-12.0464, -77.0428], "GDN": 30426773, "Anteil_GDN": 6.1},
   {"Land": "Venezuela", "Hauptstadt": "Caracas", "Koordinaten": [10.4806, -66.9036], "GDN": 28632291, "Anteil_GDN": 5.8},
   {"Land": "Chile", "Hauptstadt": "Santiago de Chile", "Koordinaten": [-33.4489, -70.6693], "GDN": 19199657, "Anteil_GDN": 3.9},
