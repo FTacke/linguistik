@@ -1,12 +1,20 @@
 {% extends "base.html" %}
 
+{% set _src_uri = page.file.src_uri if page and page.file else "" %}
+{% set _page_url = page.url if page and page.url else "" %}
+{% set _canonical = page.canonical_url if page and page.canonical_url else "" %}
+{% set _is_homepage = _src_uri == "index.md" or _page_url == "" or _page_url == "." or _page_url == "./" or _page_url == "index.html" or _canonical == config.site_url %}
+
+{% block htmltitle %}
+  {% if _is_homepage %}
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ config.site_name }}{% endif %}</title>
+  {% else %}
+    {{ super() }}
+  {% endif %}
+{% endblock %}
+
 {% block extrahead %}
   {{ super() }}
-
-  {% set _src_uri = page.file.src_uri if page and page.file else "" %}
-  {% set _page_url = page.url if page and page.url else "" %}
-  {% set _canonical = page.canonical_url if page and page.canonical_url else "" %}
-  {% set _is_homepage = _src_uri == "index.md" or _page_url == "" or _page_url == "." or _page_url == "./" or _page_url == "index.html" or _canonical == config.site_url %}
 
   {% if _is_homepage %}
   <style>

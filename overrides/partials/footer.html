@@ -1,0 +1,32 @@
+<footer class="md-footer" role="contentinfo">
+  <div class="md-footer-meta md-typeset">
+    <div class="custom-footer md-footer-meta__inner md-grid">
+      <div class="footer-left">
+        <div class="footer-title">{{ config.site_name }}</div>
+        <div class="footer-meta">
+          <span class="footer-meta-line footer-meta-line--primary">© 2026 Philipps-Universität Marburg<span aria-hidden="true">·</span></span>
+          <span class="footer-meta-line footer-meta-line--secondary"><a href="https://hispanistica.com" target="_blank" rel="noopener">Hispanistica @ Marburg</a><span aria-hidden="true">·</span><span>Felix Tacke</span></span>
+        </div>
+      </div>
+
+      <div class="footer-right">
+        <div class="footer-links">
+          <a href="/impressum/">Impressum</a>
+          <span aria-hidden="true">·</span>
+          <span>CC BY-SA 4.0</span>
+        </div>
+        <div class="footer-version">
+          <span class="footer-version-separator" aria-hidden="true">·</span>
+          {% include "partials/footer-release.html" %}
+        </div>
+        <div class="footer-mobile-line">
+          <a href="/impressum/">Impressum</a>
+          <span aria-hidden="true">·</span>
+          <span>CC BY-SA 4.0</span>
+          <span aria-hidden="true">·</span>
+          {% include "partials/footer-release.html" %}
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

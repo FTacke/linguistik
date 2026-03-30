@@ -1,56 +1,46 @@
-# 🚀 Projekt starten – Lokale Entwicklung
+# Projekt starten - Lokale Entwicklung
 
-## Vorbereitung (einmalig)
-
-### 1. Virtual Environment aktivieren
+## Einmaliges Setup
 
 ```powershell
-# Windows PowerShell
+py -3.12 -m venv .venv
 .venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+python scripts/generate_footer_release.py
 ```
 
-## Lokale Entwicklung starten
+## Dev-Server starten
 
-### Variante 1: Dev-Server (empfohlen)
 ```powershell
 .venv\Scripts\zensical serve
 ```
 
-Dies startet einen lokalen Webserver mit Hot-Reload. Die Site ist dann verfügbar unter:
-```
-http://localhost:8000
-```
+Die Site ist dann unter `http://localhost:8000` verfuegbar.
 
-### Variante 2: Nur Bauen (ohne Server)
-```powershell
-.venv\Scripts\zensical build
-```
-
-Das gebaut Material landet im `site/` Verzeichnis.
-
-## Projektstruktur
-
-- **docs/** – Markdown-Quellen und Assets (Bilder, Audio, JS, CSS, Daten)
-- **docs/assets/audiofiles/** – Audio-Beispiele (CO.RA.PAN, MAR.ELE)
-- **docs/assets/data/** – JSON-Daten für Interaktive Karten
-- **docs/assets/javascripts/** – Leaflet-Karten und UI-Funktionen
-- **docs/assets/styles/** – CSS (Tokens, Typographie, Layout, Komponenten)
-- **overrides/partials/** – Jinja2-Template Overrides
-- **site/** – Gebaute HTML-Site (nicht committen!)
-- **zensical.toml** – Konfigurationsdatei
-
-## Weitere Befehle
+## Sauberen Build erzeugen
 
 ```powershell
-# Help anzeigen
+.venv\Scripts\zensical build --clean
+```
+
+Die gebaute Ausgabe landet in `site/`.
+
+## Orientierung
+
+- `docs/` enthaelt nur publizierte Buchinhalte und publizierte Assets.
+- `repo-docs/` enthaelt interne Repo-Dokumentation.
+- `tools/audio/` enthaelt Audio-Hilfsskripte; Reports bleiben lokal.
+- `overrides/` enthaelt die Template-Overrides fuer Zensical.
+
+## Nuetzliche Varianten
+
+```powershell
 .venv\Scripts\zensical --help
-
-# Spezifische Ports oder Optionen
 .venv\Scripts\zensical serve --port 8080
 ```
 
 ## Hinweise
 
-- Änderungen in `docs/` werden bei `serve` automatisch neu gebaut
-- CSS/JS-Änderungen können einen Hard-Refresh im Browser erfordern (Strg+Shift+R)
-- Für neue Markdown-Dateien: YAML-Frontmatter mit `authors` verwenden (siehe DEV.md)
+- Aenderungen in `docs/` werden bei `serve` automatisch neu gebaut.
+- CSS- oder JS-Aenderungen koennen einen Hard-Refresh im Browser erfordern.
+- Fuer neue oeffentliche Kapitel gehoert der Inhalt nach `docs/`; interne Notizen gehoeren nach `repo-docs/`.

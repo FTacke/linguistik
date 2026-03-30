@@ -151,9 +151,9 @@ Der Vergleich der Vergangenheitstempora und der Futurformen zeigt exemplarisch, 
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Delgado Moreno, Ramón / Tacke, Felix (2026): „Variation im Gebrauch der Tempora“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.
+    Delgado Moreno, Ramón / Tacke, Felix (2026): „Variation im Gebrauch der Tempora“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.  
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [UMR-DOI](https://doi.org/UMR-DOI)
+    DOI: [https://doi.org/10.17192/openumr/598](https://doi.org/10.17192/openumr/598)
 
 [^rdm]: (Mit-)Autor: Ramón Delgado Moreno.
 [^tempuskarte]: Die Frequenzen basieren auf einer Auswertung des [CO.RA.PAN](https://corapan.hispanistica.com)-Korpus; berücksichtigt wurden Belege aus standardnaher freier Rede. Die Prozentwerte spiegeln daher eine spezifische kommunikative Situation wider und sind nicht als Repräsentation des allgemeinen Sprachgebrauchs eines Landes zu verstehen. Die Einteilung der Gebrauchssysteme folgt der *Nueva gramática de la lengua española* (NGLE, 2025); die kartographische Darstellung mit farbigen Kreisen und symbolisierten Einflusszonen dient der groben Orientierung und stellt keine Sprachgrenzen dar. Dies führt in Einzelfällen (z.B. Kanarische Inseln, Paraguay, Córdoba) zu Abweichungen zwischen den gemessenen Frequenzen und der systematischen Einordnung.

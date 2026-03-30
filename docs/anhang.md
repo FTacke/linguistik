@@ -65,12 +65,3 @@ Das bedeutet nicht, dass peninsulare Formen falsch oder irrelevant wären. Es be
 - Instituto Cervantes (2024): *El español en el mundo. Anuario del Instituto Cervantes 2024*. Observatorio Global del Español, Madrid. [Online](https://cvc.cervantes.es/lengua/anuario/anuario_24/el_espanol_en_el_mundo_anuario_instituto_cervantes_2024.pdf).
 
 </div>
-
-
-
-
-
-
-
-
-

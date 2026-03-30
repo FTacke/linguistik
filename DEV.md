@@ -9,27 +9,29 @@ Dieses Repository enthaelt die Quelltexte des digitalen Lehrbuchs **Linguistik i
 - Herausgeber: Felix Tacke
 - Institutioneller Kontext: Philipps-Universitaet Marburg / Hispanistica @ Marburg
 - Publikationstyp: digitales Lehrbuch
-- DOI: [UMR-DOI](https://doi.org/UMR-DOI)
+- DOI: https://doi.org/10.17192/openumr/598
 
 Technisch basiert das Projekt auf **MkDocs** mit dem Theme **Zensical**. Das Theme wird fuer ein digitales Lehrbuch mit Fokus auf Lesbarkeit, Metadaten, Audio, Karten, PDF-Ausgaben und didaktische Komponenten angepasst.
 
 ## Zentrale Dateien auf Root-Ebene
 
-- `README.md` - Projektbeschreibung, Zitierweise, Lizenz
+- `README.md` - Projektueberblick, Build- und Deploy-Hinweise
 - `STARTME.md` - Kurzstart fuer lokale Entwicklung
 - `DEV.md` - technische Entwicklerdokumentation
+- `requirements.txt` - gepinnte Python-Abhaengigkeiten fuer den Build
 - `zensical.toml` - Site-Konfiguration, Navigation, Theme, Asset-Reihenfolge
 - `CITATION.cff` - maschinenlesbare Zitationsdaten
-- `docs/` - Quellen fuer Inhalte und Assets
+- `docs/` - ausschliesslich oeffentlich publizierte Inhalte und publizierte Assets
+- `repo-docs/` - interne Repo-Dokumentation, Audits und Design-System-Notizen
+- `tools/` - interne Hilfsskripte, derzeit Audio-Tooling
 - `overrides/` - Zensical-/Template-Overrides
-- `scripts/` - derzeit leer; kein produktiver Bestandteil des Builds
-- `site/` - generierte Ausgabe der Website
+- `scripts/` - Build-Helfer wie `generate_footer_release.py`
+- `site/` - generierte Ausgabe der Website; wird nicht versioniert
 
-## Projektstruktur (`docs/`)
+## Projektstruktur
 
 ```text
 docs/
-|- CNAME
 |- index.md
 |- vorwort.md
 |- einleitung.md
@@ -42,59 +44,30 @@ docs/
 |- anhang.md
 |- impressum.md
 |- lizenz.md
-|- admonitions.md
 |- variation/
-|  |- variation_plurizentrik.md
-|  |- variation_aussprache.md
-|  |- variation_anrede.md
-|  |- variation_tempora.md
-|  `- variation_morphosyntax.md
 `- assets/
-   |- audio-tools/
-   |  |- audio_audit.py
-   |  |- audio_normalize.py
-   |  |- normalized/
-   |  `- reports/
-   |- audiofiles/
-   |  |- corapan/
-   |  |- marele/
-   |  `- promat/
-   |- data/
-   |  |- countries.json
-   |  |- herkunftssprachen.json
-   |  `- variation_tempora.json
-   |- documentation/
-   |- fonts/
-   |- images/
-   |  |- favicon.png
-   |  |- hispanistica_badge.png
-   |  |- map_countries.png
-   |  `- map_countries_detail.png
-   |- javascripts/
-   |  |- base_path.js
-   |  |- audio_src_fixup.js
-   |  |- cite-copy.js
-   |  |- external-links.js
-   |  |- map.js
-   |  |- map_countries.js
-   |  |- map_ui.js
-   |  `- map_variation_tempora.js
-   |- pdf/
-   |  |- 00a_Vorwort - Linguistik im Spanischunterricht.pdf
-   |  |- 00b_Einleitung - Linguistik im Spanischunterricht.pdf
-   |  |- ...
-   |  `- Linguistik im Spanischunterricht_Sammelwerk.pdf
-   |- styles/
-   |  |- 00_tokens.css
-   |  |- 10_typography.css
-   |  |- 20_book.css
-   |  |- 25_cover.css
-   |  |- 30_components.css
-   |  |- 40_custom.css
-   |  |- 50_map.css
-   |  `- 99_pdf.css
-   `- vendor/
-      `- leaflet/
+  |- audiofiles/
+  |- data/
+  |- fonts/
+  |- images/
+  |- javascripts/
+  |- styles/
+  `- vendor/
+
+repo-docs/
+|- audits/
+|- audio/
+|- design-system/
+|- editorial/
+|- maps/
+`- research/
+
+tools/
+`- audio/
+  |- audio_audit.py
+  |- audio_normalize.py
+  |- reports/      (lokal erzeugt, nicht versioniert)
+  `- normalized/   (lokal erzeugt, nicht versioniert)
 ```
 
 ## Lokale Entwicklung
@@ -103,12 +76,24 @@ docs/
 
 - Windows PowerShell
 - lokales virtuelles Environment in `.venv`
-- `zensical` innerhalb des Environments installiert
+- Abhaengigkeiten aus `requirements.txt` installiert
 
 ### Environment aktivieren
 
 ```powershell
 .venv\Scripts\Activate.ps1
+```
+
+### Abhaengigkeiten installieren
+
+```powershell
+python -m pip install -r requirements.txt
+```
+
+### Footer-Release-Metadaten aktualisieren
+
+```powershell
+python scripts/generate_footer_release.py
 ```
 
 ### Dev-Server starten
@@ -336,8 +321,10 @@ Audio-Dateien liegen derzeit in:
 
 Hilfsskripte fuer Audio-Pflege liegen in:
 
-- `docs/assets/audio-tools/audio_audit.py`
-- `docs/assets/audio-tools/audio_normalize.py`
+- `tools/audio/audio_audit.py`
+- `tools/audio/audio_normalize.py`
+
+Generierte Reports und normalisierte Vergleichsdateien werden lokal unter `tools/audio/reports/` bzw. `tools/audio/normalized/` erzeugt und nicht versioniert.
 
 Typische Einsatzorte:
 

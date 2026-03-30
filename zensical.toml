@@ -7,12 +7,6 @@ site_keywords = "Spanischunterricht, Linguistik, Sprachvariation, Plurizentrik, 
 site_author = "Felix Tacke"
 site_url = "https://linguistik.hispanistica.com/"
 
-copyright = """
-© 2026 Philipps-Universität Marburg · Felix Tacke · 
-<a href="https://hispanistica.com" target="_blank" rel="noopener">Hispanistica @ Marburg</a> · 
-<a href="/impressum/">Impressum</a>
-"""
-
 nav = [
   {"Titel"                                 = "index.md"},
   {"Vorwort"                               = "vorwort.md"},
@@ -70,7 +64,6 @@ features = [
     "content.footnote.tooltips",
     "content.tabs.link",
     "content.tooltips",
-    "navigation.footer",
     "navigation.indexes",
     "navigation.instant",
     "navigation.instant.prefetch",
@@ -101,10 +94,6 @@ code = "JetBrains Mono"
 [project.extra]
 
 generator = false
-
-[[project.extra.social]]
-icon = "fontawesome/brands/creative-commons"
-link = "/lizenz/"
 
 [project.extra.analytics]
 prod_domain = "linguistik.hispanistica.com"

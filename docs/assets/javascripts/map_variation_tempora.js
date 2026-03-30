@@ -5,26 +5,6 @@
   const MAP_TYPE = 'variation_tempora';
   const DATA_PATH = 'assets/data/variation_tempora.json';
 
-  function debugLog(message, details) {
-    if (typeof details === 'undefined') {
-      console.info(`[variation_tempora] ${message}`);
-      return;
-    }
-
-    console.info(`[variation_tempora] ${message}`, details);
-  }
-
-  function debugError(message, details) {
-    if (typeof details === 'undefined') {
-      console.error(`[variation_tempora] ${message}`);
-      return;
-    }
-
-    console.error(`[variation_tempora] ${message}`, details);
-  }
-
-  debugLog('map_variation_tempora.js geladen');
-
   const SYSTEM_STYLES = {
     prototypical: {
       fillColor: '#8fb7d9',
@@ -134,43 +114,14 @@
     return 'fallback';
   }
 
-  function parsePercentValue(value) {
-    if (typeof value !== 'string') {
-      return Number.NaN;
-    }
-
-    return Number.parseFloat(value.replace('%', '').replace(',', '.').trim());
-  }
-
   function getCanonicalSystemKey(raw) {
     const inferredKey = raw.Systemschluessel ?? inferSystemKey(raw['Regionales System'] ?? '');
 
-    console.log('[variation_tempora] Systemschluessel gelesen', {
-      ort: raw.Ort ?? raw.Land ?? null,
-      rawSystemschluessel: raw.Systemschluessel,
-      regionalesSystem: raw['Regionales System'] ?? null,
-      inferredKey
-    });
-
     if (inferredKey === 'transition') {
-      console.log('[variation_tempora] transition bleibt erhalten', {
-        ort: raw.Ort ?? raw.Land ?? null,
-        compuesto: raw['Perfecto compuesto'] ?? null,
-        simple: raw['Perfecto simple'] ?? null
-      });
-
       return 'transition';
     }
 
     const canonicalKey = SYSTEM_CONTENT[inferredKey] ? inferredKey : 'fallback';
-
-    if (canonicalKey === 'fallback') {
-      console.log('[variation_tempora] fallback aktiv', {
-        ort: raw.Ort ?? raw.Land ?? null,
-        rawSystemschluessel: raw.Systemschluessel,
-        inferredKey
-      });
-    }
 
     return canonicalKey;
   }
@@ -286,14 +237,6 @@
     const pointStatus = getPointStatus(raw, hasDirectData);
     const influenceCircle = getInfluenceCircleOptions(systemStyle, pointStatus);
 
-    console.log('[variation_tempora] Style angewendet', {
-      ort: raw.Ort ?? raw.Land ?? null,
-      rawSystemschluessel: raw.Systemschluessel,
-      canonicalSystemKey: systemKey,
-      usedFallbackStyle: systemStyle === SYSTEM_STYLES.fallback,
-      systemStyle
-    });
-
     return {
       title: raw.Ort ?? raw.Hauptstadt ?? raw.Land ?? '',
       meta: getMetaLabel(raw),
@@ -370,7 +313,6 @@
 
   function renderInfluenceCircles(map, items) {
     const areaLayer = L.layerGroup().addTo(map);
-    let circleCount = 0;
 
     items.forEach((item) => {
       item.points.forEach((point) => {
@@ -382,18 +324,12 @@
         }).addTo(areaLayer);
 
         circle.bringToBack();
-        circleCount += 1;
       });
-    });
-
-    debugLog('renderInfluenceCircles ausgefuehrt', {
-      circleCount,
-      renderedLayerCount: areaLayer.getLayers().length
     });
 
     return {
       areaLayer,
-      areaCount: circleCount
+      areaCount: areaLayer.getLayers().length
     };
   }
 
@@ -435,28 +371,16 @@
     const initializedType = window.MapUI ? window.MapUI.getInitializedMapType(container) : null;
     const isInitializedForTempora = window.MapUI ? window.MapUI.isMapInitializedForType(container, MAP_TYPE) : false;
 
-    debugLog('passender Container gefunden', {
-      mapType: container.dataset.map || null,
-      initializedFlag: container.dataset.mapInitialized || null,
-      initializedType,
-      isInitializedForTempora
-    });
-
     if (isInitializedForTempora) {
-      debugLog('Container fuer variation_tempora bereits initialisiert, init wird uebersprungen');
       return;
     }
 
     if (initializedType && initializedType !== MAP_TYPE) {
-      debugError('Container wurde bereits von anderem Kartentyp initialisiert', {
-        initializedType,
-        requestedType: MAP_TYPE
-      });
       return;
     }
 
     if (typeof L === 'undefined') {
-      debugError('Leaflet wurde nicht geladen.');
+      console.error('Leaflet wurde nicht geladen.');
       return;
     }
 
@@ -464,33 +388,16 @@
     const fullscreenButton = container.querySelector('.book-map__control--fullscreen');
 
     if (!mapCanvas) {
-      debugError('Kein .book-map__canvas gefunden.');
+      console.error('Map canvas .book-map__canvas not found');
       return;
     }
 
     ensureCanvasSize(mapCanvas);
 
-    const computedCanvasStyle = window.getComputedStyle(mapCanvas);
-    debugLog('Canvas-Status ermittelt', {
-      height: computedCanvasStyle.height,
-      width: computedCanvasStyle.width,
-      leafletId: mapCanvas._leaflet_id || null
-    });
-
-    if (computedCanvasStyle.height === '0px') {
-      debugError('Canvas hat Hoehe 0.');
-      return;
-    }
-
     const map = L.map(mapCanvas);
-    debugLog('Karte fuer variation_tempora tatsaechlich erzeugt');
 
     const isMobile = window.MapUI ? window.MapUI.isMobileViewport() : window.matchMedia('(max-width: 599px)').matches;
     setInitialView(map, isMobile);
-    debugLog('Standard-Overlay-Rendering aktiv', {
-      overlayPane: Boolean(map.getPane('overlayPane')),
-      markerPane: Boolean(map.getPane('markerPane'))
-    });
 
     createTileLayer().addTo(map);
 
@@ -504,9 +411,6 @@
     refreshMapLayout(map);
 
     const base = window.ZENSICAL_BASE_PATH || '/';
-    debugLog('JSON-Fetch gestartet', {
-      url: `${base}${DATA_PATH}`
-    });
 
     fetch(`${base}${DATA_PATH}`)
       .then((response) => {
@@ -517,11 +421,6 @@
         return response.json();
       })
       .then((regions) => {
-        debugLog('JSON-Fetch erfolgreich', {
-          isArray: Array.isArray(regions),
-          datasetCount: Array.isArray(regions) ? regions.length : null
-        });
-
         const bounds = L.latLngBounds([]);
         const items = regions.map(normalizeTemporaItem);
         const areaRenderResult = renderInfluenceCircles(map, items);
@@ -545,12 +444,6 @@
           });
         });
 
-        debugLog('Marker-Erzeugung abgeschlossen', {
-          markerCount,
-          areaCount: areaRenderResult.areaCount,
-          markerLayerCount: markerLayer.getLayers().length
-        });
-
         if (bounds.isValid() && !isMobile) {
           fitDesktopBounds(map, bounds);
         }
@@ -558,15 +451,12 @@
         refreshMapLayout(map);
       })
       .catch((error) => {
-        debugError('JSON-Fetch fehlgeschlagen', error);
+        console.error('Fehler beim Laden der Tempora-Daten:', error);
       });
   }
 
   function initTemporaMaps() {
     const containers = document.querySelectorAll(`.book-map[data-map="${MAP_TYPE}"]`);
-    debugLog('initTemporaMaps gestartet', {
-      containerCount: containers.length
-    });
     containers.forEach(initContainer);
   }
 

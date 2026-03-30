@@ -5,3 +5,15 @@ site/
 .venv/
 __pycache__/
 *.pyc
+.cache/
+
+# Local tool configuration
+.claude/settings.local.json
+
+# Generated audio tooling outputs
+tools/audio/reports/
+tools/audio/normalized/
+
+# Optional scratch areas
+internal/
+tmp/

@@ -230,7 +230,7 @@ Dass der *leísmo* im Unterricht dennoch eine Rolle spielen kann, liegt an der k
 
 #### *Leísmo* in Hispanoamerika?
 
-Auch in einigen Regionen Amerikas findet sich ein *leísmo*, allerdings aus ganz anderen Gründen. In der Andenregion (v.a. Ecuador, Peru, Bolivien) sowie in Paraguay ist er durch den Kontakt mit indigenen Sprachen wie dem Quechua und dem Guaraní beeinflusst, die bei Pronomen nicht nach Genus unterscheiden. Dieser kontaktinduzierte *leísmo* unterscheidet sich vom kastilischen, weil er nicht auf maskuline Personen beschränkt ist, sondern auch feminine und unbelebte Referenten betreffen kann. Für den Schulunterricht ist er kaum relevant, aber für Lehrkräfte, die sich mit dem Spanischen der Andenregion beschäftigen, ein aufschlussreiches Beispiel dafür, wie Sprachkontakt grammatische Strukturen verändern kann (vgl. [Herkunftssprachen](../../herkunftssprachen.md)).
+Auch in einigen Regionen Amerikas findet sich ein *leísmo*, allerdings aus ganz anderen Gründen. In der Andenregion (v.a. Ecuador, Peru, Bolivien) sowie in Paraguay ist er durch den Kontakt mit indigenen Sprachen wie dem Quechua und dem Guaraní beeinflusst, die bei Pronomen nicht nach Genus unterscheiden. Dieser kontaktinduzierte *leísmo* unterscheidet sich vom kastilischen, weil er nicht auf maskuline Personen beschränkt ist, sondern auch feminine und unbelebte Referenten betreffen kann. Für den Schulunterricht ist er kaum relevant, aber für Lehrkräfte, die sich mit dem Spanischen der Andenregion beschäftigen, ein aufschlussreiches Beispiel dafür, wie Sprachkontakt grammatische Strukturen verändern kann (vgl. [Herkunftssprachen](../herkunftssprachen.md)).
 
 #### Die Ausnahme von der Regel: der *leísmo de cortesía*
 
@@ -385,9 +385,9 @@ Die in diesem Kapitel behandelten Phänomene zeigen ein gemeinsames Muster: Morp
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Becker, Paul / Bender, Lisa / Ritz Pequeño, Enrique / Minchev, Stanislav / Tacke, Felix (2026): „Variation in Morphologie und Syntax“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.
+    Becker, Paul / Bender, Lisa / Ritz Pequeño, Enrique / Minchev, Stanislav / Tacke, Felix (2026): „Variation in Morphologie und Syntax“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.  
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [UMR-DOI](https://doi.org/UMR-DOI)
+    DOI: [https://doi.org/10.17192/openumr/598](https://doi.org/10.17192/openumr/598)
 
 [^pb]: (Mit-)Autor: Paul Becker.
 [^lb]: (Mit-)Autorin: Lisa Bender.

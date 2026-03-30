@@ -1,3 +1,7 @@
+---
+title: Linguistik im Spanischunterricht
+---
+
 !!! cover ""
     <div class="cover-title-block">
         <h1><span class="cover-title-accent">Linguistik </span>im<br>Spanisch&shy;unterricht</h1>
@@ -27,10 +31,10 @@
     </div>
     
     <div class="cover-footer">
+      <div>DOI: <a href="https://doi.org/10.17192/openumr/598">10.17192/openumr/598</a></div>
       <div class="cover-footer-top">
         <div>Philipps-Universität Marburg</div><span class="separator">·</span><div class="cover-footer-year">2026</div>
       </div>
-      <div><a href="https://hispanistica.com">Hispanistica @ Marburg</a></div>
     </div>
 
 <div class="index-cover-cta pdf-only">

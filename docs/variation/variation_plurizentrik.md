@@ -199,7 +199,7 @@ In einem plurizentrischen Unterricht zählt nicht, welche Variante verwendet wir
 - Moreno Fernández, Francisco (2015): „Welches Spanisch sprechen? Welches Spanisch unterrichten?“. In: Grünewald, Andreas / Roviró, Berta / Bermejo Muñoz, Silvia (Hg.): *Spanischunterricht weiterentwickeln, Perspektiven eröffnen.* Trier: Wissenschaftlicher Verlag, 5–21.
 - Moreno Fernández, Francisco (2017): „Variedades del español y su enseñanza en ELE“. In: Cestero Mancera, Ana M. / Penadés Martínez, Inmaculada (Hg.): *Manual del profesor de ELE.* Alcalá de Henares: Universidad de Alcalá, 357–406.
 - Moreno Fernández, Francisco (2020): *Variedades de la lengua española.* London: Routledge. DOI: [https://doi.org/10.4324/9780429426988](https://doi.org/10.4324/9780429426988)
-- Muhr, Rudolf (Hg.) (2016): *Pluricentric Languages and Non-Dominant Varieties Worldwide.* Frankfurt a.M. / Wien: Lang. DOI: [10.3726/978-3-653-07112-2](10.3726/978-3-653-07112-2)
+- Muhr, Rudolf (Hg.) (2016): *Pluricentric Languages and Non-Dominant Varieties Worldwide.* Frankfurt a.M. / Wien: Lang. DOI: [10.3726/978-3-653-07112-2](https://doi.org/10.3726/978-3-653-07112-2)
 - Oesterreicher, Wulf (2000): „Plurizentrische Sprachkultur – der Varietätenraum des Spanischen“, *Romanistisches Jahrbuch* 51, 287–318. DOI: [https://doi.org/10.1515/roja-2000-0139](https://doi.org/10.1515/roja-2000-0139)
 - Pöll, Bernhard (2021): „Spanish Today. Pluricentricity and Codification“. In: Perez, Danae et al. (Hg.): *English and Spanish. World Languages in Interaction.* Cambridge: Cambridge University Press, 163–183.
 - Polzin-Haumann, Claudia (2005): „Zwischen *unidad* und *diversidad*. Sprachliche Variation und sprachliche Identität im hispanophonen Raum“, *Romanistisches Jahrbuch* 56, 271–295. DOI: [https://doi.org/10.1515/9783110186529.271](https://doi.org/10.1515/9783110186529.271)
@@ -225,9 +225,9 @@ In einem plurizentrischen Unterricht zählt nicht, welche Variante verwendet wir
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Hesral Sánchez, Laura / Falcone, Riccarda / Tacke, Felix (2026): „Variation & Plurizentrik“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.
+    Hesral Sánchez, Laura / Falcone, Riccarda / Tacke, Felix (2026): „Variation & Plurizentrik“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.  
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [UMR-DOI](https://doi.org/UMR-DOI)
+    DOI: [https://doi.org/10.17192/openumr/598](https://doi.org/10.17192/openumr/598)
 
 [^lhs]: (Mit-)Autorin: Laura Hesral Sánchez.
 [^rf]: (Mit-)Autorin: Riccarda Falcone.

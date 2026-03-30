@@ -292,6 +292,6 @@ Werden Herkunftssprachen im Unterricht aktiv aufgegriffen, stärkt das nicht nur
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Khodja, Jamaa / Scholz, Selina / Tacke, Felix (2026): „Herkunftssprachen“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.
+    Khodja, Jamaa / Scholz, Selina / Tacke, Felix (2026): „Herkunftssprachen“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.  
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [UMR-DOI](https://doi.org/UMR-DOI)
+    DOI: [https://doi.org/10.17192/openumr/598](https://doi.org/10.17192/openumr/598)
