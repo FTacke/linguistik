@@ -942,6 +942,15 @@ body[data-md-color-scheme="slate"] .md-typeset .figcaption {
 }
 
 /* ─────────────────────────────────────────────────────────
+   Page footer (md-footer-meta)
+   ───────────────────────────────────────────────────────── */
+
+.md-footer-meta {
+  background-color: var(--book-footer-bg);
+  border-top: 1px solid var(--book-footer-border);
+}
+
+/* ─────────────────────────────────────────────────────────
    Custom footer
    ───────────────────────────────────────────────────────── */
 

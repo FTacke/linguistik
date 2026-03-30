@@ -89,6 +89,10 @@ body[data-md-color-scheme="default"] {
   --book-adm-cite:           #e6eaeb;
   --book-adm-weiterlesen:    #1c1a20;  /* near-black neutral for icon + border-left */
 
+  /* ── Footer ──────────────────────────────────────────────────────────── */
+  --book-footer-bg:          #eeeeee;
+  --book-footer-border:      #d0d0d0;
+
   /* Material/Zensical accent mapping – keep UI consistent with book palette */
   --md-accent-fg-color: var(--book-accent);
   --md-typeset-a-color: var(--book-link);
@@ -136,6 +140,10 @@ body[data-md-color-scheme="slate"] {
   --book-adm-oton:           #c078a0;
   --book-adm-cite:           #706e6c;
   --book-adm-weiterlesen:    #c8c6d4;  /* near-white neutral for icon + border-left */
+
+  /* ── Footer ──────────────────────────────────────────────────────────── */
+  --book-footer-bg:          #262b34;
+  --book-footer-border:      #3a3f4a;
 
   /* Material/Zensical accent mapping – keep UI consistent with book palette */
   --md-accent-fg-color: var(--book-accent);
