@@ -31,4 +31,69 @@
     align-self: center;
     margin: 0 auto;
   }
+
+  /* Keep headings as plain text blocks in browser-generated PDFs. */
+  .md-typeset :is(h1, h2, h3, h4) {
+    position: static !important;
+    padding-right: 0 !important;
+    overflow: visible !important;
+    transform: none !important;
+    filter: none !important;
+    backdrop-filter: none !important;
+    mix-blend-mode: normal !important;
+    contain: none !important;
+    will-change: auto !important;
+  }
+
+  .md-typeset :is(h1, h2, h3, h4) :is(.headerlink, a.headerlink) {
+    display: none !important;
+  }
+
+  .md-typeset :is(h1, h2, h3, h4)::before,
+  .md-typeset :is(h1, h2, h3, h4)::after {
+    content: none !important;
+  }
+
+  /* Simplify admonition chrome so title and body remain selectable text in PDFs. */
+  .md-typeset :is(.admonition, details) {
+    display: block !important;
+    overflow: visible !important;
+    transform: none !important;
+    filter: none !important;
+    backdrop-filter: none !important;
+    mix-blend-mode: normal !important;
+    contain: none !important;
+    will-change: auto !important;
+    box-shadow: none !important;
+  }
+
+  .md-typeset :is(.admonition-title, summary) {
+    display: block !important;
+    position: static !important;
+    padding: 0 !important;
+    margin: 0 0 0.5rem 0 !important;
+    background: transparent !important;
+    border: 0 !important;
+    transform: none !important;
+    filter: none !important;
+    backdrop-filter: none !important;
+    mix-blend-mode: normal !important;
+    contain: none !important;
+    will-change: auto !important;
+  }
+
+  .md-typeset :is(.admonition-title, summary)::before,
+  .md-typeset :is(.admonition-title, summary)::after,
+  .md-typeset details > summary::-webkit-details-marker {
+    content: none !important;
+    display: none !important;
+  }
+
+  .md-typeset details > summary {
+    list-style: none !important;
+  }
+
+  .md-typeset .cite-copy-btn {
+    display: none !important;
+  }
 }
