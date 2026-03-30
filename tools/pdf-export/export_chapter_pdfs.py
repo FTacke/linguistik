@@ -27,6 +27,12 @@ class Chapter:
     md_path: str
 
 
+@dataclass(frozen=True)
+class ExportSettings:
+    chapters: list[Chapter]
+    public_base_url: str | None
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description=(
@@ -44,6 +50,14 @@ def parse_args() -> argparse.Namespace:
         "--base-url",
         default=DEFAULT_BASE_URL,
         help="Base URL of the running local preview server (default: http://127.0.0.1:8000/).",
+    )
+    parser.add_argument(
+        "--public-base-url",
+        default=None,
+        help=(
+            "Public base URL to embed in cross-page chapter links inside the PDFs. "
+            "Defaults to project.site_url from zensical.toml."
+        ),
     )
     parser.add_argument(
         "--output-dir",
@@ -109,9 +123,15 @@ def flatten_nav(items: list[dict[str, object]]) -> list[Chapter]:
     return flat
 
 
-def load_chapters(config_path: Path, include_index: bool, only: list[str] | None) -> list[Chapter]:
+def load_export_settings(
+    config_path: Path,
+    include_index: bool,
+    only: list[str] | None,
+    public_base_url: str | None,
+) -> ExportSettings:
     config = tomllib.loads(config_path.read_text(encoding="utf-8"))
     chapters = flatten_nav(config["project"]["nav"])
+    config_public_base_url = config["project"].get("site_url")
 
     if not include_index:
         chapters = [chapter for chapter in chapters if chapter.md_path != "index.md"]
@@ -132,7 +152,15 @@ def load_chapters(config_path: Path, include_index: bool, only: list[str] | None
             )
         chapters = filtered
 
-    return chapters
+    resolved_public_base_url = public_base_url or config_public_base_url
+    normalized_public_base_url = (
+        normalize_base_url(str(resolved_public_base_url)) if resolved_public_base_url else None
+    )
+
+    return ExportSettings(
+        chapters=chapters,
+        public_base_url=normalized_public_base_url,
+    )
 
 
 def normalize_base_url(base_url: str) -> str:
@@ -229,10 +257,59 @@ def resolve_browser(browser: str | None) -> Path:
     )
 
 
+def rewrite_local_links(page: object, *, local_base_url: str, public_base_url: str | None) -> None:
+        if not public_base_url:
+                return
+
+        page.evaluate(
+                """
+                ({ localBaseUrl, publicBaseUrl }) => {
+                    const localBase = localBaseUrl.endsWith('/') ? localBaseUrl : `${localBaseUrl}/`;
+                    const publicBase = publicBaseUrl.endsWith('/') ? publicBaseUrl : `${publicBaseUrl}/`;
+                    const currentUrl = new URL(window.location.href);
+
+                    for (const anchor of document.querySelectorAll('a[href]')) {
+                        const rawHref = anchor.getAttribute('href') || '';
+                        if (!rawHref || rawHref.startsWith('#')) {
+                            continue;
+                        }
+
+                        const protocolMatch = rawHref.match(/^[a-zA-Z][a-zA-Z0-9+.-]*:/);
+                        if (protocolMatch && !rawHref.startsWith(localBase)) {
+                            continue;
+                        }
+
+                        const resolvedHref = anchor.href;
+                        if (!resolvedHref.startsWith(localBase)) {
+                            continue;
+                        }
+
+                        const resolvedUrl = new URL(resolvedHref);
+                        const isSamePage = (
+                            resolvedUrl.pathname === currentUrl.pathname
+                            && resolvedUrl.search === currentUrl.search
+                        );
+
+                        if (isSamePage) {
+                            continue;
+                        }
+
+                        anchor.href = `${publicBase}${resolvedHref.slice(localBase.length)}`;
+                    }
+                }
+                """,
+                {
+                        "localBaseUrl": normalize_base_url(local_base_url),
+                        "publicBaseUrl": public_base_url,
+                },
+        )
+
+
 def export_chapters(
     chapters: list[Chapter],
     *,
     base_url: str,
+    public_base_url: str | None,
     output_dir: Path,
     browser_path: Path,
     scale: float,
@@ -262,6 +339,11 @@ def export_chapters(
                 output_path = output_dir / f"{index:02d}-{slugify(chapter.md_path)}.pdf"
 
                 page.goto(url, wait_until="networkidle", timeout=timeout_ms)
+                rewrite_local_links(
+                    page,
+                    local_base_url=base_url,
+                    public_base_url=public_base_url,
+                )
                 page.emulate_media(media="print")
                 page.wait_for_timeout(wait_ms)
                 page.pdf(
@@ -289,13 +371,18 @@ def main() -> int:
     output_dir = resolve_path(args.output_dir)
 
     try:
-        chapters = load_chapters(config_path, args.include_index, args.only)
+        settings = load_export_settings(
+            config_path,
+            args.include_index,
+            args.only,
+            args.public_base_url,
+        )
     except (FileNotFoundError, KeyError, ValueError, tomllib.TOMLDecodeError) as exc:
         print(str(exc), file=sys.stderr)
         return 1
 
     if args.dry_run:
-        for index, chapter in enumerate(chapters, start=1):
+        for index, chapter in enumerate(settings.chapters, start=1):
             print(f"{index:02d} {chapter.title} :: {chapter.md_path} :: {chapter_url(args.base_url, chapter.md_path)}")
         return 0
 
@@ -308,8 +395,9 @@ def main() -> int:
 
     try:
         written = export_chapters(
-            chapters,
+            settings.chapters,
             base_url=args.base_url,
+            public_base_url=settings.public_base_url,
             output_dir=output_dir,
             browser_path=browser_path,
             scale=args.scale,
