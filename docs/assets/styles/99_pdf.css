@@ -54,8 +54,9 @@
     content: none !important;
   }
 
-  /* Simplify admonition chrome so title and body remain selectable text in PDFs. */
-  .md-typeset :is(.admonition, details) {
+  /* Simplify admonition chrome so title and body remain selectable text in PDFs.
+     Keep the index cover untouched because it is implemented as a cover admonition. */
+  .md-typeset :is(.admonition, details):not(.cover) {
     display: block !important;
     overflow: visible !important;
     transform: none !important;
@@ -67,7 +68,7 @@
     box-shadow: none !important;
   }
 
-  .md-typeset :is(.admonition-title, summary) {
+  .md-typeset :is(.admonition, details):not(.cover) > :is(.admonition-title, summary) {
     display: block !important;
     position: static !important;
     padding: 0 !important;
@@ -82,15 +83,22 @@
     will-change: auto !important;
   }
 
-  .md-typeset :is(.admonition-title, summary)::before,
-  .md-typeset :is(.admonition-title, summary)::after,
-  .md-typeset details > summary::-webkit-details-marker {
+  .md-typeset :is(.admonition, details):not(.cover) > :is(.admonition-title, summary)::before,
+  .md-typeset :is(.admonition, details):not(.cover) > :is(.admonition-title, summary)::after,
+  .md-typeset details:not(.cover) > summary::-webkit-details-marker {
     content: none !important;
     display: none !important;
   }
 
-  .md-typeset details > summary {
+  .md-typeset details:not(.cover) > summary {
     list-style: none !important;
+  }
+
+  /* Keep running text justified in print without changing cover or component chrome. */
+  .md-typeset p {
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
   }
 
   .md-typeset .cite-copy-btn {
