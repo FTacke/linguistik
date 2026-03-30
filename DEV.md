@@ -9,9 +9,9 @@ Dieses Repository enthaelt die Quelltexte des digitalen Lehrbuchs **Linguistik i
 - Herausgeber: Felix Tacke
 - Institutioneller Kontext: Philipps-Universitaet Marburg / Hispanistica @ Marburg
 - Publikationstyp: digitales Lehrbuch
-- DOI: `10.5281/zenodo.15348687`
+- DOI: [UMR-DOI](https://doi.org/UMR-DOI)
 
-Technisch basiert das Projekt auf **MkDocs** mit dem Theme **Zensical**. Das Theme wird fuer ein digitales Lehrbuch mit Fokus auf Lesbarkeit, Metadaten, Audio, Karten und didaktische Komponenten angepasst.
+Technisch basiert das Projekt auf **MkDocs** mit dem Theme **Zensical**. Das Theme wird fuer ein digitales Lehrbuch mit Fokus auf Lesbarkeit, Metadaten, Audio, Karten, PDF-Ausgaben und didaktische Komponenten angepasst.
 
 ## Zentrale Dateien auf Root-Ebene
 
@@ -20,16 +20,18 @@ Technisch basiert das Projekt auf **MkDocs** mit dem Theme **Zensical**. Das The
 - `DEV.md` - technische Entwicklerdokumentation
 - `zensical.toml` - Site-Konfiguration, Navigation, Theme, Asset-Reihenfolge
 - `CITATION.cff` - maschinenlesbare Zitationsdaten
-- `scripts/` - Hilfsskripte fuer Migration und Formatierung
 - `docs/` - Quellen fuer Inhalte und Assets
 - `overrides/` - Zensical-/Template-Overrides
+- `scripts/` - derzeit leer; kein produktiver Bestandteil des Builds
 - `site/` - generierte Ausgabe der Website
 
 ## Projektstruktur (`docs/`)
 
 ```text
 docs/
+|- CNAME
 |- index.md
+|- vorwort.md
 |- einleitung.md
 |- fehlerlinguistik.md
 |- aussprache.md
@@ -46,9 +48,13 @@ docs/
 |  |- variation_aussprache.md
 |  |- variation_anrede.md
 |  |- variation_tempora.md
-|  |- variation_morphosyntax.md
-|  `- variation_klassenraum.md
+|  `- variation_morphosyntax.md
 `- assets/
+   |- audio-tools/
+   |  |- audio_audit.py
+   |  |- audio_normalize.py
+   |  |- normalized/
+   |  `- reports/
    |- audiofiles/
    |  |- corapan/
    |  |- marele/
@@ -69,10 +75,15 @@ docs/
    |  |- audio_src_fixup.js
    |  |- cite-copy.js
    |  |- external-links.js
-   |  |- map_ui.js
    |  |- map.js
    |  |- map_countries.js
+   |  |- map_ui.js
    |  `- map_variation_tempora.js
+   |- pdf/
+   |  |- 00a_Vorwort - Linguistik im Spanischunterricht.pdf
+   |  |- 00b_Einleitung - Linguistik im Spanischunterricht.pdf
+   |  |- ...
+   |  `- Linguistik im Spanischunterricht_Sammelwerk.pdf
    |- styles/
    |  |- 00_tokens.css
    |  |- 10_typography.css
@@ -80,7 +91,8 @@ docs/
    |  |- 25_cover.css
    |  |- 30_components.css
    |  |- 40_custom.css
-   |  `- 50_map.css
+   |  |- 50_map.css
+   |  `- 99_pdf.css
    `- vendor/
       `- leaflet/
 ```
@@ -128,16 +140,19 @@ Die Ausgabe landet im Verzeichnis `site/`.
 
 Die aktuelle Konfiguration verwendet:
 
-- `site_name = "Linguistik im Spanischunterricht"`
-- `site_description = "Digitales Lehrbuch zur linguistischen Fundierung des Spanischunterrichts fuer (angehende) Lehrkraefte."`
-- `site_url = "https://linguistik.hispanistica.com/"`
-- `site_author = "Felix Tacke"`
+- `site_name`: Linguistik im Spanischunterricht
+- `site_description`: Digitales Lehrbuch zur linguistischen Fundierung des Spanischunterrichts fuer (angehende) Lehrkraefte.
+- `site_url`: <https://linguistik.hispanistica.com/>
+- `site_author`: Felix Tacke
+- `custom_dir`: `overrides`
+- `language`: `de`
 
 ### Navigation
 
-Die Navigation ist kapitelorientiert aufgebaut und fuehrt Kapitel 5 als verschachtelten Variationsblock:
+Die Navigation ist kapitelorientiert aufgebaut und fuehrt Kapitel 5 als verschachtelten Variationsblock. Startseite und Vorwort sind getrennte Eintraege:
 
-- Titel & Vorwort
+- Titel
+- Vorwort
 - Einleitung
 - 1 Fehlerlinguistik
 - 2 Aussprache
@@ -161,7 +176,10 @@ Die Stylesheets werden aktuell in dieser Reihenfolge geladen:
 -> assets/vendor/leaflet/leaflet.css
 -> 40_custom.css
 -> 50_map.css
+-> 99_pdf.css
 ```
+
+`99_pdf.css` enthaelt derzeit die Druck-/PDF-spezifische Startseiten-CTA unter dem Cover.
 
 ### JavaScript-Ladereihenfolge
 
@@ -213,6 +231,7 @@ Felder:
 - Wenn `authors` gesetzt ist und der Seiteninhalt ein `</h1>` enthaelt, wird der Meta-Block direkt nach dem ersten Heading eingefuegt.
 - Strings werden defensiv zu Listen normalisiert.
 - `created` und `last_modified` werden als eigener Datumsblock ausgegeben.
+- Seiten ohne eigenes `h1` erhalten im Partial einen Fallback-Titel.
 - Keine Fussnoten-Auswertung, kein DOM-Parsing, kein `document$.subscribe()`.
 
 ### Ergebnis-HTML
@@ -241,18 +260,21 @@ Dateien:
 
 - `docs/index.md`
 - `docs/assets/styles/25_cover.css`
+- `docs/assets/styles/99_pdf.css`
+- `overrides/main.html`
 
-Das Buchcover auf der Startseite ist kein allgemeiner Admonition-Stil mehr in `40_custom.css`, sondern ein isolierter, eigener Layer in `25_cover.css`.
+Das Buchcover auf der Startseite ist ein isolierter, eigener Layer in `25_cover.css`. Die Seite `index.md` enthaelt aktuell nur das Cover sowie eine PDF-only-CTA, die online ausgeblendet und nur im Druck-/PDF-Kontext sichtbar ist.
 
 Wesentliche Merkmale der aktuellen Implementierung:
 
 - Container: `.md-typeset .admonition.cover`
 - feste Groessen statt fluider `clamp()`-Logik
-- Desktopformat: `460px x 790px`
-- Mobile-Variante: `360px x 620px`
+- Desktopformat: `500px x 790px`
+- Mobile-Variante: `480px x 620px`
 - Footer bleibt ueber `margin-top: auto` am unteren Rand
 - Titel, Untertitel, Herausgeber, Autor:innen und Footer sind klar getrennt
 - die Startseite verwendet den aktuellen Buchtitel und Untertitel des Lehrbuchs
+- die CTA unter dem Cover verwendet `md-button map-cta`, wird aber ueber `.index-cover-cta.pdf-only` standardmaessig versteckt und erst in `@media print` eingeblendet
 
 Zentrale Klassen:
 
@@ -263,12 +285,29 @@ Zentrale Klassen:
 - `.cover-authors`
 - `.cover-authors-list`
 - `.cover-footer`
+- `.index-cover-cta`
+- `.index-cover-cta.pdf-only`
+
+### Vorwort und Startseitenlogik
+
+Dateien:
+
+- `docs/index.md`
+- `docs/vorwort.md`
+- `overrides/main.html`
+
+Die inhaltliche Trennung ist aktuell wie folgt:
+
+- `index.md` enthaelt nur Cover und PDF-only-CTA
+- `vorwort.md` enthaelt den frueher auf der Startseite stehenden Vorworttext
+- `overrides/main.html` entfernt nur fuer `index.md` das unerwuenschte `padding-top` von `.md-content__inner`
+- derselbe Override blendet die automatisch injizierte Fallback-H1 auf der Startseite visuell aus, damit oberhalb des Covers kein zusaetzlicher Titel erscheint
 
 ### Hoermal-Admonitions und Audio-Layouts
 
 Datei: `docs/assets/styles/40_custom.css`
 
-Die Admonition `hoermal` ist weiterhin eine projektspezifische Kernkomponente, wurde aber aus der frueheren dokumentierten Struktur weiterentwickelt.
+Die Admonition `hoermal` ist weiterhin eine projektspezifische Kernkomponente.
 
 Container:
 
@@ -294,6 +333,11 @@ Audio-Dateien liegen derzeit in:
 - `docs/assets/audiofiles/corapan/`
 - `docs/assets/audiofiles/marele/`
 - `docs/assets/audiofiles/promat/`
+
+Hilfsskripte fuer Audio-Pflege liegen in:
+
+- `docs/assets/audio-tools/audio_audit.py`
+- `docs/assets/audio-tools/audio_normalize.py`
 
 Typische Einsatzorte:
 
@@ -396,7 +440,15 @@ Weitere `data-map`-Werte:
 
 ### `overrides/main.html`
 
-Globaler Theme-Override fuer das Projekt.
+Globaler Theme-Override fuer das Projekt. Der Override uebernimmt aktuell zwei Aufgaben:
+
+- GoatCounter nur auf den Produktionshostnamen injizieren
+- homepage-spezifische Korrekturen nur fuer `index.md` setzen
+
+Zu den homepage-spezifischen Regeln gehoeren derzeit:
+
+- Entfernen des zusaetzlichen `padding-top` in `.md-content__inner`
+- visuelles Ausblenden der vom Partial eingefuegten Fallback-H1 auf der Startseite
 
 ### `overrides/partials/content.html`
 
@@ -409,19 +461,13 @@ Wichtigster projektspezifischer Partial-Override. Aufgaben:
 
 ## Skripte (`scripts/`)
 
-Der Ordner enthaelt Hilfsskripte fuer Pflege- und Migrationsaufgaben:
-
-- `fix_indentation.py`
-- `migrate_expand.py`
-- `migrate_hoermal.py`
-
-Die Skripte sind Hilfswerkzeuge fuer Content-/Markup-Migrationen und nicht Teil des produktiven Site-Builds.
+Der Root-Ordner `scripts/` ist aktuell leer. Historische Migrationsskripte, die in aelteren Projektphasen existierten, sind derzeit nicht Teil des Repositories.
 
 ## Externe Abhaengigkeiten
 
 ### Lokal eingebundene Vendor-Assets
 
-- **Leaflet** wird aktuell lokal aus `docs/assets/vendor/leaflet/` geladen, nicht mehr ueber ein CDN.
+- **Leaflet** wird aktuell lokal aus `docs/assets/vendor/leaflet/` geladen, nicht ueber ein CDN.
 
 ### Weitere externe Dienste
 
@@ -431,7 +477,7 @@ Die Skripte sind Hilfswerkzeuge fuer Content-/Markup-Migrationen und nicht Teil 
 
 ### Nicht mehr aktuell
 
-Historische Hinweise auf extern geladene Leaflet-CDNs oder auf den alten Projektordner `school-zensical` sind fuer den aktuellen Stand nicht mehr massgeblich.
+Historische Hinweise auf extern geladene Leaflet-CDNs, auf den alten Projektordner `school-zensical`, auf eine gemeinsame Startseite `Titel & Vorwort` oder auf fruehere Skriptdateien unter `scripts/` sind fuer den aktuellen Stand nicht mehr massgeblich.
 
 ## Historische Umbenennungen und veraltete Begriffe
 
@@ -440,14 +486,20 @@ Bei Aenderungen an Dokumentation und Code auf diese Umstellungen achten:
 - Projektname heute: `linguistik.hispanistica`
 - Titel des Lehrbuchs heute: *Linguistik im Spanischunterricht*
 - Untertitel heute: *Ein digitales Lehrbuch fuer (angehende) Lehrkraefte*
+- die Startseite ist heute `Titel` und nicht mehr ein kombinierter Eintrag `Titel & Vorwort`
+- `vorwort.md` ist heute eine eigene Seite
 - alter Kartencontainer `#map-container` wurde durch `.book-map` ersetzt
 - `variation_grammatik.md` ist nicht mehr der aktuelle Dateiname; relevante Kapiteldateien sind heute `variation_anrede.md`, `variation_tempora.md` und `variation_morphosyntax.md`
 - Cover-Stile liegen nicht mehr gesammelt in `40_custom.css`, sondern in `25_cover.css`
+- druck-/PDF-spezifische Homepage-Regeln liegen in `99_pdf.css`
 
 ## Praktische Hinweise fuer weitere Entwicklung
 
 - Bei neuen Kapiteln nach Moeglichkeit YAML-Frontmatter mit `authors`, optional `peer_review`, `created` und `last_modified` pflegen.
 - Fuer neue Karten immer das `.book-map`-Markup und die bestehenden `data-map`-Konventionen nutzen.
 - Cover-spezifische Anpassungen gehoeren nach `25_cover.css`, nicht nach `40_custom.css`.
-- Generische Komponenten in `30_components.css`, projekt- oder inhaltsspezifische Sonderfaelle in `40_custom.css`, Kartenlayout in `50_map.css`.
+- Homepage-spezifische Druck-/PDF-Regeln gehoeren nach `99_pdf.css`.
+- Homepage-spezifische Shell-Korrekturen gehoeren, wenn noetig, konditional nach `overrides/main.html` und nicht in globale Styles.
+- Generische Komponenten in `30_components.css`, projekt- oder inhaltsspezifische Sonderfaelle in `40_custom.css`, Kartenlayout in `50_map.css`, Druck-/PDF-Sonderfaelle in `99_pdf.css`.
 - Bei Audio-Beispielen die vorhandenen `hoermal`-Layouts wiederverwenden, statt neue Einzelformate einzufuehren.
+- `site/` ist generierte Ausgabe und nicht die Quelle der Wahrheit fuer manuelle Aenderungen.
