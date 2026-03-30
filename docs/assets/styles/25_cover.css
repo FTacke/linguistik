@@ -220,11 +220,8 @@
 
 .md-typeset .admonition.cover .cover-footer a {
   color: #7ab0e8;
-  font-weight: 600;
-  text-decoration: underline;
-  text-decoration-color: #7ab0e8;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 3px;
+  font-weight: 500;
+  text-decoration: none;
 }
 
 @media (min-width: 1216px) {
