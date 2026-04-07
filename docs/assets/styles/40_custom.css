@@ -948,6 +948,9 @@ body[data-md-color-scheme="slate"] .md-typeset .figcaption {
 .md-footer-meta {
   background-color: var(--book-footer-bg);
   border-top: 1px solid var(--book-footer-border);
+  color: var(--md-default-fg-color--light);
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 /* ─────────────────────────────────────────────────────────
@@ -955,9 +958,11 @@ body[data-md-color-scheme="slate"] .md-typeset .figcaption {
    ───────────────────────────────────────────────────────── */
 
 .custom-footer {
+  box-sizing: border-box;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  color: inherit;
   gap: 0.8rem;
   width: 100%;
   padding: 0.55rem 0.2rem 0.65rem;
@@ -983,9 +988,9 @@ body[data-md-color-scheme="slate"] .md-typeset .figcaption {
 }
 
 .footer-title {
-  color: var(--md-default-fg-color);
+  color: inherit;
   font-size: 0.64rem;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 1.4;
 }
 
@@ -993,7 +998,7 @@ body[data-md-color-scheme="slate"] .md-typeset .figcaption {
 .footer-links,
 .footer-version,
 .footer-mobile-line {
-  color: var(--md-default-fg-color--light);
+  color: inherit;
   font-size: 0.64rem;
   line-height: 1.4;
   opacity: 1;
@@ -1018,32 +1023,22 @@ body[data-md-color-scheme="slate"] .md-typeset .figcaption {
 .footer-version {
   font-size: 0.64rem;
   line-height: 1.4;
-  opacity: 0.7;
+  opacity: 1;
 }
 
-html .md-footer-meta.md-typeset .footer-version-link,
-html .md-footer-meta.md-typeset .footer-links a,
-html .md-footer-meta.md-typeset .footer-mobile-line a,
-html .md-footer-meta.md-typeset .footer-meta a,
-html .md-footer-meta.md-typeset .footer-version-link:not(:focus,:hover),
-html .md-footer-meta.md-typeset .footer-links a:not(:focus,:hover),
-html .md-footer-meta.md-typeset .footer-mobile-line a:not(:focus,:hover),
-html .md-footer-meta.md-typeset .footer-meta a:not(:focus,:hover) {
-  color: var(--md-default-fg-color--light) !important;
+html .md-footer-meta.md-typeset .custom-footer a,
+html .md-footer-meta.md-typeset .custom-footer a:not(:focus,:hover),
+html .md-footer-meta.md-typeset .custom-footer a:hover,
+html .md-footer-meta.md-typeset .custom-footer a:focus {
+  color: inherit !important;
   font-size: inherit;
   line-height: inherit;
   text-decoration: none;
   text-underline-offset: 0.14em;
 }
 
-html .md-footer-meta.md-typeset .footer-version-link:hover,
-html .md-footer-meta.md-typeset .footer-version-link:focus,
-html .md-footer-meta.md-typeset .footer-links a:hover,
-html .md-footer-meta.md-typeset .footer-links a:focus,
-html .md-footer-meta.md-typeset .footer-mobile-line a:hover,
-html .md-footer-meta.md-typeset .footer-mobile-line a:focus,
-html .md-footer-meta.md-typeset .footer-meta a:hover,
-html .md-footer-meta.md-typeset .footer-meta a:focus {
+html .md-footer-meta.md-typeset .custom-footer a:hover,
+html .md-footer-meta.md-typeset .custom-footer a:focus {
   text-decoration: underline;
 }
 

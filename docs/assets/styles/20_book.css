@@ -13,6 +13,12 @@ body {
   color:            var(--book-fg);
 }
 
+:root {
+  --book-layout-nav-width: 12rem;
+  --book-layout-shell-gap: 1.6rem;
+  --book-layout-shell-max: 44rem;
+}
+
 .md-main {
   background-color: var(--book-bg);
 }
@@ -51,6 +57,26 @@ body {
   }
 }
 
+@media (min-width: 768px) and (max-width: 76.234375em) {
+  .md-main__inner {
+    justify-content: center;
+  }
+
+  .md-content {
+    flex: 0 1 44rem;
+    max-width: 44rem;
+    width: 100%;
+    margin-inline: auto;
+  }
+
+  :where(
+    article.md-content__inner.md-typeset,
+    .md-content__inner > article.md-typeset
+  ) {
+    max-width: 100%;
+  }
+}
+
 /* ─────────────────────────────────────────────────────────
    Large Desktop – „buchiger“ Abstand
    ───────────────────────────────────────────────────────── */
@@ -78,6 +104,62 @@ body {
     .md-content__inner > article.md-typeset
   ) {
     max-width: 100%;
+  }
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-header__inner.md-grid,
+  .md-main__inner.md-grid,
+  .md-footer__inner.md-grid,
+  .md-footer-meta__inner.md-grid {
+    max-width: var(--book-layout-shell-max);
+  }
+
+  .md-header__inner.md-grid,
+  .md-footer__inner.md-grid,
+  .md-footer-meta__inner.md-grid {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .md-main__inner.md-grid {
+    display: grid;
+    grid-template-columns: var(--book-layout-nav-width) minmax(0, 1fr);
+    column-gap: var(--book-layout-shell-gap);
+    align-items: start;
+    height: auto;
+  }
+
+  .md-sidebar.md-sidebar--primary {
+    align-self: start;
+    flex-shrink: 0;
+    padding: 1.1rem 0;
+    position: sticky;
+    top: 2.4rem;
+    width: var(--book-layout-nav-width);
+  }
+
+  .md-main__inner.md-grid > .md-sidebar--secondary {
+    display: none !important;
+  }
+
+  .md-content {
+    min-width: 0;
+  }
+
+  .md-content__inner {
+    margin: 0 0 1.2rem;
+    padding-top: 0.7rem;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  :where(
+    article.md-content__inner.md-typeset,
+    .md-content__inner > article.md-typeset
+  ) {
+    max-width: 100%;
+    margin-inline: 0;
   }
 }
 
@@ -139,7 +221,7 @@ body {
 
 /* Subnav links: slightly smaller */
 .md-nav--primary .md-nav__item .md-nav__list .md-nav__link {
-  font-size: 0.95em;
+  font-size: 1em;
 }
 
 /* Active subnav link */

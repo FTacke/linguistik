@@ -224,17 +224,6 @@
   text-decoration: none;
 }
 
-@media (min-width: 1216px) {
-  .md-sidebar {
-    align-self: flex-start;
-    flex-shrink: 0;
-    padding: 1.1rem 0;
-    position: sticky;
-    top: 2.4rem;
-    width: 13rem;
-  }
-}
-
 @media (max-width: 560px) {
   .md-typeset .admonition.cover {
     --cover-h1-size: 2.5em;
