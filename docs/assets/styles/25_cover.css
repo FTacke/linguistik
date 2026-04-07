@@ -237,7 +237,7 @@
 
 @media (max-width: 560px) {
   .md-typeset .admonition.cover {
-    --cover-h1-size: 2.6em;
+    --cover-h1-size: 2.5em;
     --cover-meta-gap: var(--cover-meta-gap-sm);
     width: min(100%, var(--cover-w-sm));
     max-width: var(--cover-w-sm);

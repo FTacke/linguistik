@@ -192,6 +192,7 @@ body {
 .md-typeset details {
   font-size:   0.78rem;
   line-height: 1.65;
+  margin:      1.15em 0;
   background:  var(--book-surface-1);
   border:      1px solid var(--book-border);
   box-shadow:  none;
@@ -201,6 +202,11 @@ body {
 .md-typeset .admonition-title,
 .md-typeset summary {
   font-family: var(--book-font-ui);
+  margin-bottom: 0.65em;
+}
+
+.md-typeset details:not([open]) > summary {
+  margin-bottom: 0.65em;
 }
 
 /* Standard admonitions – subtle tint (custom types fully handled in 40_custom.css) */

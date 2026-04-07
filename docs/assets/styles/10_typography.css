@@ -65,8 +65,15 @@
 .md-typeset {
   font-family: var(--book-font-body);
   font-size:   20px;
-  line-height: 1.75;
+  line-height: 1.65;
   color:       var(--book-fg);
+}
+
+@media (max-width: 767px) {
+  .md-typeset {
+    font-size:   18px;
+    line-height: 1.62;
+  }
 }
 
 /* --------------------------------------------------------------------------
@@ -84,7 +91,28 @@
    -------------------------------------------------------------------------- */
 .md-typeset h2 {
   border-bottom: 1px solid var(--book-border);
+  margin: 1.3em 0 0.5em;
   padding-bottom: 0.3em;
+}
+
+.md-typeset h3 {
+  margin: 1.2em 0 0.5em;
+}
+
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  line-height: 1.2;
+}
+
+.md-typeset ol li,
+.md-typeset ul li {
+  margin-bottom: 0.32em;
+}
+
+.md-typeset ol li p,
+.md-typeset ul li p {
+  margin: 0.35em 0;
 }
 
 
