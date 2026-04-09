@@ -235,6 +235,6 @@ Nicht jedes Graphem hat im Spanischen einen Lautwert. Das `<h>` ist immer stumm 
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Merte, Marlon / Tacke, Felix (2026): „Aussprache“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.  
+    Merte, Marlon / Tacke, Felix (2026): „Aussprache“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg, S. 21–30.  
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [https://doi.org/10.17192/openumr/598](https://doi.org/10.17192/openumr/598)

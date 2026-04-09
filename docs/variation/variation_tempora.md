@@ -151,7 +151,7 @@ Der Vergleich der Vergangenheitstempora und der Futurformen zeigt exemplarisch, 
 </div>
 
 !!! cite "Dieses Kapitel zitieren"
-    Delgado Moreno, Ramón / Tacke, Felix (2026): „Variation im Gebrauch der Tempora“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.  
+    Delgado Moreno, Ramón / Tacke, Felix (2026): „Variation im Gebrauch der Tempora“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg, S. 91–99.  
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [https://doi.org/10.17192/openumr/598](https://doi.org/10.17192/openumr/598)
 

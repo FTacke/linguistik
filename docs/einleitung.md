@@ -59,7 +59,7 @@ Dieses Buch ist in enger Zusammenarbeit mit Studierenden entstanden. Die Kapitel
 Dass (Lehramts-)Studierende an einem Buch mitschreiben, das sich an (angehende) Lehrkräfte richtet, ist kein Zufall: Sie bringen genau jene Perspektive ein, aus der heraus dieses Buch konzipiert ist und die für einen reflektierten Übergang vom Studium in die Unterrichtspraxis entscheidend ist. Die produktive Auseinandersetzung mit linguistischen Inhalten – das Erklären, Strukturieren, Vermitteln – führt zu einer fachlichen Durchdringung, die über eine rein rezipierende Beschäftigung deutlich hinausgeht. Das Lehrbuch ist damit zugleich ein hochschuldidaktisches Projekt, in dem Studierende nicht nur Inhalte rezipieren, sondern Wissen produzieren – und damit einen Beitrag leisten, der über den Seminarraum hinaus wirksam wird.
 
 !!! cite "Dieses Kapitel zitieren"
-    Tacke, Felix (2026): „Einleitung“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg.  
+    Tacke, Felix (2026): „Einleitung“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg, S. 1–6.  
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
     DOI: [https://doi.org/10.17192/openumr/598](https://doi.org/10.17192/openumr/598)
 
