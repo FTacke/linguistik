@@ -31,7 +31,7 @@ title: Linguistik im Spanischunterricht
     </div>
     
     <div class="cover-footer">
-      <div>DOI: <a href="https://doi.org/10.17192/openumr/598">10.17192/openumr/598</a></div>
+      <div>DOI: <a href="https://doi.org/10.17192/openumr/598.2">10.17192/openumr/598.2</a></div>
       <div class="cover-footer-top">
         <div>Philipps-Universität Marburg</div><span class="separator">·</span><div class="cover-footer-year">2026</div>
       </div>

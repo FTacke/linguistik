@@ -48,7 +48,7 @@ GitHub Actions baut die Site mit Python 3.12, installiert die Abhaengigkeiten au
 
 Das Lehrbuch ist als Open-Access-Publikation ueber das institutionelle Repositorium der Philipps-Universitaet Marburg archiviert. Der Quellcode ist zusaetzlich auf Zenodo abgelegt.
 
-Tacke, Felix (Hg.) (2026): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch fuer (angehende) Lehrkraefte*. Marburg: Philipps-Universitaet Marburg. Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/). DOI: [https://doi.org/10.17192/openumr/598](https://doi.org/10.17192/openumr/598)
+Tacke, Felix (Hg.) (2026): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch fuer (angehende) Lehrkraefte*. Marburg: Philipps-Universitaet Marburg. Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/). DOI: [https://doi.org/10.17192/openumr/598.2](https://doi.org/10.17192/openumr/598.2)
 
 ## Lizenz
 

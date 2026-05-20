@@ -492,4 +492,4 @@ Niemand muss alle Varianten beherrschen oder vermitteln. Es genügt, wenn Lernen
 !!! cite "Dieses Kapitel zitieren"
     Freyre Castro, Renata / Tacke, Felix (2026): „Variation in der Aussprache“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg, S. 69–80.  
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [https://doi.org/10.17192/openumr/598](https://doi.org/10.17192/openumr/598)
+    DOI: [https://doi.org/10.17192/openumr/598.2](https://doi.org/10.17192/openumr/598.2)

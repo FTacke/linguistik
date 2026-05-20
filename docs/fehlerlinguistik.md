@@ -239,4 +239,4 @@ Anders verhält es sich bei *Abweichungen, die keine Fehler im engeren Sinne dar
 !!! cite "Dieses Kapitel zitieren"
     Gabriel, Gloria / Merte, Marlon / Tacke, Felix (2026): „Fehlerlinguistik“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg, S. 7–20.  
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [https://doi.org/10.17192/openumr/598](https://doi.org/10.17192/openumr/598)
+    DOI: [https://doi.org/10.17192/openumr/598.2](https://doi.org/10.17192/openumr/598.2)

@@ -268,4 +268,4 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten 
 !!! cite "Dieses Kapitel zitieren"
     Tacke, Felix / Merte, Marlon (2026): „Orthographie“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg, S. 31–43.  
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [https://doi.org/10.17192/openumr/598](https://doi.org/10.17192/openumr/598)
+    DOI: [https://doi.org/10.17192/openumr/598.2](https://doi.org/10.17192/openumr/598.2)

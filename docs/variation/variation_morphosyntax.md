@@ -387,7 +387,7 @@ Die in diesem Kapitel behandelten Phänomene zeigen ein gemeinsames Muster: Morp
 !!! cite "Dieses Kapitel zitieren"
     Becker, Paul / Bender, Lisa / Ritz Pequeño, Enrique / Minchev, Stanislav / Tacke, Felix (2026): „Variation in Morphologie und Syntax“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg, S. 101–114.  
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [https://doi.org/10.17192/openumr/598](https://doi.org/10.17192/openumr/598)
+    DOI: [https://doi.org/10.17192/openumr/598.2](https://doi.org/10.17192/openumr/598.2)
 
 [^pb]: (Mit-)Autor: Paul Becker.
 [^lb]: (Mit-)Autorin: Lisa Bender.

@@ -9,7 +9,7 @@ Dieses Repository enthaelt die Quelltexte des digitalen Lehrbuchs **Linguistik i
 - Herausgeber: Felix Tacke
 - Institutioneller Kontext: Philipps-Universitaet Marburg / Hispanistica @ Marburg
 - Publikationstyp: digitales Lehrbuch
-- DOI: https://doi.org/10.17192/openumr/598
+- DOI: https://doi.org/10.17192/openumr/598.2
 
 Technisch basiert das Projekt auf **MkDocs** mit dem Theme **Zensical**. Das Theme wird fuer ein digitales Lehrbuch mit Fokus auf Lesbarkeit, Metadaten, Audio, Karten, PDF-Ausgaben und didaktische Komponenten angepasst.
 

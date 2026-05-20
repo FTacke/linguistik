@@ -217,7 +217,7 @@ Die Betrachtung der Anredeformen zeigt, dass das Spanische über keine einheitli
 !!! cite "Dieses Kapitel zitieren"
     Mehrlein Merenciano, Daniel / Pimenta Lange, Lucas / Stephan Quezada, Karina / Tacke, Felix (2026): „Variation in der Anrede“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg, S. 81–90.  
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [https://doi.org/10.17192/openumr/598](https://doi.org/10.17192/openumr/598)
+    DOI: [https://doi.org/10.17192/openumr/598.2](https://doi.org/10.17192/openumr/598.2)
     
 [^ksq]: (Mit-)Autorin: Karina Stephan Quezada.
 [^lpl]: (Mit-)Autor: Lucas Pimenta Lange.

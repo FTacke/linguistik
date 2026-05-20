@@ -61,7 +61,7 @@ Dass (Lehramts-)Studierende an einem Buch mitschreiben, das sich an (angehende) 
 !!! cite "Dieses Kapitel zitieren"
     Tacke, Felix (2026): „Einleitung“. In: Tacke, Felix (Hg.): *Linguistik im Spanischunterricht. Ein digitales Lehrbuch für (angehende) Lehrkräfte*. Marburg: Philipps-Universität Marburg, S. 1–6.  
     Online: [linguistik.hispanistica.com](https://linguistik.hispanistica.com/)  
-    DOI: [https://doi.org/10.17192/openumr/598](https://doi.org/10.17192/openumr/598)
+    DOI: [https://doi.org/10.17192/openumr/598.2](https://doi.org/10.17192/openumr/598.2)
 
 
 [^1]: Kreyer, Rolf (2023): *The Linguistic Toolkit for Teachers of English: Discovering the Value of Linguistics for Foreign Language Teaching*. Tübingen: Narr Francke Attempto, Preface.  
