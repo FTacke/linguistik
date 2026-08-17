@@ -57,7 +57,7 @@ Sobald man Lernende für diese Details sensibilisiert hat, lässt sich bei den V
 
 ### Anders artikulierte Laute: die R-Laute  
 
-Sowohl das Deutsche als auch das Spanische verfügen über mehrere R-Laute. Im Deutschen ist es dabei nicht relevant, wie man das Phonem `/r/` ausspricht, ob als uvularen Frikativ `[ʁ]` (also einen Reibelaut, der am Zäpfchen entsteht), wie er im Standarddeutschen normal ist, als alveolaren Vibranten `[r]`, wie im südlichen Sprachraum, Österreich und der Schweiz, oder auch als sogenanntes Tiefenschwa im Auslaut wie in *Lehrer* `[ˈleːʁɐ]`. Phonologisch betrachtet handelt es sich um bloße Varianten desselben Phonems, sogenannte Allphone.  
+Sowohl das Deutsche als auch das Spanische verfügen über mehrere R-Laute. Im Deutschen ist es dabei nicht relevant, wie man das Phonem `/r/` ausspricht, ob als uvularen Frikativ `[ʁ]` (also einen Reibelaut, der am Zäpfchen entsteht), wie er im Standarddeutschen normal ist, als alveolaren Vibranten `[r]`, wie im südlichen Sprachraum, Österreich und der Schweiz, oder auch als sogenanntes Tiefenschwa im Auslaut wie in *Lehrer* `[ˈleːʁɐ]`. Phonologisch betrachtet handelt es sich um bloße Varianten desselben Phonems, sogenannte Allophone.  
 
 ??? hoermal "Das `/r/`: spanische vs. deutsche Aussprache"
     Vergleiche `/r-/` am Wortanfang und `/-r/` am Ende in <i><b>reír</b></i>:
